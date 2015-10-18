@@ -83,7 +83,7 @@ public class LearningWord {
 	public static Connection getConnectDatabase() {
 		String url = "jdbc:mysql://localhost:3306/machine_learning";
 		String username = "root";
-		String password = "444455555";
+		String password = "";
 		try {
 			if (connection == null || connection.isClosed()) {
 				connection = (Connection) DriverManager.getConnection(url,
