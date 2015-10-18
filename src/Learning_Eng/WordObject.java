@@ -1,5 +1,7 @@
 package Learning_Eng;
-
+/*
+ * Định nghĩa 1 từ trong tập từ học được
+ */
 public class WordObject {
 	public String word = "";
 	public int spam_mail = 0;
@@ -8,17 +10,7 @@ public class WordObject {
 	public int ham_frequent = 0;
 	public float p_spam = 0;
 	public float p_ham = 0;
-//	public int num_of_mail = 0;
-//	public int num_of_all = 0;
-//	public float p = 0;
-	
-	
-//	public WordObject(String mWord, int mNumOfMail, float mP,int mNumOfAll) {
-//		this.word = mWord;
-//		this.num_of_all = mNumOfAll;
-//		this.num_of_mail = mNumOfMail;
-//		this.p = mP;
-//	}
+
 	public WordObject(String word, int spam_mail, int ham_mail, int spam_frequent, int ham_frequent){
 		this.word = word;
 		this.spam_mail = spam_mail;
