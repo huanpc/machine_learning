@@ -26,5 +26,5 @@ public class WordObject {
 		this.ham_frequent = ham_frequent;
 		this.p_spam = p_spam;
 		this.p_ham = p_ham;
-	}
+	}	
 }

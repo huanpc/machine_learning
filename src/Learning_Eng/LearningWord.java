@@ -9,8 +9,11 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Hashtable;
 
 import org.jsoup.Jsoup;
+
+import English_Standardlize.Stemmer;
 
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
@@ -21,20 +24,18 @@ import edu.stanford.nlp.process.CoreLabelTokenFactory;
 import edu.stanford.nlp.process.PTBTokenizer;
 
 public class LearningWord {
-	public static boolean NEED_REMOVE_HEADER = false;
-	// Bảng chứa từ học được
-	public static final String WORD_TABLE = "learning_words";
-	// Folder chua mail can xu ly (spam+ham)
-	static String fileSpamPath = "./Code Project/Mail datasets/English/eron/enron1/spam";
-	static String fileHamPath = "./Code Project/Mail datasets/English/eron/enron1/ham";
+	public static String password = "";
+	// Can xoa bo header hay k ?
+	public static boolean NEED_REMOVE_HEADER = false;	
 	static Connection connection = null;
 	// so mail trong folder
-	static int numOfSpamMail = 350;
-	static int numOfHamMail = 350;
+	static int numOfSpamMail = 700;
+	static int numOfHamMail = 700;
 
 	public static void main(String[] args) {
 		// hoc tu
-		learningEngMail();
+		learningEngMail();		
+		
 	}
 
 	/**
@@ -83,7 +84,7 @@ public class LearningWord {
 	public static Connection getConnectDatabase() {
 		String url = "jdbc:mysql://localhost:3306/machine_learning";
 		String username = "root";
-		String password = "";
+		String password = "444455555";
 		try {
 			if (connection == null || connection.isClosed()) {
 				connection = (Connection) DriverManager.getConnection(url,
@@ -150,17 +151,16 @@ public class LearningWord {
 	}
 
 	/**
-	 * Them mot tu vao database
-	 * 
-	 * @param which
-	 *            : table name
-	 * @param word
-	 *            : tu can them
-	 * @param frequent
-	 *            : tan suat tu
-	 * @param p
-	 *            : xac suat xuat hien cua tu
-	 * @return
+	 * Them mot tu vao csdl
+	 * @param which : table name
+	 * @param word : tu
+	 * @param numOfSpam : so lan xuat hien trong spam
+	 * @param numOfHam : so lan xuat hien trong ham
+	 * @param spamFreq : tan suat xuat hien trong tap spam
+	 * @param hamFreq : tan suat xuat hien trong tap ham
+	 * @param pSpam : xac suat tinh theo spam
+	 * @param pHam : xac suat tinh theo ham
+	 * @return boolean
 	 */
 	public static boolean insertDatabase(String which, String word,
 			int numOfSpam, int numOfHam, int spamFreq, int hamFreq,
@@ -203,12 +203,15 @@ public class LearningWord {
 	}
 
 	/**
-	 * Cap nhat database
-	 * 
+	 * Cap nhat mot tu trong database
 	 * @param table
 	 * @param word
-	 * @param frequent
-	 * @param p
+	 * @param numOfSpam
+	 * @param numOfHam
+	 * @param spamFreq
+	 * @param hamFreq
+	 * @param pSpam
+	 * @param pHam
 	 * @return
 	 */
 	public static boolean updateDatabase(String table, String word,
@@ -243,30 +246,27 @@ public class LearningWord {
 	 * Học từ
 	 */
 	public static void learningEngMail() {
+		
 		System.out.println("Begin learning mail!");
 		Long time = System.currentTimeMillis();
-		File spamDir = new File(fileSpamPath);
-		File[] listSpamFile = spamDir.listFiles();
-		// numOfSpamMail = listSpamFile.length;
-		int index = 0;
-		System.out.println("Learning spam mail!");
-		for (File file : listSpamFile) {
-			index++;
-			if (index > numOfSpamMail)
-				break;
-			learnSpamMail(getTokens(processMail(file.getAbsolutePath()), true));
-		}
-		//
-		File hamDir = new File(fileHamPath);
+		File spamDir = new File(Constant.DATA_LEARN_HTML_3[0]);
+		File[] listSpamFile = spamDir.listFiles();		
+		numOfSpamMail = listSpamFile.length;
+		File hamDir = new File(Constant.DATA_LEARN_HTML_3[1]);
 		File[] listHamFile = hamDir.listFiles();
-		// numOfHamMail = listHamFile.length;
-		index = 0;
+		numOfHamMail = listHamFile.length;
+		System.out.println("Learning spam mail!");
+		float index = 0;
+		for (File file : listSpamFile) {
+			index++;			
+			learnSpamMail(getTokens(processMail(file.getAbsolutePath()), true));
+			System.out.println("Learning progress .... "+index*100/(numOfHamMail+numOfSpamMail));
+		}				
 		System.out.println("Learning ham mail!");
 		for (File file : listHamFile) {
 			index++;
-			if (index > numOfHamMail)
-				break;
 			learnHamMail(getTokens(processMail(file.getAbsolutePath()), false));
+			System.out.println("Learning progress .... "+index*100/(numOfHamMail+numOfSpamMail));
 		}
 
 		System.out.println("DONE!!!");
@@ -286,14 +286,14 @@ public class LearningWord {
 	public static void learnSpamMail(ArrayList<WordObject> listWord) {
 		for (WordObject word : listWord) {
 			WordObject wordTemp = null;
-			if ((wordTemp = getWordFromDatabase(WORD_TABLE, word.word)) != null) {
+			if ((wordTemp = getWordFromDatabase(Constant.WORD_TABLE_3, word.word)) != null) {
 				wordTemp.spam_mail += 1;
 				wordTemp.spam_frequent += word.spam_frequent;
-				updateDatabase(WORD_TABLE, wordTemp.word, wordTemp.spam_mail,
+				updateDatabase(Constant.WORD_TABLE_3, wordTemp.word, wordTemp.spam_mail,
 						wordTemp.ham_mail, wordTemp.spam_frequent,
 						wordTemp.ham_frequent, wordTemp.p_spam, wordTemp.p_ham);
 			} else {
-				insertDatabase(WORD_TABLE, word.word, 1, 0, word.spam_frequent,
+				insertDatabase(Constant.WORD_TABLE_3, word.word, 1, 0, word.spam_frequent,
 						word.ham_frequent, word.p_spam, word.p_ham);
 			}
 		}
@@ -345,14 +345,14 @@ public class LearningWord {
 	public static void learnHamMail(ArrayList<WordObject> listWord) {
 		for (WordObject word : listWord) {
 			WordObject wordTemp = null;
-			if ((wordTemp = getWordFromDatabase(WORD_TABLE, word.word)) != null) {
+			if ((wordTemp = getWordFromDatabase(Constant.WORD_TABLE_3, word.word)) != null) {
 				wordTemp.ham_mail++;
 				wordTemp.ham_frequent += word.ham_frequent;
-				updateDatabase(WORD_TABLE, wordTemp.word, wordTemp.spam_mail,
+				updateDatabase(Constant.WORD_TABLE_3, wordTemp.word, wordTemp.spam_mail,
 						wordTemp.ham_mail, wordTemp.spam_frequent,
 						wordTemp.ham_frequent, wordTemp.p_spam, wordTemp.p_ham);
 			} else {
-				insertDatabase(WORD_TABLE, word.word, 0, 1, word.spam_frequent,
+				insertDatabase(Constant.WORD_TABLE_3, word.word, 0, 1, word.spam_frequent,
 						word.ham_frequent, word.p_spam, word.p_ham);
 			}
 		}
@@ -373,12 +373,30 @@ public class LearningWord {
 			CoreLabel label = ptbt.next();
 			String word = label.toString().toLowerCase();
 			if (word.startsWith("http"))
-				word = "http";
+				word = "http";			
 			if (word.length() > 45)
 				continue;
+			word = standardlize(word);
 			listWord.add(word);
 		}
 		return listWord;
 	}
+	/**
+	 * Chuan hoa tu
+	 * Bo ing, ed, es, s, ational, ment, ...
+	 * @param word
+	 * @return
+	 */
+	public static String standardlize(String word){
+		String result = "";
+		Hashtable<String, Integer> hash = new Hashtable<String, Integer>();
+		hash.put(word, 0);
+		Stemmer.StemHashTable(hash);
+		for(String temp:hash.keySet())
+        {
+            result = temp;
+        }
+		return result;
+	} 
 
 }
