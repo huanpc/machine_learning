@@ -1,41 +1,37 @@
 package main;
 
+import huanpc.learning.eng.Constant;
+import huanpc.learning.eng.LearningWord;
+
 import java.io.File;
 
-import Learning_Eng.Constant;
-import Learning_Eng.LearningWord;
 import nbAlgorithm.NBEngMail;
 
 public class Main {
+	// Nếu dùng bộ dữ liệu test mà mail có chứa header thì cần bật cờ này
+	public static final boolean NEED_REMOVE_HEADER = true;
+	// Chỉ định bộ dữ liệu test cần dùng
+	public static String data_test[]=Constant.DATA_TEST_HTML_3;
+	// Chỉ định bộ dữ liệu học cần dùng
+	public static String data_learn[]=Constant.DATA_LEARN_HTML_3;
+	// Chỉ định bảng dữ liệu trong database sẽ dùng
+	public static final String TABLE = Constant.WORD_TABLE_3;
+//	public static final String f = String.valueOf(0.01*840);
+	public static final String f = String.valueOf(0);
+	// Điều kiện lọc tập học
+	public static final String condition = " spam_mail>"+f+" and ham_mail>"+f+" and spam_mail <> ham_mail";
+//	public static final String condition = " spam_frequent>"+NBEngMail.getAvgSpamFrequent()+" or ham_frequent>"+NBEngMail.getAvgHamFrequent();
+//	public static final String condition = " 1";
 	
-	static String data_test[]=Constant.DATA_TEST_NO_HTML_1;
-	
-	public static void main(String[] args){
-		LearningWord learningWord = new LearningWord();
-		NBEngMail nbEng = new NBEngMail();
-		// test spam		
-		File dir = new File(data_test[0]);
-		File[] subFile = dir.listFiles();
-		int size = subFile.length;
-		double numSpam = 0;		
-		for(File f : subFile){	
-			if(nbEng.nbEng2(learningWord.getTokens(learningWord.
-					processMail(f.getAbsolutePath()), true)) == true)
-				numSpam++ ;
-		}
-		double a = numSpam/size;		
-		// test ham
-		dir = new File(data_test[1]);		
-		subFile = dir.listFiles();
-		double numHam = 0;		
-		size = subFile.length;
-		for(File f : subFile){	
-			if(nbEng.nbEng2(learningWord.getTokens(learningWord.
-					processMail(f.getAbsolutePath()), true)) == false)
-				numHam++ ;
-		}
-		double b = numHam/size;		
-		System.out.println("\n Spam:"+String.valueOf(a)+" Ham:"+String.valueOf(b)+" Num of unclass: ");
+	// Chạy chương trình
+	public static void main(String[] args){		
+		// Chạy quá trình học bằng hàm này
+		LearningWord learn = new LearningWord();
+		learn.learningEngMail();
+		
+		// Chạy quá trình test bằng hàm này
+//		NBEngMail nb = new NBEngMail();
+//		nb.mailClassify(data_test[0], data_test[1]);		
 	}
 }
 

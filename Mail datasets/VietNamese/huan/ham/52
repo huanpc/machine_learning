@@ -1,0 +1,4 @@
+Hoàn thiện kịch bản jmeter. Tránh việc tay to.
+Tạo kịch bản "Register User".
+Tạo kịch bản để "Create Order". Tham số hóa. Gửi nhiều order, kiểm tra kết quả trong database.
+Tạo kịch bản "Create Product". Tạo tools để hỗ trợ việc nhập dữ liệu tự động.

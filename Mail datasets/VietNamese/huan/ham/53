@@ -1,0 +1,4 @@
+Master Node và Slave Node có thể nằm ở các máy khác nhau hoặc cùng chung một máy. 
+Trong môi trương phân tán, Master Node và Slave Node thường là các máy khác nhau. Thông thường với điều kiện không có thì chúng ta thường cài Master và Slave trên cùng 1 máy.
+
+Marathon chỉ là một ứng ụng của Mesos, nó gửi yêu cầu cấp phát tài nguyên đến Mesos và được Mesos cân nhắc rồi cấp phát tài nguyện cho nó.
