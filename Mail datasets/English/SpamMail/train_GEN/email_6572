@@ -1,0 +1,23 @@
+<message>
+<date> fri, 06 dec 2002 17:00:35 +0100 </date>
+<subject>
+<text_normal> 
+
+^ message from &name 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name of cums &num and chorus , 
+^ may i add my own warm thanks to you all for a very fine concert on wednesday ? 
+^ i enjoyed being in the audience for the first piece but also conducting the requiem which , as i hope you will have realised , is one of my very favourite pieces . 
+^ i look forward to seeing chorus members at the &name &name &name later this month and seeing you all again next term . 
+^ in the meanwhile , i hope you have a great time over christmas . 
+^ best wishes , &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,24 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ furniture in &name , &name , gs37 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 30 aug 2001 14:13:52 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ furniture in &name , &name , &name ( &name group students and &name ) 
+^ gs24 - there are currently &num desks in &name and so it 's not usable . 
+^ it needs &num max ( we 've got &num people allocated to it right now ) . 
+^ it is supposed to be a &num person office , but i do n't see &num desks fitting in there properly . 
+^ gs22 needs one more desk ( there are &num there now but one is a bit broken ) &name also needs a notice board . 
+^ all the rooms need shelves of course and also &num filing cabinet per room . 
+^ we would like extra coat hooks on the back of the doors 
+</text_normal>
+</message_body>
+</message>

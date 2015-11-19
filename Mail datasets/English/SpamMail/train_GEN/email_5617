@@ -1,0 +1,28 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ fwd : &name website updated ( fwd ) 
+</text_normal>
+</subject>
+<date> fri, 22 nov 2002 15:49:52 -0000 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ the &name &name &name website updated . 
+^ it includes a flyer ( please print / email or otherwise distribute it ) and an entry form . 
+^ see &website . 
+^ &name &name 
+^ &name &name &name , &name . 
+^ &num ( &num ) &num &num 
+^ please support your local tournaments , everyone ! 
+^ this email is sent to members of the area-news mailing list . 
+^ if membership is unwanted you can remove yourself from the list by sending an email to &email with the text " unsubscribe " ( without the quotes ) as the subject . 
+^ to be removed from the &name university fencing club mailing-list , please email &email . 
+^ visit the website at &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,20 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> mon, 24 feb 2003 18:46:45 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ when are we going to meet this week ? 
+^ i 'm free tomorrow lunchtime , till &num : &num , and wednesday till &num : &num , and friday , but not on thursday . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

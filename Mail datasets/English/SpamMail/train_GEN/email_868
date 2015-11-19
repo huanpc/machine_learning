@@ -1,0 +1,56 @@
+<message>
+<from> co.uk </from>
+<to> co.uk net com com com com ac.uk ac.uk com com com com </to>
+<subject>
+<text_normal> 
+
+^ re : grand get-together 
+</text_normal>
+</subject>
+<date> mon, 3 sep 2001 10:36:46 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , shall we make it that weekend then ? 
+^ sorry to miss you &name . 
+^ &name , i 'm sure we could pick you up from the station . 
+^ what time do you guys think you 'll get here ? 
+^ ( i might be going out for my parent 's 25th anniversary that night , but you are more than welcome to arrive in the afternnoon or evening , whatever is easiest for you . 
+^ perhaps &name could arrive earlier and then if i do go out for the meal , then he could be on the chaufeurr duty ? 
+^ love you all lots ! 
+^ &name 
+^ friends , romans and countrypeople , 
+^ as some of you might know , &name and i are cunningly planning a 'marshal a & &char + extras " get-together . 
+^ we have ruminated and cogitated and are proposing as a possiblility the weekend of the &num / &num / 16th of september at &name 's house ( &name ) . 
+^ we need to know who can / ca n't make it on those days , and then we can take it from there . 
+^ we must know soon ! 
+^ please get back to me &name . 
+^ " till we meet again and the foe is vanquished , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , shall we make it that weekend then ? 
+^ sorry to miss you &name . 
+^ &name , i 'm sure we could pick you up from the station . 
+^ what time do you guys think you 'll get here ? 
+^ ( i might be going out for my parent 's 25th anniversary that night , but you are more than welcome to arrive in the afternnoon or evening , whatever is easiest for you . 
+^ perhaps &name could arrive earlier and then if i do go out for the meal , then he could be on the chaufeurr duty ? 
+^ love you all lots ! 
+^ &name 
+^ friends , romans and countrypeople , 
+^ as some of you might know , &name and i are cunningly planning a 'marshal a &amp; &char + extras " get-together . 
+^ we have ruminated and cogitated and are proposing as a possiblility the weekend of the &num / &num / 16th of september at &name 's house ( &name ) . 
+^ we need to know who can / ca n't make it on those days , and then we can take it from there . 
+^ we must know soon ! 
+^ please get back to me &name . 
+^ " till we meet again and the foe is vanquished , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

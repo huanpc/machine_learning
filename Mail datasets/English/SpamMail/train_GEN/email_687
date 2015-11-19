@@ -1,0 +1,19 @@
+<message>
+<date> tue, 12 mar 2002 14:04:13 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ ( no subject ) 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="2" type="text/plain">
+<text_embedded>
+
+</text_embedded>
+</part>
+</message_body>
+</message>

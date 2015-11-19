@@ -1,0 +1,33 @@
+<message>
+<date> thu, 17 oct 2002 07:17:08 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ welcome to &name ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi there , you have asked to be put on the student community action ( &name ) mailing list . 
+^ welcome ! 
+^ &name community action is an organisation that helps people get involved with voluntary projects in the &name area . 
+^ it is a non-profit making , non-political registered charity ( no. &num ) . 
+^ &name are involved with a wide number of projects . 
+^ they include working with children , the elderly , disabled , homeless , mentally ill ... ... and in many different ways ; baby-sitting , " big-sibs " , music , sport , gardening , visiting , &name , teaching ... 
+^ you can see a full list of these projects on our web page at &website . 
+^ some of these projects are run by &name , others are projects run by other organisations that are vetted by &name . 
+^ if you would like to get involved in one of these projects , please pop into the office at &num &name &name ( there is a map on the website at &website from &num to &num monday-thursday to find the project that 's right for you . 
+^ you can also email the office at &email . 
+^ as well as on-going projects , you can take part in one of the " &num off " requests that you will be informed of via the weekly bulletin on this email list . 
+^ you will also be told of &name events which happen from time to time , which you can also help to organise - contact &name or &name if you are interested in this . 
+^ we hope that you will get involved in &name - you can do something you really enjoy whilst helping other people . 
+^ &name and the &name &name 
+^ ... brought to you by the &name emailing list ... 
+^ if you want to unsubscribe contact &email your wish is our command . 
+</text_normal>
+</message_body>
+</message>

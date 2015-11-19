@@ -1,0 +1,25 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name people and rooms 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 30 aug 2001 14:34:34 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ now you know which rooms people are having can you ask them to decide where they are sitting and which machines they are going to use . 
+^ if they are competent please ask them to connect their machines up themselves apart from the network connection . 
+^ if they are not we will do it . 
+^ if they then email sysadmin one of us will come and give them &num ( a network connection , that is ! ) 
+^ i emailed a suggestion to &name that &name use chuchki , &name 's unwanted machine . 
+^ i have put it in &name in readiness . 
+^ if she has another machine earmarked then i 'll move it back to stores . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

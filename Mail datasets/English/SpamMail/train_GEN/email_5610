@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name &name 
+</text_normal>
+</subject>
+<date> wed, 20 nov 2002 13:25:32 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi guys , 
+^ the sign-up sheet for the &name &name dinner ( november 26th ) is going up today in the p' hole room . 
+^ important details : &num ) guests will be limited to spouses only owing to space restrictions ( sorry ! ) - however , if by &name there are places left on the sheet , then other guests can be signed up . 
+^ &num ) dress code is black tie ( formal ) - word on gowns to follow . 
+^ &num ) &name : mulled wine ( &name room ) starter : cream of tomato soup next : fish cracker / veggie cracker main : roast turkey garni , roast potatoes , broccoli , fried parsnips [ veggie : stuffed peppers with &name leaves -no nut cutlets ! ] 
+^ dessert : &name pudding , brandy sauce coffee and mince pies after-dinner drinks , mince pies and chocolates ( &name ) 
+^ cost will be &pound; &num . 
+^ sign-up deadline is the usual 9am monday . 
+^ &name to see you all there ! 
+^ love & &name , &name 
+^ the new &name &num : advanced junk mail protection and &num months free * &website 
+^ &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

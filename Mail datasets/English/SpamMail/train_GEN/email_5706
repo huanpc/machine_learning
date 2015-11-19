@@ -1,0 +1,34 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ mail delivery failed : returning message to sender ( fwd ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 11 dec 2002 13:03:33 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ 
+^ - ------ forwarded message 
+^ return-path : ( ) &name : &email &name : wed , &num &name &num &num : &num : &num &num &website # &num ) id 18m6sl-00038i-00 for &email ; wed , &num &name &num &num : &num : &num &num x-failed-recipients : &email from : mail delivery system ( &email ) to : &email subject : mail delivery failed : returning message to sender &name : ( &email ) &name : wed , &num &name &num &num : &num : &num &num 
+^ this message was created automatically by mail delivery software . 
+^ a message that you sent could not be delivered to &num or more of its recipients . 
+^ the following address ( es ) failed : 
+^ &email : &name error from remote mailer after &name &name ( &email ) : &name ] : &num all email should be sent to user and not to a specific machine ( e.g. ( &email ) ) 
+^ - ------ this is a copy of the message , including all the headers . 
+^ ------ 
+^ return-path : ( &email ) &website ( [ &website ident [ ivuqigvr1gstujot7n07kl36s / phe5cl ] ) &website # &num ) id 18m6sl-00038f-00 ; wed , &num &name &num &num : &num : &num &num &name : exmh version 2.5+cl &num / &num / &num with nmh-1.0.4 to : " &name &name " ( &email ) cc : &email subject : re : &name &name &name : message from " &name &name " ( &email ) &website.4.33.0212101641270.12875-70000 &email ) &name : &num &name : text / plain ; charsetus-ascii date : wed , &num &name &num &num : &num : &num &num from : &name &name ( &email ) &name : ( &email ) 
+^ dear &name , 
+^ i did not give you instructions on how to set up jetty , the &name server . 
+^ therefore , it is not necessary for the tick to change the &name pages , only the &name should be plausible . 
+^ if you , however , would like to know if your solution is right , please do send it to me and i will test it for you . 
+^ thanks . 
+^ &name . 
+^ - ------ end of forwarded message 
+</text_normal>
+</message_body>
+</message>

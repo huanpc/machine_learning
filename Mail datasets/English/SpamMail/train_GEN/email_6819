@@ -1,0 +1,79 @@
+<message>
+<date> tue, 21 jan 2003 17:05:55 +0000 </date>
+<to> ac.uk </to>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ re : psychology study 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii"; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi there , 
+^ sorry these are a bit late . 
+^ if you are coming from town , leave town along &name road . 
+^ continue along &name . 
+^ you will first pass the fen causeway on the right . 
+^ then you will pass &name street on your left , and then you will pass the botanical gardens on your left . 
+^ at the end of the botanical gardens is a set of traffic lights turn right at these onto &name road . 
+^ continue down &name road towards the bottom left of the road . 
+^ the &name is at number &num on the left . 
+^ i 'll see you tomorrow at &num . 
+^ best wishes , 
+^ &name 
+^ at &num : &num &num / &num / &num &num , you wrote : 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ yes , &num o' clock on thursday would work very well for me . 
+^ i 'd be grateful if you could confirm this . 
+^ do you need directions on how to get to the unit ? 
+</text_embedded>
+
+^ just to confirm that 's fine . 
+^ directions would be helpful . 
+^ thanks &name 
+^ on sunday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ hi &name - 
+^ yes , &num o' clock on thursday would work very well for me . 
+^ i 'd be grateful if you could confirm this . 
+^ do you need directions on how to get to the unit ? 
+^ i look forward to seeing you then . 
+^ best wishes , 
+^ &name 
+^ at &num : &num &num / &num / &num &num , you wrote : 
+<text_embedded> 
+
+^ actually , i 've just realised i ca n't do 3pm on wednesday , so please ignore my last e-mail ! 
+^ how about &name thursday ? 
+^ &name 
+^ on thursday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ hi &name - 
+^ thanks for your email . 
+^ &name , someone else already agreed to do monday at &num : &num . 
+^ is there any other time next week that you can do by any chance ? 
+^ almost any other time on monday is free , any time on tuesday , &num : &num on wednesday , &num : &num or &num : &num on thursday ? 
+^ sorry about this , 
+^ fionnuala 
+^ at &num : &num &num / &num / &num &num , you wrote : 
+</text_embedded>
+
+^ &name cornish room &name , &name &name &name college , &name &name &name &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+
+</text_embedded>
+
+^ &name cornish room &name , &name &name &name college , &name &name &name &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

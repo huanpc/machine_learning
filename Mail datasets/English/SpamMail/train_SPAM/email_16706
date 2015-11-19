@@ -1,0 +1,21 @@
+<message>
+<from> co.kr </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ euc-kr ? 
+^ &char ? 
+^ &name ? 
+^ ? 
+^ euc-kr ? 
+^ &char ? 
+^ &name ? 
+</text_normal>
+</subject>
+<date> sat, 5 apr 2003 00:36:54 +0900 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

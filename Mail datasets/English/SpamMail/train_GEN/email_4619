@@ -1,0 +1,31 @@
+<message>
+<date> thu, 1 may 2003 11:24:32 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ i get the following messages when i load emacs : 
+^ &website ... 
+^ &website ... done &website ... 
+^ &website ... done &website ... 
+^ &website ... done &website ... 
+^ &website ... done &website ... 
+^ &website ... done &website ... 
+^ &website ... done &website ... 
+^ &website ... done loading fi-site-init ( source ) ... done error in init file : file error : " &name open load file " , " tdl-mode " &name * scratch * ... 
+^ &name * scratch * ... ( regexps . . . . . . . . . ... ) error in init file : file error : " &name open load file " , " tdl-mode " 
+^ is there anything i can do the errors ? 
+^ thanks , 
+^ &name
+</text_normal>
+</message_body>
+</message>

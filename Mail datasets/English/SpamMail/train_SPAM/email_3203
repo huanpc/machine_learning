@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=xrrb7zwl66k </content-type>
+<date> wed, 26 mar 2003 15:30:50 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

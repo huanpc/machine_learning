@@ -1,0 +1,35 @@
+<message>
+<date> thu, 10 oct 2002 21:16:17 +0200 </date>
+<from>
+</from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ few question about &name future 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ 
+^ - ----begin &name signed message----- hash : md5 
+^ hi , 
+^ i would like to know when a new sfxmaker version will be released ? 
+^ will it be able to handle other archives format such as 7zip for example ? 
+^ what are the other functionnalities youw plan to implement in it ? 
+^ - - -- greetings , 
+^ &name &name 
+^ e-mail : &email 
+^ &name the bat ! 
+^ version &num / beta5 serial number : &name &name &name version : &num &name &num service pack &num 
+^ - ----begin &name signature----- version : &num 
+^ - ----end &name signature----- 
+^ do you &name ! ? 
+^ -- une &name gratuite et en fran' ais ! 
+^ &name ! 
+^ mail : &website 
+</text_normal>
+</message_body>
+</message>

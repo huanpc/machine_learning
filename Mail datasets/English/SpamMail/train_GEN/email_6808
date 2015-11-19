@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ programme 
+</text_normal>
+</subject>
+<date> sat, 8 feb 2003 00:40:00 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , the programme is more or less complete ( although i realised this evening that i have forgotton to find out where the &name are , perhaps you could either add it yourself in the spaces provided ( on 2nd page and at interval notice within the libretto ) or else i could add it over the weekend ) the file in its full glory weighs in at a rather large &name , and even after archiving it it comes to 16mb . 
+^ i tried to upload the archived version to &name 's folder in your webspace as suggested , but it did n't work . 
+^ as a substitute i have uploaded it to some of my webspace , so you should be able to find it at &website . 
+^ if you have any problems please contact me . 
+^ yours in &name . 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , the programme is more or less complete ( although i realised this evening that i have forgotton to find out where the &name are , perhaps you could either add it yourself in the spaces provided ( on 2nd page and at interval notice within the libretto ) or else i could add it over the weekend ) the file in its full glory weighs in at a rather large &name , and even after archiving it it comes to 16mb . 
+^ i tried to upload the archived version to &name 's folder in your webspace as suggested , but it did n't work . 
+^ as a substitute i have uploaded it to some of my webspace , so you should be able to find it at &website . 
+^ if you have any problems please contact me . 
+^ yours in &name . 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

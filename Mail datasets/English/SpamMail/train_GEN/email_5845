@@ -1,0 +1,23 @@
+<message>
+<from>
+</from>
+<to> org </to>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ [ autopackage ] &name - &name , &name , &name 
+</text_normal>
+</subject>
+<date> fri, 18 apr 2003 14:36:24 -0400 </date>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ updated patches to current &name . 
+^ &name updated within patch . 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

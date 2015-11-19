@@ -1,0 +1,22 @@
+<message>
+<date> 10 apr 2003 22:03:45 -0500 </date>
+<content-type> text/html </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name clear card : &num &name &name 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name clear card 
+^ &website . 
+^ &website mailings . 
+^ if you cannot click the unsubscribe hyperlink paste this into your browser : 
+^ &website 
+</text_normal>
+</message_body>
+</message>

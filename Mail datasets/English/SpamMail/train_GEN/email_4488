@@ -1,0 +1,25 @@
+<message>
+<date> sat, 22 feb 2003 19:14:44 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name lab server 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks &name - it appears to be working fine now . 
+^ regards , 
+^ &name 
+^ &name sat , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ should be available now on &name machines . 
+</text_embedded>
+</message_body>
+</message>

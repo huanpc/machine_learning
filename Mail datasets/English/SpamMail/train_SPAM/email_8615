@@ -1,0 +1,14 @@
+<message>
+<date> sun, 30 mar 2003 13:43:52 -0500 (est) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ houses for sale from $ &num , &num - &name , &name , &name ... 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

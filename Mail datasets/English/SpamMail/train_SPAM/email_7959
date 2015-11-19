@@ -1,0 +1,26 @@
+<message>
+<date> sat, 29 mar 2003 12:55:19 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ sign up now to receive &name - the magazine 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ if you just ca n't get enough sports , &name the magazine is for you . 
+^ see for yourself , subscribe today for just $ &num an issue and you 'll get &num exciting issues ( &num year ) of &name the magazine for only $ &num . 
+^ &num off the newsstand price ! 
+^ plus , you 'll get our &name the magazine fleece pullover free with your paid subscription . 
+^ click here to get this special offer . 
+^ you are receiving this email because you asked to be sent special offers from edealsgroup . 
+^ edealsgroup only brings you the best deals on the web . 
+^ however , if you wish to unsubscribe , click here . 
+</text_normal>
+</message_body>
+</message>

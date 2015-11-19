@@ -1,0 +1,36 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ christmas ( again ! ) 
+</text_normal>
+</subject>
+<date> mon, 11 nov 2002 17:27:59 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ but about singing this time . 
+^ the christmas choir is singing in the carols by candlelight service on december 22nd , with rehearsals being on november 25th , december 2nd 9th and 16th , as well as on the afternoon of the service . 
+^ there is a list to sign . 
+^ shall i sign you up for the 2nd &num monday rehearsals ? 
+^ i sha n't be able to make them because of homegroup but am hoping to persuade &name i can sing with the choir at least for the carols , and try and learn anything new . 
+^ dad has not decided whether to join in. mum ( using dad 's account because my &name one is refusing to send anything . ) 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ but about singing this time . 
+^ the christmas choir is singing in the carols by candlelight service on december 22nd , with rehearsals being on november 25th , december 2nd 9th and 16th , as well as on the afternoon of the service . 
+^ there is a list to sign . 
+^ shall i sign you up for the 2nd &num monday rehearsals ? 
+^ i sha n't be able to make them because of homegroup but am hoping to persuade &name i can sing with the choir at least for the carols , and try and learn anything new . 
+^ dad has not decided whether to join in. mum ( using dad 's account because my &name one is refusing to send anything . ) 
+</text_normal>
+</part>
+</message_body>
+</message>

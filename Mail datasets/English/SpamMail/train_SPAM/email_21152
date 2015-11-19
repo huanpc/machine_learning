@@ -1,0 +1,22 @@
+<message>
+<date> mon, 31 mar 2003 22:07:23 -0700 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ free alcohol breath &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) ( &website ) 
+^ remove yourself from this recurring list by : 
+^ &name sending a blank email to &email ( mailto : &email ) 
+^ b. sending a postal mail to customerservice , &num &name &name # &num &name city , &name &num 
+^ this message was sent to address 
+</text_normal>
+</message_body>
+</message>

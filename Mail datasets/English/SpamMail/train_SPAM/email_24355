@@ -1,0 +1,24 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ your business opportunity ? 
+^ info please 
+</text_normal>
+</subject>
+<date> sun, 6 apr 2003 12:44:53 +1200 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hi ! 
+^ i 'd like more info on your business opportunity . 
+^ i am using a friend 's you cannot email me . 
+^ please phone me back so we can chat at &num . 
+^ thank you very much ! 
+^ &name 
+</text_normal>
+</message_body>
+</message>

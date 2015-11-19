@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ refunds for fedex / &name 
+</text_normal>
+</subject>
+<date> tue, 11 mar 2003 12:28:18 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

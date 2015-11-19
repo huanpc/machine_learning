@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name ! 
+^ 80+% off ink with your &num off &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; class-id=1kdyyuzzbjkfyyhrmbc46fb-301020 </content-type>
+<date> sun, 6 apr 2003 21:07:58 est </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

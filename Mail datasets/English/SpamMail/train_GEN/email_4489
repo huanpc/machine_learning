@@ -1,0 +1,22 @@
+<message>
+<date> sun, 23 feb 2003 12:15:09 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ mobile 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ i think you left your mobile in the lab . 
+^ i 've left it on your desk , behind the keyboard , as i thought that would probably be the best thing to do . 
+^ see you tomorrow and thanks for the tea ! 
+^ &name
+</text_normal>
+</message_body>
+</message>

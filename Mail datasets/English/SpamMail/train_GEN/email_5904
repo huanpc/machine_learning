@@ -1,0 +1,49 @@
+<message>
+<date> sat, 25 jan 2003 11:34:19 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] re : &name and &name 
+</text_normal>
+</subject>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi all , 
+^ thanks for &name and &name 's suggestions and ideas ... it 's great to feel so much enthusiasm from everyone . 
+^ so are we all agreeing to meet this afternoon at &name ? ? 
+^ might be useful if everyone give some feedback to &name and &name and a confirmed time . 
+^ i have been a bit dormant for the past &num days , was distracted by summer internship interviews , but i 'll catch up this weekend ! ! 
+^ i am also learning latex ! 
+^ but i gather there are a few experts in our group already . 
+^ since the coming tuesday deadline is looming , it 'll be more efficient for the time being for &name to do the latex version of our documents , but i would love to learn from &name and &name , so later on when you guys are occupied with serious coding , i could cover for you . 
+^ i 'd also like to help &name with project planning etc. . . 
+^ ok , this is going to be a hectic weekend , but let 's do it ! 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ checklist for deliverables &name &name &name &name &num &num 2003-01-25t11 : &num : &name 2003-01-25t11 : &num : &name &num &num &num none &num &num &num &num clean clean microsoftinternetexplorer4 
+^ checklist for deliverables 
+^ report meeting &num : functional specification and module design 
+^ * introduction - informal description of project 
+^ * assumptions - to clarify specification 
+^ * environment - choice of language and tools 
+^ * inputs , functions &amp; outputs 
+^ * overall architecture 
+^ * specification of components and their test requirements 
+^ * &name acceptance criteria 
+^ * division of tasks - including manager , librarian , secretary , documentation 
+^ as well as design , coding , troubleshooting and arrangements for covering each other 
+^ project plan 
+^ user interface 
+</text_normal>
+</part>
+</message_body>
+</message>

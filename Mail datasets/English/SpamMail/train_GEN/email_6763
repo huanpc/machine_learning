@@ -1,0 +1,22 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> mon, 13 jan 2003 09:40:54 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i talked to &name last night and we thought it would be best to have a prayer triplet on tuesday afternoon , as that had worked well last term ( do n't fix what is n't broken etc ) , are you free tuesday afternoon ? 
+^ we provisionally nominated &num : &num . 
+^ in light of your chocolate supplies and our desire to protect you from eating too much we also provisionally nominated your room ;- ) . 
+^ let me know if these are okay with you , &name 
+</text_normal>
+</message_body>
+</message>

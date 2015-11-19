@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name offers 
+</text_normal>
+</subject>
+<date> wed, 02 apr 03 16:47:02 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

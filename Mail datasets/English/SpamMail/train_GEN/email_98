@@ -1,0 +1,46 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ email list 
+</text_normal>
+</subject>
+<date> tue, 29 oct 2002 17:38:53 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ finally , i have added all freshers who have either paid their membership or asked to be moved across to the main cuh&h list . 
+^ this will make very little diference to you , it will just save me forwarding everything onto the separate freshers " list ( and has taken me &name ! ! ! ) 
+^ anyway , if you do not wish to be on this list - please email me + i will remove you . 
+^ thanks 
+^ &name &name ( club captain ) . 
+^ &name &name , &name college , &name , &name &name . 
+^ new mobile number : &num &num 
+^ &name address : 
+^ &name &name , moor lane , &name , &name , &name &name , &name &name . 
+^ mobile : &num &num &name &name : ( &num ) &num 
+^ " you can take a man out of &name but you can never take the &name out of a man " . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ finally , i have added all freshers who have either paid their membership or asked to be moved across to the main &name list . 
+^ this will make very little diference to you , it will just save me forwarding everything onto the separate freshers " list ( and has taken me &name ! ! ! ) 
+^ anyway , if you do not wish to be on this list - please email me + i will remove you . 
+^ thanks 
+^ &name &name ( club captain ) . 
+^ &name &name , &name college , &name , &name &name . 
+^ new mobile number : &num &num 
+^ &name address : 
+^ &name &name , moor lane , &name , &name , &name &name , &name &name . 
+^ mobile : &num &num &name &name : ( &num ) &num 
+^ " you can take a man out of &name but you can never take the &name out of a man " . 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk edu ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ 
+^ &name &name &name club squash 
+</text_normal>
+</subject>
+<date> wed, 16 oct 2002 08:23:12 +0100 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ just a little reminder : 
+^ the &name squash , tonight at 7pm - &name 's college theatre ( directions below ) 
+^ find out what the club does - slides from previous trips - free drink and nibbles - meet the committee and other hill-walkers . 
+^ we hope to see lots of you there ! 
+^ &name &name ( &name president ) 
+^ directions to &name 's college theatre : 
+</text_normal>
+<text_embedded> 
+
+^ from &name 's porters " lodge , go through the archway that you will see in the far right corner of first court . 
+^ you will come into second court . 
+^ about halfway through second court take the path branching off to the left to reach &name court . 
+^ walk along the right-hand side of &name &name and then keep straight ahead until you reach the bottom of a long flight of steps . 
+^ do n't climb them , but you should see the theatre entrance on your right - the door is labelled " theatre " . 
+</text_embedded>
+</part>
+<part num="2" type="application/ms-tnef">
+</part>
+</message_body>
+</message>

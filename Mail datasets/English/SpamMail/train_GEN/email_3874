@@ -1,0 +1,38 @@
+<message>
+<from> com </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> thu, 13 dec 2001 12:16:15 +0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i am fine really , bit of a shock but then at least i was planning to leave anyway . 
+^ i had a second round interview for the job in &name on monday so i will hear about it at the end of the week i hope . 
+^ what are you up to at the moment then ? 
+^ i hope you are enjoying your break . 
+^ love , &name 
+</text_normal>
+<text_embedded> 
+
+^ from : &name &name to : &email &name : wed , &num &name &num &num : &num : &num &num ( &name ) 
+^ hey friend , 
+^ just back from &name . 
+^ hope things are " ok " . 
+^ thinking of you . 
+^ &name 
+^ do you &name ! ? 
+^ everything you 'll ever need on &num web page from &name and sport to email and music charts &website 
+</text_embedded>
+<text_normal> 
+
+^ get your free download of &name explorer at &website . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ news 
+</text_normal>
+</subject>
+<date> thu, 11 apr 2002 22:05:56 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ they have offered me a place at &name ! ! ! 
+^ now i 'm waiting to see whether they will offer me funding . ... end of april . 
+^ &char 
+</text_normal>
+</message_body>
+</message>

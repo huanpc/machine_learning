@@ -1,0 +1,48 @@
+<message>
+<date> thu, 6 feb 2003 13:38:57 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : tickets 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks &smiley &char 
+^ &name wed , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i 've e-mailed a few people ( current ticket sellers ) so i 'll see what their responses are and go from there 
+^ &name 
+^ on wednesday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ thanks , but let me know , otherwise i might ask someone when someone else has already agreed &smiley &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ np . 
+^ i 'll see what i can arrange . 
+^ &name 
+^ on wednesday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ sorry- i have a rehearsal i ca n't really miss ... i 'll ask around too ... 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+</text_embedded>
+
+^ &name &name &name college , &name &name &name &name &name : room &name , &name &name e-mail &name : &email &name &name : &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+
+</text_embedded>
+
+^ &name &name &name college , &name &name &name &name &name : room &name , &name &name e-mail &name : &email &name &name : &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

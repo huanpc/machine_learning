@@ -1,0 +1,39 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 16:28:29 +0400 </date>
+<content-type> text/html; charset="windows-1251" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ . 
+^ ( ) . 
+^ ( ) . 
+^ ( , &name ) . 
+^ ( , ) . 
+^ ( ) . 
+^ ( , , &num &num ) . 
+^ ( , , , &name ) &name - . 
+^ ( , , , , ) - ( - , ) . 
+^ ( , ) . 
+^ ( , ) 
+^ ( &num ) &num ( ) 
+^ &name . 
+^ . 
+^ . 
+^ &num . 
+^ &num . 
+^ &num . 
+^ &num &num &num &char &num . 
+^ , . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

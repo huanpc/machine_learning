@@ -1,0 +1,14 @@
+<message>
+<date> mon, 24 mar 2003 01:35:11 -0700 </date>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<from> optin </from>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

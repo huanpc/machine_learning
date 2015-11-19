@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<date> mon, 31 mar 2003 02:01:18 -0500 </date>
+<subject>
+<text_normal> 
+
+^ your &name position is active ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ removal instructions can be found at the bottom of this email 
+^ - congratulations- 
+^ your &name position has been reserved and you can now login to the members area ! 
+^ your &name &name is : &num your &name &name is : &num 
+^ &website 
+^ &name &name , click here : here . 
+^ to unsubscribe from &name , &name 
+</text_normal>
+</message_body>
+</message>

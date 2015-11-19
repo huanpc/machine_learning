@@ -1,0 +1,15 @@
+<message>
+<date> thu, 27 mar 2003 20:32:12 +0000 (gmt) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ would you like a free bottle of &name ? 
+^ &char 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

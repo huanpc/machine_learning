@@ -1,0 +1,25 @@
+<message>
+<date> wed, 21 nov 2001 20:08:08 +0100 </date>
+<from> uni </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ thanks again for booking . 
+^ please do n't worry about &num pounds more or less . 
+^ we are neither scottish nor schwe4bisch people here :- ) . 
+^ here is my fax number : 
+^ &num / &num / &num / &num 
+^ see you &name 
+^ &name : &name will provide abstract and title ( and i do n't doubt that he will do so soon ) . 
+</text_normal>
+</message_body>
+</message>

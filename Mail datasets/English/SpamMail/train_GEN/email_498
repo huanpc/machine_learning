@@ -1,0 +1,38 @@
+<message>
+<date> wed, 23 may 2001 15:03:17 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : nothing 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ do n't worry , it 's easily done . 
+^ do you want me to tell you how ? 
+^ &name 
+^ " &name &name " wrote : 
+</text_normal>
+<text_embedded> 
+
+^ how ? 
+^ how ? 
+^ how ? 
+^ am paranoid . 
+^ &name wrote : 
+<text_embedded> 
+
+^ you are in level &num of the library , computer number &num . 
+^ &name 
+^ p.s. send another forward to &name ; he 's seen that one already , then we can discover his password this evening . 
+^ actually , i 'll send you a few forwards ... 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

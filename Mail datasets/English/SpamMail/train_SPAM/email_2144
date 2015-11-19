@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ get $ &num dollars in cash free ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> sat, 22 mar 2003 12:47:48 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name casino - &name big on over &num wild casino games including slots , blackjack and poker you are receiving this email from &name &name brands in response to your request for more information while registering with one of our valued partners . 
+^ if you would prefer not to receive messages of this sort in the future , please see the unsubscribe instructions at the bottom of this email . 
+^ get $ &num free when you sign up at &name &name casino and purchase $ &num . 
+^ to take advantage of this titillating offer , all you need to do is choose a purchase option that meets your needs , and buy $ &num ! 
+^ we 'll then add $ &num free to your account ! 
+^ sign up at &name &name casino today and we 'll put a sparkle in your eye ! 
+^ if you would prefer not to receive marketing messages from us , please click here 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<subject>
+<text_normal> 
+
+^ this could be someone you know 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<date> tue, 8 apr 2003 19:59:38 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

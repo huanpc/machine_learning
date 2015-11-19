@@ -1,0 +1,27 @@
+<message>
+<date> thu, 7 nov 2002 10:24:36 -0500 (est) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ question 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi professor &name , 
+^ hello from &name &name ! 
+^ i have now been here a month and am really enjoying the &name in which i am currently enrolled . 
+^ the lecturers for this course are all very good , and i am currently leaning about speech recognition and natural language processing . 
+^ i am finding that i am using a lot of the material that i learned in your course ( cs30 ) such as finite state machines , context-free grammars , etc. i think that &name has prepared me really well for this &name . 
+^ i am still unsure about what i will do next year , once i have finished with the &name . 
+^ i am currently applying to graduate schools ( both in the &name and in &name ) , and am also applying for an &name fellowship for graduate research . 
+^ part of the &name application requires &num recommendation letters , and i was wondering if you would be willing to write one of these recommendations ( it would be due by december 5th ) . 
+^ if you are willing to write a recommendation , please let me know , and i will send you the forms and codes necessary to fill out . 
+^ thanks , &name 
+</text_normal>
+</message_body>
+</message>

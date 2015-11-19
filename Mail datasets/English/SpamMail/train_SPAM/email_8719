@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name is n't a luxury , it 's a necessity ! 
+^ tsaidyl &char 
+</text_normal>
+</subject>
+<date> sat, 29 mar 03 14:22:16 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

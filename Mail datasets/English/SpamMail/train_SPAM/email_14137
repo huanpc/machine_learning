@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> tue, 01 apr 2003 14:52:20 -0700 </date>
+<subject>
+<text_normal> 
+
+^ re . 
+^ do n't stop unless you want $ 10k / week 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ $ &name $ encodebatchdata 
+^ &name 
+</text_normal>
+</message_body>
+</message>

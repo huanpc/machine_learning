@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ fwd : order by &name . 
+^ est and recieve your medication the next business day 
+</text_normal>
+</subject>
+<date> sat, 29 mar 03 08:54:13 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,22 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ numbering on test data 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 12 mar 2003 17:50:37 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ are you guys okay with the data as it is ? 
+^ somebody suggested i change the numbers to &num . 
+^ i will do that , but only if there 's sufficient interest . 
+^ if your systems deal fine with the data as it is , i will leave the numbers ( they are original trec-9 numbers ) . 
+^ &name
+</text_normal>
+</message_body>
+</message>

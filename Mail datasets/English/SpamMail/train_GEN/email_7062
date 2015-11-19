@@ -1,0 +1,65 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : storing &name mail locally / disabling forwarding 
+</text_normal>
+</subject>
+<date> sat, 26 apr 2003 21:57:41 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ thank you so much &name , 
+^ that 's much better , i think it was starting to annoy people who emailed me . 
+^ love &name 
+</text_normal>
+<text_embedded> 
+
+^ log into &name - this can be done on the &name machines , or on your own machine &website " in the start | run box . 
+^ you should get the options : 
+^ - --------------- &name message store &name &name ---------------- please enter the code for the action you require , and then press return . 
+^ &num pine - run the pine mail user agent to access your mail . 
+^ &num editor - submenu for the &name editor . 
+^ &num files - submenu for file management . 
+^ &num terminal - change the terminal type setting for this session &num &name - submenu to change password , printer , mail redirection etc. &num users - &name information &num lists - &name list information and management &num domains - domain management ( for authorised users only ) 
+^ &char help - help on &name &char quit - &name &name session . 
+^ selection ? 
+^ choose &num , which gives : 
+^ - --------------- &name message store configuration menu ---------------- please enter the code ( &num to &num , or &char ) for the action you require , and then press return . 
+^ * * * note : the personal option can take a while to connect 
+^ * * * to the administration system at times of high load . 
+^ &num mail - submenu to install mail filters , redirection + vacation message &num personal - change your &name message store password or personal name &num printer - set / show the default printer for printing from pine &num &email - set up mail delivery for the " &name " domain &num spell - set the default language for spell check within pine 
+^ &char help - help on the items in this menu . 
+^ &char quit - return to the previous menu . 
+^ selection ? 
+^ choose &num to give : 
+^ - --------- &name &name , &name and &name &name ----------------- please enter the code ( &num to &num , &char or &char ) for the action you require , and then press return . 
+^ &num redirect - arrange to have your mail redirected . 
+^ &num vacation - set up a vacation message ( see below for help about editing ) . 
+^ &num &name - &name your vacation log file ( use space to continue ) . 
+^ &num empty - &name ( delete ) your vacation log file . 
+^ &num filter - submenu to set up message filters &num status - show existing filtering , redirection and vacation actions &num delete - remove individual filter , redirection or vacation action &num cancel - remove all filter , redirection and vacation actions &num advanced - submenu for direct access to filter file . 
+^ only for the brave ! 
+^ &char help - help about items on this menu ( use space to continue ) . 
+^ &char quit - return to the previous menu . 
+^ selection ? 
+^ choose &num . 
+^ you 'll get something like : 
+^ delete filter action 
+^ &num ) redirect : : &name message to &email 
+^ enter number of action to be deleted . 
+^ &char single " &char " will abort this operation . 
+^ delete which action [ &num ] ? 
+^ type &num and press &name press &char to quit to successive menus until you 're completely out of the system . 
+^ check it works by sending yourself an e-mail to your &name account 
+^ &name this helps ! 
+^ have a great weekend , 
+^ love in &name , &name 
+^ &name &name &name college , &name , &name &name &name &name : &name , &name &name , &name e-mail &name : &email &name : # &num | &name : &email | &name ! 
+^ &name &name / &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

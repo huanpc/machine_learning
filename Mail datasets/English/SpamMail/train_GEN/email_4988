@@ -1,0 +1,25 @@
+<message>
+<date> tue, 18 mar 2003 18:40:56 -0500 (est) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi professor &name , 
+^ i just got back to &name today from &name ( definitely had a great time over there and enjoyed talking to dr. &name ) and i 'll probably be going to visit &org tomorrow . 
+^ i was wondering if you were available at all this week ( or early next week ) for me to stop by and chat for a little bit to catch up and everything . 
+^ i know you just got back from a long trip in &name , so if you are too busy , i obviously understand . 
+^ also , if you would rather chat after the day is over , we could meet in a bar or something - i definitely owe you a drink for your contributions to helping me get into all those schools &smiley 
+^ also , i was wondering if you know if there are any &name meeting scheduled in the next week . 
+^ anyway , hope all is well . 
+^ &name
+</text_normal>
+</message_body>
+</message>

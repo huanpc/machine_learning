@@ -1,0 +1,38 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name # &num 
+</text_normal>
+</subject>
+<date> tue, 08 apr 2003 08:56:32 -0400 </date>
+<content-type> text/plain; format=flowed </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ congratulations , you were the winning bidder of my &name auction . 
+^ &name operations and procedures 0n &name &name # &num 
+^ you can send money order , personal check , or cash to the following address . 
+^ &name boese &num &name drive &name &name , &name , &name &name &name 
+^ ( &name , &name , and &name to &email ) 
+^ payment is for $ &num &name ( item cost plus $ &num shipping ) . 
+^ important - ) add $ &num &name for all countries other than &name or the united states . 
+^ add insurance if desired , for united states only . 
+^ please reply to this email with your mailing address so that i can prepare your item for shipment . 
+^ ! ! 
+^ important ! ! 
+^ please include auction number with all correspondence and payment . 
+^ postage is &num cents to &name from the &name 
+^ thanks for participating , 
+^ please email if you would like a list of other manuals , parts books or &name 's available or simply go to &website 
+^ my new web page for theodolite manuals and &name 's is at &website 
+^ also , postal insurance is available , on request , starting at $ &num extra 
+^ ! ! 
+^ enjoy today ! ! 
+^ * * * * * * have a great year * * * * * * 
+^ &website &name &name &website 
+</text_normal>
+</message_body>
+</message>

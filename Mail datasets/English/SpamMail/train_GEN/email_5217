@@ -1,0 +1,41 @@
+<message>
+<date> mon, 20 jan 2003 11:00:07 +0000 </date>
+<from> ac.uk </from>
+<to>
+</to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi everyone , 
+^ here 's the latest on the league 's schedule . 
+^ could you please confirm whether you 'd be able to show for the next match , which is this coming thursday ? 
+^ thanks . 
+^ note that in case we ca n't put a team together , then we 'll have to get in touch with the opposing team , suggest another day , possibly giving up our kk slot , and come to an agreement . 
+^ best , &name 
+^ here is the schedule as it stands now : 
+^ thursday &num &name 
+^ 15: &num &name vs. queens 
+^ 16: &num &name vs. &name 
+^ friday &num &name 
+^ 15: &num &name vs. &name 
+^ thursday &num &name 
+^ 15: &num &name vs. &name 
+^ 16: &num &name vs. &name 
+^ friday &num &name 
+^ 15: &num &name vs. &name / &name 
+^ friday &num &name 
+^ 15: &num &name vs. &name 
+^ friday &num &name 
+^ 15: &num &name vs. &name 
+^ friday &num &name 
+^ 15: &num &name vs. &name / &name 
+^ 16: &num &name vs. &name 
+^ friday &num &name 
+^ 15: &num &name vs. &name 
+^ still do n't have march slots but will let you know as soon as i do . 
+^ please , start getting the games organised now ! ! ! 
+^ &name
+</text_normal>
+</message_body>
+</message>

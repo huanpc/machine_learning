@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ get &name &name and a 4-piece &name &name kit free ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> fri, 04 apr 2003 10:00:18 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,23 @@
+<message>
+<date> fri, 28 mar 2003 01:46:48 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &num books for &num dollar 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ 
+^ * * subscriber details are included at the bottom. * * 
+^ get &num history books for $ &num each with membership to the history book club ! 
+^ &website 
+^ join today ! 
+^ cancel your subscription here : ( img 
+</text_normal>
+</message_body>
+</message>

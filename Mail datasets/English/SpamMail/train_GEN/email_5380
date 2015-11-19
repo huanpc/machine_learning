@@ -1,0 +1,29 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : continuation form reference 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 18:03:14 -0000 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ i have just read this . 
+^ i am happy to be a referee but its probably too late to deal with the form today . 
+^ please see &name on monday morning . 
+^ &name 
+</text_normal>
+<text_embedded> 
+
+^ dear professor &name , 
+^ i 'm just filling out my continuation form , and i was wondering if you would consider being my referee . 
+^ if so , would it be possible for me to bring it down to you before you leave this evening ? 
+^ thanks very much , 
+^ &name &name 
+</text_embedded>
+</message_body>
+</message>

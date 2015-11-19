@@ -1,0 +1,36 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ moving update 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 06 aug 2001 09:50:50 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ &name , &name , &name and i visited the site on friday afternoon and were reassured about progresss . 
+^ the moving schedule therefore remains as published in &name 's message of &num july , as appended . 
+^ thanks 
+^ &name 
+^ tuesday &num move furniture from &num &name street along with &name and &name staff . 
+^ wednesday &num &name administration group and computer officers , stores and building services ( approx . 
+^ &num persons ) 
+^ thursday &num rainbow group ( approx . 
+^ &num persons ) 
+^ monday &num &name / &name , &name group ( approx . 
+^ &num persons ) 
+^ tuesday &num theory group ( approx . 
+^ &num persons ) 
+^ wednesday &num library 
+^ thursday &num systems research group , &name , &name ( approx . 
+^ &num persons ) 
+^ monday &num note : bank holiday . 
+^ tuesday &num opera , &name groups ( approx . 
+^ &num persons ) 
+</text_normal>
+</message_body>
+</message>

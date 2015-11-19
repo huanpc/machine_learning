@@ -1,0 +1,42 @@
+<message>
+<from> net </from>
+<to> ac.uk ac.uk ac.uk com co.uk com ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hello everybody 
+</text_normal>
+</subject>
+<date> fri, 4 apr 2003 22:28:55 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ greetings , fellow &name people ! 
+^ first of all i am really sorry not to have been in contact already , although some of you have had the misfortune of chatting to me on &name or even worse , in &name 's case , actually seeing me ! ! ! 
+^ so i hope everybody is well and enjoying their vacation and not getting up to too much trouble . 
+^ not much to report on here , i 've pretty much been at home all vacation apart from &num weekend in &name and a few days out here and there ( including a romano-british temple in my birthplace , &name - i know you 'll all be jumping on the train straightaway to see it too ! ) . 
+^ tomorrow i am going to &name again for a week . 
+^ what has everyone else been up to ? 
+^ well i guess i 'll be seeing you all in a couple of weeks anyway - i 'll probably be moving back in over &name weekend , not sure when yet , but you 'll know all about it when i do ! 
+^ all the best , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ greetings , fellow &name people ! 
+^ first of all i am really sorry not to have been in contact already , although some of you have had the misfortune of chatting to me on &name or even worse , in &name 's case , actually seeing me ! ! ! 
+^ so i hope everybody is well and enjoying their vacation and not getting up to too much trouble . 
+^ not much to report on here , i 've pretty much been at home all vacation apart from &num weekend in &name and a few days out here and there ( including a romano-british temple in my birthplace , &name - i know you 'll all be jumping on the train straightaway to see it too ! ) . 
+^ tomorrow i am going to &name again for a week . 
+^ what has everyone else been up to ? 
+^ well i guess i 'll be seeing you all in a couple of weeks anyway - i 'll probably be moving back in over &name weekend , not sure when yet , but you 'll know all about it when i do ! 
+^ all the best , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

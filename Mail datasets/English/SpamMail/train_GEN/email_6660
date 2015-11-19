@@ -1,0 +1,54 @@
+<message>
+<date> fri, 30 may 2003 11:59:41 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : non-junk email 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i 'm not familiar with &name - which email program are you using ? 
+^ in terms of numbers , between &num would be ideal . 
+^ genuine mailing list emails are also useful because it 's mostly text-analysis that we 're interested in. 
+^ thanks again &name , 
+^ &name 
+^ on &name , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ oh , and do you want me to include a few mailing list e-mails in that ? 
+^ i assume not , since these are easier to filter out , but just in case 
+^ &name 
+^ on friday &num may &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ hi &name ! 
+^ your email would be very gratefully received . 
+^ i 'm more concerned with genuine email , as i already have a large amount of junk , extracted from an online archive . 
+^ the easiest way to donate email is to simply send the back-end 'message folder " files , which include all of the header info . 
+^ for example , if you have a folder entitled 'msgs " then it will appear as the file 'msgs " in the " ~/mail / " folder wherever your email is stored ( i.e. in your hermes filespace ) , which can be accessed via ftp or similar . 
+^ these files can be fed directly into the anonymiser . 
+^ thanks very much for your help &name , 
+^ &name 
+^ on &name , &num may &num , &name &name wrote : 
+<text_embedded> 
+
+^ re : e-mail &name &name 
+^ i get a fair bit of mail , junk and otherwise which i 'd be happy to donate , if anonymised . 
+^ i currently use &name which , since tweaked , seems to do a fairly good job of filtering my mail , but i can always filter it out to you rather than marking it as &name and putting it in the trash . 
+^ let me know how you want the mail , whether you want mail forwarded , copied in its raw state ( including all headers ) or whatever . 
+^ i do n't know whether you just want my &name account ( which is mainly &name stuff + &name ) or my general account e-mail too ( which includes stuff from outside uni , various ( high-traffic ) mailing lists , occassional random e-mail from someone who used my software which i wrote before coming to uni ( or a complaint from someone who 's been infected by a virus and thinks i gave it to them ) etc. i rarely get any viruses , since &name seems to stop prolific viruses in &name and my external account is scanned in &name , although i do get the empty messages without the worms ( hey , my &name folder is full of e-mails from &email at the moment ! ) . 
+^ let me know if & how i can assist anyway 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

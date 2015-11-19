@@ -1,0 +1,32 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name social stuff &name ! 
+</text_normal>
+</subject>
+<date> tue, 14 jan 2003 09:57:48 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ sorry to clog your inboxes - just to confirm - hillwalking club lunches start tomorrow ! 
+^ marion-x- 
+^ " only a hill , but all of life to me up there , between the sunset and the sea " 
+^ - -- &name &name &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ sorry to clog your inboxes - just to confirm - hillwalking club lunches start tomorrow ! 
+^ marion-x- 
+^ " only a hill , but all of life to me up there , between the sunset and the sea " 
+^ - -- &name &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

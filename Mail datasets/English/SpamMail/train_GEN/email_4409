@@ -1,0 +1,38 @@
+<message>
+<date> sat, 1 feb 2003 16:58:31 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> org.uk </to>
+<subject>
+<text_normal> 
+
+^ re : bad url 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ ok . 
+^ i 'm having a chinese new year meal tonight ! 
+^ i 'll be able to chat to you sometime when i 'm at home . 
+^ 3d&smiley 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name &name wrote : 
+<text_embedded> 
+
+^ anywhere that does n't require &name ? 
+^ &name catch you later then . 
+^ it is &num : 50am here anyways . 
+^ i ort to go to bed . 
+^ &name chinese new year &pound; &num ) 
+^ &name &website 
+^ - what 's on at your local cinema ? 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

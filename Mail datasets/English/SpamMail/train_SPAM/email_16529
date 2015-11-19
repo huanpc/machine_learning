@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name seal , &name &name , &name and &name ! 
+</text_normal>
+</subject>
+<date> fri, 4 apr 2003 03:30:49 cst </date>
+<content-type> text/html; charset=us-ascii; class-id=0vnarmz9qbnnounr4rcussuan-654027 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ click here to unsubscribe from these mailings . 
+^ this e-mail was sent to you by &name email . 
+^ you are receiving this e-mail because you are a registered subscriber to &name email or &num of its marketing partners . 
+^ if you no longer wish to receive additional offers from &name email please click the link above and you will immediately be unsubscribed . 
+^ &name : 
+</text_normal>
+</message_body>
+</message>

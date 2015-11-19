@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name your home today ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name today ! 
+^ &name &name &name &name 
+^ conforming loans are up to $ &num , &num jumbo loans are $ &num , &num and higher 
+^ rates based on &name &name 
+^ call today ! 
+^ &num x288 ask for &name 
+^ or e-mail me at : &email . 
+^ name and &name : 
+</text_normal>
+</message_body>
+</message>

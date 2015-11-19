@@ -1,0 +1,23 @@
+<message>
+<date> tue, 06 feb 2001 10:38:29 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hi &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name &name , 
+^ how is your practical going ? 
+^ is it as challengingas you hoped for ? 
+^ mine was n't too bad . 
+^ i look forward with great relish to dinner this evening . 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

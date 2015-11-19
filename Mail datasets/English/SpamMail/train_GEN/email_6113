@@ -1,0 +1,30 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ cheque 
+</text_normal>
+</subject>
+<date> sat, 15 mar 2003 17:06:27 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &char meant to ask you yesterday - can &char be re-imbursed sometime ? 
+^ cheers , 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &char meant to ask you yesterday - can &char be re-imbursed sometime ? 
+^ cheers , 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

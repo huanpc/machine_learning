@@ -1,0 +1,29 @@
+<message>
+<date> thu, 27 mar 2003 16:55:18 -0800 (pst) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * you have &num card waiting ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ $ _____________ $ &name &name $ _____________ $ 
+^ you can get pre-qualified for credit cards with up to a $ &num limit ! 
+^ click to claim your credit card ( &char ) now : 
+^ &website 
+^ ( a href' &website ) 
+^ thanks , &name &name 
+^ ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) 
+^ * to be removed from this mailing list , click users click here to unsubscribe ( /a ) 
+^ or ... 
+^ * reply to this email with the word 'remove ' as the subject . 
+^ this message was sent to : shamrock ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) ( ( ( ) ) ) 
+</text_normal>
+</message_body>
+</message>

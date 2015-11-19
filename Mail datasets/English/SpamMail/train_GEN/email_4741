@@ -1,0 +1,34 @@
+<message>
+<date> mon, 19 may 2003 11:00:56 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : mailto 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i did read the man page , and searched the internet for an answer , but could n't find anything . 
+^ i 'm using mailto in a similar way to your test , although obviously with more complicated messages . 
+^ the script i use is as follows : 
+^ # !/bin / csh 
+^ if ( $ # argv ! 
+^ &num ) then &name " usage : scr ( recipient ) ( message file ) " exit &num endif 
+^ set recip $ &num 
+^ cat $ &num | mailto $ recip &char " anonymised email " 
+^ where the file denoted by $ &num contains an &name marked-up email in the following form , which i want to include verbatim as the body of the email to send : 
+^ ( message ) 
+^ ( message_body ) it seems to interpret the &name as rich text or something , because when the message is received , the mime header is as follows : 
+^ &name : text / richtext 
+^ i am sending from " embo " in the &name lab . 
+^ i am really looking for a method of forcing mailto to send as plain text . 
+^ regards , 
+^ &name
+</text_normal>
+</message_body>
+</message>

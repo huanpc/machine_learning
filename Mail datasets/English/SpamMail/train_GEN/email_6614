@@ -1,0 +1,32 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ money 
+</text_normal>
+</subject>
+<date> mon, 7 oct 2002 18:43:39 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name , 
+^ i have now realised we did n't sort out money before you went back ... i think room was &pound; &num , but ca n't remember what fees are due this time . 
+^ let me know and i will either send you a cheque or i could probably just transfer it to your account : the number i have on &name ( &num * * * * &num ) is presumably the right one ? 
+^ mum 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name , 
+^ i have now realised we did n't sort out money before you went back ... i think room was &pound; &num , but ca n't remember what fees are due this time . 
+^ let me know and i will either send you a cheque or i could probably just transfer it to your account : the number i have on &name ( &num * * * * &num ) is presumably the right one ? 
+^ mum 
+</text_normal>
+</part>
+</message_body>
+</message>

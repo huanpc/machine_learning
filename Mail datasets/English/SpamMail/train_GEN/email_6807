@@ -1,0 +1,44 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name : &name 
+</text_normal>
+</subject>
+<date> mon, 10 feb 2003 20:20:16 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , i got this from &name , again he might have already told you these but there are a few changes ( see below ) . 
+^ &name 
+^ hi &name - 
+^ &char couple of changes : 
+^ &name &name is an additional soprano 
+^ &name &name is playing 2nd and not 1st violin &name &name is playing 1st not 2nd violin 
+^ &name that 's ok . 
+^ cheers 
+^ &name 
+^ &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , i got this from &name , again he might have already told you these but there are a few changes ( see below ) . 
+^ &name 
+^ hi &name - 
+^ &char couple of changes : 
+^ &name &name is an additional soprano 
+^ &name &name is playing 2nd and not 1st violin &name &name is playing 1st not 2nd violin 
+^ &name that 's ok . 
+^ cheers 
+^ &name 
+^ - ----------------------------------------------------------- --------------------------- &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+</message_body>
+</message>

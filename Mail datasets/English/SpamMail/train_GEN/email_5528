@@ -1,0 +1,24 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ fwd : french &name &name 
+</text_normal>
+</subject>
+<date> 28 oct 2002 12:27:21 +0000 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ forwarded message from &email : 
+^ dear all , 
+^ hi . 
+^ i am looking for a souple of people to do a conservation / life sciences expedition to french &name next summer . 
+^ i am looking for &name sci 's / geographers with a good working knowledge of french - a level / equivalent or above . 
+^ if you are interested or just want more details , please email me at &email with a bit of blurb about why you are interested and what you feel you have to offer the expedition . 
+^ &name &name &name college 
+</text_normal>
+</message_body>
+</message>

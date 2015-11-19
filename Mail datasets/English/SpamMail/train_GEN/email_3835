@@ -1,0 +1,37 @@
+<message>
+<date> tue, 26 mar 2002 11:00:13 +0000 </date>
+<to> co.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name i am sorry to hear about your plight on funding . 
+^ not the first to happen but not at all pleasant . 
+^ i dont know any quick fixes . 
+^ you could try the oil companies but you will need to put in a lot of effort with no guarentee of reward , i foresee . 
+^ if you are around in the dept let me know and i would be happy to spend half an hour with you if that would help . 
+^ regards &name ps , sorry for delay in response - in the &name until end of last week . 
+^ at &num : &num &name &num / &num / &num &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ i do n't know if you heard , but the &name had a huge funds cuts and so dropped the digital mapping phd that i was hoping to do . 
+^ i 've talked to &name , and he told me that basically , if i could get some funding for it ( &pound; &num , &num ) then i could do the project . 
+^ in light of this , i was just wondering if you knew , from your history in the oil induistry , what the best way is to try and get funding for a phd from people like &org and &name would be ? 
+^ i 'm also going to be looking at &name studenships , although i 'm not sure exactly what these are yet . ... 
+^ are there any other bodies that you might recommend that i try to ask for support ? 
+^ thanks , &name 
+^ do you &name ! ? 
+^ get your &name address at &website 
+^ dr &name &char &name department of geological sciences ( &name ) university of &name , &name , &name &name , &name &name : &num ; &name : &num also at &name technology &name university of &name science park mountjoy research &name , &name road , &name , &name &name &name : &num ; &name : &num 
+</text_embedded>
+</message_body>
+</message>

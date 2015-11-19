@@ -1,0 +1,40 @@
+<message>
+<date> wed, 7 may 2003 15:58:15 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : results 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ where 's your interview ? 
+^ &name wed , &num may &num &email wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ should be finished about &num / 4ish . ... where would be good to meet you ? 
+^ &name . 
+^ hi everyone . 
+^ just thought i 'd send out a joint email to let you know where i 'm at &name i 've just got last term 's practical and exam results . 
+^ you are receiving this email because : &num ) you actually asked me to let you know how my exams went . 
+^ &num ) you recently expressed a general interest in how things are going in my life . 
+^ &num ) i believe you might be at least mildly interested in the following information . 
+^ if none of those apply to you , then please read no further . 
+^ so , my results were pretty good - i got over &num in &num of my exams and between 65-70% in the other . 
+^ i got over &num in all my &num practical assignments . 
+^ this leaves me with an overall average thus far of between 75-80% . 
+^ i only have my project to go ( i love project work ) , which is due in on the 23rd july . 
+^ the &name i 'm doing is only graded on a pass / fail basis , but i need to get a high score to have a chance of being funded for a phd which i 'm considering doing in a year 's time . 
+^ next year i will be taking a break from the academic lifestyle to do something else , probably including going to &name &name for part of the year . 
+^ sweet love to everyone and &name be with you , 
+^ &smiley 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

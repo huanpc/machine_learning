@@ -78,7 +78,7 @@ public class ParseXML2CSV {
         try {
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.parse(inpath);
-            NodeList wordList = doc.getElementsByTagName("ent");
+            NodeList wordList = doc.getElementsByTagName("text");
             File file = new File(outpath);
             FileWriter fw = new FileWriter(file.getAbsoluteFile());
             BufferedWriter bw = new BufferedWriter(fw);

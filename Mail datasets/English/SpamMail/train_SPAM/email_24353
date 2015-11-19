@@ -1,0 +1,36 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ hi ! 
+^ you got a plan &char ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset="big5" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+^ what would you do if you lost your &name today ? 
+^ what would you do if you or your spouse lost the ability to work tomorrow ? 
+^ what would your future look like ? 
+^ think about it ! 
+^ do n't leave your financial future in someone else hands ... 
+^ &website ! ! ! ) 
+^ and filling interview form at the end of content pages in &website 
+^ p' &char z' &char &char @ z' &char &char @ &char ? 
+^ a' &char &char ? 
+^ a' &char s' &char u' &char w' &char &char ! 
+^ a' &char e' &char q' a i' &char ~ h' &char ! ! 
+^ &char &website ) 
+^ &website 
+^ to discontinue receipt of further notices at no cost and to be removed from all of our databases click here for email reply . 
+^ you might not be interest , but what about your friends and family . 
+^ please forward to those might need it . 
+^ o' &char a' &char a' &char n' &char a' &char &name will take &num business days to process ! ! ! 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * * &name marked &name * * * congratulations ! 
+^ you get a free &name ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> mon, 31 mar 2003 23:43:42 -0600 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name this offer is being sent to you as a member of &name central congratulations ! 
+^ please accept our apologies if you received this mail in error . 
+^ if you do not wish to receive future mail , &name here . 
+^ if you have a problem using the removal process , please call current mail at ( &num ) &num or submit your request to : 
+^ current mail , inc. &num &name &name . 
+^ highway &num &name &num &name , &name &num &name 
+</text_normal>
+</message_body>
+</message>

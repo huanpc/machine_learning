@@ -1,0 +1,119 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain </content-type>
+<date> 15 nov 2002 19:55:30 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ on &name , &num at &num : &num , &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ just to warn you : i 'm already under the influence as i 'm writing this ... &smiley 
+</text_embedded>
+<text_normal> 
+
+^ what of ? 
+^ &name &name ? ? 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ yeah &name &name . 
+^ you 're like me . 
+^ you can stop _any_ _time_ _you_ _want_ . 
+^ &smiley 
+</text_embedded>
+
+^ yes ... yes i can . 
+</text_embedded>
+<text_normal> 
+
+^ &name . 
+^ &smiley 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ that 's just because you drink more now . 
+</text_embedded>
+
+^ erm. .how do you know ? 
+</text_embedded>
+<text_normal> 
+
+^ &name guess . 
+^ and experience . 
+</text_normal>
+<text_embedded> 
+
+^ and even if that 's true , how does drinking more stop you getting hangovers ? 
+</text_embedded>
+<text_normal> 
+
+^ you sort of build up a kind of tolerance . 
+^ it 's not necessarily a good thing . 
+^ but not necessarily bad . 
+^ also , you metabolism changes as you get older , and as you drink more . 
+</text_normal>
+<text_embedded> 
+
+^ &name ha .. yes , you told me . 
+^ i like that story ... &smiley 
+</text_embedded>
+<text_normal> 
+
+^ &name . 
+</text_normal>
+<text_embedded> 
+
+^ other people drink , she does n't , she gets the hangover . 
+^ i 'm not sure if she 's ever got one from me . 
+</text_embedded>
+<text_normal> 
+
+^ try it sometime . 
+^ does it matter how much they drink ? 
+^ perhaps it 's " &name she tries to keep pace on soft drinks . 
+^ that 's very bad . 
+</text_normal>
+<text_embedded> 
+
+^ i 'm recording me saying lots of sentences for someone doing some sort of experiment in the engineering department . 
+^ i do n't know exactly what it 's about . 
+</text_embedded>
+<text_normal> 
+
+^ hmmmm. sounds dubious . 
+^ i bet it 's some sinister mind game . 
+</text_normal>
+<text_embedded> 
+
+^ &name .. come to the pav ! 
+^ i am ! 
+^ but seriously , it 'd be great to see you . 
+^ you know where &name is ... i 'll be there ! 
+^ &smiley 
+</text_embedded>
+<text_normal> 
+
+^ &name ? 
+^ &name ! 
+^ that 's miles away ! 
+^ well , maybe . 
+^ it 's near my house , ish . 
+^ in fact , no , it 's still bloody miles away . 
+^ see you later , maybe , 
+^ &name
+</text_normal>
+</message_body>
+</message>

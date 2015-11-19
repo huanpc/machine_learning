@@ -1,0 +1,31 @@
+<message>
+<date> mon, 10 feb 2003 11:48:43 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : program ( fwd ) 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name version of &name &name 's photo attached 
+^ hi &name i do n't know if you got the message below or not . 
+^ the program will be going to press on tuesday afternoon , so if you are able to reply by then that would be great . 
+^ i 'll liaise with you over details for saturday ( where to come and when etc ) in a day or &num when i 've talked to &num or &num others , yours , &name 
+</text_normal>
+<text_embedded> 
+
+^ hi &name &name you 're well . 
+^ thanks for the updated version of your talk . 
+^ the program editor has suggested to me that the best way to introduce you to the audience would be to put a short piece and a small photo ( ! ) of you in the program , in the same way that there is a short piece about each soloist and the conductor . 
+^ if you agree that this would be suitable , would you be able to send me a short piece ( read the program for the format of the pieces on the soloists ) and a small photo , if you have a suitable electronic photo , or could send a suitable &num 1st class in the post . 
+^ thanks very much for your help , &name 
+</text_embedded>
+</part>
+</message_body>
+</message>

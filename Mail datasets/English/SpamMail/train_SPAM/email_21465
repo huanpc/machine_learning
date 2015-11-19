@@ -1,0 +1,24 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ exactly how close are us troops to &name ? 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> 4 apr 2003 20:21:08 -0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled document 
+^ you received this e-mail because you signed up at &num of &name 's websites or you signed up with a party that has contracted with &name and opted-in to register with &name . 
+^ to unsubscribe from the &name list , click here 
+^ the products and / or services advertised in this e-mail are the sole responsibility of the advertiser , and questions about this offer should be directed to the advertiser . 
+^ &name . 
+^ all rights reserved . 
+</text_normal>
+</message_body>
+</message>

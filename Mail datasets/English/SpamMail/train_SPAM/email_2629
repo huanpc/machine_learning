@@ -1,0 +1,20 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name &name to feel younger ? 
+^ &num 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> text/html; charset=us-ascii </content-type>
+<date> fri, 21 mar 2003 23:04:47 -0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ click here to shave the &name now ! 
+^ &name &name now ! 
+</text_normal>
+</message_body>
+</message>

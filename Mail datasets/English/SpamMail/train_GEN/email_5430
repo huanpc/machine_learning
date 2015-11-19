@@ -1,0 +1,31 @@
+<message>
+<date> tue, 20 may 2003 11:31:47 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ perl scripts 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ nor2cls.pl nor2clsmap.pl class2word.pl 
+^ the example class / word pairs files is in &website
+^ &name he speech vision and &name group engineering department &name university 
+^ &name : ( &num ) &num email : &email 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ nor2cls.pl nor2clsmap.pl class2word.pl 
+^ the example class / word pairs files is in &website
+^ - - &name he speech vision and &name group engineering department &name university &name : ( &num ) &num email : &email 
+</text_normal>
+</part>
+</message_body>
+</message>

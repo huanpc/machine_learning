@@ -1,0 +1,31 @@
+<message>
+<from> com.br </from>
+<subject>
+<text_normal> 
+
+^ your chance to save lives 
+</text_normal>
+</subject>
+<date> mon, 7 apr 2003 02:10:18 -0600 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ your chance to save lives 
+^ dear &name , 
+^ we need your help . 
+^ with so many of us thinking about the war in &name , many caring people have been distracted from the ongoing problem of worldwide disease among the poor . 
+^ donations for curing global poverty-related diseases have dwindled , and desperate groups of people around the world are becoming unintended casualties of the conflict in the middle east . 
+^ &name now , as you read this , more people in poverty are dying from overlooked parasitic diseases than &num times the population of &name . 
+^ another person will die in the next &num minutes . 
+^ if you wish you could something do to ease human suffering during this time of conflict , you can . 
+^ the cost to cure these neglected diseases is only about &num cents per life saved . 
+^ let us show you how . 
+^ please click the link below to find out more . 
+^ click here : tell me more 
+^ if you believe you have received this email in error or if you would like to be removed from this mailing list for any reason , click here to unsubscribe . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

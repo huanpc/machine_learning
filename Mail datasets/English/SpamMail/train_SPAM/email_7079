@@ -1,0 +1,26 @@
+<message>
+<date> wed, 05 fri 2003 06:15:07 -0300 </date>
+<from> com </from>
+<content-type> text/plain </content-type>
+<subject>
+<text_normal> 
+
+^ say no to spam 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you receive tons of disgusting e-mail advertisements day by day . 
+^ are you tired ? 
+^ just say ' no ' 
+^ fully integrated solutions available for : 
+^ - &name &name &num / &num 
+^ - &name &name &name &num / &num 
+^ - &name &name &num / &num 
+^ get the &name you want and nothing else . 
+^ &website / 
+</text_normal>
+</message_body>
+</message>

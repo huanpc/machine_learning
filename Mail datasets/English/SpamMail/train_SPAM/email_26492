@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ whats you natural hair color ( &name : &name ) 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 00:06:18 -0400 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) 
+</text_normal>
+</message_body>
+</message>

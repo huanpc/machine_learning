@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ re : $ begin working from your home today $ 
+</text_normal>
+</subject>
+<date> mon, 07 apr 2003 22:09:07 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

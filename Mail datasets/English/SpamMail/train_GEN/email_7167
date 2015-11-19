@@ -1,0 +1,21 @@
+<message>
+<date> thu, 13 feb 2003 00:08:07 -0000 </date>
+<from> ac.uk </from>
+<to> com ac.uk </to>
+<subject>
+<text_normal> 
+
+^ ticket sales 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ tickets sold / ordered to date:- 
+^ &num students &num concessions &num adults {+ &num for soloists ) 
+^ i have only sent out tickets where i have received a cheque , so a lot will be collected and paid for on the door . 
+^ &name &char &name &name &name college &name &num &num 
+</text_normal>
+</message_body>
+</message>

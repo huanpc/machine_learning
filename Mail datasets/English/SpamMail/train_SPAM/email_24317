@@ -1,0 +1,25 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name : do n't lose your benefits 
+</text_normal>
+</subject>
+<date> tue, 8 apr 2003 11:30:01 +1200 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ or see below to unsubscribe . 
+^ &name : you may be eligible for up to $ &num , &num in benefits . 
+^ let help take your education , your career and your life to the next one simple form and receive : 
+^ - the insider 's guide to &name &name &name 
+^ - guide to $ &num million in military and veteran scholarships 
+^ - &name access to schools awarding credit for military service 
+^ - &name , our online tool to find military-friendly programs - now with over &num , &num schools 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ increase your gas &name by up to &num xg 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 10:11:16 -0500 </date>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ increase your gas &name by up to &num 
+^ see for 
+</text_normal>
+</message_body>
+</message>

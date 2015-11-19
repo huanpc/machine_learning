@@ -1,0 +1,21 @@
+<message>
+<date> wed, 1 may 2002 16:23:13 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ summeries 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i am writing to let you know that i cannot give you back your summeries for the last &num papers ( &name , implementing data cubes efficiently , and &name ) because the first paragraph of your summery ( sometimes more ) is identical to the first paragraph in each of these papers . 
+^ it was announced in class , on the newsgroup , and on the website that this was not allowed , so by rule these summeries will not appear in the folder that you get when you take the final exam . 
+^ please let me know if you have any questions , &name 
+</text_normal>
+</message_body>
+</message>

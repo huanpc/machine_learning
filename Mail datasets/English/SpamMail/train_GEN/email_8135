@@ -1,0 +1,21 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ found a great reference for c++ 
+</text_normal>
+</subject>
+<date> thu, 17 oct 2002 15:30:31 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &website / 
+^ for the iostream stuff anyway . 
+^ for the &name i suggest using &name 's reference , which is good , if a little technical at first ... 
+^ &name 
+</text_normal>
+</message_body>
+</message>

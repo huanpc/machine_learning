@@ -1,0 +1,33 @@
+<message>
+<date> fri, 31 jan 2003 11:02:21 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ ok &name , i 'm up for it . 
+^ i 'll email &name . 
+^ &char 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ guys , not sure if you are up for this , but i 've just got a contract through . 
+^ we need to be there from &num : &num to &num : &num am . 
+^ we will be paid &num pounds , and have &num and a half hours to enjoy the ball . 
+^ i 'd say this is a pretty good deal . 
+^ i also do n't fancy doing it myself . 
+^ bird in charge is &name &name , &email 
+^ &name &name 
+^ university of &name , &name college , &name road , &name , cb3 0dg 
+^ &name : &num &num &num email : &email 
+</text_embedded>
+</message_body>
+</message>

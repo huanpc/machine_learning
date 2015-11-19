@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ absolutely free shipping on &name &name / enterprise &num 
+</text_normal>
+</subject>
+<date> tue, 25 feb 2003 03:33:32 -0600 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

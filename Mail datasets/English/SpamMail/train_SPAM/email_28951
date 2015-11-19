@@ -1,0 +1,22 @@
+<message>
+<date> thu, 10 apr 2003 22:03:41 gmt </date>
+<from> special </from>
+<subject>
+<text_normal> 
+
+^ &name &name ? 
+^ free &name &name trial 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to>
+</to>
+<message_body>
+<text_normal> 
+
+^ you are receiving this email because you opted-in to receive special offers from &name through one of our marketing partners . 
+^ &name &name ? 
+^ free &name &name trial 
+</text_normal>
+</message_body>
+</message>

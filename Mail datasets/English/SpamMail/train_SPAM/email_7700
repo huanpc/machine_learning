@@ -1,0 +1,34 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ . ( )@ 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 23:09:43 +0900 </date>
+<content-type> text/html; charset="euc-kr" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &middot; &pound; . 
+^ : , , 
+^ ( ) 
+^ : , , ) &num 
+^ , , ) &num 
+^ , ) &num 
+^ : &pound; 
+^ - &pound; , 
+^ - &num , &pound; &pound; 
+^ : &num ( + , : &num ) 
+^ : &num 
+^ ( ) 
+^ : &num : &email 
+^ &website 
+^ [ ] . 
+^ [ &name ] . 
+^ if you do n't want to receive this mail anymore , click here [ &name ] 
+</text_normal>
+</message_body>
+</message>

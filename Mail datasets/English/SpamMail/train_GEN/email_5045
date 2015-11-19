@@ -1,0 +1,24 @@
+<message>
+<from> rug.nl </from>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 9 jul 2002 16:41:22 +0200 </date>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ i got the corrected copy from &name in the mail today . 
+^ i 'm afraid i 'm not going to get a chance to look at it until thursday , at the earliest . 
+^ i ca n't even send it on to &name without looking at it , since the front office staff ( the &num with the fax machine and all the stamps ) decided to take today off . 
+^ so , it 's not going to make it there by the 10th . 
+^ is that going to be okay ? 
+^ &name 
+</text_normal>
+</message_body>
+</message>

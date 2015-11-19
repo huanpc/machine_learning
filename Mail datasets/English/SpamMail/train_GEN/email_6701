@@ -1,0 +1,55 @@
+<message>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<subject>
+<text_normal> 
+
+^ re : open &name volunteers required 
+</text_normal>
+</subject>
+<date> wed, 3 jul 2002 09:35:34 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ thank you for volunteering your time at the open day . 
+^ it is really appreciated , not only by the lab but by the potential undergraduates , their parents and teachers . 
+^ please meet me at &name &num at &num : &num on friday ( or &num : &num if you have a demonstration to set up ) and we will discuss who will do what . 
+^ initially , we need some people to take on the role of &name directing visitors in to the &name &name theatres and asking them to move to the centre of the rows . 
+^ once dr &name has finished his preliminary lecture half the visitors will be asked to go up the stairs to the &name &num lab to see the demonstrations and chat with students about the tripos . 
+^ this is great fun and pretty chaotic ! 
+^ the other half will stay behind to listen to a lecture from dr &name &name . 
+^ after about &num minutes we will change sides . 
+^ we then need a couple of people to go back downstairs to lead the second half upstairs , and another couple to take the first half down the back stairs to the back door of the &name &name theatre for dr &name 's talk . 
+^ you can then start your demonstrations and chatting all over again . 
+^ if you have any ideas about things to show visitors that have particularly inspired you we would like to hear about them . 
+^ ask dr &name &name mentioned , we will pay you &num an hour and your travel expenses ( we will need your tickets or receipts to arrange reimbursement so please hang on to them ) . 
+^ if you will be driving you can park at the lab and catch the &num into &name street - we 'll pay the fare ! 
+^ once again , thank you . 
+^ &name 
+^ &org student administration &name &name building &name &name &name &name avenue &name &name &name , &name &name &name telephone : &num ( &num ) &num &name : &num ( &num ) &num email : &email 
+^ &website / 
+^ are you still looking for volunteers ? 
+^ i suppose i could come back up on 
+^ friday since a train ticket from &name is not too much and i know how helpful i found speaking to students when i was looking round , so it 'd be good to give something back . 
+^ best regards , 
+^ &name 
+^ on tuesday &num &name &num &num : &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i have been overwhelmed by volunteers so far so this is now a gentle nudge . 
+^ if you can spare an afternoon we would very much like your help : &num thing prospective students ask is whether they will be able to talk to existing students at the open day . 
+^ the annual computer science open &name will be held on friday july 5th from 
+^ 14: &num until &num : &num and we are looking for about &num volunteers to assist for various roles . 
+^ we will need part ibs who can demonstrate their group projects on &name &num machines ( if you want to show off your project and you do n't think it will work on the machines in &name &num please contact dr &name &name on &email ) . 
+^ we would like part iis to also demonstrate their working projects , and part ias who would be happy to talk with potential students about your experiences of the computer science tripos . 
+^ so , if you are going to be in or close to &name on the 5th and do n't mind chatting with lots of &name students , parents and teachers about what you have been doing , please let me know . 
+^ you will be paid ! 
+^ ( travel expenses within reason will also be paid . ) 
+^ many thanks , &name 
+^ &org student administration &name &name building &name &name &name &name avenue &name &name &name , &name &name &name telephone : &num ( &num ) &num &name : &num ( &num ) &num email : &email 
+^ &website / 
+</text_embedded>
+</message_body>
+</message>

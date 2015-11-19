@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-2022-jp ? 
+^ &char ? 
+^ &name ? 
+</text_normal>
+</subject>
+<date> sun, 06 apr 2003 03:50:54 +0900 </date>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

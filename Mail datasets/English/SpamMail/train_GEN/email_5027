@@ -1,0 +1,21 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : scheduling a talk for the 26th ? 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 14 nov 2001 09:40:43 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i booked &name from &num to &name &name 26th and from &num to &num &name 27th . 
+^ is that ok ? 
+^ &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<date> sat, 23 jun 2001 05:06:57 edt </date>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<to> ac.uk </to>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ &char , it 's on it 's way . 
+^ 1st class baby ! 
+^ but we 're off to &name soon so &name 
+^ &name xx 
+</text_normal>
+</message_body>
+</message>

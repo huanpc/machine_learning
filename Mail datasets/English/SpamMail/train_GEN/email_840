@@ -1,0 +1,45 @@
+<message>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=utf-8 </content-type>
+<subject>
+<text_normal> 
+
+^ a message from &name 
+</text_normal>
+</subject>
+<date> sat, 07 jul 2001 11:45:00 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ thanks very much for providing that information concerning the telephone bill . 
+^ well , how are you ? 
+^ i sent you a text message this morning , but you did n't reply . 
+^ are you enjoying the summer weather ? 
+^ i am - we are living under a thick and chilly sea fog , and have been for the past &num days . 
+^ i 've just finished my week in my dad 's bookshop . 
+^ it was quite good . 
+^ i read some books , listened to music , did some work , sent some text messages , etc. oh , and sold books too ! 
+^ next week i 'm painting our sitting room and starting to make a cobbled path . 
+^ i 'm also meant to finish off our stone roundabout thingy , but it 's boring ! 
+^ i 'm quite happy today ! 
+^ tomorrow i shall hopefully go for along cycle ride in the morning and attempt some of my dissertation in the afternoon . 
+^ my parents areaway to visit my grandmother for the weekend , so it 's just me and my brother at home . 
+^ i got back from &name last sunday evening . 
+^ i said goodbye to the flat and handed in the keys ( or rather , my parents did as they were staying in &name 's for a few days and there was no one at reception when i was leaving ) . 
+^ the end of a chapter ( and a gloriously enjoyable on at that ) in my life . 
+^ that means i get to turn over the page . 
+^ i 've never thought of that before ! 
+^ so , what are you whiling away your time with ? 
+^ have you found any jobs you want to do this summer ? 
+^ are your various computers all well ? 
+^ have you heard from &name ? 
+^ i think it must be time for another mass-update . 
+^ definitely , i 'd guess tomorrow . 
+^ well , i 'd better go 
+^ very best wishes , 
+^ &name
+</text_normal>
+</message_body>
+</message>

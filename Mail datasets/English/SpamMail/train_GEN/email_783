@@ -1,0 +1,46 @@
+<message>
+<date> fri, 12 jan 2001 16:09:11 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : munching on tree bark 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ how silly of me . 
+^ &name 
+^ &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ why , the englishman of course ! 
+^ &char 
+^ &name wrote : 
+<text_embedded> 
+
+^ pray tell , good sir , who is the foe ? 
+^ &name the gracious 
+^ &name wrote : 
+<text_embedded> 
+
+^ good afternoon &name . 
+^ hope you had a great day and that your exams went smooooothly . 
+^ in &num &num / &num hours i will have completed an eight-hour day at the science site ! 
+^ no rest for the &name eh ? ! 
+^ &name is coming round for dinner tonight ! 
+^ but then maybe you 'll not get this message until tomorrow ( which will then , of course , be today ) at which point you will realise that this whole message contains virtually useless information . 
+^ in fact one might say that our society is in danger of drowning in a sea of useless information - what do you think sire ? 
+^ anyway , " till we meet again and the foe is vanquished ... 
+^ &char 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

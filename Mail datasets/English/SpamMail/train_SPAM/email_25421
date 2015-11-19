@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<date> thu, 03 apr 2003 10:04:49 -0700 </date>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ &name &name 's for the &name . 
+^ &name 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+^ tired of email ads 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ someone is searching for you ... 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=fmvokubncctsbdpmhchl </content-type>
+<date> sun, 23 mar 2003 19:07:13 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

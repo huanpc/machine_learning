@@ -1,0 +1,73 @@
+<message>
+<date> tue, 18 mar 2003 18:56:34 +0000 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ re : coocoocachoo 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hello ! ! ! ! 
+^ was out with army mate last night . 
+^ &name was not in. will do best to see you soonish . 
+^ work is doing head in- too much and frustrating ! ! 
+^ first &num exams were fine 
+^ &name ! ! 
+^ back to it methinks 
+^ hope you is well ! 
+^ &name x 
+^ at &num : &num &num / &num / &num &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name &name , 
+^ you looked very cosy in the pub this evening : i was on my way round to see you and spotted you through the window , but i was a bit too scared to come in the back door since i ca n't really claim to be a regular . 
+^ &smiley 
+^ anyway , you looked okay so i wo n't ask . 
+^ &smiley but how are your exams going etc ? 
+^ i hope you still have your stress levels under control . 
+^ i 'm sure there was something else i wanted to say , but never mind .. &smiley 
+^ see you , 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ " the profession of medicine , and surgery , must always rank as the most noble that man can adopt . 
+^ the spectacle of a doctor in action among soldiers , in equal danger and with equal courage , saving life when all others are taking it , allaying pain when all others are causing it , is one which must always seem glorious , whether to &name or man . 
+^ it is impossible to imagine any situation from which a human being might leave this world , and embark on the hazards of the unknown . " &name &char &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hello ! ! ! ! 
+^ was out with army mate last night . 
+^ &name was not in. will do best to see you soonish . 
+^ work is doing head in- too much and frustrating ! ! 
+^ first &num exams were fine 
+^ &name ! ! 
+^ back to it methinks 
+^ hope you is well ! 
+^ &name x 
+^ at &num : &num &num / &num / &num &num , you wrote : &name &name , 
+^ you looked very cosy in the pub this evening : i was on my way round to see you and spotted you through the window , but i was a bit too scared to come in the back door since i ca n't really claim to be a regular . 
+^ &smiley 
+^ anyway , you looked okay so i wo n't ask . 
+^ &smiley but how are your exams going etc ? 
+^ i hope you still have your stress levels under control . 
+^ i 'm sure there was something else i wanted to say , but never mind .. &smiley 
+^ see you , 
+^ &name 
+^ &name profession of medicine , and surgery , must always rank as the most noble that man can adopt . 
+^ the spectacle of a doctor in action among soldiers , in equal danger and with equal courage , saving life when all others are taking it , allaying pain when all others are causing it , is one which must always seem glorious , whether to &name or man . 
+^ it is impossible to imagine any situation from which a human being might leave this world , and embark on the hazards of the &name &name &char &name 
+</text_normal>
+</part>
+</message_body>
+</message>

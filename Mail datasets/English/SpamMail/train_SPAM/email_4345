@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : want a king-size &name in &num week ? 
+^ &name &char 
+</text_normal>
+</subject>
+<date> fri, 28 mar 03 01:04:58 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

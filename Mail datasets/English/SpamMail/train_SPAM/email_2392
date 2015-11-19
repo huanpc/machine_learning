@@ -1,0 +1,24 @@
+<message>
+<date> mon, 24 mar 2003 12:11:59 -0500 (est) </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ houses for sale from $ &num , &num - &name , &name , &name . . . ... 
+</text_normal>
+</subject>
+<content-type> text/html; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website , please click on the unsubscribe link below . 
+^ your privacy is extremely important to us . 
+^ as a leader in permission-based email marketing , we are committed to delivering a highly rewarding experience , with offers that include bargains , entertainment , and money-making ideas . 
+^ &website . 
+^ click here to unsubscribe . 
+^ do not reply to this e-mail to unsubscribe , it will not be processed . 
+</text_normal>
+</message_body>
+</message>

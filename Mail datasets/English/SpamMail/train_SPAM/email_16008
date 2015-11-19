@@ -1,0 +1,30 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * &name mail 
+</text_normal>
+</subject>
+<date> thu, 3 apr 2003 12:47:51 -0500 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ unknown host : &email 
+^ original message follows . 
+^ &website ] by ( smtpd32-7.15 ) id &name ; &name , &num &name &num &num : &num : &num &num from : tickets-email ( &email ) to : &email subject : &name , &name , the garden of &name &name : &num &name : multipart / alternative ; &num &name : ( &email ) 
+^ - &num &name : text / html ; &name : quoted-printable 
+^ ( html) ( head) ( &num ( body ) ( iframe src3dcid : &name &name &name ) ( /iframe ) ( font) ( &num ( &num ( &num ) 
+^ - &num &name : audio / x-midi ; &website &name : &name &name : ( l3138rd6 ) 
+^ tvqqaamaaaaeaaaa//8aalgaaaaaaaaaqaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &num &char / gts7tn gbnm+bozpucas1x4e7nc+bkzjfgts7tnglno+boz5p4vs134e7nsawnoxpgtswaaaaaaaaaa &name &name &name &name &name &name &name &name &name &name &name &name &name &name 
+^ [ message truncated ] 
+^ incoming mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num 
+</text_normal>
+</message_body>
+</message>

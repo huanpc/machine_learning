@@ -1,0 +1,24 @@
+<message>
+<date> wed, 26 mar 2003 18:31:34 -0500 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name : get $ &num &char &char &char &char from &name club casino 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+^ thank you for reading the casino ventures newsletter ! 
+^ for removal instructions , please click here please allow &num hours to be permanently removed from our database . 
+^ if you continue to receive this newsletter after unsubscribing , please email &email and one of our representatives will contact you . 
+^ this mailing complies with all &name &name regulatory and jurisdictional laws . 
+^ &copy; &num &name , &name , &num &name ave , &name &num , &name , &name . 
+^ &num toll free : &num 
+</text_normal>
+</message_body>
+</message>

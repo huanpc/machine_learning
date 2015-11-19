@@ -1,0 +1,18 @@
+<message>
+<subject>
+<text_normal> 
+
+^ suggestions for improve your software ( &name &name ) . 
+</text_normal>
+</subject>
+<date> fri, 1 nov 2002 14:31:24 +0100 </date>
+<content-type> multipart/related; type="multipart/alternative" </content-type>
+<from> com </from>
+<to> com </to>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="image/gif">
+</part>
+</message_body>
+</message>

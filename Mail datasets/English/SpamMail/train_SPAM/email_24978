@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ scrabble &num on &name &name , just pay shipping 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> tue, 8 apr 2003 15:47:31 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

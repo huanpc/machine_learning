@@ -1,0 +1,22 @@
+<message>
+<date> mon, 2 dec 2002 16:00:20 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ xml 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ why does this validate in relax &name ? ? 
+^ thanks , 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

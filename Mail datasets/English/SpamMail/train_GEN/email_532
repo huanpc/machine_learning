@@ -1,0 +1,30 @@
+<message>
+<to> com </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ an answer to your query 
+</text_normal>
+</subject>
+<date> mon, 02 jul 2001 22:45:09 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i hope you are well . 
+^ if you are using netscape navigator , go to " &name " , " preferences " , " clear &name &name " . 
+^ if not , then tell me what software you are using and i 'll try and let you know . 
+^ i 'll write a longer e-mail to you tomorrow evening , because i 'm really tired and it 's horribly hot here . 
+^ it was good to see you online this evening , even if only for a short while . 
+^ i hope you enjoy your party at the weekend . 
+^ why are you a little nervous about it , if you do n't mind me asking ? 
+^ my week is n't very exciting either - sitting in a bookshop all day . 
+^ well , have a good day tomorrow . 
+^ very best wishes , 
+^ &name 
+^ &name the telephone bill came today - &pound; &num , but i 'll send a flat e-mail out within a day or &num when i 've added everything up . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,16 @@
+<message>
+<date> sun, 23 mar 2003 15:01:37 -0800 (pst) </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * $ &num confirmed . 
+^ please verify your identity . 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,30 @@
+<message>
+<date> tue, 11 mar 2003 13:59:30 +0000 </date>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ urgent 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ okay , our summer holiday this year is going to be to &name . 
+^ we will stay in a large house there . 
+^ cost should be around &pound; &num each ( i hope but do n't know ) . 
+^ date is provisionally the first week in august , but let me know if that does n't suit . 
+^ i think i know that &name , &name , &name and i are keen to go . 
+^ &name , &name and &name ca n't come . 
+^ that leaves &name , &name , &name and &name . 
+^ anyway , i need to know the following from everyone ( except &name , &name and &name - unless their positions have changed ) by thursday &name : 
+^ &num - do you want to come ( yes / no ) 
+^ &num - can you definitely come ( yes / no ) 
+^ i would like to stress that it is not easy to organise a holiday for people who hardly give me any information and thereby appear to lack any interest in the whole affair . 
+^ i realise you 're all busy , but i only need &num numbers and &num words . 
+^ thank you . 
+^ &name
+</text_normal>
+</message_body>
+</message>

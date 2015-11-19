@@ -1,0 +1,43 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name wkshp draft 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 25 jan 2002 19:40:00 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_embedded> 
+
+^ &name and &name ( &num ? ? ) , 
+</text_embedded>
+<text_normal> 
+
+^ &name , &name and &name ( &num ) 
+^ &name , &name &name and &name flickinger } { an algebra for semantic construction in constraint-based grammars } { 39th &name &name of the &org ( &name &name &name , &name { 2001 } 
+^ but we did n't talk about &name style stuff , or relations in that paper , so that 's a bit obscure as it stands 
+^ not &name - that 's &name ( and was n't actually any more underspecified than the original &name ) . 
+^ &name for the stuff i 'm doing now , or &name for the original stuff . 
+^ how about replacing the bit below : 
+</text_normal>
+<text_embedded> 
+
+^ the logic developed in &name and &name ( &num ? ? ) , in effect , defines such a scheme in which predicate names and variables can be underspecified to an arbitrary extent in a parsons-style minimal recursion semantics ( &name ) with explicit equalities representing ( factored ) variable bindings . 
+^ for instance , from { it the couple were married } , a system might extract : ( &name &name &name ) ( marry u3 ) ( couple &name ) . 
+^ however , the fully specified test suite &name would add : ( &name &name &name ) ( &name &name ) ( &name &name &name ) typing and binding variables and underspecified &name relations . 
+</text_embedded>
+<text_normal> 
+
+^ with the following : 
+^ the approach to underspecified logical representation developed in &name et &name ( &num ) and &name et &name ( &num ) can be extended to allow semantics to be underspecified to a much greater degree . 
+^ in robust &name ( &name ) , a parsons-style notation is used , with explicit equalities representing variable bindings . 
+^ for instance , from { it the couple were married } , a system might extract : ( &name &name &name ) ( marry u3 ) ( couple &name ) . 
+^ however , the fully specified test suite &name would include ( &name &name &name ) ( marry e2 ) ( couple &name ) , &name , &name , where arg2 is formally a specialization of &name and the equalities also add information . 
+^ ( whoops , i 'm late - maybe more later ) 
+^ &name 
+</text_normal>
+</message_body>
+</message>

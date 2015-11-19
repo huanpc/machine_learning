@@ -1,0 +1,16 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ photos ! 
+</text_normal>
+</subject>
+<date> fri, 2 jan 1998 17:39:08 -0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+</message_body>
+</message>

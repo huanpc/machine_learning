@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ get &name today delivered to you at &num off 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> fri, 28 mar 2003 21:46:46 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,28 @@
+<message>
+<date> sun, 18 may 2003 17:34:27 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ reminder : participation in psychology study 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ this is to remind you that you are booked to take part in our study on 
+^ tuesday , may &num , &num , at &num pm . 
+^ please find directions below and allow yourself enough time to find the venue . 
+^ payment will be &pound; &num . 
+^ looking forward to seeing you then . 
+^ &name regards , 
+^ &name ( &email ) 
+^ directions : &name &name museum site via the gate on free school lane ( free school lane is a tiny alleyway off bene ' &char &name , opposite to " the &name " ) . 
+^ enter the large archway , and then the main door to the left with a sign for 'social and political sciences " . 
+^ we are on the first floor , room &num ( there will &name . 
+</text_normal>
+</message_body>
+</message>

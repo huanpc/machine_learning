@@ -1,0 +1,14 @@
+<message>
+<date> tue, 8 apr 2003 14:00:00 -0800 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ get your &char &char &name online - in &num months ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative;    boundary=mimeboundary </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> sun, 23 dec 2001 13:45:15 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks &name ! 
+^ i 've passed your address on to a couple of other people who may wish to e-mail your bro , just so your are n't shocked to see weird names in your inbox . 
+^ thanks very much again ! 
+^ &name 
+</text_normal>
+</message_body>
+</message>

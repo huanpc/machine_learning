@@ -1,0 +1,38 @@
+<message>
+<date> wed, 22 jan 2003 14:19:53 -0500 (est) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : &name in au &num ? 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ thanks for your email and remembering me &smiley 
+^ after much discussion with my friends , family , and advisors , i have decided that i unfortunately must decline this wonderful opportunity to study at the university of &name in &num . 
+^ although the opportunity to work with dr. &name is really appealing , and the cross-departmental collaborative atmosphere at &name would really facilitate my interests in combining database technology and the biological sciences , i have decided that the location of &name does n't fit with where i want to spend the next &num years of my life . 
+^ this year in &name has made me realize that the location of a school can really affect quality of life , and being near my family and friends in northern &name or &name &name has become increasingly important to me . 
+^ not taking the opportunity to study at one of the top &num schools in computer science in &name might sound ridiculous , but for me extraneous factors take probably a higher priority than they should . 
+^ my plans for next year are not at all clear , but i have applied to a few schools in &name &name and &name &name , and if i am not accepted then i think i will find a job near &name . 
+^ i hope that this email is sent in time so that my decision is reflected in your calculation of the target number of &num applicants . 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi , &name , 
+^ we 're going to be deciding our target number of admissions soon and i wanted to be sure that we took into account admitted students who are deferring their decisions until &num . 
+^ i hope you 've decided to join us this fall in our new building . 
+^ : ) 
+^ please let me know what you 're planning so i can follow through if you 're starting at the &name . 
+^ i hope all goes well . 
+^ thanks , 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

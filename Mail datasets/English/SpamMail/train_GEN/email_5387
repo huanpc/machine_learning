@@ -1,0 +1,24 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : question on &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 22 apr 2003 18:07:26 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_embedded> 
+
+^ i just wonder if the evaluation metric for assessing list answers in a &name system ( ( no. of distinct instances)/ ( target no. of instances ) ) should be a recall instead of accuracy ? 
+</text_embedded>
+<text_normal> 
+
+^ correct . 
+^ well-spotted . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

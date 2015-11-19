@@ -1,0 +1,31 @@
+<message>
+<from> com </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ &name &name 's report 
+</text_normal>
+</subject>
+<date> mon, 13 jan 2003 19:16:11 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ i 've just sent the &name &name - &num - to the printers . 
+^ it will run out at &num pp this time , which should mean a reduced bill . 
+^ the size of the &name has been reducing over the last few issues . 
+^ &name &name ceases to be a regular contributor with this issue and &name &name will probably not provide a regular series when his &name series finishes . 
+^ we will have lost one of the mainstays and i can foresee the journal becoming thinner rather than fatter . 
+^ i think that the growing use of the &name has something to do with the reducing size of the journal . 
+^ i am also increasingly pressed for time and it is difficult to persuade people to contribute material - most contributors are writing on their own initiative . 
+^ &name &name is doing invaluable work in translating all the diagrams to &name , which is making production significantly faster . 
+^ my thanks go to him . 
+^ &num way of adding to the content would be to start a &name section . 
+^ this would require someone willing to run it - collecting the problems , constructing the sgf files and writing the copy . 
+^ this mythical person needs to be a fairly strong player and someone able to keep up the effort and deliver consistently . 
+^ if anyone has any suggestions as to who might take on this role i would be glad to hear from them . 
+^ &name
+</text_normal>
+</message_body>
+</message>

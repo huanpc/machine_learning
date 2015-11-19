@@ -1,0 +1,23 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name hallo 
+</text_normal>
+</subject>
+<date> thu, 3 apr 2003 04:58:22 +0200 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ der &name mit dir war echt voll sch' &char ! ! 
+^ &name doch auch mal auf meine &name , hab jetzt auch ne &name ! . 
+^ hier der link : &website / w' rde mich freuen wenn du mal vorbei schaust ... &name &name &name bis demn' chst meld dich mal wieder ! 
+^ ciao &name 
+</text_normal>
+</message_body>
+</message>

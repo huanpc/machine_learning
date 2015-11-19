@@ -1,0 +1,22 @@
+<message>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ how to change your default printer 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 20 aug 2001 16:38:40 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ when you have moved to the new building you will probably find that your nearest printer is not the same as in the old lab . 
+^ if you are a &name user you will probably want to change your default printer . 
+^ this is simple , but if you do n't know how instructions on how to do this for general &name commands and exmh are at : &website 
+^ the locations of printers will be given by lpq &char , and maps to allow you to figure out where those locations are can be reached from the same &name as above . 
+^ &name
+</text_normal>
+</message_body>
+</message>

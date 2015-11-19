@@ -1,0 +1,21 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hello again 
+</text_normal>
+</subject>
+<date> tue, 30 jul 2002 16:35:05 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , glad i could make it on sunday it was nice to see &char and meet &name too . 
+^ i hope i had a nice time . 
+^ my adress is : &num &name crescent flat &num &name &name &name 
+^ &name : &num &num 
+</text_normal>
+</message_body>
+</message>

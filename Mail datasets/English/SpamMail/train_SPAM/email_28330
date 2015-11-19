@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ here are my &name &smiley 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 18:19:06 -0600 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hey you ! 
+^ &smiley 
+^ you can see my pictures at my webpage below ! ! 
+^ &website 
+^ if you can see the link below then it will take you there also &smiley 
+^ ( a href' &website ) 
+^ 4724zmpc7-l9 
+</text_normal>
+</message_body>
+</message>

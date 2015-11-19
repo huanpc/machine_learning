@@ -1,0 +1,24 @@
+<message>
+<date> tue, 25 jun 2002 13:31:05 +0200 </date>
+<from>
+</from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ selfview &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ many thanks for your great program selfview &num . 
+^ i have a suggestion : would it be possible to save preferences in a ini-file , which are loaded at program-start ? 
+^ and secondary : is there a way to embed image-files ( gif or jpg ) ? 
+^ best wishes &name &name 
+^ mailto : &email 
+</text_normal>
+</message_body>
+</message>

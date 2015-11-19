@@ -1,0 +1,52 @@
+<message>
+<date> wed, 5 mar 2003 09:22:52 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : email 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ wonderful &name . 
+^ there might be some sort of " export " command in your email prog . 
+^ or the emails might well already be in a text file on your computer somewhere . 
+^ do you use &name &name ? 
+^ as regards what type of email , i 'll take anything you 've got ! 
+^ in terms of usage , they 're just for my use at the moment , but if anything further is to happen with them i 'll chat with you about it before . 
+^ also , some kind of anonymity processing will almost certainly be done on them before they are actually used . 
+^ thanks &name ! 
+^ &name 
+^ &name wed , &num mar &num , &char &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ of course ! 
+^ ( assuming i get an acknowledgement if you publish . ) now , what sort of emails would you like , and in what format ? 
+^ i have personal &num , &num from cu , college , etc. .. shall i just copy them to a text file and email you them ? 
+^ might take a day or so if i have to check them for sensitive content , but i doubt it . 
+^ also , are they just for your use , or will other people see them ? 
+^ ( i.e. do you think i need people 's permission to use their emails ? 
+^ no , i doubt it . ) 
+^ have a good day ! 
+^ &name &name wrote : 
+<text_embedded> 
+
+^ &name , 
+^ for my masters project i 'm going to be building an email classification system , with the ultimate goal of distinguishing junk emails from non-junk emails . 
+^ thing is , that i need to get hold of a data set of non-junk emails to train and test the system on . 
+^ now , i remembered that you keep all your past emails , and so i was wondering if you would consider donating a copy of them ( or of a non-sensitive subset of them ! ) to me for my work . 
+^ let me know what you think . 
+^ &name 
+^ ps . 
+^ thanks for the card - what a great picture , and what a good day that was as well ! 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

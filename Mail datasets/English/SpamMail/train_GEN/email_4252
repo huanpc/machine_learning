@@ -1,0 +1,25 @@
+<message>
+<date> mon, 06 jan 2003 14:23:24 +0000 </date>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ city of &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name new year to you all ! 
+^ training will be going ahead tomorrow evening , frozen pitch permitting of course at the usual times of : 
+^ &num &num : &name 
+^ &num &num : men 
+^ men 's fixtures this weekend are : saturday 11th : &name 2nd &name &char &name &name boys at 2.30pm at &name &name 3rd / 4th &name &char &name at &name at either &num or &name . 
+^ sunday 12th : &name 1st &name &char &name at &name at 1.30pm ( a postponed league game ) 
+^ see you tomorrow , i hope . . . . ... 
+^ &name dr. &name &name | department of materials | &name university | parks road &name : &num &num &name , &name . 
+^ |fax : &num &num &name &name |email : &email 
+</text_normal>
+</message_body>
+</message>

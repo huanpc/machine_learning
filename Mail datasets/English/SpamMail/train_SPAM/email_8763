@@ -1,0 +1,19 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ did you know that ( &name : &name ) 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<date> mon, 31 mar 2003 12:35:23 -0900 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ thank you but no more promos please 
+</text_normal>
+</message_body>
+</message>

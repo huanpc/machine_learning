@@ -1,0 +1,36 @@
+<message>
+<date> mon, 25 sep 2000 20:01:05 +0100 (bst) </date>
+<to> co.uk </to>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ keyboards 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ well , i am having difficulty choosing between &num keyboards . 
+^ perhaps you will be able to help me out 
+^ &name &name &num &name &name ; 
+^ no of &name : &num &num polyphonic notes : &num &num sounds : &num &num rhythms : &num &num track / &name &name : &num &num / &num &name &name : &num &num &name : yes yes &name speaker : yes yes &name &name : yes yes &name no yes touch &name : yes yes &name &name : yes yes &name : yes yes &name &name : yes yes &name : &pound; &num &pound; &num 
+^ now , do you know what &name is ? 
+^ is &name important , and what is it ? 
+^ are track / song memories important ? 
+^ what are polyphonic notes are they important ? 
+^ is the number of sounds important ? 
+^ i.e. would a slightly less expensive model be a lot worse than these ? 
+^ thanks for your anticipated help ! 
+^ please let me know a.s.a.p. if possible , as i have to buy it tomorrow or wednesday ! 
+^ also , would you be interested in bringing kitchen scissors , and dusters to the flat as &name forgot them ? 
+^ also if you have a toaster , &name forgot that too ! 
+^ this would be very helpful . 
+^ see you soon , 
+^ &name
+</text_normal>
+</message_body>
+</message>

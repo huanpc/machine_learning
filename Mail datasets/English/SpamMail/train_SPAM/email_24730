@@ -1,0 +1,28 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your &name free health care consultation ! 
+</text_normal>
+</subject>
+<content-type> text/html; </content-type>
+<date> tue, 8 apr 2003 10:06:43 -0400 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &num 
+^ do n't go another day without healthcare ! 
+^ &website 
+^ guaranteed medical card ! 
+^ everyone gets approved ! 
+^ free health care consultation ! 
+^ ( &name only ) 
+^ &website 
+^ the e-mail address is &website ] 
+^ or reply to this message with the word &quot;unsubscribe&quot; in the subject line . 
+^ if you feel this is unsolicited mail , reply to this message with the word &quot;abuse&quot; in the subject and your reasons in the body of the message . 
+</text_normal>
+</message_body>
+</message>

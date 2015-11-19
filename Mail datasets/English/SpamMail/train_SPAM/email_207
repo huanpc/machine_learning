@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ windows-1252 ? 
+^ &char ? 
+^ all &name &num &name ! ? 
+</text_normal>
+</subject>
+<date> sat, mar 22 2003 01:50:10  +1200 </date>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

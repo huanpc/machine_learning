@@ -1,0 +1,20 @@
+<message>
+<date> fri, 11 apr 2003 04:53:35 gmt </date>
+<from> special </from>
+<subject>
+<text_normal> 
+
+^ see how &name we 've gone 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you are receiving this email because you opted-in to receive special offers from &name through one of our marketing partners . 
+^ see how &name we 've gone 
+^ to unsubscribe from this mailing list : click 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * &name &name today - up to $ &num , no credit check 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; class-id=1l5qpqwj@alw1554p1u-364017 </content-type>
+<date> fri, 4 apr 2003 20:50:52 est </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

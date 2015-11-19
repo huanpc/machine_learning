@@ -1,0 +1,114 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name &name &name ms02-050 : &name &name &name could enable &name &name ( q328145 ) ( v3.0 ) 
+</text_normal>
+</subject>
+<date> tue, 10 sep 2002 01:04:04 -0700 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ 
+^ - ----begin &name signed message----- 
+^ - ---------------------------------------------------------------------- title : &name &name &name could enable &name &name ( q328145 ) released : september &num , &num &name : september &num , &num ( version &num ) &name : &name &name , &name office for &name , &name &name explorer for &name , or &name &name &name for &name . 
+^ &name : identity spoofing . 
+^ &name &name : critical 
+^ &name : ms02-050 
+^ &name encourages customers to review the security bulletin at : &website . 
+^ - ---------------------------------------------------------------------- 
+^ reason for &name : &name normally , &name releases the patches for all affected products simultaneously , in order to provide a complete solution . 
+^ however , exploit code for this issue has already been posted , and we are therefore releasing the patches as they become available , in order to allow customers to begin protecting their systems as quickly as possible . 
+^ the bulletin has been updated to include patch availability for windows &num . 
+^ patches are now available for : 
+^ - &name &num 
+^ - &name &num second edition 
+^ - &name me 
+^ - &name &name &num 
+^ - &name &name &num , terminal &name &name 
+^ - &name &num 
+^ - &name &name 
+^ - &name &name &num bit edition 
+^ patches will be available shortly for : 
+^ - &name office &name for &name 
+^ - &name office &num for &name 
+^ - &name office &num for the &name 
+^ - &name &name explorer for &name ( for &name &num to 9.x ) 
+^ - &name &name explorer for &name ( for &name &char ) 
+^ - &name &name &name &num for &name 
+^ customers should also review the caveats section of the bulletin which discusses a warning message that may be displayed after installing the patch . 
+^ updated patches are under development to eliminate this side effect . 
+^ &name : &name &website certificate standard defines several optional fields that can be included in a digital certificate . 
+^ one of these is the basic constraints field , which indicates the maximum allowable length of the certificate 's chain and whether the certificate is a certificate authority or an end-entity certificate . 
+^ however , the &name within &name that construct and validate certificate chains ( &name ( ) , &name ( ) , and &name ( ) ) do not check the basic constraints field . 
+^ the same flaw , unrelated to &name , is also present in several &name products for &name . 
+^ the vulnerability could enable an attacker who had a valid end-entity certificate to issue a subordinate certificate that , although bogus , would nevertheless pass validation . 
+^ because &name is used by a wide range of applications , this could enable a variety of identity spoofing attacks . 
+^ these are discussed in detail in the bulletin &name , but could include : 
+^ - setting up a web site that poses as a different web site , and " proving " its identity by establishing an &name session as the legitimate web site . 
+^ - sending emails signed using a digital certificate that purportedly belongs to a different user . 
+^ - &name certificate-based authentication systems to gain entry as a highly privileged user . 
+^ - digitally signing malware using an authenticode certificate that claims to have been issued to a company users might trust . 
+^ mitigating factors : &name overall : 
+^ - the user could always manually check a certificate chain , and might notice in the case of a spoofed chain that there was an unfamiliar intermediate ca . 
+^ - unless the attacker 's digital certificate were issued by &char ca in the user 's trust list , the certificate would generate a warning when validated . 
+^ - the attacker could only spoof certificates of the same type as the one he or she possessed . 
+^ in the case where the attacker attempted an attack using a high-value certificate such as authenticode certificates , this would necessitate obtaining a legitimate certificate of the same type - which could require the attacker to prove his or her identity or entitlement to the issuing ca . 
+^ web &name &name : 
+^ - the vulnerability provides no way for the attacker to cause the user to visit the attacker 's web site . 
+^ the attacker would need to redirect the user to a site under the attacker 's control using a method such as &name poisoning . 
+^ as discussed in the bulletin &name , this is extremely difficult to carry out in practice . 
+^ - the vulnerability could not be used to extract information from the user 's computer . 
+^ the vulnerability could only be used by an attacker as a means of convincing a user that he or she has reached a trusted site , in the hope of persuading the user to voluntarily provide sensitive data . 
+^ email signing : 
+^ - the " from " address on the spoofed mail would need to match the one specified in the certificate , giving rise to either of &num scenarios if a recipient replied to the mail . 
+^ in the case where the " from " and 'reply-to " fields matched , replies would be sent to victim of the attack rather than the attacker . 
+^ in the case where the fields did n't match , replies would obviously be addressed to someone other than ostensible sender . 
+^ either case could be a tip-off that an attack was underway . 
+^ certificate-based authentication : 
+^ - in most cases where certificates are used for user authentication , additional information contained within the certificate is necessary to complete the authentication . 
+^ the type and format of such data typically varies with every installation , and as a result significant insider information would likely be required for a successful attack . 
+^ &name &name : 
+^ - to the best of &name 's knowledge , such an attack could not be carried out using any commercial ca 's authenticode certificates . 
+^ these certificates contain policy information that causes the basic constraints field to be correctly evaluated , and none allow end-entity certificates to act as &name . 
+^ - even if an attack were successfully carried out using an authenticode certificate that had been issued by a corporate &name , it would n't be possible to avoid warning messages , as trust in authenticode is brokered on a per-certificate , not per-name , basis . 
+^ &name &name : &name &name &name platforms : 
+^ - &name systems : critical 
+^ - &name systems : critical 
+^ - client systems : critical 
+^ &name programs for &name : 
+^ - &name systems : none 
+^ - &name systems : none 
+^ - client systems : moderate 
+^ &name availability : 3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d 
+^ - - patches are available to fix this vulnerability for windows &num , &name &num second edition , &name &name , &name &name &num , &name &name &num , terminal server edition , &name &num , &name &name , and &name &name &num bit edition . 
+^ patches for windows &num , &name office for &name , &name &name explorer for &name , and &name &name &name for &name will be released shortly . 
+^ please read the security bulletin at &website for information on obtaining this patch . 
+^ - --------------------------------------------------------------------- 
+^ the information provided in the &name knowledge base is provided " as is " without warranty of any kind . 
+^ &name &name all warranties , either express or implied , including the warranties of merchantability and fitness for a particular purpose . 
+^ in no event shall microsoft corporation or its suppliers be liable for any damages whatsoever including direct , indirect , incidental , consequential , loss of business profits or special damages , even if &name corporation or its suppliers have been advised of the possibility of such damages . 
+^ some states do not allow the exclusion or limitation of liability for consequential or incidental damages so the foregoing limitation may not apply . 
+^ - ----begin &name signature----- version : &name &num 
+^ - ----end &name signature----- 
+^ &num 
+^ you have received this e-mail bulletin because of your subscription to the &name &name &name notification service . 
+^ for more information on this service , please visit &website . 
+^ to verify the digital signature on this bulletin , please download our &name key at &website . 
+^ to unsubscribe from the &name &name &name service , please visit the &name &name center at &website 
+^ if you do not wish to use &name passport , you can unsubscribe from the &name &name &name service via email as described below : send an email to unsubscribe to the service by following these steps : 
+^ a. send an e-mail to &email . 
+^ the subject line and the message body are not used to process the subscription request , and can be anything you like . 
+^ b. send the e-mail . 
+^ c. you will receive a response , asking you to verify that you really want to cancel your subscription . 
+^ compose a reply , and put " ok " in the message body . 
+^ ( without the quotes ) . 
+^ send the reply . 
+^ d. you will receive an e-mail telling you that your name has been removed from the subscriber list . 
+^ for security-related information about &name products , please visit the &name &name advisor web site at &website . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,47 @@
+<message>
+<date> wed, 26 mar 2003 12:40:21 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : reuters 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i 've actually given the paper to &name because i 'm not using &name corpus anyway . 
+^ she 's in the lab at the moment . 
+^ she 's also got the hard copy of the project , although it 's also downloadable from the web of course . 
+^ let me know if i can do anything to help , 
+^ &name 
+^ &name wed , &num mar &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ i 'm guessing the general paper that &name is talking about is the one that you have to give to me - what 's the best way to do this ? 
+^ will you photocopy it , or do you not need it anymore ? 
+^ cheers , 
+^ &name 
+^ /usr / groups / corpora / reuters -- you can see the &name marked up texts there -- &char / you 'll be able to parse the ( text ) ... ( /text ) preserving the metadata info on coding etc 
+^ &num bits of info i have on the dataset are : 
+^ &num ) a general paper establishing baseline results for a variety of term-based classifiers which shows a strong correlation btwn amount of training data and f1-meas ( this is unpublished and not on the web -- i 'll give &name a copy for you to share tomorrow ) 
+^ &num ) &name &name 's &name diss . 
+^ from last year ( i 'll also lend this to &name tomorrow , if we have n't got it on the web in a public place by then ) -- he chose &name , &name , &name , &name and &name as a set of &num fine-grained markets " related topics . 
+^ he also chose some &num course- and &num medium-grained classes . 
+^ ( i 'm not sure how much he defined these in terms of word overlap , the &name class hierarchy , or just intuitively . ) he chose classes with at least 3k documents / class to concentrate on issues of class discrimination rather than adequacy of training data . 
+^ i 'd like to parse the &name " data you wld like to work with for you during the &name break , so coming to some conclusions about which bit to work with wld be useful -- i do n't want to parse and store all 800k files ( yet ) . 
+^ &name 
+^ incoming mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_embedded>
+</message_body>
+</message>

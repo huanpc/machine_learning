@@ -1,0 +1,35 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ &char ? 
+</text_normal>
+</subject>
+<date> tue, 1 apr 2003 18:23:51 +1200 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( html ) 
+^ ( head ) ( meta http-equiv' &name ' content' zh-tw ' ) ( meta name' generator ' content'microsoft &name &num ' ) ( meta name' &name ' content' frontpage.editor.document ' ) ( meta http-equiv' content-type ' content' text / html ; &name ' ) ( title ) s' &char &num ( /title ) ( /head ) 
+^ ( body ) 
+^ ( table border' &num ' cellpadding' &num ' cellspacing' &num ' style' border-collapse : collapse ' bordercolor' # &num ' width' &num ' id' &name ' ) ( tr ) ( td width' &num ' ) ( &website ' width' &num ' height' 55' ) ( /td ) ( /tr ) ( tr ) ( td width' &num ' bordercolor' # &name ' ) ( &website ; font-family : &char ' ) s' &char p'd( /span) ( /p ) ( &char class'msonormal ' align' center ' style' text-align : left' ) ( b) ( &char ) ( span style' font-family : &char ' ) ( font color' # &num ' ) | a' &char &char [ &char ( /font) ( /span) ( /u) ( /b) ( /p ) ( &char class'msonormal ' align' center ' style' text-align : left' ) ( b) ( &char ) ( span style' text-decoration : none ' lang' en-us' )&nbsp;( /span) ( /u) ( /b) ( span lang' en-us' )&nbsp;&nbsp;&nbsp; ( /span) ( span style' font-family : &char ' ) 
+^ b' &char a' &char &char ~ &char ~ m' &char &char @ &char 'd c' &char &char } &pound; a' &char a' a v' &char &char 's i' &char n' &char a' &char n' &char ( /span) ( /p ) ( &char class'msonormal ' align' left' ) ( span lang' en-us' )&nbsp;&nbsp;&nbsp; ( /span ) ( span style' font-family : &char ' ) &char ~ &char 's n' &char &char ~ d' a h' o&# &num ; &pound; e' &char { b' _ a' &char b' &char ( /span) ( span lang' en-us' )e ( /span) ( span style' font-family : &char ' ) @ &char | a' &char a' &char 
+^ a' &char l' k &char &pound; ~ , n' &char &name ( a href'mailto : &name )&email ( /a) ( /span) ( /p ) ( &char class'msonormal ' align' left' ) ( u) ( font color' # &name ) ( &char ) @ &char ( /b) ( /font ) ( /u) ( /p ) ( &char class'msonormal ' align' left' ) ( span class' &name ' ) &char } e' &char ... v' &char w' &char &char ( br ) g' &char v' &char &char | } h' &char ( br ) &char : u' &char &char @ &char | } c' &char ( br ) } l' &char a' &char u' &char a' &char &char | i' &char h' &char ( br ) &char : &char @ @ z' &char p' &char c' &char ( br ) [ y' &char : u' a &pound; | q' &char &char ( br ) &char : &char ! 
+^ | &char ! 
+^ &char ( br ) u' &char a' &char o' &char h' &char a' &char &char 's o' &char &char ( br ) u' &char x' &char y' &char a' &char &char 's g' &char z' a s' &char g' &char z' &char &char ( br ) a' &char &char . . ... ( br ) &char : u' a a' &char g' yus' &char &char 
+^ o' &char z' &char ! 
+^ &char ( br ) g' i c' &char . . . . ... ( /span) ( /p ) ( &char ) @ ( /td ) ( /tr ) ( tr ) ( td width' &num ' bgcolor' # &name ' ) ( &website ' ) ( b) ( span style' font-family : &char ' ) ( font size' &num ' ) o' &char @ &char ~ p' &char &char 's d' a a' &char z' &char | p' &char &char @ p' a z' &char &char ( /font) ( /span) ( font size' 2' ) ( span lang' en-us' ) ( a href'mailto : &email ? 
+^ subject &char ' )mail ( /a) ( /span) ( /font) ( span style' font-family : &char ' ) ( font size' &num ' ) a' &char f' &char l' &name i' &char x' a p' &char &char ( /font) ( /span) ( /b) ( /p ) ( &char class'msonormal ' align' center ' style' text-align : center ' ) ( span style' font-family : &char ' ) ( font size' &num ' ) y' &char n' &char n' &char ( /font) ( /span) ( font size' 2' ) ( span lang' en-us' ) ( a href'mailto : &email ? 
+^ subject q' &char &char ' )mail ( /a) ( /span) ( /font) ( span style' font-family : &char ' ) ( font size' &num ' ) a' &num ( /font) ( /span) ( /td ) ( /tr ) ( /table ) 
+^ ( /body ) 
+^ ( /html ) 
+</text_normal>
+</message_body>
+</message>

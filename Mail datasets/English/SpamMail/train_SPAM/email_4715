@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ $ &num , &num has been deposited in your it 's &name ! 
+^ bank account 
+</text_normal>
+</subject>
+<date> tue, 18 mar 2003 10:18:07 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

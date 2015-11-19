@@ -1,0 +1,22 @@
+<message>
+<date> sat, 08 feb 2003 16:05:17 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ urgent ! ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hey &name ... 
+^ the group has been desperately trying to get in touch with you ... we hope all is well . 
+^ &name , the group is in a meeting at the moment at &name &num ( saturday , &num onwards . ) 
+^ &name get in touch &name . 
+^ cheers , &name 
+</text_normal>
+</message_body>
+</message>

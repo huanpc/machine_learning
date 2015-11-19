@@ -1,0 +1,20 @@
+<message>
+<date> sat, 05 apr 2003 14:58:11 est </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ you have new pictures in your album ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( html)you have ( b) [ &name ( &char ) new pictures waiting for you in your photo album ! 
+^ ( br)this new service allows you to send , edit , and print your digital photos with the click of a button . 
+^ click here to ( a href' &website ) 
+</text_normal>
+</message_body>
+</message>

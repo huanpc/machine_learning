@@ -1,0 +1,20 @@
+<message>
+<date> fri, 4 apr 2003 13:04:10 -0700 </date>
+<from> info </from>
+<subject>
+<text_normal> 
+
+^ gotta go - we can help 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website &num ) click here 
+^ ( &website &num ) click here or ( &website ) tell a friend 
+^ this message was brought to you by the &name group , at the address you wish to be removed from all our future mailings , please follow the below link : &website ( &website ) &name 
+</text_normal>
+</message_body>
+</message>

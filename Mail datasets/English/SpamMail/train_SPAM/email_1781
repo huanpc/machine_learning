@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &char &name &name &name that really works 
+</text_normal>
+</subject>
+<date> sat, 22 mar 2003 22:11:22 pst </date>
+<content-type> text/html; charset=us-ascii; class-id=8yrstmy9rslsb76.7zr-149024 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you have received this email because you have signed up to receive offers from &num &name &name and / or through one of our affiliate partners . 
+^ our privacy policy can be found here . 
+^ &name 
+^ &name : 3;07nrym79nr4rcussuan;149024 
+</text_normal>
+</message_body>
+</message>

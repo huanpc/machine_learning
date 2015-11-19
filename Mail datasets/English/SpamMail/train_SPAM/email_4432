@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ where should we ship your new phone ? 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=guqgalvuthdkpgpralmh </content-type>
+<date> thu, 27 mar 2003 03:26:21 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

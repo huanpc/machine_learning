@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name , you 've got cash ... confirm now ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=ecqbcblyjsjlgjotlubc </content-type>
+<date> tue, 8 apr 2003 02:15:46 -0600 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

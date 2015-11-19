@@ -1,0 +1,46 @@
+<message>
+<date> tue, 04 feb 2003 12:11:55 +0100 </date>
+<subject>
+<text_normal> 
+
+^ &name cums &num concert coming up . ... ! 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear all , 
+^ do n't miss the forthcoming cums &num concert on saturday in the &name &name : 
+^ &name prelude a l' apres-midi d' un faune ravel piano concerto in &char major ( piano &name &name , joint winner cums concerto competition ) &name &name &name 
+^ &name &name &name and &name &name 
+^ tickets from &org &name office ( &num ) &pound; &num , ( &pound; &num concessions ) 
+^ &name all seats are reserved - for the first time at a cums concert . 
+^ advance booking is therefore desirable . 
+^ i need a few more stewards - first come first served . 
+^ see you there i hope ! 
+^ and please spread the word around all of your friends 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name cums &num concert coming up . ... ! 
+^ dear all , 
+^ do n't miss the forthcoming cums &num concert on saturday in the &name &name : &name prelude a l' apres-midi d' un faune ravel piano concerto in &char major ( piano &name &name , joint winner cums concerto competition ) &name &name &name 
+^ &name &name &name and &name &name 
+^ tickets from &org &name office ( &num ) &pound; &num , ( &pound; &num concessions ) 
+^ &name all seats are reserved - for the first time at a cums concert . 
+^ advance booking is therefore desirable . 
+^ i need a few more stewards - first come first served . 
+^ see you there i hope ! 
+^ and please spread the word around all of your friends . 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

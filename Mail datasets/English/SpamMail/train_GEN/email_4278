@@ -1,0 +1,25 @@
+<message>
+<date> thu, 17 oct 2002 15:27:23 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ c++ practicals 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ here are my solutions to the c++ practicals . 
+^ my' &name " method in &name returns &num if there are no more samples to load from the audio data , so that the loop at the end of af_player will terminate , but i think really the value &num should be returned if there are no more samples to load , as this seems more consistent with the semantic of the method , ie " how many samples have i loaded ? " - &num . 
+^ my solution to the parser problem is somewhat different from the suggested one , but i worked with parsers a lot last year and wanted to recall some of the techniques . 
+^ regards , 
+^ &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

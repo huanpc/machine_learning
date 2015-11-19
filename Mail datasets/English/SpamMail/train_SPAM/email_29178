@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ yeah , it 's better than chocolate ! 
+^ &num 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> fri, 11 apr 2003 13:20:21 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

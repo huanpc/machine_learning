@@ -1,0 +1,19 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name &name and &name &name ! 
+^ &num 
+</text_normal>
+</subject>
+<from> com </from>
+<date> wed, 26 mar 2003 04:01:09 -0800 </date>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ click here to feel &name now ! 
+</text_normal>
+</message_body>
+</message>

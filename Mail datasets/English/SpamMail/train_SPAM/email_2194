@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ funbun.com - a story about &name and love 
+</text_normal>
+</subject>
+<date> sun, 23 mar 2003 02:00:00 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

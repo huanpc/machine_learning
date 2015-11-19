@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ something new for your pet from &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> thu, 27 mar 2003 14:39:14 -0500 (est) </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

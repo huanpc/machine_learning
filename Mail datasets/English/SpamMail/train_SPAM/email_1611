@@ -1,0 +1,16 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name ! 
+^ $ &num , &num a week ! 
+^ &name 
+</text_normal>
+</subject>
+<date> thu, 20 mar 2003 13:45:51 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

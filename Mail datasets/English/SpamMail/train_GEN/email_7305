@@ -1,0 +1,39 @@
+<message>
+<from> com </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ weekly statistics for account : &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> 	fri, 20 dec 2002 11:38:07 -0500 </date>
+<message_body>
+<text_normal> 
+
+^ message from our sponsor do n't miss &name &name &name conference & &name : the digital ubiquity forum coming to &name &name &name &num & &num , &num . 
+^ this two-day event designed to educate technology & business professionals on emerging trends in this space and to help vendors identify and evaluate new business initiatives and revenue-generating opportunities . 
+^ featuring keynote address by dr. &name &name , &name of &name source . 
+^ register early & save ! 
+^ &website 
+^ weekly statistics for previous week account number &num , &name &name &num , had a total of &num visitors last week . 
+^ visitors for last week divided per weekday : &num : &num &num : &num &num : &num &num : &num &num : &num &num : &num &num : &num 
+^ for more detailed statistics , log into your account and view 'stats " . 
+^ hope your detailed statistics now : &website for thecounter technical support , please use the e-mail address : &email be sure to first check the help &name ( &website . 
+^ message from our sponsor do n't miss &name &name &name forum in &name &name &name &name &num & &num , &num - the premier &name &name event for business & technology decision makers who are looking for strategic , technical and market opportunities in the evolving field of content management . 
+^ in-depth strategy sessions and presentations led by industry experts . 
+^ gain the information you need to learn how to leverage a wide range of content mgmt practices . 
+^ &website 
+^ discontinue weekly &name report weekly statistics are emailed by default to all members . 
+^ if you do not wish to receive weekly statistics , log into your account , and modify your settings under " conf . " / " privacy " . 
+^ change setting now : &website ( discontinuing the weekly stats report will not delete &website . ) &website account to close an account , click the 'delete account " link on the website , which will take you to the delete account page . 
+^ go there to delete this account now : &website 
+^ advertising : if you are interested in advertising in our newsletters , call &name &name on &num or send email to mailto : &email for contact information on sales offices worldwide visit &website for details on becoming a commerce partner , contact &name &name on &num or mailto : &email or to change your subscription visit &website 's network of more than &num web sites are organized into &num channels : &name technology &website e-commerce / marketing &website web &name &website &name &name technology &website &name / open &name &website &name resources &website &name resources &website &name lists &website download &website international &website &name &name &website &name investing &website &name resources &website &name &name &website career resources &website &name &website to find an answer - &website looking for a job ? 
+^ filling an opening ? 
+^ - &website this newsletter is published by &name corporation . 
+^ &website &name ( &char ) &num &name corporation . 
+^ &website content : &website 
+</text_normal>
+</message_body>
+</message>

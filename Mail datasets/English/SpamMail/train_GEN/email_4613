@@ -1,0 +1,72 @@
+<message>
+<date> thu, 1 may 2003 10:49:11 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> org.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name ! ! ! 
+^ &char &name &name chocolate cake ? ? ! ! 
+^ that the reminds me of " the chocolate cake " incident ! ! 
+^ &smiley 
+^ all best for revision today &name . 
+^ soon , 
+^ &name 
+^ on &name , &num may &num , &name &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &website is very good though , and i felt it went well , very well even ! 
+^ good present ! 
+^ in the evening , i had some friends over for cake that mom had made , and then later in the evening , my friend &name brought me another ( blueberry ! ) cake that he had made ! 
+^ &num cakes ! 
+^ not bad ! 
+^ got another exam tomorrow , so more revision today , i feel . 
+^ hope you are well ! 
+^ &name 
+^ - -- &name &name ( &email ) wrote : ) this friday ! ! ? ? 
+^ &name &name , i 'm busy this weekend . 
+<text_embedded> 
+
+^ hope you did something exciting today : &char ) . 
+^ love &name 
+<text_embedded> 
+
+^ i meant this friday . 
+^ are you free ? 
+^ if we went up that long , i 'd definitly take work . 
+^ i always do ! 
+^ &name 
+^ - -- &name &name ( &email ) wrote : ) oh &name , it 's today ! ! 
+^ happy birthday you big bad 
+<text_embedded> 
+
+^ boy . 
+^ i guess we could go up on monday ( 9th ) for cu , and stay for a few days , until thursday ( 12th ) if we feel like it - otherwise come back a bit earlier . 
+^ i could bring some work or something . 
+^ anyway , enjoy your revision - not long to go now right ... ? 
+^ speak soon , 
+^ &name 
+^ want ... 
+^ why cu home on birthday ... 
+^ &name , 12th - &char i 'm not friday . 
+</text_embedded>
+
+^ &name ! 
+^ plus for a better &name experience &website 
+</text_embedded>
+
+</text_embedded>
+
+^ &name ! 
+^ plus for a better &name experience &website 
+</text_embedded>
+</message_body>
+</message>

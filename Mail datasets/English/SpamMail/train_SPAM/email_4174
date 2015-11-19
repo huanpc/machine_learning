@@ -1,0 +1,29 @@
+<message>
+<date> thu, 27 mar 2003 05:15:27 -0800 </date>
+<from> info </from>
+<subject>
+<text_normal> 
+
+^ want a $ &num target &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ this message was brought to you by the &name group , at the address you wish to be removed from all our future mailings , please follow the below 
+^ click here to get your giftcard ! 
+^ it 's &num free ... no &name , no handling . 
+^ just free . 
+^ * see offer for details . 
+^ you must complete a sponsored offer ( or offers ) during &name registration to receive your $ &num target giftcard at no cost . 
+^ each registration offer specifically indicates the number of dollars you will earn towards the $ &num target giftcard . 
+^ you will earn &name points which will then be redeemable for the target giftcard ( or any other giftcards in &name 's prize catalog ) . 
+^ you will be responsible for redeeming your &name points for the giftcard ( &char ) of your choice . 
+^ there is &website . 
+^ target brands , inc. the &name design and target are registered trademarks if target brands , inc. all rights reserved . 
+^ target is not a participating partner in or sponsor of this offer 
+</text_normal>
+</message_body>
+</message>

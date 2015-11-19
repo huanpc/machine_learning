@@ -1,0 +1,14 @@
+<message>
+<content-type> multipart/alternative </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ this is for you 
+</text_normal>
+</subject>
+<date> fri, 21 feb 2003 00:00:00 -0600 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

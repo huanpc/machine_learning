@@ -1,0 +1,83 @@
+<message>
+<date> wed, 23 oct 2002 14:29:07 +0100 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ corporate communion on sunday evening 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_embedded> 
+
+^ &name &name has asked me to forward the information below concerning the corporate communion on sunday . 
+^ please reply to him directly . 
+^ 'dr &name &name " ( &email ) 
+</text_embedded>
+<text_normal> 
+
+^ &name 
+</text_normal>
+<text_embedded> 
+
+^ dr &name &name &name &name college &name &num ( &num ) &num &num 'dr &name &name " ( &email ) corporate communion & buffet supper sunday 27th october 
+^ &num 15pm in chapel followed by a buffet supper 
+^ i write to invite all members of the christian community within college to join together for a shared celebration of our faith with a service of holy communion in chapel on sunday 27th october . 
+^ this service is a wonderful opportunity to come together to express our common faith and also to celebrate the rich diversity of our traditions . 
+^ it will be a truly ecumenical occasion and everyone is invited to participate fully . 
+^ the timing is doubly appropriate because sunday is the occasion in the church year we celebrate as our dedication festival when we give thanks and pray for our christian community at &name . 
+^ &name &name will preside at this &name for the first time at &name , which will make it an even more special occasion . 
+^ the service will be followed by a delicious buffet supper in the mong hall at a cost of ? 
+^ &num per person . 
+^ wine and other refreshments will be served free of charge . 
+^ the meal provides a wonderful opportunity for us to share together in fellowship after the service . 
+^ the service and the meal are open to all members of the college , together with their partners , families and friends . 
+^ i do hope that you will be able to join us . 
+^ i would be grateful if you could respond using the reply slip below or by e-mail before friday 25th october so that we can cater appropriately . 
+^ i look forward to seeing many of you there . 
+^ with all good wishes . 
+^ yours ever , 
+^ corporate communion - 27th october 
+^ name : ___________________________________ 
+^ i shall / shall not be present at the service i shall / shall not be present at the supper number of guests : special dietary requirements : 
+^ please return to &name by thursday 25th october 
+</text_embedded>
+<text_normal> 
+
+^ &name &name &name to the &name &name &name &name college &name &name &name &name &name &name : + &num ( &num ) &num &num &name : + &num ( &num ) &num &num email : &email 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name has asked me to forward the information below concerning the corporate communion on sunday . 
+^ please reply to him directly . 
+^ &name &name &name ( &email ) &name dr &name &name &name &name college &name &num ( &num ) &num &name &name &name ( &email ) corporate communion &amp; buffet supper sunday 27th october 
+^ &num 15pm in chapel followed by a buffet supper 
+^ i write to invite all members of the christian community within college to join together for a shared celebration of our faith with a service of holy communion in chapel on sunday 27th october . 
+^ this service is a wonderful opportunity to come together to express our common faith and also to celebrate the rich diversity of our traditions . 
+^ it will be a truly ecumenical occasion and everyone is invited to participate fully . 
+^ the timing is doubly appropriate because sunday is the occasion in the church year we celebrate as our dedication festival when we give thanks and pray for our christian community at &name . 
+^ &name &name will preside at this &name for the first time at &name , which will make it an even more special occasion . 
+^ the service will be followed by a delicious buffet supper in the mong hall at a cost of ? 
+^ &num per person . 
+^ wine and other refreshments will be served free of charge . 
+^ the meal provides a wonderful opportunity for us to share together in fellowship after the service . 
+^ the service and the meal are open to all members of the college , together with their partners , families and friends . 
+^ i do hope that you will be able to join us . 
+^ i would be grateful if you could respond using the reply slip below or by e-mail before friday 25th october so that we can cater appropriately . 
+^ i look forward to seeing many of you there . 
+^ with all good wishes . 
+^ yours ever , 
+^ corporate communion - 27th october 
+^ name : ___________________________________ 
+^ i shall / shall not be present at the service i shall / shall not be present at the supper number of guests : special dietary requirements : 
+^ please return to &name by thursday 25th october 
+^ &name &name &name to the &name &name &name &name college &name &name &name &name &name &name : + &num ( &num ) &num &num &name : + &num ( &num ) &num &num email : &email 
+</text_normal>
+</part>
+</message_body>
+</message>

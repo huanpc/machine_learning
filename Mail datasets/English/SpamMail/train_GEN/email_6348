@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &char forgot sfx.ico 
+</text_normal>
+</subject>
+<date> sat, 29 jun 2002 17:45:25 +0200 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="image/x-icon">
+</part>
+</message_body>
+</message>

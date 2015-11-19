@@ -1,0 +1,24 @@
+<message>
+<date> mon, 27 jan 2003 13:36:04 +0000 (gmt standard time) </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] book wanted 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ article : &name , &name , &name , &name : implementing the self initialization quadratic sieve on a distributed network . 
+^ which is in book : in number theoretic and algebraic methods in computer science ( &num ) 
+^ &name &name , &name , ed. &name scientific publishing co. pte . 
+^ ltd. 
+^ really should have this book , ca n't find it anywhere . 
+^ help ! ! ! 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

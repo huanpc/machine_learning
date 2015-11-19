@@ -1,0 +1,45 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ friday 
+</text_normal>
+</subject>
+<date> thu, 20 jun 2002 06:53:30 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name , 
+^ i do n't know if you got my message on &name last night . 
+^ i thought this term would be good if possible but if you are busy on friday it is obviously not . 
+^ we need to know for certain today . 
+^ i will check my emails at &num or i could come on &name early evening but i am going out at &name and would like to tell &name before then what is happening . 
+^ otherwise ring me during the day using your chargecard - apart from taking &name for an exam and going to &name ( say noon - 
+^ &num 30pm ) i am in. 
+^ mum 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name , 
+^ i do n't know if you got my message on &name last night . 
+^ i thought this term would be good if possible but if you are busy on friday it is obviously not . 
+^ we need to know for certain today . 
+^ i will check my emails at &num or i could come on &name early evening but i am going out at &name and would like to tell &name before then what is happening . 
+^ otherwise ring me during the day using your chargecard - apart from taking &name for an exam and going to &name ( say noon - 2.30pm ) i am in. 
+^ mum 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+</message_body>
+</message>

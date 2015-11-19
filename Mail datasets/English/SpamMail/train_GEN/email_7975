@@ -1,0 +1,43 @@
+<message>
+<from>
+</from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ not a lot but &name , 
+</text_normal>
+</subject>
+<date> fri, 18 oct 2002 17:48:23 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name &name &name , 
+^ what is &name 's e-mail address now she is no longer at &name ? 
+^ this is just a quick note as we 're waiting for a taxi to go out for yet another meal ( i 've taken up sumo wrestling as a sport ) we 're off to &name of the track for supper and to watch the trotters then downstairs after the racing to the casino &name life . 
+^ anyway can you get in touch with &name and ask here to find out &name 's ( &name 's ) e-mail address as &name a nice photo i want to send him , 
+^ &name things are going good at school , you 're sister has got herself a job but i 'll tell you about that later , 
+^ must &name , 
+^ &name ti ye seen , 
+^ lots of love and kisses , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name &name , 
+^ what is &name 's e-mail address now she is no longer at &name ? 
+^ this is just a quick note as we 're waiting for a taxi to go out for yet another meal ( i 've taken up sumo wrestling as a sport ) we 're off to &name of the track for supper and to watch the trotters then downstairs after the racing to the casino &name life . 
+^ anyway can you get in touch with &name and ask here to find out &name 's ( &name 's ) e-mail address as &name a nice photo i want to send him , 
+^ &name things are going good at school , you 're sister has got herself a job but i 'll tell you about that later , 
+^ must &name , 
+^ &name ti ye seen , 
+^ lots of love and kisses , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

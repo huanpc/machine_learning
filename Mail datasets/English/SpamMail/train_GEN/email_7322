@@ -1,0 +1,61 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ what 's on 
+</text_normal>
+</subject>
+<date> sun, 23 feb 2003 20:14:12 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hey ho it 's week &num and may ball bookings are a plenty- it 's almost spring- yipee 
+^ &name that 's quite enough excitement for &num email ; here 's the boring stuff ... 
+^ &name last week 's &name was helpful in understanding a bit more about &name . 
+^ for those who were n't there , &name , a guy off the exec gave a quick soundbite about &name , its aims and what we do as a group . 
+^ this wednesday again we 'll have &name , but starting at the later time of 
+^ &num &num this is to avoid a clash with an &name wednesday service in chapel . 
+^ please note the change on time , but same place c2 . 
+^ friday is the now once a week prayer meeting in &name north court at &num praying for the college , and &name events happening such as the friday lunch time talk , at &num and then repeated at 1pm in &name &name , &name . 
+^ topic title is " is &name a refuge for the weak and gullible ? " by &name &name . 
+^ free lunch and a great thing to take people along to . 
+^ then on saturday at &name church at usual time of &num , is &name on &name &num , " living in freedom " . 
+^ &name is amazing , so ca n't go wrong really ! ! ! 
+^ followed at &num by colleges prayer meeting , the main weekly prayer meeting for all the &name is doing . 
+^ sunday breakfast with the dean ... 
+^ &name , thanks for reading this far ! 
+^ &name stars are available ... 
+^ advanced warning , we 'll probs have a social with &name at end of this term ; we 're thinking going out for a meal somewhere , such as &name pasta , should be a laugh , and good time to " bond " , but if anyone has any ideas let me know . 
+^ thanks you all , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hey ho it 's week &num and may ball bookings are a plenty- it 's almost spring- yipee 
+^ &name that 's quite enough excitement for &num email ; here 's the boring stuff ... 
+^ &name last week 's &name was helpful in understanding a bit more about &name . 
+^ for those who were n't there , &name , a guy off the exec gave a quick soundbite about &name , its aims and what we do as a group . 
+^ this wednesday again we 'll have &name , but starting at the later time of &num this is to avoid a clash with an &name wednesday service in chapel . 
+^ please note the change on time , but same place c2 . 
+^ friday is the now once a week prayer meeting in &name north court at &num praying for the college , and &name events happening such as the friday lunch time talk , at &num and then repeated at 1pm in &name &name , &name . 
+^ topic title is " is &name a refuge for the weak and gullible ? " by &name &name . 
+^ free lunch and a great thing to take people along to . 
+^ then on saturday at &name church at usual time of &num , is &name on &name &num , " living in freedom " . 
+^ &name is amazing , so ca n't go wrong really ! ! ! 
+^ followed at &num by colleges prayer meeting , the main weekly prayer meeting for all the &name is doing . 
+^ sunday breakfast with the dean ... 
+^ &name , thanks for reading this far ! 
+^ &name stars are available ... 
+^ advanced warning , we 'll probs have a social with &name at end of this term ; we 're thinking going out for a meal somewhere , such as &name pasta , should be a laugh , and good time to " bond " , but if anyone has any ideas let me know . 
+^ thanks you all , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

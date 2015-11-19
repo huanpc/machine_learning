@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name a &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> thu, 27 mar 2003 09:11:21 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled document you are receiving this special offer because you have provided permission to receive third party email communications regarding special online promotions and offers . 
+^ if you do not wish to receive any further messages , please click at the bottom to unsubscribe . 
+^ yes , you can win a new &name &name in our &num sweepstakes &# &num ; or choose from &num of many other grand prizes available , including $ &num , &num cash . 
+^ all you have to do to enter is take a few minutes to tell us about yourself and your interests . 
+^ just fill out our short survey and you 'll be automatically entered in our &num sweepstakes . 
+^ already entered ? 
+^ no problem &# &num ; you can enter once a day nearly all year long . 
+^ good luck ! 
+^ please click here to opt out of future e-mailings . 
+</text_normal>
+</message_body>
+</message>

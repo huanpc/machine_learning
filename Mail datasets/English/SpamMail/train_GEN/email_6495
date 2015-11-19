@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ lectures on friday &num january &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 31 jan 2003 09:53:40 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ the severe weather is preventing some members of staff from getting to the lab today so this is the lecture situation at present : 
+^ cancelled - &name &name 's lecture at &num . 
+^ &name &name is here and &name &name intends to be , so their lectures will go ahead as planned . 
+^ i 'm afraid i do n't have any other information . 
+^ if lectures have to be cancelled at the last minute then we will ensure that the material is covered another time . 
+^ &name &name departmental secretary 
+</text_normal>
+</message_body>
+</message>

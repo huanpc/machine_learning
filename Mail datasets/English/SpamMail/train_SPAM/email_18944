@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ join &name college now $ &num per month817 
+</text_normal>
+</subject>
+<date> sun, 06 apr 2003 00:21:46 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

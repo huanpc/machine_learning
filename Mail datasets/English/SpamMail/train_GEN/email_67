@@ -1,0 +1,21 @@
+<message>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ heating problems 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 28 jan 2003 18:59:59 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ there was no heating in the &name rooms this morning but the problem should now have been fixed . 
+^ in general , if there 's a problem with anything like heating or lights , the easiest thing to do is to talk to reception and ask them to notify &name &name . 
+^ there 's a phone in the practical room - reception is &num . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

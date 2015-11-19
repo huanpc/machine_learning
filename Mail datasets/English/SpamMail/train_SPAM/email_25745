@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * $ &num $ &num &name &name today , apply free , no credit check 
+</text_normal>
+</subject>
+<date> 09 apr 2003 17:21:14 -0700 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ if the above links do not work or appear , simply copy this &name and paste it into your browser 's address field : &website 
+^ send to all requests honored within &num hours . 
+^ please make sure your email address is identified clearly . 
+^ this email was sent to 
+</text_normal>
+</message_body>
+</message>

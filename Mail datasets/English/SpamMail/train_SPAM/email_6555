@@ -1,0 +1,19 @@
+<message>
+<from> il.co </from>
+<date> fri, 28 mar 2003 22:49:17 +0200 </date>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+^ enter -- ( to unsubscribe , send ' unsubscribe to 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,27 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ this says it &name 
+</text_normal>
+</subject>
+<date> wed, 09 apr 2003 11:21:37 -1600 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ fun money ... 
+^ did you know that &num hours a day working at a computer can provide the cash to pay for a &name &name &name &name by &name ? 
+^ what about a &name ? 
+^ the really big &name might take an extra month or &num . 
+^ or a &num month first class &name around the world ? 
+^ or a year of college for &num of the kids ? 
+^ the catch : it 's work . 
+^ if work does n't bother you , get info about the hottest ( and coolest ) new business by sending a message to 
+^ &email 
+^ and say ' &name data . ' 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,54 @@
+<message>
+<date> sat, 26 oct 2002 11:47:58 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ athletics time table 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ here is the time table for the events . 
+^ it 's also up on the board opposite the &name . 
+^ also up on that board is a map of how to get to the ground , if any of you are unclear about that . 
+^ my mobile number is &num is any of you have any worries . 
+^ ( although i might not be able to answer it is say , i 'm doing pole vault ... ) . 
+^ if you 're competing on sunday , remeber that the clocks go back tonight ! 
+^ i 'll send out an email about organising our formal hall after the weekend . 
+^ try and keep that friday evening free ( 1st november ) 
+^ see you all this weekend ! 
+^ &name 
+^ the time table : 
+^ &name &name &num &num 
+^ &name track events &name events 
+^ &num 00pm 1500m steeplechase ( &char ) 
+^ &num 30pm 200m hurdles ( &name ) &name ( &name ) 
+^ &num 15pm 100m ( &char ) 
+^ &num 30pm triple jump ( &char ) 
+^ &num 45pm 100m ( &char ) 
+^ &num 00pm 400m ( &char ) discus ( &char ) 
+^ &num 30pm 400m ( &char ) &name &name ( &char ) 
+^ &num 00pm 1500m ( &char ) &name ( &char ) 
+^ &num 30pm 1500m ( &char ) 
+^ sunday &name &num &num 
+^ &name track events &name events 
+^ &num 00am &name &name ( &char ) , &name ( &char ) 
+^ &num 45am &name &name ( &char ) 
+^ &num noon 110m hurdles ( &char ) &name ( &char ) 
+^ &num 30pm 100m hurdles ( &char ) 
+^ &num 00pm 800m ( &char ) &name &name ( &char ) 
+^ &num 20pm 800m ( &char ) 
+^ &num &name &name &name ( &char ) , discus ( &char ) 
+^ &num 40pm 200m ( &char ) 
+^ &num 10pm 200m ( &char ) pole vault ( &name ) 
+^ &num 30pm 3000m ( &char ) &name ( &char ) 
+^ &num 00pm 3000m ( &char ) 
+^ &num 30pm &num &char 100m ( &char ) 
+^ &num 40pm &num &char 100m ( &char ) 
+</text_normal>
+</message_body>
+</message>

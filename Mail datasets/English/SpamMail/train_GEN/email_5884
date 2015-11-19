@@ -1,0 +1,22 @@
+<message>
+<date> fri, 17 jan 2003 21:34:51 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] first review meeting for &name project group &name 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ dear dr &name , 
+^ we are your supervision group &name and if possible , please can we arrange our first meeting with you on friday the 31st january at &name ? 
+^ thank you and we look forward to discussing our ideas with you ! 
+^ &name on behalf of all &name memebers 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

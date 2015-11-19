@@ -1,0 +1,36 @@
+<message>
+<subject>
+<text_normal> 
+
+^ our &name &name is about to begin ... 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> com co.uk com com com com com co.uk </to>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<date> sun, 30 jun 2002 20:34:49 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ dear everyone , 
+^ the holiday ... 
+^ we are going to a village called &name . 
+^ we have the house from &num noon on saturday the 6th july to &num noon on saturday the 13th july . 
+^ so people can arrive any time after &num noon on saturday . 
+^ if you 're arriving via train and need picked up from the nearest station ( &name ) then speak to &name or &name as they are bringing their cars . 
+^ things to bring ... 
+^ sleeping bag , pillow and pillow-case ( if possible as there are not enough pillows for us all there ) , tea towel , the usual stuff like clothes . 
+^ special request from &name for as many people as possible to bring garden spades ... ( obviously if you 're coming a long way by train you might want to think twice about this , but the more the merrier ) . 
+^ people might want to bring board games , cds , books , etc. 
+^ i guess some people will be bring a football , aerobie , sporting equipment ? 
+^ food ... 
+^ we have come up with a flexible guide to who 's cooking together . 
+^ &name , &name ( barbeque ) , &name & &name , &name & &name , &name & &name , &name . 
+^ &name this is okay with everyone . 
+^ we will need &num evening meals , and if you can count then you 'll see there 's only &num lots of people - reason is that it 's &name 's birthday ( ! ) on the monday and she would like us to celebrate with her by going out for pizza ! 
+^ anyway , we can sort out who does which days and so on when we get there and obviously the &name will be dependent on the weather . 
+^ ca n't think of any more to say right now except have a great week whatever you 're doing and i look forward to seeing you all on saturday . 
+^ &name
+</text_normal>
+</message_body>
+</message>

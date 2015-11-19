@@ -1,0 +1,21 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ re : hey man 
+</text_normal>
+</subject>
+<date> sat, 5 apr 2003 15:41:55 +1200 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website / hi , &name . 
+^ i found this website where lenders for your business . 
+^ i thought you may want to look at it . 
+^ &website / thanks , &name &name remove : &website / 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,55 @@
+<message>
+<date> fri, 21 mar 2003 01:05:59 -0500 (est) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ sounds like today is best for you , then . 
+^ if it is ok , i 'd like to stop by at around &num : &num . 
+^ but if that &num slot becomes better for you , let me know and i 'll stop by then . 
+^ also , is there anybody else i should be notifying to let them know i 'll be visiting &name , or anybody else i should meet whilst i 'm down there ? 
+^ see you soon , &name 
+^ on &name , &num mar &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ there is no official &name meeting tomorrow or monday . 
+^ well , that is to asy that there is no meeting of the whole group . 
+^ christian ( our fulltime staff person - i think you know him ) is holding a developers meeting tomorow at some point . 
+^ you could ask him when that was ( &email ) . 
+^ i do n't know how interesting that would be to you , but you are more than welcome to attend . 
+^ i 'll be around tomorrow . 
+^ my schedule is a little scattered . 
+^ we have a faculty candidate around and i have &num student exams from roughly &num or &num : &num tomorrow afternoon . 
+^ we could meet in the &num timeframe or after &num : &num . 
+^ i will probably be around on monday , but there is bit of uncertainty . 
+^ i 'd give it an &num . 
+^ tomorrow would be a sure thing as long as you do n't mind my scheduling constraints . 
+^ it will be good to see you . 
+^ &name 
+^ &name &name wrote : 
+<text_embedded> 
+
+^ hi &name , 
+^ i am in &name , back from visiting the other &num &name programs , and would like to come down to visit &name at some time over the next few days . 
+^ ideally , this would occur on a day in which there is an &name meeting , so that i could attend that as well , and then maybe talk to you before or afterwards . 
+^ i was wondering if you knew whether an &name meeting was scheduled for tomorrow or monday ( &name said the one for today was postponed ) , and if not , whether either of those &num days you would be available to chat if i came down to &name . 
+^ anyway , i hope all is well . 
+^ i should be hearing from &name relatively soon , so i 'll let you know about that as soon as i hear . 
+^ &name 
+</text_embedded>
+
+^ &name &name ( &num ) &num voice professor ( &num ) &num fax &name university &email department of computer science &name &name &num providence , &name &num 
+</text_embedded>
+</message_body>
+</message>

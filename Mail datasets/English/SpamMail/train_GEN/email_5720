@@ -1,0 +1,21 @@
+<message>
+<date> mon, 16 dec 2002 20:10:10 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ _university computing service 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ you can find the university computing service from this map . 
+^ [ &name &name &name , &name street , &name &name &name ] 
+^ &website 
+^ m.p. &name , department of chemistry , university of &name &name road , &name &name &name , &name &name &num &num ( &char ) | &num &num &num ( &char ) &name &name &num &num | e-mail : &email 
+</text_normal>
+</message_body>
+</message>

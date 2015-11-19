@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<date> sun, 6 apr 2003 16:54:52 edt </date>
+<subject>
+<text_normal> 
+
+^ kiss kiss 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hi there , here are the &name &num promised ya ! ! 
+^ ( a href' &website 
+</text_normal>
+<text_embedded> 
+
+^ if you would like to check out my profile , it 's under &name . 
+^ there is where you will find my personal info ( i.e. phone # and my personal email address ) so that we can chat on a personal level . 
+^ the reason i placed my personal on a site : &num ) it 's discreet &num ) i never have to worry about being contacted by children since only adults are allowed within the site and &num ) i 've had great luck meeting people . 
+^ well , i hope to hear from you ... i guess i 'll find out just how serious you really are &smiley &name ! ! 
+</text_embedded>
+</message_body>
+</message>

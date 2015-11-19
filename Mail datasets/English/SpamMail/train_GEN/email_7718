@@ -1,0 +1,39 @@
+<message>
+<date> thu, 06 feb 2003 10:28:12 +0000 </date>
+<subject>
+<text_normal> 
+
+^ re : welfare ? 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ &name is n't orgnaising anything centrally , but the people to get in touch with are &name ( &name students against the war ) , see &website 
+^ cheers 
+^ &name 
+^ on &num / &num &num : &num &name , " &name &name " ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name &name , 
+^ one of our &name members has been asking our president if &name ( or the university , basically ) are organising any sort of demonstration / march against the war . 
+^ which i suppose is kind of a sort of welfare-y type issue on some level ( ? ! ) , so i 've been asked to find out about it . 
+^ can you or any of your &name peeps tell me about anything that 's going on ? 
+^ &name , 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ &name &name 
+^ &name welfare and graduates officer 
+^ &num &name &name , &name &name &name 
+^ &num &num 
+^ &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,16 @@
+<message>
+<date> wed, 10 jul 2002 21:28:00 -0500 </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name ! 
+^ &num day vacation $ &num for all : &name , &name , &name ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=boundary42 </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

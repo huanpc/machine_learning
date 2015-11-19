@@ -1,0 +1,44 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ linkingggg 
+</text_normal>
+</subject>
+<date> thu, 28 nov 2002 23:10:15 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name &name , 
+^ lets have some link meetings ! 
+^ i 'm so sorry this is all a bit late - it would have already happened by now but i 've been a bit ill ... 
+^ here 's the times ... 
+^ monday &num - &num tuesday &num tuesday &num 
+^ as usual , let me know which one you fancy coming to , and we 'll be in the upper room of the &name &name hall . 
+^ hopefully i will send you something to think about in the next couple of days so we can all come bursting with ideas ! 
+^ looking forward to it ... 
+^ love &name 
+^ &name dutton trinity hall , &name , &name 1tj &num &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name , 
+^ lets have some link meetings ! 
+^ i 'm so sorry this is all a bit late - it would have already happened by now but i 've been a bit ill ... 
+^ here 's the times ... 
+^ monday &num - &num tuesday &num tuesday &num 
+^ as usual , let me know which one you fancy coming to , and we 'll be in the upper room of the &name &name hall . 
+^ hopefully i will send you something to think about in the next couple of days so we can all come bursting with ideas ! 
+^ looking forward to it ... love &name 
+^ - --------------------------------------------------------------- ----------------------------- &name dutton trinity hall , &name , &name 1tj &num &num 
+^ - -------------------------------------------------------------- ------------------------------- 
+</text_normal>
+</part>
+</message_body>
+</message>

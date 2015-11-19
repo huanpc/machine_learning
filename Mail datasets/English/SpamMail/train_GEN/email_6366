@@ -1,0 +1,62 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<date> wed, 25 dec 2002 23:35:59 -0800 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , thanks for getting back to me . 
+^ since i need something that will work for me from the command-line . 
+^ i 'm going to use replace icon . 
+^ however if after evaluating innosetup &num , i find i like it then , i 'll definitely install you application . 
+^ by the way why is n't you add-on listed at &website ? 
+^ i think &name would be willing to list you on the following &name : &website . 
+^ thanks , christian 
+^ somehow or another i seem to have lost the command line switches and i ca n't find it in your documentation . 
+^ your application does support them right ? 
+^ if so can you send me the syntax , a document containing the syntax , or a web address listing it ? 
+^ thanks , 
+^ are you using the innosetup icon replacer or the &name &name icon replacer ? 
+^ they have different interfaces . 
+^ if you are using the former , you can download an update to the compiler which enables integration into your script at : 
+^ &website / 
+^ if you are using the &name &name &num , then you can only current specify the name of the file to modify on the command-line . 
+^ regards , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , &website ? 
+^ i think &name would be willing to list you on the following &name : &website . 
+^ thanks , christian 
+</text_normal>
+<text_embedded> 
+
+^ somehow or another i seem to have lost the command line switches and i ca n't find it in your documentation . 
+^ your application does support them right ? 
+^ if so can you send me the syntax , a document containing the syntax , or a web address listing it ? 
+^ thanks , 
+</text_embedded>
+<text_normal> 
+
+^ are you using the innosetup icon replacer or the &name &name icon replacer ? 
+^ they have different interfaces . 
+^ if you are using the former , you can download an update to the compiler which enables integration into your script at : 
+^ &website / 
+^ if you are using the &name &name &num , then you can only current specify the name of the file to modify on the command-line . 
+^ regards , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

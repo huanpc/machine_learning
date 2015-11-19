@@ -1,0 +1,48 @@
+<message>
+<from> com </from>
+<to> ac.uk ac.uk org.uk </to>
+<subject>
+<text_normal> 
+
+^ fwd : things that never happen in &name &name 
+</text_normal>
+</subject>
+<date> wed, 23 oct 2002 10:56:13 +0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/html">
+<text_normal> 
+
+^ apparently this is amusing . 
+^ who knows . 
+^ &name , i spoke to someone from your uni today . 
+^ &name , i hope you are much much better . 
+^ &name , i 'll see you at the weekend , you lucky fellow . 
+^ &name , if your in &name this w/e , it would be cool to see you too . 
+^ lots of love , &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name , &name " to : " ' &email '' subject : things that never happen in &name &name &name : wed , &num &name &num &num : &num : &num &num 
+^ &website 
+^ unless expressly stated to the contrary , the views expressed in this email are not necessarily the views of national &name &name plc or any of its subsidiaries or affiliates ( group companies ) , and the group companies , their directors , officers and employees make no representation and accept no liability for its accuracy or completeness . 
+^ this e-mail , and any attachments are strictly confidential and intended for the addressee ( &char ) only . 
+^ the content may also contain legal , professional or other privileged information . 
+^ if you are not the intended recipient , please notify the sender immediately and then delete the e-mail and any attachments . 
+^ you should not disclose , copy or take any action in reliance on this transmission . 
+^ you may report the matter by calling us on + &num ( &num ) &num &num . 
+^ please ensure you have adequate virus protection before you open or detach any documents from this transmission . 
+^ the group companies do not accept any liability for viruses . 
+^ an e-mail reply to this address may be subject to monitoring for operational reasons or lawful business practices . 
+</text_embedded>
+<text_normal> 
+
+^ &name &name access for only $ &num / month . 
+^ try &name ! 
+^ click here 
+</text_normal>
+</part>
+<part num="2" type="application/octet-stream">
+</part>
+</message_body>
+</message>

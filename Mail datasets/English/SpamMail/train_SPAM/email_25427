@@ -1,0 +1,32 @@
+<message>
+<from> com.br </from>
+<subject>
+<text_normal> 
+
+^ representa' &name comercial 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> wed, 9 apr 2003 15:27:01 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ &name representante comercial &char &name anos , atuando no ramo de supermercados , &name &name &char m'dio porte &char varejos em geral na &name &name frigor' &name ( &name &name , &name , &name , &name , &name , ) em niter' &char , s' &char gon' alo , &name &name &name &char regi' es &name lagos . 
+^ &name carro , &char computador . 
+^ &name &name carteira de clientes ativos , muito pontuais nos pagamentos . 
+^ &name um excelente contato com clientes , com um bom conceito dentro da minha &name &name atua' &char . 
+^ &name tamb 'm redes ( supermercados ).gostaria &name colocar aos senhores &char meu conhecimento comercial &name representante direto na &name citada acima . 
+^ &name trabalho com os : frigor' &name &name ( direto &name ) . 
+^ frigor' &name &name ( distribuidor ) &char latic' nio &name ( distribuidor ) 
+^ &name haja interesse , por favor , entrem em contato . 
+^ &name 
+^ j'sus &name 
+^ niter' &char , &num &name &num . 
+^ e-mail : &email &name : &char : &name . 
+^ &num 
+^ unsubscribe info : reporting : 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,30 @@
+<message>
+<date> thu, 23 jan 2003 17:43:31 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] &name &name 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ to use &name on &name : export cvsroot $ home / &name # &name work cvs checkout ( module ) 
+^ # resolve conficts with cvs update ( in the dir that you want to use 
+^ # &name stuff to server with cvs commit 
+^ &name : &website / &website 
+^ if you are using eclispe then create a project called &name ( or src ) and do team--)share project . 
+^ i suggest you all play with it on &name first . 
+^ adding new files to &name note that only source files should be under &name control . 
+^ type : cvs add ( file ) create a .cvsignore file with globs for generated files . 
+^ eg * .class * .aux 
+^ * .log ... 
+^ &name 
+^ " nothing would please me more than being able to hire &num programmers and deluge the hobby market with good software . " - &name &name &num 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

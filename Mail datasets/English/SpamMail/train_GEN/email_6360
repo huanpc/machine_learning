@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> tue, 25 mar 2003 13:55:24 +0200 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hello ! 
+^ i wanted to say that your site is really rocks and the icon replacer works great ! 
+^ thank you ! 
+</text_normal>
+</part>
+</message_body>
+</message>

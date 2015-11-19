@@ -1,0 +1,59 @@
+<message>
+<date> wed, 7 may 2003 10:46:58 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ it looks as though the new tagger has slightly different behaviour than i expected : 
+^ it ignores anything inside &name tags , whether the line begins with a 
+^ or not . 
+^ however , if the line does not begin with a 
+^ it still tags it ( assuming it is not &name ) . 
+^ it also concatenates all adjacent lines that do not begin with 
+^ . 
+^ plus , it does not print &name lines unless they occur adjacent to non-xml lines ( or are prefaced by 
+^ ) . 
+^ for example : 
+^ ( &name ) text ( &num ) ( tag2 ) 
+^ a line of text a line of text ( &num ) ( tag3 ) text ( &num ) 
+^ becomes 
+^ ( &name ) text ( &num ) ( tag2 ) 
+^ 
+^ a &name line &name of &name text nn1 &char at1 line &name of &name text &name ( &num ) 
+^ whereas 
+^ 
+^ ( &name ) text ( &num ) 
+^ ( tag2 ) 
+^ a line of text 
+^ a line of text 
+^ ( &num ) 
+^ ( tag3 ) text ( &num ) 
+^ becomes 
+^ 
+^ 
+^ ( &name ) text ( &num ) 
+^ 
+^ ( tag2 ) 
+^ 
+^ a &name line &name of &name text nn1 
+^ 
+^ a &name line &name of &name text nn1 
+^ 
+^ ( &num ) ( tag3 ) text ( &num ) 
+^ thus it seems that in order to respect the line breaks , i will have to put the 
+^ symbol in front of every line , including the &name . 
+^ does this make sense , or do you think i 'm misjudging something ? 
+^ thanks &name , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ urgent : reschedule &name lecture &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 07 feb 2003 15:56:35 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi students , 
+^ due to a family emergency , &num cannot give &name lecture &num ( discourse processing ) on tuesday . 
+^ the question is when to reschedule . 
+^ i suggest monday , 10th ( day before ) , at &num noon . 
+^ please let me know if this causes any conflict in your schedules . 
+^ if it 's okay with you , you do n't need to email . 
+^ thanks . 
+^ - &name 
+</text_normal>
+</message_body>
+</message>

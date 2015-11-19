@@ -1,0 +1,56 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> wed, 12 jul 2000 18:51:13 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ i have now done &num days of my job . 
+^ i have actually run out of things to do , because my supervisor is in &name . 
+^ thus , i am working on a little messenger program i wrote a year or so ago , which sends instant messages around to any computer in the company . 
+^ it is quite a lot of fun . 
+^ today i finished writing a data sorting program , which was also quite a satisfying task . 
+^ i am not that good at getting up early , but i 'm managing it fairly successfully so far . 
+^ it would be a lot harder if it was not so light in the mornings - praise &name for the sun ! 
+^ tomorrow i am playing football at lunch-time . 
+^ i am part of a five-a-side team called 'mad dogs and englishmen " . 
+^ we should win , but the manager has told us to try and make sure that we either draw or lose , so that we do n't end up in the harder part of the draw for the cup ( it 's quite complicated ) . 
+^ anyway , it should be fun . 
+^ stuffed &num - hhhmmmmmm . 
+^ say hi to &name for me . 
+^ love from 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ i have now done &num days of my job . 
+^ i have actually run out of things to do , because my supervisor is in &name . 
+^ thus , i am working on a little messenger program i wrote a year or so ago , which sends instant messages around to any computer in the company . 
+^ it is quite a lot of fun . 
+^ today i finished writing a data sorting program , which was also quite a satisfying task . 
+^ i am not that good at getting up early , but i 'm managing it fairly successfully so far . 
+^ it would be a lot harder if it was not so light in the mornings - praise &name for the sun ! 
+^ tomorrow i am playing football at lunch-time . 
+^ i am part of a five-a-side team called 'mad dogs and englishmen " . 
+^ we should win , but the manager has told us to try and make sure that we either draw or lose , so that we do n't end up in the harder part of the draw for the cup ( it 's quite complicated ) . 
+^ anyway , it should be fun . 
+^ stuffed ravens - hhhmmmmmm . 
+^ say hi to &name for me . 
+^ love from 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

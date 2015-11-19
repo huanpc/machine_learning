@@ -1,0 +1,26 @@
+<message>
+<to> co.uk </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ web-site address 
+</text_normal>
+</subject>
+<date> thu, 02 aug 2001 23:14:52 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ hi ! 
+^ it was good to talk to you earlier this evening . 
+^ i was quite shocked to discover that i had been doing so for &num minutes ! 
+^ anyway , i shall write again soon , but here is the web-site you asked for . 
+^ if you think there is anything odd about it , then let me know before tomorrow evening , since i shall order my &name thingy then . 
+^ &website / 
+^ see you , 
+^ &name
+</text_normal>
+</message_body>
+</message>

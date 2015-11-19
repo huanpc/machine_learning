@@ -1,0 +1,29 @@
+<message>
+<date> thu, 6 feb 2003 20:19:09 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ testing of &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ module testing should be checking to make sure that the classes implement the contract of the interfaces they implement . 
+^ because of the nature of &name it is hard to test and thus needs a good harness to be tested in. if you read the javadocs , you will see the process method . 
+^ this is the one that needs testing . 
+^ at the least you will need to ( preferably by friday , and no later than lunchtime saturday ) 
+^ &num ) write a dummy workunit &num ) write a source for &char of these &num ) write a sink for these , checking that they all comeback . 
+^ &num ) write a client that will drop arbitrary workunits , and send back dupes ( the same wu twice ) &num ) try all this out , and see what breaks . 
+^ ( note this is using &name - read the sun site if the client wo n't connect to the server ) 
+^ i ca n't do more work on this until this harness is written , so it is vital to get done if we are going to meet tuesday deadline . 
+^ the factorisation code also needs a harness , but we can probably leave that until saturday . 
+^ please email me with your progress so far , and as soon as you manage to break it so i can start debugging . 
+^ &name 
+^ " nothing would please me more than being able to hire &num programmers and deluge the hobby market with good software . " - &name &name &num 
+</text_normal>
+</message_body>
+</message>

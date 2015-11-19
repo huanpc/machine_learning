@@ -1,0 +1,43 @@
+<message>
+<from> 251.99 </from>
+<subject>
+<text_normal> 
+
+^ ( ) &name ( ) &num . 
+</text_normal>
+</subject>
+<content-type> text/html; charset="ks_c_5601-1987" </content-type>
+<date> fri, 4 apr 2003 09:28:41 +0900 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &char &pound; &num [ ] &char e-mail , 
+^ * &num &name &num &num cd-rom . 
+^ * oledb &name . 
+^ ( ) 
+^ ( &website 
+^ &website ) 
+^ access2000 / &name 
+^ access2000 , &name &name 
+^ access2000 , &name &name 
+^ &num &website 
+^ ( &website ) 
+^ access2000 , &name &name 
+^ access2000 , &name &name 
+^ access2000 , &name &name 
+^ * &name . 
+^ * . 
+^ * . 
+^ * . 
+^ * . 
+^ * . 
+^ * . 
+^ &num &num &num cd-rom . 
+^ &num ( &website ) 
+^ access2000 , &name &name 
+^ &char . 
+^ &char 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,46 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ int talk 
+</text_normal>
+</subject>
+<date> fri, 28 feb 2003 18:05:58 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ was good to see you and pray together this morning . 
+^ i remember you telling me about having someone in to &name to talk about international mission last term , and &name has just reminded me about it . 
+^ sorry i forgot to bring it up ; i am becoming more and more lazy , sorry ! 
+^ i think it 'd be great to have him in ; it would have to be next week , as the last week will be a bit topsy turvy as usual . 
+^ what sort of thing is he likely to say ? 
+^ could you just give a brief outline , i 'm sure it 'd be wonderful for us to hear about elsewhere and pray for the world . 
+^ and roughly how long- would it just be a normal int slot , or would it be better to make fuller use of him ? 
+^ let me know and we 'll try to arrange it for next week ! 
+^ thanks , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , 
+^ was good to see you and pray together this morning . 
+^ i remember you telling me about having someone in to &name to talk about international mission last term , and &name has just reminded me about it . 
+^ sorry i forgot to bring it up ; i am becoming more and more lazy , sorry ! 
+^ i think it 'd be great to have him in ; it would have to be next week , as the last week will be a bit topsy turvy as usual . 
+^ what sort of thing is he likely to say ? 
+^ could you just give a brief outline , i 'm sure it 'd be wonderful for us to hear about elsewhere and pray for the world . 
+^ and roughly how long- would it just be a normal int slot , or would it be better to make fuller use of him ? 
+^ let me know and we 'll try to arrange it for next week ! 
+^ thanks , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,29 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name &name 
+</text_normal>
+</subject>
+<date> 13 may 2003 15:05:52 +0100 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ since i have a feeling that very few of you got the original e-mail about 
+^ this , i thought it would be worthwhile giving you a chance / another chance 
+^ to place an order for a &name &name shirt . 
+^ the shirts will be &num white cotton with the &name crest embroidered over 
+^ the left breast with the following design printed on the back - &website / 
+^ the mens have a choice in size ( &char , &char , &char , &name - &name being &num " chest ) , &name 
+^ will be a fitted shirt in the following sizes &num ( &num ) , &num ( &num ) , &num ( &num ) , &num ( &name and &num ( &num ) . 
+^ the price will be around &pound; &num . 
+^ if you could let me know if you want one by friday ( specifying sex and size ) that would be great . 
+^ many thanks 
+^ &name &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

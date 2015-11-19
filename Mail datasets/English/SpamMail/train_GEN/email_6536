@@ -1,0 +1,64 @@
+<message>
+<date> wed, 06 nov 2002 17:22:22 +0100 </date>
+<subject>
+<text_normal> 
+
+^ &name &num 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear chorus members , 
+^ in case any of you were not there last week i 'd like to clarify the rehearsals for the &name concert on saturday : 
+^ thursday &num november : &name &name first , &name second , but i ca n't say exactly what time that will be . 
+^ this will be in the &name &name this week 
+^ no rehearsal for you on friday 8th , that will be orchestra only 
+^ saturday 9th : please arrive at 12.30pm so that we have time to get everyone seated well before the orchestra gets into place . 
+^ there should be time for a quick run-through before the &name tutti start . 
+^ at &name &name will start with the last part of movement &num which is your bit ! 
+^ you will probably be free by 1.45pm . 
+^ concert at 8pm . 
+^ please be seated by 7.50pm 
+^ dress code : women black ; men djs with black bow-tie 
+^ you are strongly advised to buy tickets in advance since we expect it to be a sell-out . 
+^ this is especially important if anyone is travelling any distance for it . 
+^ the arts theatre &name office is selling the tickets &num , or in person . 
+^ if you take your student &name and your cums card you can buy tickets for &pound; &num . 
+^ ( full price &pound; &num , regular concessions &pound; &num . ) 
+^ i need &num more stewards - first come first served - students given preference . 
+^ people doing it must be able to be there by 7.15pm . 
+^ cheers , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &num dear chorus members , 
+^ in case any of you were not there last week i 'd like to clarify the rehears als for the &name concert on saturday : 
+^ thursday &num november : &name &name first , &name second , but i ca n't say ex actly what time that will be . 
+^ this will be in the &name &name this we ek . 
+^ no rehearsal for you on friday 8th , that will be orchestra only 
+^ saturday 9th : please arrive at 12.30pm so that we have time to get everyone seated well before the orchestra gets into place . 
+^ there should be time for a quick run-through before the &name tutti start . 
+^ at &name &name will st art with the last part of movement &num which is your bit ! 
+^ you will proba &name be free by 1.45pm . 
+^ concert at 8pm . 
+^ please be seated by 7.50pm 
+^ dress code : women black ; men djs with black bow-tie 
+^ you are strongly advised to buy tickets in advance since we expect it to be a sell-out . 
+^ this is especially important if anyone is travelling any distan ce for it . 
+^ the arts theatre &name office is selling the tickets &num , or in person . 
+^ if you take your student &name and your cums card you can buy tickets &char or &pound; &num . 
+^ ( full price &pound; &num , regular concessions &pound; &num . ) 
+^ i need &num more stewards - first come first served - students given prefere nce . 
+^ people doing it must be able to be there by 7.15pm . 
+^ cheers , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

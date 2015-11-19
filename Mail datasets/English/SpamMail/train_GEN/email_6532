@@ -1,0 +1,27 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ loose ends 
+</text_normal>
+</subject>
+<date> thu, 6 mar 2003 08:38:11 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name , 
+^ &name rehearsals have started and &name &name wants to know if you are singing . 
+^ she has emailed you but not heard . 
+^ i told her you do n't do replies but were singing as far as i knew . 
+^ next rehearsal after you come back &num / &num . 
+^ dad 's birthday present arrived safely he was very pleased and does intend to write . 
+^ it would be useful to know soon when you want a lift home . 
+^ love , mum 
+</text_normal>
+</part>
+</message_body>
+</message>

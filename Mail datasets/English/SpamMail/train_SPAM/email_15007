@@ -1,0 +1,23 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name a flat screen tv worth $ &num 
+</text_normal>
+</subject>
+<date> wed, 02 apr 2003 20:05:01 -0500 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ dear a flat screen tv worth $ &num we 've already had &num winners and you could be next ! 
+^ smokers , &num and older , enter to win a &name flat screen tv ! 
+^ click here . 
+^ &website 
+^ ( a href' &website ) you are currently subscribed to dailyclicks as : unsubscribe click on the link below : &website 
+</text_normal>
+</message_body>
+</message>

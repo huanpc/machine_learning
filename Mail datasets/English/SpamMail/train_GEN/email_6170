@@ -1,0 +1,30 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ flowers 
+</text_normal>
+</subject>
+<date> tue, 18 feb 2003 16:44:23 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name 
+^ thanks for the key - hope the note made sense . 
+^ re : flowers - sorry i did n't have time to get any today as am in the midst of an essay crisis for tomorrow morning , but i could always get some tomorrow lunchtime if you wanted as i 'll be in town then . 
+^ its a lovely gesture and i know they 'll really appreciate it . 
+^ to be honest i 'm no expert when it comes to flowers either , and am not really sure where to go . 
+^ i know &name and &name do pot plants and some flowers but i 'm sure there must be florists around too . 
+^ the market also has some although they wo n't be as nicely presented . 
+^ i 'll ask around and see what my friends reckon , but if you want to get them before then then i 'd suggest some brightly coloured &num for &name ( red , yellow or purple ) and perhaps softer colours for &name ( pink , white ) . 
+^ these are only suggestions , though ! 
+^ let me know what you think 
+^ love &name 
+</text_normal>
+</part>
+</message_body>
+</message>

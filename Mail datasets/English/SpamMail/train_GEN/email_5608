@@ -1,0 +1,18 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ reserved book now available 
+</text_normal>
+</subject>
+<date> wed, 20 nov 2002 09:05:47 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ the item &name &num titled " pattern classification " is now available and can be collected from the librarian during working hours . 
+</text_normal>
+</message_body>
+</message>

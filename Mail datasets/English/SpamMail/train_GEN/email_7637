@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ i already have an &name laptop . 
+^ i would like another one for my sister . 
+^ do you have it ? 
+</text_normal>
+</message_body>
+</message>

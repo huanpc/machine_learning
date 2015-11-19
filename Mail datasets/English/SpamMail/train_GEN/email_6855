@@ -1,0 +1,23 @@
+<message>
+<date> tue, 2 jul 2002 20:24:16 +0200 </date>
+<from>
+</from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re [ &num ] : selfview &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name , 
+^ &website . 
+^ i appreciate this little program very much . 
+^ from time to time i will look on your homepage for newer versions . 
+^ best regards , &name mailto : &email 
+</text_normal>
+</message_body>
+</message>

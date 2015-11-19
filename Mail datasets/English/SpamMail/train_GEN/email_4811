@@ -1,0 +1,14 @@
+<message>
+<date> mon, 8 jul 2002 11:59:01 -0400 (edt) </date>
+<from> edu </from>
+<to> ede </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+</message_body>
+</message>

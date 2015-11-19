@@ -1,0 +1,26 @@
+<message>
+<date> wed, 22 jan 2003 21:41:12 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name - 22nd january &num 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hello everyone . 
+^ please find attached the minutes of tonight 's &name committee meeting . 
+^ dr &name : the &num items marked " attached " will be put in your pigeonhole tomorrow morning . 
+^ &name , &name , &name : the " list of college meetings with &name &name " should arrive in your pigeonholes tomorrow morning too . 
+^ see most of you at the seminar tomorrow . 
+^ &name &name &name &email " never give up ! 
+^ * never * surrender ! " 
+</text_normal>
+</part>
+</message_body>
+</message>

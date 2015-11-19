@@ -1,0 +1,25 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain; charset=utf-8 </content-type>
+<date> mon, 07 jan 2002 11:47:00 +0000 </date>
+<subject>
+<text_normal> 
+
+^ things 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ hi &name ! 
+^ things are not so bad . 
+^ i 'm feeling quite a lot better and am trying to do some work - well , perhaps not this morning do you still want me to copy your dissertation files onto a &name and send it to you ? 
+^ &name the corridor is not too lonely - and you can always go to &name and say hi to people there . 
+^ has college food improved ? 
+^ is everyone well ? 
+^ have a good day . 
+^ &name
+</text_normal>
+</message_body>
+</message>

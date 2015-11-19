@@ -1,0 +1,15 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ welcome from &name &name ! 
+</text_normal>
+</subject>
+<date> thu, 03 apr 2003 08:40:38 +0900 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

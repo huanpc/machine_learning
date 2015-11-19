@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ someone is searching for you 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> fri, 28 mar 2003 09:47:47 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name you are receiving this special offer because you have provided permission to receive third party email communications regarding special online promotions and offers . 
+^ if you do not wish to receive any further messages , please click at the bottom to unsubscribe . 
+^ please click here to opt out of future e-mailings . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,5 @@
+tới tôi em dịch sai rồi
+horizontal scaling
+co_giãn theo chiều ngang
+vertical scaling
+co_giãn theo chiều dọc

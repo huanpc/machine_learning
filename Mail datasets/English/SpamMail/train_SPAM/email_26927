@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ open immediately to make a killing in &name estate . 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> wed, 9 apr 2003 21:22:28 -0700 (pdt) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you received this email because you signed up at &num of &name 's websites ( see the ' properties ' listed at &website . 
+^ ( &char ) &num &name , inc. all rights reserved . 
+</text_normal>
+</message_body>
+</message>

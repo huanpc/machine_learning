@@ -1,0 +1,26 @@
+<message>
+<date> tue, 29 aug 2000 19:46:02 +0100 </date>
+<to> co.uk </to>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ flat stuff 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ enclosed are some ideas on the flat . 
+^ hope you find them interesting . 
+^ the password for the document is your surname . 
+^ i 'll be down in &name on friday , so if there 's anything you want done , please let me know . 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<date> wed, 5 mar 2003 17:07:17 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ no strings 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i 've sent my squash racquet away to be re-strung . 
+^ cost &pound; &num . 
+^ was tempted &char &char buy a new racquet though - some good offers in &name , but withstood in the 
+^ end . 
+^ what do you think about this &name thing ? 
+^ see you soon , 
+^ &name
+</text_normal>
+</message_body>
+</message>

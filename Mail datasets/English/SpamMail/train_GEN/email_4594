@@ -1,0 +1,27 @@
+<message>
+<date> fri, 28 mar 2003 11:29:27 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name : get ur hed rnd this 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ mentalist ! 
+^ on &name , &num mar &num , &name &name wrote : 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ &website 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

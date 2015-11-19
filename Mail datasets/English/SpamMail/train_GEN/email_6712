@@ -1,0 +1,21 @@
+<message>
+<from> me.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ p.s. 
+</text_normal>
+</subject>
+<date> thu, 1 may 2003 21:45:16 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ just in case you need to speak to me at the weekend i am away from mid-day tomorrow friday and can be reached on my mobile &num . 
+^ best wishes , &name &name &name &name , &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

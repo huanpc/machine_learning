@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name : { nri database ... over &num lakh &name contacts!} - 
+</text_normal>
+</subject>
+<date> thu, 10 apr 03 12:14:03 india standard time </date>
+<content-type> multipart/mixed; boundary= "----=_nextpart_000_0014_9b57748e.2eb6ebe1" </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

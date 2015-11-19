@@ -1,0 +1,45 @@
+<message>
+<from> org </from>
+<subject>
+<text_normal> 
+
+^ [ ] 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 08:06:56 +0900 </date>
+<content-type> text/html; charset="euc-kr" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ : : : : : : 
+^ ( ) &name ... 
+^ &char ... 
+^ &char ... 
+^ &char ... 
+^ ... &pound; 
+^ ( ) ... 
+^ &char ... 
+^ &name ... 
+^ &pound; ... 
+^ : : : &num ( &name ) : : : 
+^ &num . 
+^ : ( &name : public information manager ) 
+^ &num . 
+^ &num ( &num ) : &num &num ( &num &pound; ) &num ( &num , &num ) : &num ( &num &pound; ) 
+^ &num . 
+^ &num : &num &num : &num ( &num ) 
+^ &num . 
+^ : &num &num &num ( &website ) 
+^ &num . 
+^ : &num &num &num ( ) &num : &num ~ &num : &num 
+^ &num . 
+^ : &num 
+^ : &website / 
+^ ( ) 
+^ , &num . 
+^ [ ] . 
+^ if you do n't want this type e-mail , please click the ' &name ' button . 
+</text_normal>
+</message_body>
+</message>

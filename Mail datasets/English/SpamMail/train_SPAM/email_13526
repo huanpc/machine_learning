@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name , &name , &name & &name &name &name , shipped overnight ! 
+^ &char 
+</text_normal>
+</subject>
+<date> tue, 01 apr 03 15:51:46 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

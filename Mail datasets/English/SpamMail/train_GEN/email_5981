@@ -1,0 +1,42 @@
+<message>
+<from> co.uk </from>
+<to> com ac.uk </to>
+<subject>
+<text_normal> 
+
+^ another query 
+</text_normal>
+</subject>
+<date> fri, 14 feb 2003 17:11:59 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name , 
+^ i still do n't know if you are getting these emails , but here 's another try . 
+^ &name and &name are thinking of coming up to &name for a day next week because &name wants to see the spring flowers ( snowdrops and aconites ) along the backs . 
+^ do you know if they are out now ? 
+^ does the park & ride operate daily or only saturdays ? 
+^ i saw &name ( &name ) last week . 
+^ &name has been taken over by the germans and more or less closed down , so at &num and &num months she has no job , but no intention of accepting retirement ! 
+^ the christmas cactus has flowered and is looking lovely . 
+^ mum 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name , 
+^ i still do n't know if you are getting these emails , but here 's another try . 
+^ &name and &name are thinking of coming up to &name for a day next week because &name wants to see the spring flowers ( snowdrops and aconites ) along the backs . 
+^ do you know if they are out now ? 
+^ does the park &amp; ride operate daily or only saturdays ? 
+^ i saw &name ( &name ) last week . 
+^ &name has been taken over by the germans and more or less closed down , so at &num and &num months she has no job , but no intention of accepting retirement ! 
+^ the christmas cactus has flowered and is looking lovely . 
+^ mum 
+</text_normal>
+</part>
+</message_body>
+</message>

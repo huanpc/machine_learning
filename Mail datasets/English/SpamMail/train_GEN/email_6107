@@ -1,0 +1,23 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : chapel &name 
+</text_normal>
+</subject>
+<date> 06 feb 2003 08:27:24 +0000 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name ! 
+^ 10am on this saturday should be fine . 
+^ &name and i are going to &name &name to get there for lunch but i do n't know what time we 're leaving , so will have to ask &name . 
+^ so it might have to be quite a short get together ! 
+^ do come round to our flat - basement flat &num &name street . 
+^ see you soon &name 
+</text_normal>
+</message_body>
+</message>

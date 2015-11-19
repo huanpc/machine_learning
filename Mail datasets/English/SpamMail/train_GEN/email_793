@@ -1,0 +1,32 @@
+<message>
+<date> thu, 15 feb 2001 14:35:50 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hi &name ... ( ! ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hope you shocker ! 
+^ &char 
+^ &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , i 've just sent this to &name , from &name . 
+^ i think &name still has no idea about what 's really going on here - i expected her intelligence to be higher . 
+^ &name 
+^ &name , i do n't think you fully undrestand the depths of my true feelings for you . 
+^ &name &char &name &name &name &num &num &num 
+^ &name &char , &name &name 's &name , &name 's &name , &name , &name &num 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+</text_embedded>
+</message_body>
+</message>

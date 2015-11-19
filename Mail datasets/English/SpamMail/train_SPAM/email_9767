@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ re : &name notice 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 17:32:42 +0600 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

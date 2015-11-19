@@ -1,0 +1,73 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ fwd : getting to know you and me questionnaire ! ! ! ! 
+</text_normal>
+</subject>
+<date> wed, 24 oct 2001 12:58:06 +0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_embedded> 
+
+^ from : &email to : &email subject : fwd : getting to know you and me questionnaire ! ! ! ! 
+^ &name : &name , &num &name &num &num : &num : &num gb 
+^ forwarded message : 
+<text_embedded> 
+
+^ to : &email from : " &name &name " subject : fwd : getting to know you and me questionnaire ! ! ! ! 
+^ &name : &name , &num &name &num &num : &num : &num &num 
+</text_embedded>
+
+^ from : " &name &name " 
+^ to : &email 
+^ subject : fwd : getting to know you and me questionnaire ! ! ! ! 
+^ &name : sat , &num &name &num &num : &num : &num &num 
+<text_embedded> 
+
+^ from : nickycordiner 
+^ to : &name , " aird , &name " , " &name , &name " , " &name , &name " , " &name , &name " , " spiller , &name " , " staff , &name " , " &name , &name " 
+^ subject : getting to know you and me questionnaire ! ! ! ! 
+^ &name : &name , &num &name &num &num : &num : &num &num 
+<text_embedded>
+
+<text_embedded> 
+
+^ blanks about me and send it 
+^ your friends including 
+^ they 're great to get 
+^ send this survey to 
+^ 2nf fill this survey out 
+^ back to them . . . . ... because 
+^ impression ? 
+^ proabably oh yuck 
+^ ever been jealous of me ? 
+^ course not its called incest ! 
+^ you ? 
+^ havent a clue 
+^ sporty , punk , hippie , glam , 
+^ would it be &name &name 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ get your free download of &name explorer at )href'&website 
+</text_normal>
+<text_embedded> 
+
+^ this message was sent using &name web mail . 
+^ &website / 
+</text_embedded>
+<text_normal> 
+
+^ get your free download of &name explorer at &website 
+</text_normal>
+</message_body>
+</message>

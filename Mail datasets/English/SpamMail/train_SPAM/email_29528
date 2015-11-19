@@ -1,0 +1,32 @@
+<message>
+<date> mon, 10 mar 2003 15:04:56 gmt </date>
+<from> org </from>
+<subject>
+<text_normal> 
+
+^ &name conference hotel 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ please do not reply to this address unless you would like to be removed or added to our e-mail list ( see instructions below ) . 
+^ direct all inquiries to &email instead . 
+^ dear &name , 
+^ the allied &name &name &num international conference in &name , &name is rapidly approaching and it is shaping up to be a great conference . 
+^ if you have not made your hotel reservations yet , you need to do so very quickly . 
+^ the hotel is filling up and the room rate is only good through march &num . 
+^ &name &name room rates : $ &num weekday and $ &num weekend &name : &num 
+^ when contacting the conference hotel , be sure to tell them you are with the allied academies conference . 
+^ if you will be flying into the &name , &name airport ( approximately &num minutes from &name , &name ) you might want to consider the &name &name ( &num ) for your transportation needs . 
+^ if you would prefer to save money on your airfare , southwest files into &name &name , &name , which is about a &num and a half hour drive from &name . 
+^ we hope you will be able to attend in person or participate via the &name division . 
+^ please contact me at the e-mail address below if you have any questions . 
+^ best &name , &name &name allied academies &email if you would like to be removed from our mailing list , simply reply to this e-mail and type the word 'remove ' and the e-mail address to which this message was sent in the subject line ( if you have more than &num e-mail address , be sure to type 'remove ' and the address ( es ) to which this message was sent in the subject line ) . 
+^ if you receive duplicates of this message via different e-mail addresses but would like to continue receiving updates , simply follow the above instructions to remove the e-mail address ( es ) you do not want to receive future notices . 
+^ if you would like to add a colleague to our mailing list , simply reply to this e-mail and type the word ' add ' and his / her e-mail address in the subject line . 
+</text_normal>
+</message_body>
+</message>

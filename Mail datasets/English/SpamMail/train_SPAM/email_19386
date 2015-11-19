@@ -1,0 +1,24 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ livecam-botschaft 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> sun, 06 apr 2003 02:32:36 +0200 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hallo , 
+^ jemand hat eine livecam-botschaft in unserem system f' &char sie hinterlegt . 
+^ &name schauen sie in unseren chat und rufen sie diese dort ab . 
+^ &name werden generell &num &name gespeichert . 
+^ zur livecam-botschaft 
+^ viel vergn' gen 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,16 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ get a car today ! 
+^ no obligation . 
+^ &name &name 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 21:13:27 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

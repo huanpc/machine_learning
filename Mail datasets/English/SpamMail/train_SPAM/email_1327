@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ # &num unclaimed funds notification 
+</text_normal>
+</subject>
+<date> sun, 23 mar 2003 23:08:29 -0700 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website 
+^ it has come to our attention that you may be entitled to an undisclosed amount of unclaimed funds . 
+^ if so , these funds are currently reserved in your name and waiting for you to claim . 
+^ please enter your name at the unclaimed money search engine located at our site . 
+^ click here &website 
+^ &name &name : &num / &num / &num to &num / &num / &num 
+^ unclaimed funds department 
+^ to be extracted from our membership database , please visit &website 
+</text_normal>
+</message_body>
+</message>

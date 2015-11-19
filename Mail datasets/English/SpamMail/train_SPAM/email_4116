@@ -1,0 +1,14 @@
+<message>
+<subject>
+<text_normal> 
+
+^ the &name fountain 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<date> wed, 26 mar 2003 23:59:00 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

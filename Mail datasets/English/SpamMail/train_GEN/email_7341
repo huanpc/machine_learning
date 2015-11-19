@@ -1,0 +1,24 @@
+<message>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ work 
+</text_normal>
+</subject>
+<date> thu, 27 feb 2003 09:27:25 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi everyone . 
+^ you can find a server running at &website to run a test . 
+^ we had a success last night ( see the previous email ) - now i 'm trying a &num * &num * &num * &num digit number to factorise . 
+^ &num small issue - often it seems as though the composite work units are containing only &num atomic work unit . 
+^ has anyone else noticed this ? 
+^ all the best 
+^ &name
+</text_normal>
+</message_body>
+</message>

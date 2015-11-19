@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name needed for fedex and &name 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 15:39:31 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

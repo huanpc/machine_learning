@@ -1,0 +1,33 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> wed, 30 apr 2003 09:59:27 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ just a further note - did you send on your message to all my addresses - i see it says " group message " . 
+^ is there an easy way of doing this ? 
+^ if so 
+^ - how ? 
+^ best wishes &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ just a further note - did you send on your message to all my addresses - i see it says " group message " . 
+^ is there an easy way of doing this ? 
+^ if so - how ? 
+^ best wishes &name 
+</text_normal>
+</part>
+</message_body>
+</message>

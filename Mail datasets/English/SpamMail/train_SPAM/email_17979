@@ -1,0 +1,14 @@
+<message>
+<from> edu </from>
+<subject>
+<text_normal> 
+
+^ doctor of &name &name 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 06:59:36 -0500 </date>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

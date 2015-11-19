@@ -1,0 +1,93 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name league table 
+</text_normal>
+</subject>
+<date> mon, 10 feb 2003 21:37:50 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi everyone , 
+^ thanks for playing the cuba sharesim ! 
+^ after another week of play , here is how the portfolio league table currently looks overall : 
+^ position portfolio name net &name &pound; &num % increase 
+^ &num &name o' &name &num , &num +3.32% 
+^ &num &name &name &num , &num +2.64% 
+^ &num &name &name &num , &num +2.46% 
+^ &num &name &name &num , &num +1.63% 
+^ &num &name &name &num , &num +1.62% 
+^ &num &name &name &num , &num +1.56% 
+^ &num &name &name &num , &num +1.35% 
+^ &num &name &name &num , &num +1.12% 
+^ &num &name &name &num , &num +1.03% 
+^ &num &name &name &num , &num +0.88% 
+^ good luck for the coming week ! 
+^ regards , 
+^ &name &name 
+^ &name vice-chair 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi everyone , 
+^ thanks for playing the cuba sharesim ! 
+^ after another week of play , here is how the portfolio league table currently looks overall : 
+^ position 
+^ portfolio name 
+^ net &name &pound; &num 
+^ % increase 
+^ &num 
+^ &name o' &name 
+^ &num , &num 
+^ +3.32% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +2.64% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +2.46% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.63% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.62% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.56% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.35% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.12% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.03% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +0.88% 
+^ good luck for the coming week ! 
+^ regards , 
+^ &name &name 
+^ &name vice-chair 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,34 @@
+<message>
+<date> tue, 30 jul 2002 15:05:46 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i think you may have missed &name ( &email ) in that email . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi all , 
+^ there are some issues that we all need to talk about before the next phase of implementation begins in full swing . 
+^ we 're generating a list of such issues , which so far includes things like stream &name 's ( how big are they ? 
+^ what is their type ? 
+^ what is there position in the tuple ? 
+^ when are they being generated etc. ) and type inferencing . 
+^ i would have liked to meet this week , but the &name paper looks like it 's going to make that impossible . 
+^ given that it will have to be next week , we might as well wait and meet before the next &name meeting , which is currently scheduled for wed at &num at &name . 
+^ so my question is , could all of the &name people make it to &name prior to the &name meeting ( say , at &num : &num ) for this meeting ? 
+^ please let me know . 
+^ - &name 
+</text_embedded>
+</message_body>
+</message>

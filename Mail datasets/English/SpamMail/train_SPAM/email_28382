@@ -1,0 +1,15 @@
+<message>
+<date> mon, 07 apr 2003 12:03:58 +0000 (gmt) </date>
+<from> com.cn </from>
+<subject>
+<text_normal> 
+
+^ do you suffer from a &name &name ? 
+^ injector 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

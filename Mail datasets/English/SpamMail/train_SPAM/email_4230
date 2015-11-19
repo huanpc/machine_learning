@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<date> wed, 26 mar 2003 18:14:06 -0500 </date>
+<subject>
+<text_normal> 
+
+^ &name in &name ? 
+^ ( just making sure you 're listening ) 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ n' &char ' &char 
+</text_normal>
+</message_body>
+</message>

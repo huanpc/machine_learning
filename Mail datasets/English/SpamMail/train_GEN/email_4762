@@ -1,0 +1,27 @@
+<message>
+<date> mon, 19 may 2003 15:14:51 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ cron job 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name , i 'm still having no joy getting this cron job running . 
+^ i tried the simplest case : 
+^ * * * * * &num 
+^ also with quotes around the command : 
+^ * * * * * " &num " 
+^ but neither seem to be working . 
+^ i copied the command directly from the crontab file and ran it to check that i had entered it correctly , and that was fine . 
+^ any ideas ? 
+^ cheers , 
+^ &name
+</text_normal>
+</message_body>
+</message>

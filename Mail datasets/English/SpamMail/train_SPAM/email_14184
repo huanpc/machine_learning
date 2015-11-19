@@ -1,0 +1,35 @@
+<message>
+<date> wed, 2 apr 2003 12:10:46 -0500 (est) </date>
+<from> com </from>
+<content-type> text/html </content-type>
+<subject>
+<text_normal> 
+
+^ cgispy.com member updates - april &num 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ cgispy member &name april &num , &num 
+^ &name has been going through some major changes over the last &num months . 
+^ we are close to hitting &num , &num registered users , so we have been going through some file cleanup procedures to make space for everyone . 
+^ we apologize for the slowness of the site in the last couple weeks , and we are working hard to fix the problem . 
+^ we are adding more memory to the and re-organizing the file structure of the site to make everything run smoother and better . 
+^ for the next few nights , starting at &name eastern time and ending &name eastern time , we will be doing maintenence , and the scripts and site will be unavailabe . 
+^ if you experience any problems at all while we are doing this , please contact &email immediately . 
+^ now for the good stuff : 
+^ we have released the latest version of the , cgispy metasearch ! 
+^ now you can create your own meta search allowing your site 's visitors to search using &name , while keeping them in your site ! 
+^ it is fully and feature a site search and many other options . 
+^ you can view some more information about the new version of the script at &website . 
+^ make sure to watch for the &name &name &name , we will keep you updated on new features and the site re-design . 
+^ &website . 
+^ &name and reliable domain registration , web &name , and &name ! 
+^ &name &name &website 
+^ &website . 
+^ to be removed from this newsletter , please &name &num danworld , inc. 
+</text_normal>
+</message_body>
+</message>

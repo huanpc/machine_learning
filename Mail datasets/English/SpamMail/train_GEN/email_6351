@@ -1,0 +1,28 @@
+<message>
+<from> net.sa </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ i need a way to add my language to your &name file 
+</text_normal>
+</subject>
+<date> sun, 20 oct 2002 13:03:35 +0300 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , i tried your great software , thanks for it , can you please tell me how to add arabic langauge to the list of langauges ? 
+^ thanks 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi , i tried your great software , thanks for it , can you please tell me how to add arabic langauge to the list of langauges ? 
+^ thanks 
+</text_normal>
+</part>
+</message_body>
+</message>

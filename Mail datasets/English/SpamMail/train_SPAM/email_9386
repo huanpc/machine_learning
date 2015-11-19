@@ -1,0 +1,14 @@
+<message>
+<from> ac.kr </from>
+<subject>
+<text_normal> 
+
+^ &name : &name - order &char / &name 
+</text_normal>
+</subject>
+<date> mon, 31 mar 03 00:34:38 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

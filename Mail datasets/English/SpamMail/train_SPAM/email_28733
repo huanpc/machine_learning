@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<date> fri, 11 apr 03 19:51:24 gmt </date>
+<subject>
+<text_normal> 
+
+^ someone is trying to reach you 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

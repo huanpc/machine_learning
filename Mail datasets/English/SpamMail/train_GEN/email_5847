@@ -1,0 +1,17 @@
+<message>
+<from>
+</from>
+<to> org </to>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ [ autopackage ] &name : backup support for copyfiles & more 
+</text_normal>
+</subject>
+<date> fri, 18 apr 2003 17:17:16 +0200 </date>
+<message_body>
+<part num="2" type="text/x-diff">
+</part>
+</message_body>
+</message>

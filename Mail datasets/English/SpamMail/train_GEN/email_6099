@@ -1,0 +1,53 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name supervisions 
+</text_normal>
+</subject>
+<date> tue, 15 apr 2003 20:40:38 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ any of those times is fine for me i think , as i do n't have anything organised for the beginning of term yet as far as i know . 
+^ i 'd actually prefer friday afternoon , partly &name its in &name and i do n't want to hang around in teh wgb on thursday or have to make &num trips out there , and partly &name it gives me a little more time to * actually * do the work . 
+^ this depends on dr &name though obviously , as he seems to have suggested 4pm which is the only time you do n't appear to be able to do . 
+^ so if you want to email him and suggest whatever time on friday that suits you both , or possibly a time on thursday if that does n't work ? 
+^ hope you 've had a good holidays so far and have n't done too much work ... 
+^ &name 
+^ from : &name &name ( &email ) 
+</text_normal>
+<text_embedded> 
+
+^ to : &name &name ( &email ) subject : re : &name supervisions &name : &name , &num &name &num &num : &num : &num &num 
+^ hi &name 
+^ hope you 're having a good break . 
+^ i ca n't do wednesday afternoon ( i 'm busy &num - 6pm on wednesday ) , but could do either thursday afternoon anytime or friday afternoon , &num ; &num in &name . 
+^ how about you ? 
+^ see you soon 
+^ &name 
+^ on tuesday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ dear &name & &name , 
+^ we need to arrange a time for your first &name supervision ( for which you will , of course , have finished the work weeks ago ) . 
+^ could we do this in &name on wednesday 23rd at &num p.m. if at all possible . 
+^ if that does n't work then it would have to be late on thursday afternoon ( &num p.m. ) at the &name &name building or late on friday afternoon ( &num p.m. again ) in &name . 
+^ could you please hand in the work to my pigeonhole in &name by lunchtime on tuesday so i get a chance to mark it . 
+^ &name 
+</text_embedded>
+
+^ &name &name &name college , &name , &name &name &name &name : &name , &name &name , &name e-mail &name : &email &name : # &num | &name : &email | &name ! 
+^ &name &name / &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+<text_normal> 
+
+^ overloaded with spam ? 
+^ with &name &num , you can filter it out &website 
+</text_normal>
+</message_body>
+</message>

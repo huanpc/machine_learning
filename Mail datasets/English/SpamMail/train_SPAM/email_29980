@@ -1,0 +1,14 @@
+<message>
+<from> biz </from>
+<subject>
+<text_normal> 
+
+^ extended warranty for your old / new car at very &name &name ! 
+</text_normal>
+</subject>
+<date> fri, 11 apr 03 20:25:18 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

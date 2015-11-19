@@ -1,0 +1,23 @@
+<message>
+<to> go.jp </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 10 apr 2003 13:32:18 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ i 'm getting better but i 'm going to &name on saturday - i 'm not sure i will be able to email the paper from there . 
+^ i 'm back on the 18th , so i could definitely get you a longer paper by the 20th , but i expect that would be too late ? 
+^ maybe i could send you a short paper tomorrow , and then send you something longer if i can do so from &name ? 
+^ then you can use the longer version if it arrives in time , but if not , you 'll still have something ? 
+^ best , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

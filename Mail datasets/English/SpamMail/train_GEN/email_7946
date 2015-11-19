@@ -1,0 +1,40 @@
+<message>
+<from> net </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name like ? 
+</text_normal>
+</subject>
+<date> sat, 24 nov 2001 18:26:02 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name , 
+^ fit like ? 
+^ how are you ? 
+^ was speaking to &name last night and she was saying you will be home over the festive period . 
+^ if you have time we will maybe see you . 
+^ not much new here , got a photo &char the bairns to gie you . 
+^ see you soon suppers ready 
+^ the &name &name xx 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name , 
+^ fit like ? 
+^ how are you ? 
+^ was speaking to &name last night and she was saying you will be home over the festive period . 
+^ if you have time we will maybe see you . 
+^ not much new here , got a photo &char the bairns to gie you . 
+^ see you soon suppers ready 
+^ the &name &name xx 
+</text_normal>
+</part>
+</message_body>
+</message>

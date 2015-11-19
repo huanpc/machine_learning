@@ -1,0 +1,35 @@
+<message>
+<date> thu, 1 may 2003 13:39:14 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks a lot &name . 
+^ &name 
+^ on &name , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ error in init file : file error : " &name open load file " , " tdl-mode " is there anything i can do the errors ? 
+</text_embedded>
+
+^ yes . 
+^ you have the line 
+^ ( load " tdl-mode " ) 
+^ in your .emacs file . 
+^ get rid of it and the errors go away . 
+^ slightly more helpful answer : i do n't know what tdl-mode is supposed to do , i presume you do . 
+^ you need to find a file called tdl-mode.el &website and make sure it is on your load path . 
+</text_embedded>
+</message_body>
+</message>

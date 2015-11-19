@@ -1,0 +1,26 @@
+<message>
+<date> 5 apr 2003 04:44:17 -0000 </date>
+<from> email </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * * &name marked &name * * * would you like a $ &num check ? 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ the following message was sent to you as an opt-in subscriber to &name . 
+^ we will continue to bring you valuable offers on the products and services that interest you most . 
+^ if you wish to unsubscribe please click here : 
+^ we 're receiving checks for $ 100's and $ &num , 000's every month - let me show you how you can easily do the exact same thing ! 
+^ to unsubscribe by postal mail , please send your request to : 
+^ &num &name road , &name &num 
+^ &name &name , &name &num 
+^ &name : &name department 
+</text_normal>
+</message_body>
+</message>

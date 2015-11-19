@@ -1,0 +1,61 @@
+<message>
+<from>
+</from>
+<to> com com </to>
+<subject>
+<text_normal> 
+
+^ &name &name support call &name : &num / js 
+</text_normal>
+</subject>
+<date> wed, 6 nov 2002 11:28:43 -0000  </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name &name support call &name : &num / js 
+^ &name , 
+^ thank you for your message . 
+^ we are sorry you experienced problems with the co-operative &name &name &name service . 
+^ the error message you have been receiving " exception : java.lang.classnotfoundexception : &name applet.class " , means that you have the latest version of the &name engine installed , which is not compatible with the co-operative &name 's website . 
+^ we would advise that you disable this program , and you can do this by going to : 
+^ * start * settings * control panel * &name options * advanced section , in there should be an option for &name ( sun ) if you can make sure the box is unticked then this should resolve the problem that you are experiencing . 
+^ if you have any further technical queries please visit the website and use our online troubleshooting guide . 
+^ if you cannot find an answer , please send us an email to &email or telephone our technical helpdesk on &num &num ( lines are open from 8am to &name , &num days a week ) . 
+^ regards , 
+^ &name &name &name 
+^ please note : the co-operative bank are not pc suppliers and cannot provide computing support . 
+^ any suggestions are provided in good faith , but the co-operative bank plc are unable to accept any liability for pc hardware or &name altered following any suggestions . 
+^ if in doubt , please obtain assistance from your pc support specialists . 
+^ if you are using your employer 's pc , or using equipment supplied by your employer , remember to follow relevant instructions and rules about loading or modifying the pc or set-up . 
+^ suggestions made acknowledge all trademarks , and all software and hardware developers products . 
+^ we provide suggestions on how to make our service work , bearing in mind that all developers have different functionality inherent in their products . 
+^ any suggestions made do not imply that any product is better or worse than any other . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name support call &name : &num / js 
+^ &name &name support call &name : &num / js 
+^ &name , 
+^ thank you for your message . 
+^ we are sorry you experienced problems with the co-operative &name &name &name service . 
+^ the error message you have been receiving " exception : java.lang.classnotfoundexception : &name applet.class " , means that you have the latest version of the &name engine installed , which is not compatible with the co-operative &name 's website . 
+^ we would advise that you disable this program , and you can do this by going to : start &name &name &name &name options advanced section , in there should be an option for &name ( sun ) if you can make sure the box is unticked then this should resolve the problem that you are experiencing . 
+^ if you have any further technical queries please visit the website and use our online troubleshooting guide . 
+^ if you cannot find an answer , please send us an email to &email or telephone our technical helpdesk on &num &num ( lines are open from 8am to &name , &num days a week ) . 
+^ regards , 
+^ &name &name &name 
+^ please note : the co-operative bank are not pc suppliers and cannot provide computing support . 
+^ any suggestions are provided in good faith , but the co-operative bank plc are unable to accept any liability for pc hardware or &name altered following any suggestions . 
+^ if in doubt , please obtain assistance from your pc support specialists . 
+^ if you are using your employer 's pc , or using equipment supplied by your employer , remember to follow relevant instructions and rules about loading or modifying the pc or set-up . 
+^ suggestions made acknowledge all trademarks , and all software and hardware developers products . 
+^ we provide suggestions on how to make our service work , bearing in mind that all developers have different functionality inherent in their products . 
+^ any suggestions made do not imply that any product is better or worse than any other . 
+</text_normal>
+</part>
+</message_body>
+</message>

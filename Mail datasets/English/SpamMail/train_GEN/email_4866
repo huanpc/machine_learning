@@ -1,0 +1,27 @@
+<message>
+<date> tue, 23 jul 2002 21:05:41 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : &name report 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi professor &name , 
+^ after spending the day at &name and integrating we got the filter box working and are close to finishing the map box . 
+^ if you want a more detailed report let me know , otherwise i 'll fill you in tomorrow in person if you have time . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ can you pop by when you get in and give me a status report ? 
+^ &name &name &num &num &num ( phone ) assistant professor , computer science &num &num &num ( fax ) &name university , &name &num &website ) &name , ma &num 
+</text_embedded>
+</message_body>
+</message>

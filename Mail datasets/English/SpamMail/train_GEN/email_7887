@@ -1,0 +1,46 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ the eagle has landed ! 
+</text_normal>
+</subject>
+<date> tue, 31 oct 2000 19:27:18 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ have figured out where my emails are going now and how to access them so we should be ablw to stay in touch now . 
+^ &name ! 
+^ keep being interrupted by guisers all of whom are chanting , " trick or treat , trick or treat , give us something nice to eat . " &name they all like munching 20p 's . 
+^ hope your continuous maths study continued continuously . 
+^ good news for &name today - she got her appeal for english so her i was upgraded to an &name &name for her . 
+^ she 's applying to study in &name and i 'm not sure yet how i feel about that , though timewisw , i suppose she 'll be as close as you are . 
+^ &name 's been sacked from his dishwashing job for asking too often to swap shifts . 
+^ a bit harsh , but he 'll live and learn . 
+^ have to go - tuesday club tonight and i want to get some marking shifted first . 
+^ write soon , &char lovely one . 
+^ &name . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ have figured out where my emails are going now and how to access them so we should be ablw to stay in touch now . 
+^ &name ! 
+^ keep being interrupted by guisers all of whom are chanting , " trick or treat , trick or treat , give us something nice to eat . " &name they all like munching 20p 's . 
+^ hope your continuous maths study continued continuously . 
+^ good news for &name today - she got her appeal for english so her i was upgraded to an &name &name for her . 
+^ she 's applying to study in &name and i 'm not sure yet how i feel about that , though timewisw , i suppose she 'll be as close as you are . 
+^ &name 's been sacked from his dishwashing job for asking too often to swap shifts . 
+^ a bit harsh , but he 'll live and learn . 
+^ have to go - tuesday club tonight and i want to get some marking shifted first . 
+^ write soon , &char lovely one . 
+^ &name . 
+</text_normal>
+</part>
+</message_body>
+</message>

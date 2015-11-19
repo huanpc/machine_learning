@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ subject : notification of &name received &name 
+</text_normal>
+</subject>
+<date> mon, 7 apr 2003 23:41:22 -0600 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

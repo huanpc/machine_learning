@@ -1,0 +1,24 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name &name 
+</text_normal>
+</subject>
+<date> 03 feb 2003 11:45:39 +0000 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ dont know if i had a chance to look at the agenda for the &name &name , but one of the issues that we are raising is security , with respect to lighting of the bike racks . 
+^ can &char please let me know how many bike racks are in need of improved lighting . 
+^ the one that was raised as a point of concern is the one in front of the old block near &name , almost adjacent to the &name &name . 
+^ &name &char be attending the &name &name &name &name ? 
+^ if &char are then i would like &char to present this issue . 
+^ thanks much , &name 
+</text_normal>
+</message_body>
+</message>

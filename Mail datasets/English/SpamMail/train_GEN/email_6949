@@ -1,0 +1,20 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name &name is tops 
+</text_normal>
+</subject>
+<to> net </to>
+<from> com </from>
+<date> tue, 25 jun 2002 10:56:40 -0600 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ the suggestions i have would be to create a hidden password or other mechanism that would keep users from bypassing the interface to extract &website at the end of the extraction . 
+^ thanks , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

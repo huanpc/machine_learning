@@ -1,0 +1,24 @@
+<message>
+<date> tue, 12 nov 2002 13:47:55 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ bike for sale 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name &name , 
+^ it looks like i 'm finally in the last stages of my phd and that means it 's house-cleaning time ! 
+^ first thing to do is sell the bike . 
+^ if anyone is interested in a bright red mountain bike that is &num years old , in excellent working condition ( recently changed brakes ) , equipped with mudguards and d-lock , please let me know . 
+^ i paid &num pounds for it new , and am asking &num quid now . 
+^ from a &name person i would be ready to take &num pounds . 
+^ &name &name faculty of social & political sciences free school lane , &name email : &email &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

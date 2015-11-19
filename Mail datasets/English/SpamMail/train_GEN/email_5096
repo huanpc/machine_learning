@@ -1,0 +1,21 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name rooms 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 03 oct 2001 13:12:53 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ my understanding is that we 'll need the practical room &num afternoons a week from &name &num for scheduled practicals ( mon , &name , &name , &name ) and that we 'd like the room and machines to be available to the &name students at other times . 
+^ the teaching room will be in use thursdays and fridays during the &name term and may be needed for some &name mornings when we have tutorial sessions " scheduled . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

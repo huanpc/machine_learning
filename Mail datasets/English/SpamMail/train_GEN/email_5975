@@ -1,0 +1,28 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ an episode of &name 
+</text_normal>
+</subject>
+<date> tue, 18 feb 2003 15:21:43 +0000 </date>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_embedded> 
+
+^ from dr. &name : 
+</text_embedded>
+<text_normal> 
+
+^ unfortunately there was a disappointing episode of vandalism in the &name &name over the weekend that has just been reported to me . 
+^ a rather nice old chair was smashed to pieces , quite wantonly . 
+^ unfortunately this raises problems about leaving the &name &name open at all hours . 
+^ i am reluctant to stop doing that , because the &name &name is a useful safety valve , but if there is further vandalism when the &name is relatively empty we will have to think hard about it . 
+^ do you have any information on this ? 
+^ please remember that such acts are completely unacceptable , and any repetition may put our &name privileges in jeopardy . 
+^ &name ( &email ) &name &name &name president &name &name college &name &name &name 
+</text_normal>
+</message_body>
+</message>

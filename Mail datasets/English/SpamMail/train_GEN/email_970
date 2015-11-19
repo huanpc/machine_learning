@@ -1,0 +1,32 @@
+<message>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> co.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ it 's nearly christmas ! 
+</text_normal>
+</subject>
+<date> sat, 31 aug 2002 09:35:03 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ hey &name , 
+^ how are you feeling today ? 
+^ is life a joyful event for you ? 
+^ hmmmm. i 'm at home for the weekend . 
+^ lovely sunny weather up here in &name . 
+^ &name is regaining consciousness thanks to a new disk . 
+^ yesterday at work i went on a visit to that well-known haunt of mine ; &name university &name department ... normally it 's students who visit industry , but the other way round is just as appealing since it meant i did n't have to get up early to go in to work yesterday . 
+^ i have started my revision ( ! ) and am now pushing back the frontiers of my knowledge , daily . 
+^ how 's your preparation going ? 
+^ hope you have a nice time with &name this weekend . 
+^ enjoy swimming , and do n't worry too much about all the environmental health hazards in communal swimming pools . 
+^ i 'm sure they 're exaggerated . 
+^ anyway , must go and get my hair cut . 
+^ have a good day . 
+^ &name
+</text_normal>
+</message_body>
+</message>

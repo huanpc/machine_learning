@@ -1,0 +1,29 @@
+<message>
+<date> tue, 25 feb 2003 10:28:03 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ testing report ( fwd ) 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ no problems with this that i could see . 
+^ good report ! 
+^ all the best 
+^ &name 
+^ please review this for mistakes and make corrections / changes as you see fit . 
+^ again , if you could ensure &name has it in time to get it in for noon . 
+^ thanks 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="message/rfc822">
+</part>
+</message_body>
+</message>

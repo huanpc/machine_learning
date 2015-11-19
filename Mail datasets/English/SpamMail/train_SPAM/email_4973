@@ -1,0 +1,47 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ allheart.com shipping confirmation 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 15:48:15 -0700 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ march &num , &num 
+^ re : order number : &num 
+^ dear &name &name : 
+^ the following item ( &char ) ordered on &num / &num / &num have been processed for shipping on invoice number &num : 
+^ &name &name &name &name &name &name description &name &name &name by 
+^ - --------- ------------------------------ -------- -------- -------- ma-42-843- fountain syringe douche and &num &num &num &num enema system &num qt 
+^ if this shipment does not complete your order , the remaining items , listed below , are temporarily out of stock . 
+^ we regularly receive merchandise and we will ship these items as soon as they arrive . 
+^ &name &name &name &name &name &name description &name &name &name by 
+^ - --------- ------------------------------ -------- -------- -------- 
+^ please note : items with personalization have been shipped to the company performing the personalization . 
+^ you will receive another email when the personalization is complete and the item has been shipped to you . 
+^ &website 's return policy : 
+^ your satisfaction is guaranteed with our free ! 
+^ walk and &name &name ! 
+^ purchase &website and wear them for &num days . 
+^ if you are not completely satisfied return your purchase for a full refund or exchange , no questions asked . 
+^ defective items are returnable . 
+^ refunds will not include shipping charges . 
+^ please note : 
+^ &name &name : all personalized items ( embroidered / imprinted / engraved ) may not be returned . 
+^ apparel and &name : apparel items without personalization ( embroidered / imprinted / engraved ) and shoes can be returned within &num days of receipt in the original packaging . 
+^ &name , &name care , and personal care products : for sanitary reasons , diabetes test kits , oral care products , personal care products ( i.e. breast pumps , thermometers , etc. ) and components may only be returned to us if unused , resalable , and in the original packaging . 
+^ books : most books are returnable within &num days of receipt if unused and in resalable condition . 
+^ however , there are exceptions . 
+^ please look at the bottom of the each book 's description at &website specific return policy for your book ( &char ) . 
+^ &name : &name software or books with software that has been opened are not returnable . 
+^ other items : all other non-apparel items without personalization ( embroidered / imprinted / engraved ) may be returned if resalable and in the original packaging . 
+^ if you have any questions regarding your order please reply to this email or write to us at &email please include your name , order number , if known , and zip code . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

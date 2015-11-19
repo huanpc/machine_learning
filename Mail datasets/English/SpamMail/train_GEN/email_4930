@@ -1,0 +1,59 @@
+<message>
+<date> wed, 31 jul 2002 15:46:39 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : &name - &name support request ( fwd ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ sounds great . 
+^ yes , the schema will be the same , but somewhere in your type checking / type inferencing code , the union box needs to check the schemas of each of the incoming arcs to make sure they are identical . 
+^ the type inference method for the union box would be to simply take the schema of any of its input ports . 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ thanks . 
+^ it seems to me that we do n't need to change the schema either . 
+^ the incoming arcs towards a union can be easily figured out and i can change the catalogmanager so that it passes a vector of incoming arcs ( &name objects or &name ids whatever ) to the constructor of union class . 
+^ just let me know the interface of the union class . 
+^ thanks , 
+^ jh 
+<text_embedded> 
+
+^ i agree . 
+^ the other question is whether you need to indicate in the catalogs how many inputs union has - but i wonder if we can figure that out without being explicitly told , upon recreation of the network . 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ i presume that the &name representation of a union could look like a unary box rather than an n-ary box . 
+^ and the number of real inputs can be automatically determined by the number of incoming arcs . 
+^ i think by doing so , the &name programmers do n't need to specify the number of inputs manually . 
+^ &name , in that case , the difference between union and other unaries is that for a unary box of other types , you cannot link &num arcs to the input port whereas you can have more than one incoming arcs for a union . 
+^ do you guys agree with me ? 
+^ thanks , 
+^ &name . 
+<text_embedded> 
+
+^ union replaces merge , and takes no arguments . 
+^ but &name people will have to request the number of input ports . 
+^ &name &name &num &num &num ( phone ) assistant professor , computer science &num &num &num ( fax ) &name university , &name &num &website / ( web ) &name , ma &num 
+^ &name wed , &num &name &num , &name &char &name wrote : 
+^ 01: &num : &num &name the operator as any interface of a 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

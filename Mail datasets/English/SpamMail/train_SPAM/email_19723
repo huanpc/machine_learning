@@ -1,0 +1,17 @@
+<message>
+<date> sun, 6 apr 2003 10:04:33 gmt </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ received $ &num in &num days - you can to - &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal>
+
+</text_normal>
+</message_body>
+</message>

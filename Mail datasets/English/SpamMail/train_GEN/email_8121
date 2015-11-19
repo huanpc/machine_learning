@@ -1,0 +1,41 @@
+<message>
+<date> 16 jan 2003 17:21:00 -0000 </date>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ welcome to the stutravelcam group 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ i 've added you to my stutravelcam group at &name ! 
+^ groups , a free , easy-to-use email group service . 
+^ as a member of this group , you may send messages to the entire group using just &num email address : &email . 
+^ &name ! 
+^ groups also makes it easy to store photos and files , coordinate events , and more . 
+^ here 's a description of the group : 
+^ people in &name who know &name 
+^ here 's my introductory message for you : 
+^ &name , this is the list of people who might be interested in getting e-mails from &name while he is travelling . 
+^ if you are n't , i 'm sure you 're all capable of unsubscribing , as you 're all clever people ! 
+^ cheers 
+^ &name 
+^ to start sending messages to members of this group , simply send email to &email 
+^ if you do not wish to belong to the stutravelcam group , you can unsubscribe by replying to this message , or by sending an email to &email 
+^ regards , 
+^ moderator , stutravelcam 
+^ special note from &name ! 
+^ &name : because &name ! 
+^ &name values your privacy , it is a violation of our service rules for moderators to add subscribers to a group against their wishes . 
+^ if you feel this has happened , please notify us at &email 
+^ &name if you would like to learn more about the stutravelcam group , please visit &website 
+^ your use of &name ! 
+^ groups is subject to &website / 
+</text_normal>
+</message_body>
+</message>

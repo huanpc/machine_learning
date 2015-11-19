@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : feature discussion of &name &name replacer and replace icon 
+</text_normal>
+</subject>
+<date> wed, 9 oct 2002 23:12:56 +0200 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_embedded> 
+
+^ &website 
+</text_embedded>
+<text_normal> 
+
+^ excellent &smiley 
+^ have you contacted &name about merging your code with main is code ? 
+^ i think it would be great to see your code in next is release . 
+^ &name &name &website 
+</text_normal>
+</message_body>
+</message>

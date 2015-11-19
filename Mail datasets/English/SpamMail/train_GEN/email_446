@@ -1,0 +1,19 @@
+<message>
+<date> mon, 23 apr 2001 16:39:22 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name . 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thank you both for your long and eulogous replies . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

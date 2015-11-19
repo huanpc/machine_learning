@@ -1,0 +1,23 @@
+<message>
+<date> wed, 26 mar 2003 11:25:00 -0800 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ you pick the prize you want to win ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) 
+^ the preceding message was sent to you as an opt-in subscriber to uwinit . 
+^ we will continue to bring you valuable offers on the products and services that interest you most . 
+^ if you wish to unsubscribe please click 
+^ to unsubscribe via postal mail , please send request to : &num military trail # &num &name beach , &name &num 
+^ ( &website ) 
+</text_normal>
+</message_body>
+</message>

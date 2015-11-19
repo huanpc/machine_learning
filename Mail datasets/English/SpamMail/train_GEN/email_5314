@@ -1,0 +1,24 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &num practical 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 03 feb 2003 09:38:37 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi students , 
+^ a number of questions about the &name &num practical have accummulated . 
+^ here are the answers : 
+^ &num the baseline system should include treatment of &name arguments and other information -- just word matching is not enough . 
+^ &num the deadline for it ( you should be finished with it by friday next week ) is just an internal deadline -- you will describe the entire system , baseline plus extension , in your report . 
+^ &num the eval directory should now be visible from your directory . 
+^ &name
+</text_normal>
+</message_body>
+</message>

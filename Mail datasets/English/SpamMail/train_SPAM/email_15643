@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name up to $ &num , &num playing &name golf ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; class-id=6gbbrulnhobb7pbrfrgp2jpbb-6494016 </content-type>
+<date> thu, 3 apr 2003 13:19:52 pst </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

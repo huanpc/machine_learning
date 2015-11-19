@@ -1,0 +1,28 @@
+<message>
+<from> co.uk </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ new address 
+</text_normal>
+</subject>
+<date> thu, 20 jul 2000 21:35:36 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ send all mail to my new personal address : 
+^ &email 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ send all mail to my new personal address : 
+^ &email 
+</text_normal>
+</part>
+</message_body>
+</message>

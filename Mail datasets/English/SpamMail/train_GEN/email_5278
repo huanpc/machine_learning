@@ -1,0 +1,21 @@
+<message>
+<from> me.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> tue, 7 jan 2003 22:00:29 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ this is just a test . 
+^ &name &name &name will get a copy of this , along with everyone else . 
+^ &name , perhaps you could try replying to the list , so that we know it is working . 
+^ &name . 
+</text_normal>
+</message_body>
+</message>

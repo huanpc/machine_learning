@@ -1,0 +1,31 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ free vacations + $ &num , &num . . ... nng 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> sun, 6 apr 2003 08:45:13 -0400 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ winner congratulations you have won a free vacation certificate ! 
+^ free &num days / &num nights vacation &amp; $ &num , &num in free vacation discounts * 
+^ your choice of &num countries &amp; &num , &num destinations ( including &name 's best ) 
+^ para espa' &name haga click aqui 
+^ terms and conditions . 
+^ transportation , meals , lodging taxes and gratuities are traveler 's responsibility . 
+^ &num offer per household . 
+^ must submit reservations &num days before desired travel date . 
+^ destinations are subject to availability . 
+^ this is an offer of &name &name . 
+^ * available upon activation . 
+^ you are receiving this email because you opted-in to receive special offers through a partner . 
+^ if you feel you have received this email in error or do not wish to receive additional special offers , please follow the unsubscribe directions at the bottom of the following page . 
+^ fxsaqgdnmnfhigwlfymvuhlxblgetxhqut 
+</text_normal>
+</message_body>
+</message>

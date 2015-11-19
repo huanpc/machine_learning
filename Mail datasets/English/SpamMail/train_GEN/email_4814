@@ -1,0 +1,25 @@
+<message>
+<date> tue, 9 jul 2002 15:50:14 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , 
+^ attached with this email is a file with &name code &name and pseudocode implentation . 
+^ the &name and pseudocode is separated into server side ( c++ ) code for box execution and client side ( &name ) code for what the &name calls when boxes , predicates , and functions are created . 
+^ for the meeting at &num : &num tomorrow , the &name group will go over the first part of the document ( design issues ) and the client side &name and pseudocode . 
+^ if you can , please print out and briefly look over the attached file before tomorrow 's meeting so that it will be easier to discuss as a group . 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

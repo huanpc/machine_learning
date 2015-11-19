@@ -1,0 +1,36 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ things i should have said ... 
+</text_normal>
+</subject>
+<date> sat, 8 jun 2002 20:14:46 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i should have added that if i bring &name and grandad up to see you it could include lunch out if you would like 
+^ and of course i know what exeat means , i just do n't see how it goes with the verb " take " . 
+^ mum 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ i should have added that if i bring &name and grandad up to see you it could include lunch out if you would like 
+^ and of course i know what exeat means , i just do n't see how it goes with the verb " take " . 
+^ mum 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,27 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ punting tonight 
+</text_normal>
+</subject>
+<date> thu, 27 jun 2002 11:30:01 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ i am sending the following message on behalf of &name ( &name ) . 
+^ please email him if you are able to help out - &email . 
+^ thanks , &name 
+^ can anyone help with punting tonight ? 
+^ around 7-9ish 
+^ free dinner and a &pound; &num 
+^ email me 
+^ cheers 
+^ &char 
+</text_normal>
+</message_body>
+</message>

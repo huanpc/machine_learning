@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name - your debt is erased 
+</text_normal>
+</subject>
+<content-type> text/html; </content-type>
+<date> 3 apr 2003 08:42:38 -0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ make your debt &name 
+^ the e-mail address is &website ] 
+^ or reply to this message with the word &quot;unsubscribe&quot; in the subject line . 
+^ if you feel this is unsolicited mail , reply to this message with the word &quot;abuse&quot; in the subject and your reasons in the body of the message . 
+</text_normal>
+</message_body>
+</message>

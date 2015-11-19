@@ -1,0 +1,50 @@
+<message>
+<date> fri, 25 apr 2003 12:36:44 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : travel reimbursement 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i actually asked &name to send the fax directly to you ( with your attention ) since i do n't have a fax machine . 
+^ please let me know if they do n't send it along today and i 'll call them up again to repeat the request . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ when you receive a fax from &name , let me know . 
+^ our fax number is &num . 
+^ thanks for responding . 
+^ i hope your exams went well . 
+^ at &num : &num am &num / &num / &num , you wrote : 
+<text_embedded> 
+
+^ hi ms. &name , 
+^ i called up the &name hotel to ask them to fax some proof that i stayed there . 
+^ they said that the system was down for now , but they would fax this information over later today . 
+^ the reason why i think i will need this as well is that i used my father 's credit card to pay for the hotel because i was afraid i would go over my credit allowance using my credit card ... so the credit card bill will have my father 's name on it . 
+^ i have attached the printer-friendly version of the credit card bill with this email ( the date of payment is &name 27th ) ... hopefully this with the &name proof plus the &name receipt ( that i will reattach with this email which has my name on it ) will be enough . 
+^ sorry for the delay in response ... i have just had exams this week so things have been a little stressful . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ &name , 
+^ accounting is asking for proof of payment for your double tree stay . 
+^ if you paid using a credit card you can submit your statement . 
+^ if you choose to do this , cross out the card number before you send it to me . 
+^ you can fax this ( &num ) &num or send it snail mail : &num &name &name # &num , &name ca &num . 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

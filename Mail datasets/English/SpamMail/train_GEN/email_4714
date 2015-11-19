@@ -1,0 +1,49 @@
+<message>
+<date> wed, 14 may 2003 11:08:35 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 's holidays 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_embedded> 
+
+^ i 've found a new genious way of coding ! 
+^ ( well , new to me ) . 
+^ first , you write the logic in normal language , then code it a bit at a time . 
+^ plus , it leaves you with nice documented code . 
+^ brilliant ! 
+</text_embedded>
+<text_normal> 
+
+^ &name ... perfect ... now all you 've got to do is keep it up . 
+^ &char 
+^ &name wed , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ oh &name , he told me the other night . 
+^ i got it out of him without losing points . 
+^ forgot to tell you , guess you know now . 
+^ he mentioned some double date thing with the other bird who fancies you or something , but do n't tell him &char told you . 
+^ just so you 're aware of potentially damaging schemes &smiley 
+<text_embedded> 
+
+^ &name ... friend of &name , friend of &name , friend of &name , friend of &name . 
+^ &name , you need to meet &name so we can close the loop . 
+<text_embedded> 
+
+^ so &name , who was this mystery blonde of &num days ago ? ? 
+^ ( not that i really want to know or anything you understand ) 
+^ mr. 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,239 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ &name &name : w2knews : &name server been discontinued ? 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 18:42:55 -0500 </date>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ w2knews [ tm ] &name &name &name . 
+^ &num , # &num - april &num , &num &name # &num &website since &num - &name : &num ~ the secret of those ' who always seem to know ' ~ 
+^ * * * * * * * * * * * * * * * * * * * * * * over &num , &num readers * * * * * * * * * * * * * * * * * * * * * * * * 
+^ feel free to refer a friend to this newsletter . 
+^ &name a great prize . 
+^ to subscribe , go to &website 
+^ this issue of w2knews contains : 
+^ &num editors corner : * ok , so how 's &name &name ? 
+^ &num tech briefing : * report finds &num percent jump in &name &name * here is ' everything ' you need to know about w2k3 * &name &name &name : look before you leap 
+^ &num nt / &num related news : * information technology survey : &num prizes of $ &num each * w2k server been discontinued ? 
+^ * what &name did not tell us about &name * &name code leaks onto &name * &name : beware of bogus bulletins * is &name going to ' netware ' &name and overture ? 
+^ &num nt / &num third party news : * &name &name # &num . 
+^ gets pc &name ' best buy ' award ! 
+^ * how to &name your help desk support calls by &num * lawyers lie in wait for &name &name * very useful little tool : &name &name * &name &name &name &name system restore 
+^ &num w2knews ' fave ' links : * this week 's links we like . 
+^ tips , hints and fun stuff 
+^ &num product of the week : * who 's helping you migrate to &name &num ? 
+^ * &num . 
+^ how to &name the mailing list instructions on how to subscribe , sign off or change your address . 
+^ * * * * * * * * * * * * * * * * * * * * * * sponsored by &name * * * * * * * * * * * * * * * * * * * * * * 
+^ take a san survey , get a $ &num amazon gift 
+^ because your input is valuable , mcdata would like to know what you 're thinking about sans and storage . 
+^ your ideas help us find new and better ways to make sans work for you . 
+^ just answer a few key questions in a very brief survey . 
+^ to thank you , we 'll share the survey results with you so you can see what others think , and we 'll send you a $ &num amazon gift certificate . 
+^ &website 
+^ &num editors corner : 
+^ * ok , so how 's &name &name ? 
+^ well , since the code has now gone gold , we decided to take a look . 
+^ it 's actually the best windows code to come out of the gate . 
+^ its performance is indeed better , there are again better management tools and &name is maturing rapidly . 
+^ this is actually a version you can look forward to , especially since it now comes out of the box being paranoid with everything locked down . 
+^ you need to ' open it up ' and make it trusting , which is a &num degree change from how it used to be . 
+^ obviously i 'm not saying you should take this into production right away . 
+^ create a testbed of power users that can handle some downtime without flinching . 
+^ and a good thing is to wait for &name , which i expect roughly fall &num . 
+^ i looked at it in a role of domain controller but also app server , and it was tested both on new machines and upgrades . 
+^ no serious problems were encountered . 
+^ &char small hint is that you need to reduce your amount of domain controllers as much as possible before you upgrade , to reduce the number of failure points . 
+^ the new built-in system resource management snaps into the &name and provides you with a highly granular process management that feels like the old &name or &name days . 
+^ the pricing is created in such a way that you can just buy what you need . 
+^ the &name enterprise edition with &num client licenses is $ &num , &num ; the &name edition with &num &name is $ &num , &num ; and the web-server only edition is just $ &num . 
+^ &name regards , 
+^ &name 
+^ email me : &email 
+^ * * * * * * * * * * * * * * * * * * * * * * * * sponsor : &name * * * * * * * * * * * * * * * * * * * * * * * * * ~ free active directory &name &name &name &name ~ 
+^ want to separate fact from fiction when it comes to managing active directory in a &name &name &num world ? 
+^ tune in on may 6th to get the real-world expertise you need during &name 's free webcast , 'managing active directory in a &name &name &num &name , ' featuring windows guru &name &name . 
+^ register now . 
+^ &website 
+^ &num tech briefing : 
+^ * report finds &num percent jump in &name &name 
+^ &name came out with some interesting statistics this week . 
+^ the number of computer security incidents and attacks detected at businesses worldwide soared by &num percent between the fourth quarter of &num and the first quarter of this year , fueled in part by a surge in the number of mass-mailing worms . 
+^ ' what we 're seeing out there is a lot more folks being extremely active and a lot more malicious behavior , ' said &name &name , manager of &name 's x-force threat analysis services division , which compiled the report . 
+^ ' we 've also seen a corresponding high degree of web site defacements . ' for the full story : &website 
+^ check out the latest tools that will help you to plug holes : &website 
+^ * here is ' everything ' you need to know about w2k3 
+^ &name has put everything about &name &name &num together in sections . 
+^ all in all a pretty useful resource . 
+^ here are all the links : 
+^ discover ... explore ... focus 
+^ &website 
+^ find solutions &website 
+^ deploy & maintain &website 
+^ &name &website 
+^ read & research &website 
+^ learn &website 
+^ apply best practices &website 
+^ * &name &name &name : look before you leap 
+^ are the risks associated with the delegation of authority in active directory worth the operational efficiencies and cost &website asked &name paddock and &name &name , &num of its most informed and opinionated contributors , to weigh in on the subject . 
+^ in the first of this two-part series , paddock and &name discuss the politics of delegation : how do you choose users or groups of users to empower ? 
+^ here is the article : &website 
+^ &num nt / &num related news : 
+^ * information technology survey : &num prizes of $ &num each 
+^ w2knews subscribers are leading edge it people , so you are invited to participate in an extremely sensitive and important research study . 
+^ we cannot reveal publicly what the survey is about , except that it is very relevant and that while you fill it out , you will see what it is they are after . 
+^ [ grin ] please take part by clicking on the link below or pasting it into your browser : 
+^ &website 
+^ this is a us-only survey . 
+^ if you 're from another country , please ignore this . 
+^ the survey is variable in time , depending on what you enter , but will take max &num minutes to fill out , and after you complete the survey , you will be entered into a drawing to win &num of &num cash prizes of $ &num each . 
+^ the data you submit will remain confidential and will not be released , sold , or used for any purpose other than this research . 
+^ thank you very much for your time . 
+^ problems , questions , &name : if you have any questions or problems , please send an email to &email and we will be happy to answer any questions you may have . 
+^ * w2k server been discontinued ? 
+^ a reader in &name &name received this message from their &name reseller . 
+^ they had received this from &name locally . 
+^ ' windows &num server has been discontinued . 
+^ on &num march &name announced that &name &num server , &name &num &name , &name &num terminal services &name and &name &num &name connectors were to be discontinued as of &num april &num . 
+^ if you require windows &num server / &name etc. they can purchase &name &name &num instead and downgrade to &num . 
+^ they can do this without relinquishing the rights to &name &name &num so they can install this version whenever they like . 
+^ &name kits for &name &name &num are expected to be available on &num april . ' 
+^ we got a bit mystified , and asked &name for clarification . 
+^ this is their answer : 
+^ ' although a number of the windows &num &name &name came off the april &name book there is still , &name &num &name ' licenses and &name ' available . 
+^ there is no ' official ' notice in such things . 
+^ if a customer wants to buy windows &num server licenses they can , by purchasing the windows &num license which is cheaper and then use the downgrade rights to get windows &num . 
+^ once they use windows &num ( by ordering the media still available on the price list if they do n't already have it ) then the windows &num &name and rights come into effect so they are not disadvantaged in any way . 
+^ to the contrary in fact as the customer then also has rights to change up to &name &num when they wish . 
+^ my comment : &name so it has not been discontinued , but you cannot buy it anymore . 
+^ [ grin ] 
+^ * what &name did not tell us about &name 
+^ &name is becoming less and less talkative about exactly how it will deliver and price all of the elements that will comprise the ' windows platform ' . 
+^ the &name watch site has a good item here , that we should keep in mind . 
+^ link to the site at the end of this article . 
+^ last year , &name execs talked about its plan to make a variety of layered services part of ' the windows platform . ' a number of journalists interpreted this as meaning these layered services would be delivered separately on &name and via &name &name this year , but folded into &name , over time . 
+^ &name did nothing to correct their impressions on this . 
+^ but increasingly , it is looking as if &name is planning to deliver the myriad windows 'services ' that it is building to run atop &name server as standalone servers that never will be rolled into the &name &name base . 
+^ during a recent teleconference , &name execs declined to answer questions about how &name would package and price its layered services . 
+^ they confirmed that &name is planning to roll out most of its add-on services within the next &num to &num days , but they refused to say more . 
+^ a number of these 'services ' are elements that the &name of old would have been quick ( and more than happy ) to integrate into the ever-growing windows operating system . 
+^ these include : 
+^ - &name &name &name &name services ( code-named ' &name ' ) 
+^ - &name rights management services ( code-named ' tungsten ' ) 
+^ - &name &name services ( team collaboration services , formerly known as sharepoint portal services ) 
+^ - &name &name &name services ( &name is categorizing this as a value-added ' tool ' for &name &name ) 
+^ when pressed , a &name spokeswoman provided a bit more info : ' these features are not core to the &name and not needed by all customers . 
+^ that is why we are delivering these components out of band . 
+^ this is all we know right &name think some of the plans are still &name ( to be determined ) . ' &website 
+^ * &name code leaks onto &name 
+^ &name &name &num keys have 'sprung from the bag ' . 
+^ &name confirmed that a code for installing and activating &name &name &num has leaked onto the &name . 
+^ they have unleashed the hounds to hunt down the code -- they 're afraid pirates could get hold of it and start counterfeiting away . 
+^ company officials think a &name corporate customer is responsible for the leak . 
+^ &name over at c|net : &website 
+^ * &name : beware of bogus bulletins 
+^ in an otherwise light week for infrastructure security news , &name issued a reminder to customers to beware of bogus security bulletins that look like they come from &name . 
+^ this is something you might want to remind your end-users of ! 
+^ &name more at &name : &website 
+^ * is &name going to ' netware ' &name and overture ? 
+^ to ' netware ' is a verb i just coined , meaning to make it irrelevant . 
+^ ok , ok , i know a lot of you are still running netware , and it 's actually great technology , but you know what happened to novell . 
+^ &name , novell is actually porting netware to &name , did you know ? 
+^ here is the link to the story : &website 
+^ anyway , &name is significantly increasing their investment in &name search technology . 
+^ they have tripled their search team and are preparing their own paid listings platform , according to a report from industry analysts . 
+^ this would compete directly with outfits like overture and &name that provide this kind of service . 
+^ the funny thing is that &name &name , former &name of novell is now &name of &name . 
+^ is the writing on the wall for &name . 
+^ . 
+^ . 
+^ again ? 
+^ &website 
+^ &num nt / &num third party news : 
+^ * &name &name # &num . 
+^ gets pc &name ' best buy ' award ! 
+^ told you so . 
+^ best of &name products . 
+^ now it 's confirmed too . 
+^ pc world just compared the anti-spam market leaders . 
+^ they gave &name for outlook a whopping &num stars and awarded it as &name &name with their best &name &name , with &num percent spam caught . 
+^ here is what they said : 'sunbelt is the only antispam vendor that offers toll-free phone support ; we called and were connected with a human immediately . 
+^ and at $ &num its software is also the cheapest . 
+^ that price , combined with the program 's ease of use and top-notch performance , makes &name a no-brainer for outlook users . ' get your copy now . 
+^ just $ &num with an unconditional money back guarantee , and immediate online delivery : &website 
+^ if you are interested in &name &name &name , here is some ammo for your management . 
+^ san &name &name research inc. , a high-tech consultancy specializing in e-mail and communications , which found that in &num , junk mail accounted for &num to &num percent of inbound corporate e-mail , and dealing with it will cost &name organizations $ 10-billion ( &name ) , up from $ 9-billion last year . 
+^ &char &name spokesman later explained that the average corporate e-mail user receives &num or &num spam messages each day , spends an average of &num seconds on each one , and costs the company an average of $ &num a month to dump it . 
+^ over time , the &name spokesman said , these figures add up . 
+^ &name arrived at the $ 10-billion figure by calculating such things as the cost of computing resources , time spent by the e-mail admin and help-desk personnel and lost productivity . 
+^ check the specs on &name &name edition here , we have just added a bunch of screenshots that ' open the kimono ' : &website 
+^ * how to &name your help desk support calls by &num 
+^ a lot of the time , help desk support people get confronted with very simple questions to do with logging on , passwords , and things that seemingly 'do not work ' . 
+^ very often this is caused by configuration problems , and editing logon scripts is something all of us can do without . 
+^ &name &name recently said : ' every once in a while a product comes along that just seems to get the pieces right , providing both simplicity and power . 
+^ &name fits the bill on both counts . ' 
+^ &name allows you to automate logon , logoff and shutdown scripting , install / update software packages , create outlook mail profiles , create / remove shortcuts , enforce security policies and much more . 
+^ &name actually combines the functionality found in logon scripting , group policies , and user profile management into this extremely useful desktop administration tool . 
+^ you can put an end to the complexity and limitations of batch files , shell scripts , &name and vbscript with an intuitive point-and-click graphical management console . 
+^ users can log in from any pc , running any &name 32-bit &name , over any &name , dial-up or &name connection and instantly have access to their unique desktop configuration . 
+^ scriptlogic is used every day , by millions of desktops around the world . 
+^ find out why and download your &num functional 45-day evaluation edition today at : &website 
+^ * lawyers lie in wait for &name &name 
+^ attorneys nationwide reportedly plan to deploy &name patients at health care organizations to see if doctors , dentists , hospitals and insurance companies have the policies , procedures and protections that ensure patients ' privacy , as required by the federal health &name &name and &name act ( &name ) . 
+^ the long-awaited privacy rule goes into effect monday . 
+^ health care organizations that do n't comply risk hefty fines , possible criminal prosecution and costly civil lawsuits . 
+^ companies have had &num years to educate staff , designate a privacy officer and adopt basic security measures . 
+^ but there 's a good chance some providers will miss the deadline . 
+^ the threat of lawsuits may be a stronger motivator than government fines or jail time , says &name &name , a security consultant and president of the &name group in &name . 
+^ ' the government has publicly stated it will be very forgiving if an organization demonstrates it meant well and has taken steps to become compliant , ' &name says . 
+^ while most of the privacy rule revolves around policy and procedure , it does outline some mandatory security measures . 
+^ another &name component , the transactions and code rule , includes requirements for using aes-strength encryption for any electronic data transmissions , such as claims sent between medical providers and insurance companies . 
+^ &name more at the site of &name magazine , also in this issue a bunch of your peers are asked if they consider spam a security problem . 
+^ interesting reading : &website 
+^ here are best-of-breed security tools to help you get compliant : &website 
+^ * very useful little tool : &name &name 
+^ &name &name is an outlook &num , &name &num &name and outlook &num &name add-in that provides a user interface for changing which file types are restricted as level &num attachments . 
+^ level &num attachments are hidden by &name , and cannot be seen , saved or opened from outlook items . 
+^ moving an attachment extension to level &num enables the user to see the attachment and to save it to the file system . 
+^ the attachment saved to the file system can later be opened by the user . 
+^ this little program is a &name . 
+^ i could n't get &name files , driving me nuts : &website 
+^ * &name &name &name &name system restore 
+^ winternals launched an administrative tool for recovering failed servers and desktops that is modeled after &name 's &name &name system restore technology but takes the capability further . 
+^ &name more at the &name site : &website 
+^ &num w2knews ' fave ' links : 
+^ compare the features of the &name &name &num family using this set of tables , which is organized by function : &website want to see how the new &name &name looks ? 
+^ &website a hacker has succeeded in running &name on an unmodified &name : &website use your nose as a mouse . 
+^ no kidding : &website take a walk down &name &name lane with the &name &name history web site : &website the &name &name address locator tool tells you where an &name server is physically located . 
+^ check out their animated demos too : &website have a meeting soon ? 
+^ wait for someone to say something really dumb . 
+^ then hand them this disposable &name bag : &website the federation of american scientists keeps a list of liberation movements , terrorist organizations , substance cartels , and other para-state entities . 
+^ quite interesting reading : &website 
+^ &num w2knews - product of the week 
+^ * who 's helping you migrate to &name &num ? 
+^ do n't let an exchange migration disrupt your business ! 
+^ ease your active directory and &name &num anxiety by putting our field- proven methods and tools to use . 
+^ download our technical brief , migrating to &name &num using fastlane migrator , and get a clear grasp on the typical migration scenarios and best practices for migrating an entire organization to &name &num , using our industry-leading tool . 
+^ &website 
+^ &num how to &name the mailing list 
+^ about your subscription to w2knews . 
+^ this message was sent to : is a posting from w2knews . 
+^ to manage your profile or ( gasp ! ) unsubscribe , please click on the following customized link : &website 
+^ what our lawyers make us say these documents are provided for informational purposes only . 
+^ the information contained in this document represents the current view of &name &name distribution on the issues discussed as of the date of publication . 
+^ because &name must respond to changes in market conditions , it should not be interpreted to be a commitment on the part of &name and &name cannot guarantee the accuracy of any information presented after the date of publication . 
+^ information provided in this document is provided ' as is ' without warranty of any kind , either express or implied , including but not limited to the implied warranties of merchantability , fitness for a particular purpose and freedom from infringement . 
+^ the user assumes the entire risk as to the accuracy and the use of this document . 
+^ this document may be copied and distributed subject to the following conditions : &num ) all text must be copied without modification and all pages must be included ; &num ) all copies must contain &name 's copyright notice and any other notices provided therein ; and &num ) this document may not be distributed for profit . 
+^ all trademarks acknowledged . 
+^ &name &name &name distribution , inc. &num . 
+</text_normal>
+</message_body>
+</message>

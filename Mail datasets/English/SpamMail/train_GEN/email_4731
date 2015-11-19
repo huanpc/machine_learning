@@ -1,0 +1,20 @@
+<message>
+<date> sun, 18 may 2003 16:11:30 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name email 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ dr. &name and messrs. &name and &name would like an audience . 
+^ cheers 
+</text_normal>
+</message_body>
+</message>

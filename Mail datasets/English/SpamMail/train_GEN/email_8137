@@ -1,0 +1,26 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name computing and the web mid-term exercise &name 
+</text_normal>
+</subject>
+<date> thu, 7 nov 2002 17:59:11 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ thank you for submitting your solution to the &num &name and the web mid-term exercise . 
+^ i am pleased to advise you that your solution is satisfactory and that you will be awarded full marks for this part of the practical assessment . 
+^ &name &name 
+^ &name , 
+^ please find attached the &num &name files that constitute my solution for the mid-term exercise . 
+^ thanks , 
+^ &name ( &name ) 
+</text_normal>
+</part>
+</message_body>
+</message>

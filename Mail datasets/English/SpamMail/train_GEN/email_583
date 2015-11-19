@@ -1,0 +1,32 @@
+<message>
+<date> tue, 23 oct 2001 13:13:19 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk com com ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk com co.uk ac.uk ac.uk ac.uk ac.uk com ac.uk com ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ [ fwd : fwd : [ fwd : a little joke ... ] ] 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i apologise if this offends any of you . 
+^ &name x 
+</text_normal>
+<text_embedded> 
+
+^ hello everyone , 
+^ i just thought this was quite funny , and that you might like to read it . 
+^ if you do n't find it funny , remember : i did n't force you to press on the link ! 
+^ oh and apologies for the large number of forwarded messgaes ! 
+^ &website 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ get your free download of &name explorer at &website 
+</text_normal>
+</message_body>
+</message>

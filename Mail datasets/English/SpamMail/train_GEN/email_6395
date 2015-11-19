@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<date> sat, 29 mar 2003 20:10:35 est </date>
+<subject>
+<text_normal> 
+
+^ re : &name &name &name &name 
+</text_normal>
+</subject>
+<to> com </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ there is a program called easy &num creator that uses &name &name ( as part of the program ) . 
+^ can the inno setup be somehow upgrade within this program without having to know programming ? 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ there is a program called easy &num creator that uses &name &name ( as part of the program ) . 
+^ can the inno setup be somehow upgrade within this program &char ithout having to know programming ? 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

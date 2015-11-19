@@ -1,0 +1,18 @@
+<message>
+<date> thu, 30 jan 2003 14:40:34 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ error 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ embo : working $ g++ &name -lxerces-c in file included from &name : &num , from &name : &num : xmlrmrs.h : &num : syntax error before & " token 
+</text_normal>
+</message_body>
+</message>

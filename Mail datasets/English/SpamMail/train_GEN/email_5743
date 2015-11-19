@@ -1,0 +1,17 @@
+<message>
+<date> thu, 22 may 2003 16:21:20 gmt </date>
+<to> com </to>
+<subject></subject>
+<content-type> text/plain </content-type>
+<from> com </from>
+<message_body>
+<text_normal> 
+
+^ &website " . 
+^ please reply . 
+^ the best thing to hit the internet in years - &name &name ! 
+^ &name the web up to &num times faster ! 
+^ only $ &num / month - visit &website ! 
+</text_normal>
+</message_body>
+</message>

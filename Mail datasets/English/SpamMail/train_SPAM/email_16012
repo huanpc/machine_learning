@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * just a quick email 
+</text_normal>
+</subject>
+<date> thu, 3 apr 2003 09:55:27 -0500 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website / hi , &name . 
+^ i found this website where lenders compete for your business . 
+^ i thought you may want to look at it . 
+^ &website / thanks , &name &name remove : &website / 
+^ incoming mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num 
+</text_normal>
+</message_body>
+</message>

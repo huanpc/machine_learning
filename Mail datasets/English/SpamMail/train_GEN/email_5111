@@ -1,0 +1,56 @@
+<message>
+<date> sun, 13 oct 2002 23:27:56 +0200 </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<to> ac.uk </to>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name &name , 
+^ thank you for booking with &name . 
+^ your reservation number is 2749-2606-g b-1 . 
+^ this is an automatic confirmation - please do not respond to this email . 
+^ if you need to change or cancel your reservation please visit &website via the 'modify / cancel " section on the homepage of your company microsite . 
+^ alternatively , call &name central reservations on &num &num , or for a 
+^ corporate account , please call &name corporate services on your dedicate &char corporate services number . 
+^ remember to have your reservation number &name dy . 
+^ your rental will commence on tuesday , &num &num : &num until wednesday , 
+^ &num &num &num : &name vehicle will be available for collection from : &name apt , &name &name &num opening hours on day of collection : &num : &num : &num hours telephone ( &num ) 
+^ you will need to return your rental vehicle to : &name apt , &name &name &num opening hours on day of return : &num : &num : &num hours telephone ( &num ) 
+^ car group : group &char ( e.g. &name golf ) &num &name &num &name 
+^ your quote includes : 
+^ - local tax ( tax ) 
+^ - &name damage waiver * ( &name ) 
+^ - &name protection ( tp ) 
+^ - &name &name &name ( &name ) 
+^ - airport / city / other surcharge 
+^ - &name &name 
+^ - under age surcharge may apply . 
+^ please check terms and conditions for age restriction 
+^ please be advised that if a second driver is requested , he / she must be present at check-out with original their driving licence . 
+^ &char road &name licence &name may apply to rentals in certain countries and &char his will vary by country . 
+^ for rentals within the &name the road &name &name &char ee &website per day , plus &name . 
+^ &name minimum age requirements will apply by country . 
+^ &char &name &name 
+^ surcharge may also apply . 
+^ for rentals within the &name , drivers must be ag &name &num or over and those under &num will be subject to a &name driver surchar ge of &pound; &num per day for the first &num days rental . 
+^ if you have a corporate 
+^ account with &name , please refer to your corporate agreement . 
+^ insurance - a basic level of insurance has been included in your rental 
+^ &name ( as detailed above ) , if required , additional insurance cover can be purchased . 
+^ just ask at the &name desk when you collect your rental vehi &name . 
+^ if you have a corporate account with &name , please refer to your corpora te agreement for the exact details of your insurance cover . 
+^ drivers need to have held a clean licence for a year . 
+^ we wish you a safe and pleasant journey . 
+^ thank you for choosing &name . 
+^ &name &name a car 
+</text_normal>
+</message_body>
+</message>

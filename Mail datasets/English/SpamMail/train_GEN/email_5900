@@ -1,0 +1,73 @@
+<message>
+<date> wed, 22 jan 2003 14:36:25 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] minutes3 
+</text_normal>
+</subject>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , 
+^ here are the minutes for yesterday 's meeting . 
+^ as far as i know , &name is principally in charge of writing up the design requirements at this stage . 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name &name &name &name &num &num 2003-01-22t09 : &num : &name 2003-01-22t14 : &num : &name &num &num &num none &num &num &num &num clean clean microsoftinternetexplorer4 
+^ &char &char &char &char 
+^ minutes for &name &num 
+^ &num / &num / &num &num : &num &name &num : 00pm 
+^ &name &name : all present 
+^ topics discussed : 
+^ &char ) &name and abstract classes &name very important ! 
+^ &char ) &name rho and quadratic sieve qualify as 3fprobabilistic3f methods , in the sense that a successful outcome is probabilistic ( not guaranteed ) 
+^ &char ) decided on the basic design of our implementation and encapsulation methods : 
+^ &char &name &name ( just use the bigint package but be sure to show that it is reliable and efficient ) . 
+^ this is performed by the server . 
+^ &char &name trial division on server ( by table ) for numbers up to &num digits , then perform primality check again on the factors , if they are primes , then success , we can exit . 
+^ the prime table will be needed for &name rho as well . 
+^ if there are large composite factors left over , we perform &name rho on these , up to &num digits . 
+^ we need to specify a max cycle size ( see later ) . 
+^ if there are still large composite factors left over or nothing is found when we have recursed up to the max cycle , we terminate and pass numbers onto quadratic sieve . 
+^ there3fs no need to distribute &name rho , it is fast enough running on the server . 
+^ &char quadratic sieve deals with large numbers . 
+^ this method is distributed . 
+^ &char ) ways of distributing : 
+^ &n bsp ; &nbs &char ; &n bsp ; &char . 
+^ use different polynomials on different computers 
+^ &n bsp ; &nbs &char ; &n bsp ; ii . 
+^ can we have access to multi-processor machine ? 
+^ this way we could run program on multiple clients simultaneously 
+^ &n bsp ; &nbs &char ; &n bsp ; iii . 
+^ discussed the possibility of a java-based screensaver which could be run in the lab and in colleges . 
+^ what about a graphical implementation ? 
+^ this is not easily done in &name , but perhaps we could get away with a very tiny and simple &char program ? 
+^ &n bsp ; &nbs &char ; &n bsp ; iv . 
+^ &name seeks server rather than the other way round , since it3fs difficult for the server to find out who is available and when . 
+^ &char ) suggested to use a 3fqueues of &name where we have queue &num for prime factors and queue &num for factors waiting to be primality checked . 
+^ &name check the head of queue &num , if &name prime , append to queue &num , if not , factor it . 
+^ ( similar to an &name implementation ) 
+^ &char ) suggested cycle size for &name rho 3f we store all primes from &num up to &char where &char is less or equal to &num digits long . 
+^ the max cycle size is the number of primes in this range . 
+^ &char ) &name vs &name : decided to use &name . 
+^ although it is difficult to get initial contact , once this is done , the transactions between server and client are transparent . 
+^ error warnings are also given . 
+^ to do before thursday &name : 
+^ design requirements formally laid down , to be discussed and finalised during thursday meeting . 
+^ the requirements should be comprehensive , clearly defined and well explained . 
+^ agenda for thursday : 
+^ finalise design requirements 
+^ go on to specification 
+</text_normal>
+</part>
+</message_body>
+</message>

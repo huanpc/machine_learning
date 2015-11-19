@@ -1,0 +1,15 @@
+<message>
+<from> com.sg </from>
+<subject>
+<text_normal> 
+
+^ &name rates down to lowest since &num ! 
+^ aa7305wlur-8 
+</text_normal>
+</subject>
+<date> mon, 24 mar 2003 10:10:23 -1000 </date>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

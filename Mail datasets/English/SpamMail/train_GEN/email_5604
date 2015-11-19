@@ -1,0 +1,62 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> mon, 18 nov 2002 21:11:21 -0800 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi there , welcome to the slightly ( ahem ) delayed 5th bulletin of the term . 
+^ it 's quite a brief one , but quality 's better than quantity as i tell my supervisors . 
+^ before we begin though , i 'd like to send out a huge &name to all who shook their buckets so inticingly at the fireworks last tuesday - they raised ( wait for it ) &pound; &num , &num ( gasp ! ) - which is the most ever . 
+^ well done all of you ! 
+^ &name , down with the main business : 
+^ &num libra urgently needs volunteers ! 
+^ &num come to a balloon modelling workshop ! 
+^ &num libra urgently needs volunteers ! 
+^ libra is a theatre company staging &num performance a year . 
+^ the members have learning / physical disabilities , sensory impairment or mental health problems . 
+^ they require volunteers to support members with acting in performances . 
+^ &num come to a balloon modelling workshop ! 
+^ &name are offering balloon modelling workshops for any of our volunteers ( or potential volunteers ) on thursday 28th november 1-2pm . 
+^ places are limited to &num on a first come first serve basis . 
+^ if you 're interested and can make this date reply asap as places will be allocated on a first come first serve basis . 
+^ if you cannot make this session but are still interested please let us know so we can arrange another session . 
+^ well done again for making it this far . 
+^ &name star for you . 
+^ and an inspiring quote : " a big shot is just a little shot that kept on shooting ! " till next week , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi there , welcome to the slightly ( ahem ) delayed 5th bulletin of the term . 
+^ it 's quite a brief one , but quality 's better than quantity as i tell my supervisors . 
+^ before we begin though , i 'd like to send out a huge &name to all who shook their buckets so inticingly at the fireworks last tuesday - they raised ( wait for it ) &pound; &num , &num ( gasp ! ) - which is the most ever . 
+^ well done all of you ! 
+^ &name , down with the main business : 
+^ &num libra urgently needs volunteers ! 
+^ &num come to a balloon modelling workshop ! 
+^ &num libra urgently needs volunteers ! 
+^ libra is a theatre company staging &num performance a year . 
+^ the members have learning / physical disabilities , sensory impairment or mental health problems . 
+^ they require volunteers to support members with acting in performances . 
+^ &num come to a balloon modelling workshop ! 
+^ &name are offering balloon modelling workshops for any of our volunteers ( or potential volunteers ) on thursday 28th november 1-2pm . 
+^ places are limited to &num on a first come first serve basis . 
+^ if you 're interested and can make this date reply asap as places will be allocated on a first come first serve basis . 
+^ if you cannot make this session but are still interested please let us know so we can arrange another session . 
+^ well done again for making it this far . 
+^ &name star for you . 
+^ and an inspiring quote : " a big shot is just a little shot that kept on shooting ! " till next week , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

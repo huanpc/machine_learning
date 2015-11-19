@@ -1,0 +1,33 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name emergency 
+</text_normal>
+</subject>
+<date> sat, 05 apr 2003 02:53:48 -2000 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ attention : internet virus alert ! 
+^ please &name this important information from &name 's around the world . 
+^ &num of computers online today have viruses & severe hard-drive complications that the users do n't even know about ! 
+^ what 's this doing to your computer ? 
+^ secretly destroying the hardware & files to slowly eliminate your computer . 
+^ very serious indeed but luckily a sound affordable solution is here ! 
+^ the name is the most trusted in home &name security today : &name . 
+^ &name system works &num pro &name &char / &num amazing tools valued at over $ &num retail ! 
+^ you save &num here ! 
+^ supplies are limited . 
+^ do n't wait and be victim to computer attacks which could cost you big $ in the end . 
+^ act now ! 
+^ click here to protect your investment ; your personal computer ! 
+^ save big too ! 
+^ &website 
+^ unsubscribe from our mail list now &website 
+</text_normal>
+</message_body>
+</message>

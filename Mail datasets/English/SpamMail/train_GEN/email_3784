@@ -1,0 +1,40 @@
+<message>
+<from> net </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ photos on the way 
+</text_normal>
+</subject>
+<date> mon, 27 aug 2001 11:27:56 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ thanks for the reply . 
+^ i will send the photos to your folks home just as soon as i get around to writing your mum and letter to go with it ! ! ! 
+^ which means it may be awhile . 
+^ &name . 
+^ i 'll get to it soon &smiley 
+^ &name 
+^ p.s. how 's that guitar sounding ? 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ thanks for the reply . 
+^ i will send the photos to your folks home just as soon as i get around to writing your mum and letter to go with it ! ! ! 
+^ which means it may be awhile . 
+^ &name . 
+^ i 'll get to it soon &smiley 
+^ &name 
+^ p.s. how 's that guitar sounding ? 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name , &name &name &name - &name or buy - act now and save ! 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 23:38:35 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

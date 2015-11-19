@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ attention &name &name have arrived ! 
+^ bblo 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> thu, 27 mar 2003 14:11:45 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ to be removed reply to : &email caj eiexkalwmjxkotuqlhmfinrtgxkyopvvftyns 
+</text_normal>
+</message_body>
+</message>

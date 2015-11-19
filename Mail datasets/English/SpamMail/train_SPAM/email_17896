@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ click to save &num to &num on &name &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> sat, 22 mar 2003 09:12:40 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ 
+^ * * * urgent : virus alert * * * 
+</text_normal>
+</subject>
+<date> thu, 08 may 2003 11:42:36 +0000 </date>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ i have installed &name a couple of days ago , and have been delighted at the results of my first experiments done with it . 
+^ &website ( or the directory in which it has been installed ) does not reveal the presence of the virus . 
+^ as of the time of this writing , &name 's virus encyclopedia has no additional information about this virus ( aside from saying that their latest virus definition file will detect it ) . 
+^ i would very much appreciate a response from you , as i would very much like to use &name in the near future ! 
+^ thank you for your prompt attention ! 
+^ &email &name search , le moteur de recherche qui pense comme vous ! 
+^ &name
+</text_normal>
+</message_body>
+</message>

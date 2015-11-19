@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ productreturn # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ the article which i received on 5th june is not as i expected . 
+^ it would be appreciated that you show me the way how i should return them to you . 
+</text_normal>
+</message_body>
+</message>

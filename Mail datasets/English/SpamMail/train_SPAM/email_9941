@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<date> mon, 31 mar 2003 07:11:22 -0500 </date>
+<subject>
+<text_normal> 
+
+^ no appointments 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &num you can order &name &name scripts with next day delivery . 
+^ unbelievable deals on &name 
+^ please click below for removal request 
+^ press to remove 
+</text_normal>
+</message_body>
+</message>

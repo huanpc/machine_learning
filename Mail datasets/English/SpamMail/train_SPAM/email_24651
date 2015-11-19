@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : costume party 
+</text_normal>
+</subject>
+<date> tue, 8 apr 2003 21:29:41 -0500 </date>
+<content-type> multipart/related </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

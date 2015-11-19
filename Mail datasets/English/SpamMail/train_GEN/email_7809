@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : fwd : &name &name does it again ! ! 
+</text_normal>
+</subject>
+<date> tue, 06 feb 2001 10:26:45 -0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ well i thought it was funny . 
+^ maybe it didnt work when i sent it on to you xx 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name " ( &email ) to : &name &name ( &email ) subject : re : fwd : &name &name does it again ! ! 
+^ &name : &name , &num &name &num &num : &num : &num &num ( &name &name &name ) 
+^ what the fuck is this ? 
+</text_embedded>
+<text_normal> 
+
+^ get your private , free e-mail from &name &name at &website . 
+</text_normal>
+</message_body>
+</message>

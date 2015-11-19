@@ -1,0 +1,53 @@
+<message>
+<date> wed, 28 may 2003 23:18:55 -0400 </date>
+<from> net </from>
+<to> altmuehlnet.de </to>
+<subject>
+<text_normal> 
+
+^ re : [ &name ] tutorial ? 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name wed , &num may &num &num : &num : &num &num &name &name ( &email ) wrote : 
+^ ( snip ) 
+</text_normal>
+<text_embedded> 
+
+^ thanks for your assistance . 
+^ i fired up the product and tried to insert some text . 
+^ i could not put the product in text insert mode . 
+^ must i enter text in some other program and then import it into &name ? 
+^ or does it have its own built-in text editor ? 
+^ ( i think you will appreciate the need for a tutorial : ) &name &name &name &name and &name 
+</text_embedded>
+<text_normal> 
+
+^ &name , glad you made it over from the &name list to get more info about &name . 
+^ i think as you play with it , you will find it quite useful and capable . 
+^ &name is much like &name &name , the &name program formally used on earlier &name &name and windows . 
+^ much like some of the &name programs that were available on the &name as well . 
+^ as i have not seen quark in a very long time , so i cannot say how it operates now . 
+^ &name requires you to first create a " box " to put things in , a text box for text and a graphics box for pictures / graphics . 
+^ once you create your text box on the page , it can be any size you want as you can always resize it later , then one only needs to click on the text tool ( the cursor icon ) and click in the box to begin typing . 
+^ of course , text can also be imported into the box as well , if you have pretyped data you want to use . 
+^ &name , &name and quark , possibly , now allow you to just create a page and start typing , after grabbing the text tool . 
+^ some folks like this method , while others like the " box " method &name uses . 
+^ i have used both and really find both useful in different situations , but the " box " method seems to give the user more flexibility , plus maintaining the sanity of your text or graphic . 
+^ hope you enjoy learning and using &name . 
+^ &name 
+^ &name &name &name pro--- registered &name &name # &num " life 's a garden , dig it ! " &name dirt 
+</text_normal>
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

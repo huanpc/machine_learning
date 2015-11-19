@@ -1,0 +1,56 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> mon, 16 sep 2002 21:02:58 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name nad &name ? 
+^ are they a couple ? 
+^ &name 
+^ &char farewellian &num . 
+^ congratulations on acquiring a sister in law . 
+^ it must have taken some skill and courage on your part to do so . 
+^ i am not going to email &name , because i have met him all of , oo , twice , and i think i would embarrass myself . 
+^ i am still temping , and not very stressed about having a no job lifestyle . 
+^ something will come around . 
+^ i saw &name and &name last week , and very nice it was too . 
+^ how jealous i am that they get to see eahc other all the time ... o well . 
+^ i have the cat , &char suppose ... 
+^ i am glad you had such a cool trip round the states . 
+^ it sounds amazing ... am also &char jealous about that ! 
+^ hope all 's well with you ... muc hlove ( and to &name ) &name xx 
+^ &name and receive hotmail on your mobile device : click here 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name nad &name ? 
+^ are they a couple ? 
+^ &name 
+^ &char farewellian &num . 
+^ congratulations on acquiring a sister in law . 
+^ it must have taken some skill and courage on your part to do so . 
+^ i am not going to email &name , because i have met him all of , oo , twice , and i think i would embarrass myself . 
+^ i am still temping , and not very stressed about having a no job lifestyle . 
+^ something will come around . 
+^ i saw &name and &name last week , and very nice it was too . 
+^ how jealous i am that they get to see eahc other all the time ... o well . 
+^ i have the cat , &char suppose ... 
+^ i am glad you had such a cool trip round the states . 
+^ it sounds amazing ... am also &char jealous about that ! 
+^ hope all 's well with you ... muc hlove ( and to &name ) &name xx 
+^ &name and receive hotmail on your mobile device : click here 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<date> tue, 25 mar 2003 18:28:43 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : collect $ &num &char &char &char &char at casino &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled document 
+^ click here to be removed from our newsletter . 
+^ &name &name &name , &name . 
+^ &num &name &name # &num ft. &name , &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,52 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : vnc 
+</text_normal>
+</subject>
+<date> wed, 9 oct 2002 08:31:16 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name &smiley 
+^ it 's nice to have &num emails sitting waiting for me when i get in. &num want more tommorow though &smiley ( only joking ! ) 
+^ how did you sleep ? 
+^ i woke up at &num : &num and could n't drop off again &smiley so am pretty sleepy . 
+^ but getting emails from you has cheered me up no end &smiley 
+^ to use vnc you have to type 
+^ &website / 
+^ ( assuming the ip address is right , i think it is &smiley 
+^ anyway , why were you up so early , and what are you up to ? 
+^ &name 
+^ &name again ( already ) , 
+^ what do i type in my browser to use vnc again ... ? 
+^ sorry to be a nuisance , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &smiley 
+^ it 's nice to have &num emails sitting waiting for me when i get in. &num want more tommorow though &smiley ( only joking ! ) 
+^ how did you sleep ? 
+^ i woke up at &num : &num and could n't drop off again &smiley so am pretty sleepy . 
+^ but getting emails from you has cheered me up no end &smiley 
+^ to use vnc you have to type 
+^ &website / 
+^ ( assuming the ip address is right , i think it is &smiley 
+^ anyway , why were you up so early , and what are you up to ? 
+^ &name 
+^ &name again ( already ) , 
+^ what do i type in my browser to use vnc again ... ? 
+^ sorry to be a nuisance , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

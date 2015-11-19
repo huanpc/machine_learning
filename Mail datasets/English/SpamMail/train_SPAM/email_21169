@@ -1,0 +1,30 @@
+<message>
+<date> mon, 31 mar 2003 15:54:17 -0700 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) 
+^ &website from this campaign will be donated to the support fund created by feed the children foundation to support the families of our troops that are deployed to &name 
+^ ( &website ) 
+^ ( &website ) ( &website ) 
+^ we 're back &name &num game over &num 
+^ ( &website ) ( &website ) 
+^ ( &website ) ( &website ) 
+^ &num &name &name we stand support &name &name &num 
+^ ( &website ) ( &website ) 
+^ ( &website ) 
+^ ( &website ) 
+^ this e-mail was intended for you have questions please see our privacy policy ( &website : &website . 
+^ if you wish not to get additional promotional offers please use this &name &website can not be processed , please use the form provided ( &website ) . 
+</text_normal>
+</message_body>
+</message>

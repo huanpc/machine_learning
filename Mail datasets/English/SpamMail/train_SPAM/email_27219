@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : &name said this is what you wanted 
+</text_normal>
+</subject>
+<date> fri, 12 apr 02 08:02:15 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

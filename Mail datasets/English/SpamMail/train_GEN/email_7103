@@ -1,0 +1,36 @@
+<message>
+<date> thu, 30 jan 2003 15:27:23 +0000 </date>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : support / other category / 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name 
+^ thank you very much for your mail dated &name &num , &num 
+^ could you explain what exactly you mean by an " &char " record and the reasons behind it . 
+^ &name . 
+</text_normal>
+<text_embedded> 
+
+^ operating system : &name &num / &num &name : &name &name explorer &num or later &name : instant domain registration ( &num ) customer number : &num &website name : &name &name &name &name : &num 
+^ &name &name &name &name &name &website mailtypeflagend 
+^ &website pointing to &website . 
+^ thank you . 
+</text_embedded>
+<text_normal> 
+
+^ &name regards 
+^ &name &name &name &name &name &name ltd. telephone &num &num &num &name 8am - 8pm 
+^ were you satisfied with our service ? 
+^ please let us know ! 
+^ &website 
+</text_normal>
+</message_body>
+</message>

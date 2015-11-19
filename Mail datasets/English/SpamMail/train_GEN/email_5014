@@ -1,0 +1,36 @@
+<message>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ volunteers needed for &name experiment 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 12 jun 2003 16:06:29 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ dear &name people , 
+^ i am circulating this for a friend -- only native speakers please . 
+^ &name 
+^ subject : volunteers needed for &name experiment 
+^ dear all , 
+^ we are a group of researchers at the university of &name who are presently conducting &num experimental studies of text comprehension and looking for people who are willing to participate . 
+^ the experiments are conducted over the &name wide web . 
+^ by taking part in the experiments , you will automatically be entered into our prize draw . 
+^ we will randomly choose &num participants who will each receive an amazon gift certificate for &num pounds . 
+^ to participate , you need to be a native speaker of english . 
+^ the experimental procedure is simple . 
+^ all you have to do is read some short texts and judge on a &num point scale how comprehensible these texts are . 
+^ you can do whichever experiment your prefer or even both ! 
+^ the experiments will take approximately &num minutes to complete . 
+^ to participate , you will need a web browser that supports javascript . 
+^ the experiments are called text comprehension i '' and text comprehension &num '' and can be found at the following web site : 
+^ &website 
+^ thanks in advance for your help ! 
+^ &name &name &name &name / school of informatics --- &name of &name &num &name place , &name &name &name , &name -------- &num &email ------ &website 
+</text_normal>
+</message_body>
+</message>

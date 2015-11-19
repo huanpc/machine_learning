@@ -1,0 +1,33 @@
+<message>
+<date> mon, 28 apr 2003 14:42:58 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : what 's on / &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i 'll put you on the list . 
+^ time committment is whatever you want . 
+^ we 'll usually train once during the week and have matches on saturdays . 
+^ the playing policy is that everyone will get a shot to play if they show up for a match . 
+^ but people who are regulars are more likely to get regular playing time ... 
+^ - &name 
+</text_normal>
+<text_embedded> 
+
+^ i 'm in the never played category ( well , nothing more than the once or twice on the beach with friends anyway ! ) , and i am quite short which probably is n't ideal , but it sounds like fun . 
+^ what level of time commitment is it ? 
+^ thanks 
+^ &name 
+^ &name &name &name college , &name , &name &name &name &name : &name , &name &name , &name e-mail &name : &email &name : # &num | &name : &email | &name ! 
+^ &name &name / &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

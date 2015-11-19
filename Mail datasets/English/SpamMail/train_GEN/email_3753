@@ -1,0 +1,16 @@
+<message>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ &name funding 
+</text_normal>
+</subject>
+<date> thu, 9 may 2002 09:04:08 -0700 </date>
+<from> com </from>
+<to> co.uk </to>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+</message_body>
+</message>

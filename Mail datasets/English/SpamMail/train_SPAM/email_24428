@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ let me pay off your bills for you &name 
+</text_normal>
+</subject>
+<date> wed, 09 apr 2003 00:25:01 -0700 </date>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

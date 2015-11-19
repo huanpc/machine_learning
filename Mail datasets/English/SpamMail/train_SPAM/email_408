@@ -1,0 +1,24 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ &name ? 
+</text_normal>
+</subject>
+<date> 23 mar 2003 06:25:46 -0800 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ if the above links do not work or appear , simply copy this &name and paste it into your browser 's address field : &website 
+^ send to all requests honored within &num hours . 
+^ please make sure your email address is identified clearly . 
+^ this email was sent to 
+</text_normal>
+</message_body>
+</message>

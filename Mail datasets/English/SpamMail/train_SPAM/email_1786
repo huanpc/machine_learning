@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ congratulations ! 
+^ you get a free &name 
+</text_normal>
+</subject>
+<date> sun, 23 mar 2003 06:08:56 pst </date>
+<content-type> text/html; charset=us-ascii; class-id=9hkibzhyki2ij7nd7nk-150024 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ this message comes to you from &num &name &name . 
+^ if you wish not to receive further special offers from us , please click the link at the end of this message and you will be removed from future mailings . 
+^ congratulations ! 
+^ you get a free &name congratulations ! 
+^ you have received this email because you have signed up to receive offers from &num &name &name and / or through one of our affiliate partners . 
+^ our privacy policy can be found here . 
+^ &name 
+^ &name : 3;2ou.yworu.5.a8hr8lu;150024 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,37 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name notice , scn 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> tue, 2 apr 2002 05:09:31 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name or error has occurred with your particular account . 
+^ this could be caused by a number of reasons as follows ; 
+^ &num your credit card failed to be properly authorized , it has expired , or as been found to be on record with under a different account . 
+^ in order to remedy this problem it is suggested that you provide another credit card that can be billed for your services . 
+^ in order to ensure that your account remains active please make sure that the new credit card provided has not been used to pay for services in the past &num months , this is required in order to avoid further complications pertaining to your account . 
+^ &num your account has been accessed by an outside source , other than yourself , causing representatives to issue you a different password . 
+^ it is now required that you fill out and submit all necessary account information in order to verify that your account has not been further compromised by outside sources . 
+^ you must enter a new credit card number that has not been used to pay for services within the past &num months . 
+^ &num an e-mail was sent to your account that inquired about your account status . 
+^ if you have received an e-mail from anyone other than an staff member , please disregard that mail as it may be fraudulent , possibly causing a third party to gain access to you account . 
+^ after your new account information has been processed you will be redirected back to this issued must be solved within &num hours of receiving this email or your account will be suspended and or terminated and a reactivate fee of $ &num will apply if you choose to continue your experience . 
+^ this charge cannot be waived once the account has been deactivated . 
+^ for fastest processing , we have provided members with a secure billing site to verify their information . 
+^ please visit ( ) and verify your billing information . 
+^ once you have submitted your information a sales representative will review the information and email you within &num hours if any problems persist with your account . 
+^ thank you in advance for your co-operation . 
+^ nwc 
+^ - &name department department 
+^ &name # : khr &num pehtipgcpikmehrxwqqhia 
+</text_normal>
+</message_body>
+</message>

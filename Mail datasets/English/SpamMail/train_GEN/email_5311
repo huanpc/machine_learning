@@ -1,0 +1,29 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name : language &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 30 jan 2003 19:13:58 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_embedded> 
+
+^ hi &name , i was wondering if you could please let me know where the top-docs and question files that we can use for testing our baseline system or could you please make these available ! 
+^ thanks &name : ) 
+^ &name , 
+</text_embedded>
+<text_normal> 
+
+^ the parsed questions ( currently best version ) are in ques-out-jan29.rmrs 
+^ &num parsed answer files are in rmrs / ans ( namely questions &num and &num ) . 
+^ this data should be enough for your immediate testing needs -- please let me know if this is not the case . 
+^ we are currently working on &char ) parsing all top_docs and &char ) the exact rmrs 's will also change in the final version . 
+^ they will contain more information , but are already syntactically correct ( cf. the corresponding dtd ) . 
+^ &name
+</text_normal>
+</message_body>
+</message>

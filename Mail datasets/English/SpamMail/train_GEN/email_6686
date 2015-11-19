@@ -1,0 +1,27 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ off tomorrow ! 
+</text_normal>
+</subject>
+<date> mon, 14 oct 2002 18:49:16 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ we leave tomorrow for &name ; i will give your best wishes to all appropriate . 
+^ met the &name last night at an &name service ; they sat next to us ! 
+^ phoned &name today ; they hope to have your forks from &name on monday next week and will then fix it so i should be able to pick it up when i come back . 
+^ junk mail from readers digest today - i assume i can bin it ? 
+^ you also had a inmac catalogue last week which dad opened without reading the address - if you really want it we could post it on ... 
+^ hope all is well . 
+^ see you on the 1st , 
+^ love , mum &amp; dad 
+</text_normal>
+</part>
+</message_body>
+</message>

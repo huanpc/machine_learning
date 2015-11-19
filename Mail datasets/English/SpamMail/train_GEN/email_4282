@@ -1,0 +1,31 @@
+<message>
+<date> thu, 7 nov 2002 16:06:02 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name - exp1 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ i did show my work to a demonstrator , and he certainly said he was going to give me a tick . 
+^ regards , 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ this is a reminder that you have not yet got a tick for the first experiment of the &name &name . 
+^ if you have problems with the practical please get in touch as soon as possible , either with a demonstrator , myself or your course advisor . 
+^ in general you should not aim to get all the ticks in one go at the end of the practical as the demonstrators will not have enough time . 
+^ you should try to obtain the ticks as you go along from the first to the third experiment . 
+^ thus we expect that the first experiment is done during the the first &num weeks of the speech1 practical . 
+^ &name &name 
+</text_embedded>
+</message_body>
+</message>

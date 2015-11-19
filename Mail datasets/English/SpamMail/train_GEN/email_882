@@ -1,0 +1,34 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ freeserve 
+</text_normal>
+</subject>
+<date> thu, 20 sep 2001 23:48:00 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ here is the freeserve number : &num &num 
+^ hope you can rid &name of that viral fiend ! 
+^ see you soon , 
+^ &char 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ here is the freeserve number : &num &num 
+^ hope you can rid &name of that viral fiend ! 
+^ see you soon , 
+^ &char 
+</text_normal>
+</part>
+</message_body>
+</message>

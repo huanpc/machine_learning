@@ -1,0 +1,24 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name meine hompage sehen 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled document 
+^ &name ich bin die &name und bin &num &name jung 
+^ ich wollte &name mal meine hompage zeigen , habe sie endlich fertig 'stolz iss ' 
+^ habe &name &name versprochen dass ich mich melde wenn sie fertig ist . 
+^ w' rde mich freuen wenn sie &name gef'llt . 
+^ habe auch ein &name &name mit draufgemacht damit &name endlich wei' &char wie ich aussehe . 
+^ &name hier 
+</text_normal>
+</message_body>
+</message>

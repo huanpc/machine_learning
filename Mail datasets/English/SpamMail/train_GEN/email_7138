@@ -1,0 +1,16 @@
+<message>
+<from> net </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ thanks for &name &name 
+</text_normal>
+</subject>
+<date> mon, 9 sep 2002 20:53:05 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+</part>
+</message_body>
+</message>

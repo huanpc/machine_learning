@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ i need to find out when to expect the laptop that i ordered yesterday to arrive . 
+^ will it get here by friday or do i have to wait until next week ? 
+</text_normal>
+</message_body>
+</message>

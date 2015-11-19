@@ -1,0 +1,25 @@
+<message>
+<from> com.br </from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> tue, 8 apr 2003 04:19:48 -0300 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hp var-direct &name reseller hp var-direct 
+^ promo' &char 
+^ pre' os com impostos &char frete inclusos v' lidos para &char estado &name &name at t' rmino &name estoques . 
+^ &name saber &name , mande um e-mail para 
+^ &name system : ( &num ) &num / &num 
+^ cota' &char direta faceverdana)&email seus dados , clique &name * 
+^ n' &char quer &name receber , clique &name * 
+^ * favor n' &char retirar &char subject 
+</text_normal>
+</message_body>
+</message>

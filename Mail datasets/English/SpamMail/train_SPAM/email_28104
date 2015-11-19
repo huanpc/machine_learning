@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<content-type> text/html; charset=us-ascii </content-type>
+<subject>
+<text_normal> 
+
+^ enter to &name a flat screen tv 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 22:27:00 -0400 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you are receiving this email from &name as stated in our terms and conditions in return for being provided free browser based email services . 
+^ if you feel you have received this email in error or do not wish to receive additional offers , please follow the instructions at the bottom of this email . 
+^ untitled 
+^ to no longer receive these offers , click here . 
+^ hrefhttp://&website to have your email address removed by postal mail . 
+^ &name &num &name &name &name city , ok &num 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name free - &num day , &num &name hotel - &name , &name and 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> mon, 7 apr 2003 02:53:10 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ vacation free! * 
+^ to be deleted from our member database , please click here 
+</text_normal>
+</message_body>
+</message>

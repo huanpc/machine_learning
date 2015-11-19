@@ -1,0 +1,32 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ online 
+</text_normal>
+</subject>
+<date> thu, 21 dec 2000 19:45:14 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ i am online now - what is your hotmail address / do you need one to use messenger . 
+^ i am signed on to &name as my sister &name ( &email ) 
+^ &char 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ i am online now - what is your hotmail address / do you need one to use messenger . 
+^ i am signed on to &name as my sister &name ( &email ) 
+^ &char 
+</text_normal>
+</part>
+</message_body>
+</message>

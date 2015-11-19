@@ -1,0 +1,28 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ ( ) ( ) . 
+^ &num . 
+</text_normal>
+</subject>
+<content-type> text/html; charset="ks_c_5601-1987" </content-type>
+<date> sun, 6 apr 2003 08:09:45 +0900 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ . 
+^ ( ) , . 
+^ , . 
+^ ' ' &email . 
+^ ! ! 
+^ . 
+^ ' ' . 
+^ e-mail &name &name 
+^ my reply e-mail : &email we inform you , inaccordance with the advise of ministry of information and &name , that this email is an advertisement and the address of which has been gathered from bulletine boards on internet as well as that we do not have any further information about you other than your email address . 
+^ if you do n't want this type of information or e-mail , please click the e-mail &name &name ' or the &email ' and send me reply mail . 
+</text_normal>
+</message_body>
+</message>

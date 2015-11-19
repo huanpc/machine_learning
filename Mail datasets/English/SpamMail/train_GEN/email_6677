@@ -1,0 +1,84 @@
+<message>
+<date> tue, 27 may 2003 11:56:26 +0200 </date>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : observations on the new &name startup dialog 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ on mon , may &num , &num at &num : &num : 31pm &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ on monday &num may &num &num : &num , &name &name wrote : 
+<text_embedded> 
+
+^ then the fact that the " choose " and the " open " are both closing the dialog suggests they should be placed on the same level . 
+^ i.e. next to each other . 
+</text_embedded>
+
+^ i think the wording is too similar to be next to each other ; i 'd wager that many users would not know which one to click . 
+^ this means better physical seperation , better wording , or both ... see attached files ... 
+<text_embedded> 
+
+^ last ; the user might appreciate feedback on his selection ; page size and comments come to mind here . 
+^ ( the tooltip idea &num mentioned before ) . 
+</text_embedded>
+
+^ agreed ... 
+<text_embedded> 
+
+^ &name , quick scetch attached that might not be the end-all , but should at the very least prove to solve more problems then most ideas i have seen so far . 
+</text_embedded>
+
+^ &char like the direction a lot ... below are &name to a &name file ( so we can play a bit easier &smiley and a snapshot that plays on your idea ... ( i 'm aware of the missalignment of the items in the categories list , that 's to circumvent the default sorting you get when previewing in designer ... ) 
+^ &website 
+</text_embedded>
+<text_normal> 
+
+^ you missed some features 
+^ - the left and right as rest to resizing policy 'minimum " so the center takes all available space ( the &num spacers around the &name should also be minimum ) 
+^ - the 'description " label should have ( p)'s around the bottom paragraph 
+^ - the open button should be right aligned ( its a bit too big now ) 
+^ - you miss the location label ( for recent files ) 
+^ - you miss the intro text 
+^ - the listview header ( &char ) should be " fullwidth " 
+^ i do n't like the header " categories " . 
+^ first it should be clear without that header and second it stops me from looking for recent files there . 
+^ i think you want a normal list here with icons _above_ the names . 
+^ just like the panels that group config dialogs ( the kword config for example ) 
+^ you made the same mistake using the open / open existing file buttons i posed in the email you replied to . 
+^ the buttons at the bottom " ok 's the dialog above . 
+^ so if you say the open and open exising should not be on the same level ( i agree to that ) then they should be the other way around ; since the " open existing file " does not ok the selections above . 
+</text_normal>
+<text_embedded> 
+
+^ this still leaves the issue of openning an existing file ... i can see think of &num decent solutions ( which probalby means there are at least &num &smiley : 
+^ &char ) when the open existing file button is clicked the &num panes are replaced by an embedded &name 
+^ &char ) when the open existing file button is clicked the current dialog disappears and is replaced with a stand alone &name . 
+^ this would leave us with the quandry of what to do if the user presses cancel in the &name ( probably just treat it as if they pressed &name in the koffice open dialog , but another possibility is to go back to the koffice dialog first ... ) 
+</text_embedded>
+<text_normal> 
+
+^ &char ) use &num &name ( just do n't put the buttons outside the &name ) 
+</text_normal>
+<text_embedded> 
+
+^ and just to be a broken record , this should be embedded right in the kword / kspread / kpresenter / etc window and not a stand-alone modal dialog . 
+</text_embedded>
+<text_normal> 
+
+^ maybe that last point is the real solution ; just show the template chooser in the main window and have a button on top to open an existing file using an external &name . 
+^ this steps around a whole lot of problems ... 
+^ i do n't have much time for &name hacking at work ; so just a quick email and i 'll take a longer look tonight . 
+^ &name &name 
+^ kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

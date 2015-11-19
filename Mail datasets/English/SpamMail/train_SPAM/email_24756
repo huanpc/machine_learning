@@ -1,0 +1,18 @@
+<message>
+<from> re.kr </from>
+<subject>
+<text_normal> 
+
+^ would you like a rate starting at &num ? 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> 9 apr 2003 03:53:25 +0700 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</message_body>
+</message>

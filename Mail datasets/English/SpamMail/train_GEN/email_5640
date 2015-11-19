@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name &name 
+</text_normal>
+</subject>
+<date> tue, 26 nov 2002 11:53:05 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi guys , 
+^ just to recap : the evening starts with mulled wine in the &name &name room at &name , then dinner in hall at &num . 
+^ dress is black tie , and i 'm afraid the ruling is that gowns must be worn in hall ( but that does n't cover before and after ! ) . 
+^ wine purchases can be made with your college card . 
+^ looking forward to seeing you tonight , love & &name , &name 
+^ add photos to your e-mail with &name &num . 
+^ get &num months free * . 
+^ &website 
+^ &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

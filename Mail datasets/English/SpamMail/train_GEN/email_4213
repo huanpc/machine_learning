@@ -1,0 +1,30 @@
+<message>
+<date> fri, 2 jun 2000 13:31:19 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ watch for buses when crossing the road . 
+^ in your state you might miss them ! 
+^ &name &name department of statistical science university college &name &name : ( &num ) &num &num &name &name &name : ( &num ) &num &num &name &name 6bt uk 
+^ on &name , &num &name &num , &char &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name ! ! ! ! ! 
+^ it went really well ( compared to how &char though it was going to go ! ! ! ) praise the lord ! ! ! ! 
+^ wonderfull ! ! ! ! ! 
+^ i 'm free ! ! ! ! ! 
+^ &name ! ! ! ! 
+^ take care , &name 
+</text_embedded>
+</message_body>
+</message>

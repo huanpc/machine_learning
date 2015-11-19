@@ -1,0 +1,151 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name &name , &name &num , &name &num , april &num , &num 
+</text_normal>
+</subject>
+<date> tue, 1 apr 2003 17:08:36 -0700 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+^ all the developer news from &name in &num e-mail . 
+^ for an &name version of &website profile center from &website 
+^ for more information , tools , and community resources , visit &name &name at &website 
+^ what 's on your mind ? 
+^ &name &name &name feedback to : &email 
+^ to cancel your subscription to this newsletter , or stop all newsletters from &website , read the directions at the bottom of this message . 
+^ &name news 
+^ &name training and events 
+^ &num webcasts and chats 
+^ &name &name and trials 
+^ v. code samples 
+^ &name special offers 
+^ &name stories 
+^ * &name &name : building for the enterprise session &num : enterprise &name architecture . 
+^ watch &name &name from &name &name present content from the &name building for the enterprise tour that traveled across &name from march &num , &num . 
+^ &website 
+^ * understanding soap learn how soap defines a simple , extensible , and rich &name messaging framework that can be used over multiple protocols and with a variety of different programming models . 
+^ &website 
+^ &name news 
+^ * &name announces the &name &name program for &name the &name &name program for &name helps accelerate your software development on the &name platform . 
+^ join now and save on the enrollment fee ! 
+^ &website 
+^ * connected enterprise &name &name the power of a web-enabled enterprise with the experts , &name and &name . 
+^ register for &num or all of this 5-part connected enterprise solutions webinar series . 
+^ and when you do , you may win an &name &name . 
+^ &website 
+^ * &name &name web services with the &name &name compact framework learn how to call &name web services synchronously and asynchronously from your smart device application using the &name compact framework . 
+^ &website 
+^ * are you using &name &name &name &num &name ? 
+^ we 'd like to hear about it ! 
+^ tell us about your stories , experiences , and the applications that you 've developed with &name &name &name &num . 
+^ this is a great opportunity to have your story featured as part of the launch ! 
+^ send us your stories to &email . 
+^ * &name &name : building a desktop news aggregator dare &name builds a c# application that retrieves and displays news feeds from various web sites , using &name , &name , &name schema , and &name serialization . 
+^ &website 
+^ * windows data alignment on &name , &name , and x86-64 solve data alignment problems critical to the performance of &name applications . 
+^ &website 
+^ * get &name : &name &name &name : &name &name , &name , and &name in &name &name embedded remotely debug your windows &name embedded runtimes , and learn the basics of localizing and globalizing the &name &name embedded operating system and your custom applications . 
+^ &website 
+^ * reliable message delivery in a web services &name : a proposed architecture and &name &name , &name , &name systems , and &name &name announce the publication of &num new specifications to enable organizations to build reliable , transport-independent , and interoperable web services applications . 
+^ this is a significant milestone in the completion of the web services architecture . 
+^ &website 
+^ * coding4fun : background copying build a tool that uses the &name &name bits features to download files over an unstable or intermittent connection . 
+^ &website 
+^ * &name &name &name &num language changes &name &name provides an overview of the language changes included in the &num release of visual basic .net . 
+^ &website 
+^ * wonders of &name forms : &name &name &name resource &name &name &name defines and discusses untyped manifest resources and typed resources , and shows you how to use them in your own applications . 
+^ &website 
+^ * speech control contest enter the speech control contest for your chance to win an &name . 
+^ &website 
+^ * &name &name techniques used in &name &name &name accelerator for business intelligence &website 
+^ * &website &name : &name , &name , and secure communication &website 
+^ * pocket pc chess game checkmates with &name compact framework &website 
+^ * learn how other companies are using &name &name &website 
+^ &name training and events 
+^ * get ready for &name tech' &name &num june &num - &num , &num &name , &name over &num in-depth technical sessions and hands-on labs . 
+^ see &name solutions in action . 
+^ register by april &num and save $ &num . 
+^ &website 
+^ * &name all &name &name events &website 
+^ &num webcasts and chats 
+^ &num minutes of deep , how-to , technical webcasts presented by knowledgeable &name experts . 
+^ these free events are live and interactive . 
+^ watch live code demos , engage the presenter with technical questions , and listen to your peers ask questions . 
+^ online seating is limited , so register early . 
+^ &website 
+^ * telephony for web developers ( &name &num ) april &num , &num 
+^ 11: &num a.m. to &num : &num p.m. pacific time &website 
+^ * introducing &num new salt products - &name &name and &name &name &name &num april &num , &num 
+^ 11: &num a.m. - &num : &num p.m. pacific time &website 
+^ * part &num : building a .net-connected application april &num , &num 
+^ 10: &num - &num : &num a.m. pacific time &website 
+^ * &website april &num , &num 
+^ 11: &num a.m. - &num : &num p.m. pacific time &website 
+^ * make your &name &name run &name april &num , &num 
+^ 11: &num a.m. - &num : &num p.m. pacific time &website 
+^ * &website - tips and &name april &num , &num 
+^ 11: &num a.m. - &num : &num p.m. pacific time &website 
+^ * how to develop an &name .net-connected application with &name april &num , &num 
+^ 11: &num a.m. - &num : &num p.m. pacific time &website 
+^ * best practices for &name development april &num , &num 
+^ 11: &num a.m. - &num : &num p.m. pacific time &website 
+^ * high-performance computing essentials april &num , &num 
+^ 11: &num a.m. to &num : &num p.m. pacific time &website 
+^ * &name &name - general discussion experts from the &name team at &name will answer any questions you have about &name . 
+^ no specific focus area is scheduled for this month , so questions on any msi-related topic are welcome . 
+^ april &num , &num 
+^ 11: &num a.m. - &num : &num p.m. pacific time 
+^ 2: &num - &num : &num p.m. eastern time 
+^ 18: &num - &num : &num &name &website 
+^ &name &name and trials 
+^ * &name &name : automated security testing for &name &name &name &name &name , an automated unit-testing tool , is seamlessly integrated into &name &name &name &name to detect security defects and deliver real-time , in-line fix recommendations that enable rapid development of secure applications . 
+^ download a limited free trial version at &website 
+^ * web services enhancements &num &name for &name &name web services enhancements &num service pack &num for &name &name provides important security , scalability , and performance enhancements . 
+^ this is a recommended upgrade . 
+^ &website 
+^ * &name : &name &name tool for &name &name &name the web services &name &name tool is used to manage &name application settings from within &name &name &name &website 
+^ * &name mobile printing &name with &name &name &name &num support &name available now , this plug-in enables developers to add direct and service-based printing to &name &name compact framework-based applications . 
+^ it enables an application to print directly from a &name &name pc device . 
+^ to download , please visit &website 
+^ v. code samples 
+^ * &name utility that reports statistics about the number of elements , attributes and text characters found in the specified &name files . 
+^ shows how to use &name and is very fast , processing about &num megabytes of &name per second . 
+^ &website 
+^ * binary data in &name this sample shows how to read and write binary data using the &name / &name &name 's producing well formed &name text . 
+^ &website 
+^ * &name and code samples for &name / ny &name &name &name &name &num the roundtable topics was asynchronous programming . 
+^ the samples cover threads , waithandles and monitors , thread pooling , async delegates , queued components and &name &name &website 
+^ * &name in &name &char c# library containing wrapper classes for &name , &name , security descriptors , &name &name , access tokens , etc. the archive also contains &num samples : &char ' task manager ' winforms application that uses the library to display token information of running processes and threads . 
+^ &website 
+^ * &website code &name have you written a great piece of code that you want to share ? 
+^ are you looking for some great code samples ? 
+^ tap into the largest pool of code samples produced by your fellow developers through &name , a visual &name &name add-in for the .net developer community . 
+^ &website 
+^ &name special offers 
+^ * &name subscriptions &name rebate special offer offer extended ! 
+^ order or renew your &name &name before december 31st , &num and take advantage of the &name rebate special offer , up to $ &num &name . 
+^ simply choose to receive &name developer software on &name ( instead of &name ) to be eligible for a mail-in rebate . 
+^ &website 
+^ ~~~~~~~~~~~~~~~~~~~~~~~~~ how to use this mailing list~~~~~~~~~~~~~~~~~~~~~~~~ 
+^ to cancel your subscription to this newsletter , either click mailto : &email .com ? 
+^ subjectunsubscribe to send an unsubscribe e-mail or reply to this message with the word unsubscribe in the subject line . 
+^ to stop all e-mail &website , either click mailto : &email .com ? 
+^ subjectstopmail to send your request or reply to this message with the word stopmail in the subject line . 
+^ you can also unsubscribe at &website communication preferences from this site . 
+^ this document and other documents provided pursuant to this program are for informational purposes only . 
+^ the information type should not be interpreted to be a commitment on the part of &name and &name cannot guarantee the accuracy of any information presented after the date of publication . 
+^ information provided in this document is provided ' as is ' without warranty of any kind . 
+^ the user assumes the entire risk as to the accuracy and the use of this document . 
+^ &website newsletter e-mail may be copied and distributed subject to the following conditions : 
+^ &num all text must be copied without modification and all pages must be included 
+^ &num all copies must contain &name 's copyright notice and any other notices provided therein 
+^ &num this document may not be distributed for profit 
+</text_normal>
+</message_body>
+</message>

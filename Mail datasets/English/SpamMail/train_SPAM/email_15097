@@ -1,0 +1,22 @@
+<message>
+<date> 3 apr 2003 08:09:52 -0000 </date>
+<subject>
+<text_normal> 
+
+^ &name : a simple business that pays instantly ! 
+</text_normal>
+</subject>
+<from> biz </from>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website ! 
+^ the perfect business ! 
+^ proven powerful pays instantly ; &num paypal driven 
+^ got a second ! 
+^ - click here ! 
+</text_normal>
+</message_body>
+</message>

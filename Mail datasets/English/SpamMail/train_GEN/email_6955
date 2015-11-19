@@ -1,0 +1,42 @@
+<message>
+<from> com </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ &name &name technical support 
+</text_normal>
+</subject>
+<date> fri, 10 jan 2003 15:43:38 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ i am trying to package some software for web deployment . 
+^ i have recently downloaded your program and wanted to know whether there is anyway of doing the following : 
+^ &num i created &name file 
+^ &num &name creation i need to include an extra file into &name ( this file will be different for each end install - the addiition will be done by an administrator and then the &name will be made available to an end user ) 
+^ i tried using winzip to open and add a file ( as this is a common tool - that most administrators can get access to ) - and i believe this corrupts the &name info somehow and therefore prevents it from executing . 
+^ any help on this matter is appreciated . 
+^ thank you for your time . 
+^ regards &name &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ message hi &name , 
+^ i am trying to package some software for web deployment . 
+^ i have recently downloaded your program and wanted to know whether there is anyway of doing the following : 
+^ &num i created &name file &num . 
+^ &name creation i need to include an extra file into &name ( this file will be different for each end install - the addiition will be done by an administrator and then the &name will be made available to an end user ) 
+^ i tried using winzip to open and add a file ( as this is a common tool - that most administrators can get access to ) - and i believe this corrupts the &name info somehow and therefore prevents it from executing . 
+^ any help on this matter is appreciated . 
+^ thank you for your time . 
+^ regards &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

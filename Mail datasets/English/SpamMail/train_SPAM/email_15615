@@ -1,0 +1,23 @@
+<message>
+<from> com.br </from>
+<subject>
+<text_normal> 
+
+^ &char maior &name &name dados juridico por &char $ &num , &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> thu, 3 apr 2003 18:41:24 -0300 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ cdrom &name &name &name &name &name internet &name &name pre' &char especial &char $ &num , &num 
+^ imperdivel ! 
+^ s' &char &name &name &num , &num milh' es &name p' ginas atualizadas . 
+^ &name verdadeira biblioteca juridica em seu computador . 
+^ &name &name no site &website 
+^ este e-mail n' &char ser novamente enviado . 
+</text_normal>
+</message_body>
+</message>

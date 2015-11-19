@@ -1,0 +1,56 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 25th may 
+</text_normal>
+</subject>
+<date> fri, 25 may 2001 17:13:42 -0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name 
+^ thanks ! 
+^ i didnt get your card but at least you sent me one ! 
+^ it hasnt been so sunny here today so i didnt get to sunbathe . 
+^ have had an ok day but had to study . 
+^ im at mams just now . 
+^ i only came round to get a present from &name but nevermind . 
+^ wont get any more study done today ! 
+^ im sending you down some cake so i dont know how it will be when it reaches you . 
+^ well &name better go cause &name shouting for me to come back downstairs . 
+^ lots of love , &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : &name to : &name &name subject : 25th may &name : &name , &num may &num &num : &num : &num &num ( &name ) 
+^ &name &name , 
+^ &name birthday . 
+^ that 's about it really . 
+^ did you get your card from me ? 
+^ i posted it yesterday so it should get there today . 
+^ i hope you do n't have to pay extra postage for it ... &smiley 
+^ i put &name 's card in with it to , so can you give that to her when her birthday comes round , please ? 
+^ cheers . 
+^ i knew you would . 
+^ is it sunny again , like you said it would be ? 
+^ it 's not cold here , but it 's not nearly as nice a day as we 've been having . 
+^ oh well ... i suppose that 's good for revision . 
+^ and i 'm in the computer lab anyway , doing work and waiting for a supervision . 
+^ sigh . 
+^ i 'm not sure if mam phoned last night or not . 
+^ i was out when i got your email , and there was no note saying she 'd phoned when i got home , but that does n't mean much in our house ... 
+^ anyway , back to semantics ... 
+^ see you , 
+^ &name 
+^ &name you can maybe phone me tonight before you go out or whatever ... ? 
+</text_embedded>
+<text_normal> 
+
+^ get your private , free e-mail from &name &name at &website . 
+</text_normal>
+</message_body>
+</message>

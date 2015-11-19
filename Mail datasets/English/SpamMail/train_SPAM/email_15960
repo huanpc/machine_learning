@@ -1,0 +1,14 @@
+<message>
+<date> 3 apr 2003 20:03:04 -0000 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ spring has sprung 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

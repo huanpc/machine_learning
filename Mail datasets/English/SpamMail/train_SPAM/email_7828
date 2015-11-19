@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : your shipment status ! 
+</text_normal>
+</subject>
+<date> 29 mar 2003 12:48:02 +0300 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,125 @@
+<message>
+<date> fri, 24 jan 2003 23:50:42 +0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ re : [ &name ] &name &num of &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi all , 
+^ first of all , a big thanks to &name ... to bring out the true to picture to those of us who are still slumbering ! ! ! 
+^ i have a few things to say ... 
+^ - -on &num january &num &num : &num &num " &name &name " ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i 'll remind everyone that they should have understood &name , checked out the current src and &name modules and have your own stuff added to the repository by now . 
+^ sunday is too late to be fiddling with this stuff . 
+</text_embedded>
+<text_normal> 
+
+^ for those who still have n't managed to get their head around &name , please readup about the &name online and try out &name ( &website still having trouble , i would suggest clarifying it out tomorrow afternoon . 
+^ &name , please would you confirm if a repository has been setup on the &name as well . 
+</text_normal>
+<text_embedded> 
+
+^ note that the docs have to be handed by &num noon on tuesday , and thus we need to have them finished by monday . 
+^ that means we are on day &num out of &num . 
+^ the spec document must be &num words long . 
+^ we have &num words in the requirements document ( &name is working on the latex version of this , and he will have them done by saturday morning ) 
+</text_embedded>
+<text_normal> 
+
+^ i have also figured out &name ( at least bits of it ) and thus , would be eager to help out &name . 
+</text_normal>
+<text_embedded> 
+
+^ thus we need another &num words . 
+^ &name , &name , &name , &name & &name are down to get the specs done . 
+^ &name , &name and i stayed until &num on thursday designing stuff . 
+^ as a result of this i am writing the module definitions for the distribution system and &name is / has written the module design for the factorisation system . 
+</text_embedded>
+<text_normal> 
+
+^ thursday afternoon was a very fruitful session indeed . 
+^ i am ready to sit down tomorrow and type out / draw out any docs /figures that need to be drafted . 
+^ it would be very useful if we made reports of all our relevant discussions so far . 
+^ eg. reports on : 
+^ - &name &name &name 
+^ - data flow in the factorisation part 
+^ - distribution model ( i think we should include &name 's currying idea even if we are not implementing it ... as it was brilliant .. ) 
+^ - &name design & &name 
+</text_normal>
+<text_embedded> 
+
+^ somewhere we need to articulate &name 's work on these algorithms . 
+^ this could be javadocs or in latex . 
+</text_embedded>
+<text_normal> 
+
+^ i envisage this goin into our &name and optimisations section . 
+</text_normal>
+<text_embedded> 
+
+^ i suggest that everyone should meet at the &name at &num on saturday . 
+^ we can have at least &num groups of us , one on the spec . 
+^ &name and one on the module interfaces . 
+^ the aim to get those &num words typed in , and to finish the module interfaces . 
+</text_embedded>
+<text_normal> 
+
+^ good idea - i would like to carry it further to suggest we split into groups of &num and get all the little bits done . 
+^ please be prepared to slog ur asses off tomorrow as we must get everything done ! ! ! 
+</text_normal>
+<text_embedded> 
+
+^ i got this from deliverables.html : the deliverables expected for each of the &num review meetings ... 
+^ functional specification and module design 
+^ * introduction - informal description of project 
+^ * assumptions - to clarify specification 
+^ * environment - choice of language and tools 
+^ * inputs , functions & outputs 
+^ * overall architecture 
+^ * specification of components and their test requirements 
+^ * &name acceptance criteria 
+^ * division of tasks - including manager , librarian , secretary , documentation as well as design , coding , troubleshooting and arrangements for covering each other 
+^ we also need a project plan - who is doing this ? 
+</text_embedded>
+<text_normal> 
+
+^ i have been looking into a special project management software ... i shall come up with something to tell all of you tomorrow . 
+^ i am happy to do the project plan . 
+</text_normal>
+<text_embedded> 
+
+^ what kind of user interface are we aiming for ? 
+</text_embedded>
+<text_normal> 
+
+^ i think we should all write down some ideas on this and discuss them in the first half hour tomorrow before splitting up and churning out dome docs . 
+</text_normal>
+<text_embedded> 
+
+^ please could everyone re-read the deliverables and check we have n't missed anything - it is better to worry now than to miss an important part out . 
+</text_embedded>
+<text_normal> 
+
+^ definitely . ... please come prepared tomorrow ... &name and refreshments are welcome ! ! ! 
+^ i would like our work to be as professional as possible . 
+^ i am sure i have support from all of you on this . 
+^ let us all ensure that we have a very smooth execution on wednesday . 
+^ &name is looking into a formal hall where we can amply chill out after a weeks toil ! ! 
+^ &name 's get this done ( properly ! ) ! ! ! 
+^ cheers , &name 
+^ &name &name vice president &name university &name &name and business association ( &name ) &website 
+^ &name college &name &name : &num web : &website 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

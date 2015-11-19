@@ -1,0 +1,27 @@
+<message>
+<date> tue, 26 nov 2002 20:32:25 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ concert thursday night 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi all , sorry to use the list to shamelessly plug my concert ... 
+^ i sing with &name &name &name &name . 
+^ we are performing on thursday night ( ie. tomorrow ) at the &name theatre at 11pm . 
+^ tickets are &pound; &num . 
+^ it would be cool if some of you wanted to come along . 
+^ yes , i know it 's ridiculously late , but there 's nothing i can do about that . 
+^ also performing in the same slot is &name &name , an afro-cuban drumming outfit . 
+^ could be interesting ? 
+^ see ya ! 
+^ &name
+</text_normal>
+</message_body>
+</message>

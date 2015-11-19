@@ -1,0 +1,31 @@
+<message>
+<date> thu, 07 nov 2002 01:10:59 -0500 </date>
+<subject>
+<text_normal> 
+
+^ hi . 
+^ i 'm a friend of &name &name . ... 
+</text_normal>
+</subject>
+<to> com </to>
+<from> edu </from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ &name .. i can never spell her name . 
+^ hi . 
+^ my name is &name &name , and i 'm a sophomore at &name college . 
+^ i know &name &name ... ( i put the ... there because i can never spell her last name ) and she told me that you 're a &name major at &name university and that you 're extremely helpful . 
+^ like every &name college student , i want to apply to &name to study a year abroad , and i wanted to know more information about the computer science department and the economics department . 
+^ if you can give me any information about those departments ( or just cs departments ) , like what courses you recommend , if there are internship opportunities around that area ( both research and business ) , and if i have any chance in studying both cs and econ while i 'm at &name ( that 's assuming that i get in. . 
+^ &name ! ) but &name , my main concern is whether i can do both majors . 
+^ i really want to do both . 
+^ it would be great if you can get back to me soon . 
+^ my email is &email . 
+^ thanks so much ) 
+^ &name 
+^ &name college &name &num &name &name 
+</text_normal>
+</message_body>
+</message>

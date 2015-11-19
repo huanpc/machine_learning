@@ -1,0 +1,14 @@
+<message>
+<subject>
+<text_normal> 
+
+^ get &name medications without a prior prescription ! 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<date> fri, 28 mar 2003 08:49:47 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

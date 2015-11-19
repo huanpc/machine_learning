@@ -1,0 +1,32 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ post of various types 
+</text_normal>
+</subject>
+<date> mon, 20 jan 2003 09:02:28 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ busy ? 
+^ i am still waiting to hear what to do with this freeserve envelope and whether to hang on for your thankyou letters before posting ( &name and &name have nearly finished ... ) . 
+^ a parcel from &name came today which i have forwarded so keep your eyes open . 
+^ love , mum 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ busy ? 
+^ i am still waiting to hear what to do with this freeserve envelope and whether to hang on for your thankyou letters before posting ( &name and &name have nearly finished ... ) . 
+^ a parcel from &name came today which i have forwarded so keep your eyes open . 
+^ love , mum 
+</text_normal>
+</part>
+</message_body>
+</message>

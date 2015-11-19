@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> mon, 1 apr 2002 23:54:12 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name ! ! 
+^ why are n't you online ? ! ! 
+^ &name &char 
+</text_normal>
+<text_embedded> 
+
+^ &email 
+^ do you &name ! ? 
+^ get your &name address at &website 
+</text_embedded>
+</message_body>
+</message>

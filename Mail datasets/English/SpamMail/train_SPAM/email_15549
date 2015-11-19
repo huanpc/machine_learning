@@ -1,0 +1,19 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ open me now 4004ztt-7 
+</text_normal>
+</subject>
+<date> fri, 04 apr 2003 02:10:20 -0600 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ message 
+^ ( img src' &website ' 
+</text_normal>
+</message_body>
+</message>

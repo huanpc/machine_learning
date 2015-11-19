@@ -1,0 +1,121 @@
+<message>
+<from> net </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name translation 
+</text_normal>
+</subject>
+<date> tue, 16 jul 2002 11:48:22 +0200 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name ) ;copyright &pound; &num &name &name &num &name before translating this file and ;submitting your translation ;the format of entries must not be changed . 
+^ this file ;is run through a string compiler which will not tolerate ;mistakes in formatting ! 
+^ ;in some places it may be appropriate to begin a new line ; ( for example in error messages ) . 
+^ you can do this by inserting ;a &char into the code . 
+^ ;lines beginnning with the semicolon ( &smiley are comments for your ;information only . 
+^ you may add your own comments for future ;reference if you wish . 
+^ [ translation ] 
+^ ;this information is for my use only in case i need you to update ;this file . 
+^ your e-mail address will not be shared without your ;permission . 
+^ ;please note : ;date_done signifies the date that you first started working on this file ;date_last_modified signifies the date that you last made changes to it 
+^ your_name3dmatej jer9ae &email date_done3d12th july &num date_last_modified3d16th july &num 
+^ &name for information about these &num lines &name ) 
+^ language3dslovenian language_code3d0x0424 
+^ ;this line is for the language name in the native language ; ( e.g. deutsch , &name , espaf1ol , &name , &name ) 
+^ local_language_name3dsloven9ae8ina 
+^ [ &name ] 
+^ ;this text will appear in all beta versions of the &name to discourage ( but not prohibit ) distribution of self-extracting archives created with the beta version . 
+^ warning3dwarning , this is a beta edition . 
+^ you are strongly recommended not to distribute this self-extracting archive . 
+^ the stability of this software is not guaranteed . 
+^ warning3dopozorilo ! 
+^ to je beta verzija . 
+^ moe8no vam odsvetujemo distribucijo tega samo-raz9airjevalnega arhiva ( &name ) . 
+^ [ &name ] 
+^ ;please leave the %i in the line below - it will be interpreted as the appropriate disk number 
+^ next_disk3dprosim vstavite disketo %i 
+^ ;&website ;or whatever the filename is . 
+^ ;also the %i represents the disk number ;the &char represents a new line ( or line break ) . 
+^ you can remove this if you ;want or add more in ( this applies to other strings too ) 
+^ disk_err3dta disketa ne vsebuje %s.nprosim vstavite disketo %i , ki vsebuje to datoteko &name pa kliknite gumb preklie8i . 
+^ init3dplease wait , initialising . 
+^ . 
+^ . 
+^ init3dprosim poe8akajte , poteka inicializacija . 
+^ . 
+^ . 
+^ terminate3dprekinjam operacijo . 
+^ . 
+^ . 
+^ [ &name ] 
+^ ;the &num ( & ) symbol goes before the letter which is underlined on the button . 
+^ ;the user can then press alt+that letter to select the button ;you should avoid putting the &num in front of the same letter twice ;e.g . 
+^ if you have &num buttons cancel and &name , they should be &cancel, c&onfirm ; not &cancel, &confirm 
+^ extract3d&raz9airi cancel3dpreklie8i skip3dpreskoe8i &name &name &name &name &name ... 
+^ yes3d&da no3d&ne ;as the " open with &name " button now supports other ;archivers , e.g. &name , &name , &name , the %s could be ;replaced with the name of any supported archiver &name odpiranje uporabi %s 
+^ [ &name ] 
+^ new_folder3dustvari novo mapo cur_folder3dizbrana mapa : &name nove mape : 
+^ [ &name ] 
+^ appname3dsamo-raz9airjevalni arhiv &name &char mapo : &name &char arhivu : created_with3dustvarjeno &char &name &name -- &website folder_to_extract_to3dprosim izberite mapo . 
+^ . 
+^ . 
+^ [ &name ] 
+^ existing_files3dprepisovanje obstojee8ih datotek confirm3dpotrjevanje skip3dpreskoe8i overwrite3dprepi9ai queryoverwrite3ddatoteka obstaja , &name 9eelite prepisati ? 
+^ dontreask3dne spra9auj vee8 
+^ [ &name ] 
+^ ;as above , the &char tells the compiler to start a new line 
+^ memory3dzmanjkalo je pomnilnika.npoizkusite zapreti ostale programe . 
+^ bad_powerarchiver3dne morem zagnati programa za arhiviranje cannot_open3dne morem odpreti datoteke cannot_close3dne morem zapreti datoteke error3dnapaka. . 
+^ exists3d ... &name obstoja , &name ? 
+^ reading_archive3dnapaka pri branju arhiva . 
+^ invalid_filename3dnapravilno ime datoteke . 
+^ error_directory3dnapaka &char mapi . . 
+^ compression_type3dnepoznan nae8in stiskanja ( trenutno je podprt le &name 
+^ &num &num ) &name datotek ni mo9eno raz9airiti . 
+^ badsize3dnepravilna velikost datoteke , poizkusite &name ponovno prenesti . 
+^ internal3dusodna interna &name se je neznana napaka &website ) &name je bila prekinjena na zahtevo uporabnika . 
+^ ;lots of people have difficulty with this message &name included with &name &name ;this explains about 'mpv " and 'stub " ;re-compile &name means " try making the &name again ( using the latest edition of &name &name ) " 
+^ &name &name verzija za obstojee8o programsko kodo [ interna napaka ] . 
+^ &name ponovno prevedite &name . 
+^ [ &name ] 
+^ curextract3draz9airam datoteko : &name se je &name izvedla . 
+^ &name &name 
+^ [ &name ] 
+^ ;the following line will have the filename inserted at the point %s password3dprosim vnesite geslo za %s &name geslo 
+^ [ &name ] 
+^ ;belongs to the &num lines below &name &name , &name &name &name &name 
+^ [ &name ] 
+^ ;show when a &name is run with the / ? 
+^ parameter 
+^ usage3duporaba autoextract3davtomatie8no raz9eiri datoteke nocmdline3dne za9eeni ukazne vrstice &name &name &name operacija ( avtomatie8no prepi9ai obstojee8e datoteke ! ) &name pri obstojee8ih datotekah : &name &name skip3dpreskoe8i extracto3draz9airi &char izbrano mapo 
+^ [ &name ] 
+^ &name &name &name samo-raz9airjevalniku ... 
+^ help_caption3dpomoe8 za &name &name samo-raz9airjevalnik ... 
+^ ;set the number of lines in the about box here 
+^ aboutlines3d9 
+^ ;then define each of the lines below 
+^ al13dta samo-raz9airjevalni ( &name ) arhiv je bil ustvarjen &char &name &name 
+^ &num &num al23dna voljo brezplae8no na naslovu : &website &name al43dcopyright ( &char ) &name &name &num &name al63dportions &name ( &char ) &num &name &name / al83d al93dprevod : &name &name 
+^ ;the &name verse has now been seperated so that it can be disabled ;this is so that those of other faiths can disable it & not be offended 
+^ verselines3d2 vl13d vl23d 
+^ ;now the same for help 
+^ helplines3d5 
+^ hl13dza raz9airjanje datotek &name &char tem arhivu kliknite " &name " . 
+^ &name bodo raz9airjene &char mapo , ki &name boste vnesli &char polje " &name &char mapo " . 
+^ c8e mapa ne obstoja &name ustvarjena . 
+^ hl23dza raz9airitev tega arhiva lahko uporabite tudi &name , &name &name &name . 
+^ &name &name si prenesite kopijo &name &name iz naslova : &website 
+^ ;these settings should only be changed if i notify you to request their changing . 
+^ ;they are internal settings used by the string compiler 
+^ [ &name ] type3dstrings &name &name &name &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

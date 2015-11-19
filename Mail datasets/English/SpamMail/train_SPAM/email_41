@@ -1,0 +1,19 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ attention &name &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> 22 mar 2003 22:51:34 -0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ today 's date is &num / &num / &num 
+^ you are currently subscribed as : if you wish to be removed please : click here 
+</text_normal>
+</message_body>
+</message>

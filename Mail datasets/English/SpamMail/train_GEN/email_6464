@@ -1,0 +1,69 @@
+<message>
+<from> hist.no </from>
+<to> org </to>
+<content-type> text/plain </content-type>
+<date> 23 may 2003 16:01:50 +0200 </date>
+<subject>
+<text_normal> 
+
+^ re : k this and &char that 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ fre , &num kl . 
+^ &num skrev &name &name : 
+</text_normal>
+<text_embedded> 
+
+^ actually it avoids confusion . 
+</text_embedded>
+<text_normal> 
+
+^ what about &name , &name , &name , and kinput ? 
+^ they all sound like &name applications , but are not . 
+</text_normal>
+<text_embedded> 
+
+^ ( seriously , if you are offended by " k' -names , i think you will be just as offended by phantasy-names ) 
+</text_embedded>
+<text_normal> 
+
+^ " &name " is much too strong a word , it is merely annoyance . 
+^ i 'm not annoyed by " fantasy " names like evolution , but i see your point about them not being very descriptive . 
+</text_normal>
+<text_embedded> 
+
+^ in the windows-world a similar thing is done with the " &name " prefix , on &name they start to use the " &char " prefix and on classical &name , graphical apps are often prefixed with " &char " . 
+^ gnome uses " &char " which was a mistake &name because very many non-graphical gnu-apps already use it . 
+</text_embedded>
+<text_normal> 
+
+^ &name explorer ? 
+^ winoutlook &name ? 
+^ &name ? 
+^ &name ? 
+^ i could go on , but you know what i mean . 
+^ &smiley as for apple , they have n't extended the " &char " naming convention to everything ( &name , &name , &name ) . 
+^ gnome does n't seem to follow &char " &char " naming convention that hard either ( &name and &name come to mind , the later seemingly being some creative spelling even if the &char is right ) , most of the application names are " fantasy " &num ( &name , &name , &name , &name ) or descriptive &num ( &name , &name ) . 
+</text_normal>
+<text_embedded> 
+
+^ that is exactly the point . 
+^ &name is releated to &name - it has the same function . 
+</text_embedded>
+<text_normal> 
+
+^ first , &name 's word processor is called word , not &name ( even though the executable might still be called that , which was done to avoid conflict with the &name version of word unless i 'm mistaken ) . 
+^ and even if they are both word processors , i do n't think it benefits a non-technical user to believe &name is word . 
+^ &name 's gear menu contains names like " &name ( &name processing ) " and " &name ( mail client ) " , so perhaps &num simple possibility would be an option in the control center that lets the user choose to only display the ( slightly modified ) descriptive strings , like " word processor " , 'mail client " , and so on . 
+^ the title bar would still be an issue , but maybe this too could be changed in a similar manner ? 
+^ i 'm not familiar enough with &name programming to know how feasible this would be . 
+^ if it is feasible , it would hopefully address both potential confusion among newbies , and developers " need to feel part of the &name community , as mentioned by &name &name . 
+^ but it 's just my &num cents . 
+^ &name strand &name ( &email ) 
+^ kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

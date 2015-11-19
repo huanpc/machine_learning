@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<content-type> text/html; charset=us-ascii </content-type>
+<subject>
+<text_normal> 
+
+^ maybe i know &char ? 
+</text_normal>
+</subject>
+<date> 30 mar 2003 13:28:20 -0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hi read about this &name seems familiar to me . 
+^ probably we met before ? 
+^ look at and maybe you will remember me . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

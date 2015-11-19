@@ -1,0 +1,38 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ it 's good to talk 
+</text_normal>
+</subject>
+<date> tue, 13 feb 2001 23:11:33 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name to be back in touch . 
+^ i 've cheered up already . 
+^ tell me what halfway hall involves and give details after the event , of course . 
+^ when is end of term and when do you think you 'll be home ? 
+^ will write tomorrow , 
+^ love &name 
+^ xx 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name to be back in touch . 
+^ i 've cheered up already . 
+^ tell me what halfway hall involves and give details after the event , of course . 
+^ when is end of term and when do you think you 'll be home ? 
+^ will write tomorrow , 
+^ love &name 
+^ xx 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,29 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> 02 nov 2002 15:50:52 +0000 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ dear all , 
+^ is anyone interested in watching " &name &name and the chamber of &name " at &name village cinema ( &name &name ) when it comes out ? 
+^ i am planning to see it , and if you are interested , please e-mail me back and i 'll see if we can get a group discount on tickets . 
+^ i suggest friday &num november or wednesday &num ( these are just random dates i picked , so can be flexible on dates - although i cannot guarantee getting tickets for these dates ) . 
+^ also , is anyone staying in &name over christmas ? 
+^ " whistle down the wind " is this year 's christmas show at the corn echange , from &num december to &num january . 
+^ let me know if you are interested and i 'll enquire about tickets . 
+^ see you soon , 
+^ &name 
+^ &name : little quiz question : where were major parts of &name &name filmed ? 
+^ ( &name and &name colleges , &name &smiley 
+^ &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

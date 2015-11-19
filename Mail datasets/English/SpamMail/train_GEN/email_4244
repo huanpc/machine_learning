@@ -1,0 +1,31 @@
+<message>
+<date> wed, 07 jun 2000 08:41:27 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ [ fwd : chapel service ] 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name ... look ! ! ! 
+^ &name 
+^ dear &name 
+^ thanks for your note ; i 'd be only to pleased to speak on &name &num on friday 23rd . 
+^ thanks for asking . 
+^ what time is the service ? 
+^ &name bless 
+^ &name 
+^ ps . 
+^ i am away all next week but otherwise email is the best way of contacting me . 
+</text_normal>
+</part>
+<part num="2" type="message/rfc822">
+</part>
+</message_body>
+</message>

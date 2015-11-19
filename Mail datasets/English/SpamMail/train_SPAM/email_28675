@@ -1,0 +1,19 @@
+<message>
+<date> thu, 10 apr 2003 23:26:21 -0700 </date>
+<from> info </from>
+<subject>
+<text_normal> 
+
+^ &num &name land on the &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website &num ) 
+^ this message was brought to you by &name , to the you wish to be removed from our future mailings , please follow the 
+</text_normal>
+</message_body>
+</message>

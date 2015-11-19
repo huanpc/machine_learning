@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ are your feet ready for &name ? 
+</text_normal>
+</subject>
+<date> wed, 02 apr 2003 12:29:45 -0800 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

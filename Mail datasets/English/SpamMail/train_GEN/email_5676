@@ -1,0 +1,35 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ xml 
+</text_normal>
+</subject>
+<date> mon, 02 dec 2002 19:04:33 +0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ sending the xml files . 
+^ i am sorry for the delay , just could n't make it on the weekend . 
+^ i am sending all the files that i had in the folder and dont particularly remember the sequence of each of these . 
+^ ignore the &num which i dont find useful . 
+^ &name . 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name " ( &email ) to : &name 
+^ &name " ( &email ) &name : &name , &num &name &num &num : &num : &num &num ( &name ) 
+^ ( ( &website ) ) 
+</text_embedded>
+<text_normal> 
+
+^ help stop &name with the new &name &num and get &num months free * &website 
+</text_normal>
+</part>
+</message_body>
+</message>

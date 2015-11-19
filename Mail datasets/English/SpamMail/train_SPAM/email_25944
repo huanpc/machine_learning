@@ -1,0 +1,18 @@
+<message>
+<from> co.uk </from>
+<subject>
+<text_normal> 
+
+^ &name ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ &name ? 
+^ hikayesi ... 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; charset="iso-8859-9" </content-type>
+<date> thu, 10 apr 2003 01:54:34 +0300 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

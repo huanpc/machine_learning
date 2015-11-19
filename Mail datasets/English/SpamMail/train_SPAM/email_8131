@@ -1,0 +1,21 @@
+<message>
+<from> com.tw </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ &name ? 
+^ &char ? 
+^ &name ? 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> sun, 30 mar 2003 11:28:11 +0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled document &pound; 
+</text_normal>
+</message_body>
+</message>

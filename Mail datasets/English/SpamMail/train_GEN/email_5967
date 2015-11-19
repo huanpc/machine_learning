@@ -1,0 +1,52 @@
+<message>
+<date> sat, 26 oct 2002 11:05:06 +0100 </date>
+<subject>
+<text_normal> 
+
+^ &name / tenor - &name changes 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear chorus members , 
+^ this is only for the 2nd altos and 1st tenors , so the rest of you can delete now ! 
+^ &name changes - i 'm very sorry that despite &name having gone to the trouble of sending me a fax from &name about them , i failed to pass them on to you in time for last thursday 's rehearsal . 
+^ here they are : 
+^ &name &num sing tenor &num & tenor &num join tenor &num as follows : 
+^ fig &num - &num , except &num + &num , fourth beat ( wirst ) and &num + &num , &num , &num ( &name ) 
+^ at fig &num + &num , &num , &num , &num and first half of &num 
+^ at fig &num for &num & &num / &num bars 
+^ at fig &num + &num , &num 
+^ at fig &num + &num , &num , and first half of &num 
+^ [ for &name dich , &name join &name & &name join t2 ] 
+^ after fig &num , &name join &name until &num after , moving to &name at &num after 
+^ i hope this will enable you all to mark up your parts before next week . 
+^ best wishes , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name / tenor - &name changes dear chorus members , 
+^ this is only for the 2nd altos and 1st tenors , so the rest of you can delete now ! 
+^ &name changes - i 'm very sorry that despite &name having gone to the tro uble of sending me a fax from &name about them , i failed to pass them on to you in time for last thursday 's rehearsal . 
+^ here they are : 
+^ &name &num sing tenor &num &amp; tenor &num join tenor &num as follows : 
+^ fig &num - &num , except &num + &num , fourth beat ( wirst ) and &num + &num , &num , &num ( &name ) 
+^ at fig &num + &num , &num , &num , &num and first half of &num 
+^ at fig &num for &num &amp; &num / &num bars 
+^ at fig &num + &num , &num 
+^ at fig &num + &num , &num , and first half of &num 
+^ [ for &name dich , &name join &name &amp; &name join t2 ] 
+^ after fig &num , &name join &name until &num after , moving to &name at &num after 
+^ i hope this will enable you all to mark up your parts before next week . 
+^ best wishes , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

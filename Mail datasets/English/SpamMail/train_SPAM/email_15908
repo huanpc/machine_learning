@@ -1,0 +1,15 @@
+<message>
+<date> thu, 03 apr 2003 09:57:17 -0800 </date>
+<from> info </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * card code # &num , account pending for &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

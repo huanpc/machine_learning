@@ -1,0 +1,44 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ innosetup icon replacer 
+</text_normal>
+</subject>
+<date> tue, 11 mar 2003 15:07:57 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ i 'm working on a small shareware scripting language . 
+^ the language gets " compiled " to an exe ( using a stub executable ) . 
+^ i want to be able to allow users to replace the icon of the executable , but i have n't found a way to get this to work under &num . 
+^ i was wondering if you would be interested in providing me a custom version of your " innosetup &name &name " i could bundle with the product . 
+^ basically the name would be changed , and it would simply take &num command line parameters which would be the executable to affect , and the icon to replace with . 
+^ i would actually prefer no &name , maybe just some file logging . 
+^ if you 're interested we can work out a fair arrangement . 
+^ thanks , 
+^ - &name &name &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ i 'm working on a small shareware scripting language . 
+^ the language gets " compiled " to an exe ( using a stub executable ) . 
+^ i want to be able to allow users to replace the icon of the executable , but i have n't found a way to get this to work under &num . 
+^ i was wondering if you would be interested in providing me a custom version of your " innosetup &name &name " i could bundle with the product . 
+^ basically the name would be changed , and it would simply take &num command line parameters which would be the executable to affect , and the icon to replace with . 
+^ i would actually prefer no &name , maybe just some file logging . 
+^ if you 're interested we can work out a fair arrangement . 
+^ thanks , 
+^ - &name &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

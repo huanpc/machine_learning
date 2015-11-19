@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> sat, 21 sep 2002 10:50:12 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name &name &name : &num &name : &num 
+^ dear sir or madam , 
+^ i am working with a client of mine ( &name &name , hence the use of his e-mail account ) to update his computer for the latest security patches , virus updates etc. 
+^ he is an owner of &name &name &num , and on saturday 5th january &num , i ordered an annual subscription for the virus updates ( priced $ &num ) . 
+^ the order number was &num . 
+^ however , now &name &name is insisting that the subscription has expired ( claiming &num / &num / &num ) for account id &num . 
+^ indeed in the help about box , it is recorded that the subscription started on &num / &num / &num and will expire in &num days . 
+^ how can i get it to recognise the subscription purchased in january in order to update the computer with liveupdate ? 
+^ many thanks , 
+^ &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

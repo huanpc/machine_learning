@@ -1,0 +1,32 @@
+<message>
+<date> tue, 15 apr 2003 19:39:29 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : btw 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks- i 'll check that out when i 'm next on the &name ... 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ 
+^ - ----begin &name signed message----- hash : sha1 
+^ incidently , i found some stuff about &name , if you 're interested : 
+^ &website 
+^ &name 
+^ - -- &name &name &name college , &name , &name &name &name &name : &name , &name &name , &name e-mail &name : &email &name : # &num | &name : &email | &name ! 
+^ &name &name / &name : &num &name &name &name &name &name &name &name &name &num 
+^ - ----begin &name signature----- version : &name &name ( &name / &name ) 
+^ - ----end &name signature----- 
+</text_embedded>
+</message_body>
+</message>

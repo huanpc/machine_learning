@@ -1,0 +1,42 @@
+<message>
+<from> biz </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : would you consider doing a banner exchange with our web site 
+</text_normal>
+</subject>
+<date> tue, 2 jul 2002 16:43:51 -0400 </date>
+<content-type> multipart/related; type="text/plain" </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name &name : 
+^ yes please do add me to your links page . 
+^ you are online already at &website 
+^ my logo is the following . 
+^ please have it point to &website video monitoring software , detects motion and issues sound alarms . 
+^ thank you , &name &email 
+</text_normal>
+<text_embedded> 
+
+^ i was looking at your website , i understand that you do some freeware and shareware . 
+^ i do the same . 
+^ i was wondering if you would like to exchange banners or links with me . 
+</text_embedded>
+<text_normal> 
+
+^ i 'll add one to the links page if you want . 
+^ you can get &name &name banners and buttons from the website ( &website your &num by e-mail and i 'll upload it . 
+^ yours , 
+^ &name &name &name &name &name 
+^ &name &name : powerful , free & easy for file sharing &website 
+^ - &name &name & fingerprint - &website aaa8 95a1 cc07 ae13 &name &name &name &name 0b16 5d3f 
+</text_normal>
+</part>
+<part num="2" type="image/png">
+</part>
+</message_body>
+</message>

@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : line ? 
+^ ye 
+</text_normal>
+</subject>
+<date> mon, 24 mar 2003 16:21:35 -0500 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &char &char + ! 
+^ j' &char &char  ( / j' &char w' &char rn( 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> fri,  7 feb 2003 18:47:02 -0800 (pst) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ &name is a leading permission based email site offering the greatest deals available on the net . 
+^ &name is seeking your permission to send you up-to-date information on valuable discounts , bargains , special offers , sweepstakes , entertainment , travel and financial opportunities . 
+^ this valuable information will be delivered periodically right to your e-mail inbox . 
+^ if you do not wish to participate in our monthly give-aways and email promotions , please click on the link below ( a you will be removed from our database and not receive any future offers . 
+^ sincerely , your friends at &name 
+^ * * * &name respects your privacy . 
+^ this message was delivered to you because you previously requested from &name commerce inc. to be notified of special offers from third parties like &name ( img 
+</text_normal>
+</message_body>
+</message>

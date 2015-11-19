@@ -1,0 +1,33 @@
+<message>
+<date> sat, 22 mar 2003 21:31:52 -0600 (cst) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your &name &name is ready to be viewed . 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ &char new bill for your telephone number ending in &num is now available to view and pay online . 
+^ you can also print a copy of your bill using your browser 's file , print function . 
+^ &website / ebill05 / userlogin.struts amount to pay : $ &num &name due date : &name &num , &num 
+^ please allow &num business days to ensure online payment is received and processed on time . 
+^ if you have questions , please email us at : &website / 
+^ please note : &website website is optimized for &name explorer 
+^ &num &num / netscape &num and above . 
+^ customers using a lower version browser may experience difficulties accessing the site . 
+^ you may go to the following sites to download free upgrades : &name : &website &name explorer : &website 
+^ thank you for using the &name &name service . 
+^ sincerely , 
+^ &name &name &name &name service 
+^ do not reply to this message all replies are automatically deleted . 
+^ questions regarding this message should be directed to the contact information listed above . 
+^ reference 
+</text_normal>
+</message_body>
+</message>

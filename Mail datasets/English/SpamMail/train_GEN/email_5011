@@ -1,0 +1,25 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> tue, 29 apr 2003 14:51:17 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ did anything change in the configuration of &name at the lab level ? 
+^ when launching postmaster ( the database server ) with the usual 
+^ postmaster &char /local / scratch / &name / corpora / &name / psql_db 
+^ i get a fatal error : 
+^ fatal &num : ca n't read lock file /tmp / : &name denied . 
+^ last time i used it ( about a month ago roughly ) all worked perfectly ok . 
+^ i did n't change anything at the local configuration in any way . 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

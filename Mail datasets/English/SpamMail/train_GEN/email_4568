@@ -1,0 +1,26 @@
+<message>
+<date> tue, 25 mar 2003 09:35:56 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , but &name you 're forgetting &num thing - in hockey you actually have to move ! 
+^ &smiley 
+^ &char 
+^ on &name , &num mar &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name 
+^ you may say that hockey is a " proper " sport - but just for a minute try comparing it with golf . 
+</text_embedded>
+</message_body>
+</message>

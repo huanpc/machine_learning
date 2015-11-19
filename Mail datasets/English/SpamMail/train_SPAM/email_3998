@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * play to &name at # &num casino on net ( &num ) 
+</text_normal>
+</subject>
+<date> wed, 26 mar 2003 14:31:31 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,44 @@
+<message>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ project selections 
+</text_normal>
+</subject>
+<date> fri, 7 feb 2003 11:35:04 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear masters &name , 
+^ please find below the most useful format to email me your project selections and some general information : 
+^ thanks , &name 
+^ masters in &name &name , &name and &name technology projects &num 
+^ &name students 
+^ a list of project suggestions is available on the web . 
+^ you can either choose a project from this list or you can suggest one of your own . 
+^ if the latter , you must ensure that you find a member of staff who is willing to supervise the project . 
+^ the document " guidelines on &name " is also enclosed . 
+^ do start discussing projects at the beginning of term and do not leave this to the last minute . 
+^ think carefully about your project choice and do remember it is essential to discuss the project fully with the supervisor before returning the form to me . 
+^ make sure that you indicate a strong commitment to the supervisor if this is the case . 
+^ where possible , first choices will be allocated . 
+^ in order to facilitate project allocations , would all students fill in this form and return to me by &name 14th february &num 
+^ masters in computer speech , text and internet technology 
+^ name : 
+^ complete sections &num or &num and &num . 
+^ &num project choice in order of preference : &char ) &name &name &num supervisor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... 
+^ ii ) &name &name &num &num supervisor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... 
+^ iii ) &name &name &num supervisor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... 
+^ &num own project suggestion : &num &name title &num supervisor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... 
+^ &num comments : ( e.g. any special arrangements made with potential supervisor ) 
+^ special resources : &num 
+</text_normal>
+</part>
+<part num="2" type="application/msword">
+</part>
+</message_body>
+</message>

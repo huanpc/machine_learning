@@ -1,0 +1,22 @@
+<message>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ cafe opening on &name bank holidays 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 30 apr 2003 10:30:19 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ we propose accepting the university &name 's suggestion that the &name cafe opens on monday &num may from &num until &num . 
+^ west will be closed so people from other departments at &name &name will be invited to use our cafe . 
+^ then on monday &num may the cafe will be closed and &name will be open . 
+^ i hope these arrangements will not cause too much inconvenience . 
+^ &name
+</text_normal>
+</message_body>
+</message>

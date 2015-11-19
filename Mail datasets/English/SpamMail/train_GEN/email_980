@@ -1,0 +1,43 @@
+<message>
+<date> tue, 08 oct 2002 13:40:26 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : oh my word ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name ! ! 
+^ i 'm writing to you from the computer room in &name college , &name . 
+^ i 've had a bit of a room fiasco , but hopefully i 'll shortly be moving to a nice big room with a network connection ! 
+^ in about &num mins i 'm off to a practical , which hopefully should be fairly lightweight , it being the first &num and all . 
+^ keep in touch , 
+^ &name 
+^ &char &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ hello . 
+^ how is &name ? 
+^ have you got your much desire network connection ? 
+^ i hear you kept poor old &name up very late on saturday . 
+^ quarter &num , oh my word ! 
+^ how shockingly terrible ! 
+^ i 've just had my first meeting with my project supervisor this morning . 
+^ fun ! 
+^ i 'm going to be trying to make molecular transistors ! 
+^ lunch is a wonderful invention . 
+^ there was a very nice cheescake at college lunch yesterday . 
+^ it still did n't rival dime bar dessert though . 
+^ well , must revise ... 
+^ speak soon . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

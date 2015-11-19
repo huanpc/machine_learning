@@ -1,0 +1,58 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ tomorrow 
+</text_normal>
+</subject>
+<date> thu, 20 jun 2002 19:08:50 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i will try and catch you on &name about 10.20ish after homegroup . 
+^ &name this is not too late . 
+^ if you have something unmissable then say so and we will cancel . 
+^ i would n't like to think you felt you were missing out on an opportunity for a visit that could probably be arranged another time . 
+^ however if you can reasonably be free we will come up to arrive between &num and 12noon . 
+^ what i will do is drop granny and grandad off at the college and then go and park at &name and &name while you show them your room or something . 
+^ we will just stay for lunch and a look at the college and then go at a reasonable hour and in any case by &num . 
+^ how does this sound ? 
+^ if i drop them off at the alleyway where we drive in can they get through the gate ? 
+^ if not where ? 
+^ do you want me to bring the where to eat guide or shall we just find somewhere ? 
+^ talk to you later , i hope . 
+^ if you will not be on at that time send an email but i think it would be easier if we communicated directly ! 
+^ mum 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ i will try and catch you on &name about 10.20ish after homegroup . 
+^ &name this is not too late . 
+^ if you have something unmissable then say so and we will cancel . 
+^ i would n't like to think you felt you were missing out on an opportunity for a visit that could probably be arranged another time . 
+^ however if you can reasonably be free we will come up to arrive between &num and 12noon . 
+^ what i will do is drop granny and grandad off at the college and then go and park at &name and &name while you show them your room or something . 
+^ we will just stay for lunch and a look at the college and then go at a reasonable hour and in any case by &num . 
+^ how does this sound ? 
+^ if i drop them off at the alleyway where we drive in can they get through the gate ? 
+^ if not where ? 
+^ do you want me to bring the where to eat guide or shall we just find somewhere ? 
+^ talk to you later , i hope . 
+^ if you will not be on at that time send an email but i think it would be easier if we communicated directly ! 
+^ mum 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+</message_body>
+</message>

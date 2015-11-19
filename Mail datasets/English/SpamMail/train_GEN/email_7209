@@ -1,0 +1,34 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ time going on ... 
+</text_normal>
+</subject>
+<date> mon, 26 may 2003 11:52:08 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name the exams are going ok . 
+^ i gather from &name that things are generally alright with you . 
+^ here we had a nice weekend with &name &amp; &name , and did that &num hour walk in just over &num ! 
+^ mind you we were all pretty shattered afterwards . 
+^ &name and &name had to go into hospital as he was not putting on weight ; they are home now and he is putting on weight but they are still not sure whether there is something wrong with his liver . 
+^ &name was working in your bedroom this morning and got a nasty shock as a &name nest fell down from under your desk ! 
+^ fortunately it was uninhabited ! 
+^ we will check the room before you get back . ... 
+^ have you got tickets for the concert yet ? 
+^ we must book up with &name and kit for the night if possible ! 
+^ do let us know where we are to go etc. 
+^ see you soon ( ish ) ! 
+^ &name just phoned and asked if you wanted to upgrade to a &num year onsite warranty for &pound; &num plus vat ( a big reduction apparently ) . 
+^ unless you get back to us soon ( an email saying " yes to warranty " would be enough ) we will assume , as we think , that you do not want this . 
+^ love , mum 
+</text_normal>
+</part>
+</message_body>
+</message>

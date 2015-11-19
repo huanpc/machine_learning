@@ -1,0 +1,47 @@
+<message>
+<date> tue, 29 apr 2003 14:36:11 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : question 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hey &name , 
+^ i finally got around to registering for the housing lottery &smiley 
+^ &name & &name definitely looks like the best , but why did you rank &name above tang ? 
+^ is one closer to the &name offices than the other ? 
+^ &name all is well , &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ i 'm happy to hear that you 're coming ! 
+^ you should choose the dorms as follows : 
+^ &num - &name & &name 
+^ &num - &name ( you need your own furniture ) 
+^ &num - &name 
+^ &num - &name . 
+^ there 's some more info at the following location : &website 
+^ &name 
+^ &name &name wrote : 
+<text_embedded> 
+
+^ hey &name , 
+^ i 'm coming to &org in the fall ! 
+^ i ca n't wait to start &smiley 
+^ &name question for you - you were telling me before when i was visiting &org where the good places to live was for computer science graduate students ( &name , &name , &name & &name , or &name &name ) ... but i ca n't remember what your advice was . 
+^ was it &name that you were saying was best ? 
+^ thanks , &name 
+</text_embedded>
+
+^ &name &name &name &name laboratory for computer science - &org &website / 
+</text_embedded>
+</message_body>
+</message>

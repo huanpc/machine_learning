@@ -1,0 +1,34 @@
+<message>
+<from> com </from>
+<date> mon, 3 sep 2001 02:54:31 edt </date>
+<subject>
+<text_normal> 
+
+^ re : important 
+</text_normal>
+</subject>
+<to> com co.uk net com com com ac.uk ac.uk com com com </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ after having said i could n't go , it now looks like i might be able to as long as i can get time off work , so i 'm going in to grovel today . 
+^ if i can make it down , i 'll be arriving at the train station at &name ... would anyone be able to pick me up ? 
+^ and i would need taking back to the station for 7pm ish on sunday ( do those times sound like what everyone else had in mind ? ? ) . 
+^ let me know what you guys have planned , &name as &name says , it kind of depends on who else can make it . 
+^ see you all then ( i hope ! ! ) , lots of love , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ after having said i could n't go , it now looks like i might be able to as long as i can get time off work , so i 'm going in to grovel today . 
+^ if i can make it down , i 'll be arriving at the train station at &name ... would anyone be able to pick me up ? 
+^ and i would need taking back to the station for 7pm ish on sunday ( do those times sound like what everyone else had in mind ? ? ) . 
+^ let me know what you guys have planned , &name as &name says , it kind of depends on who else can make it . 
+^ see you all then ( i hope ! ! ) , lots of love , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

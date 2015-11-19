@@ -1,0 +1,66 @@
+<message>
+<date> wed, 24 jul 2002 17:15:27 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : integration 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=x-unknown </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , can you give me permissions to &name ? 
+^ thanks , &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &num 
+^ &name wed , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ no , but i just did and now i get the error 
+^ g++ &char &char &name &char . 
+^ - &char / pro / &name / linux / &name / include 
+^ - &char / pro / &name / linux / xforms / xforms / forms &char / pro / &name / linux / catalogmgr 
+^ - &char / pro / &name / linux / &name / &name 
+^ - &char / pro / &name / linux / &name / lib &char / usr / lib 
+^ - &char / pro / &name / linux / catalogmgr &name : in method void catalog : : &name ( ) " : &name : &num : parse error before ( " make : * * * [ &name ] error &num 
+^ what is your number again ? 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ &name .. did you do a cvs update ? 
+^ &name wed , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ &name ... but now it wo n't compile - there is an error in &name : 
+^ g++ &char &char &name &char . 
+^ &char / pro / &name / linux / &name / include 
+^ - &char / pro / &name / linux / xforms / xforms / forms &char / pro / &name / linux / catalog mgr 
+^ - &char / pro / &name / linux / &name / &name 
+^ - &char / pro / &name / linux / &name / lib &char / usr / lib 
+^ - &char / pro / &name / linux / catalogmgr &name : in method void catalog : : &name ( ) " : &name : &num : no matching function for call to &name : : &name &name ( int ) " &name : &num : candidates are : int catalog : : &name ( basic_string ( &name , string_char_traits ( &name ) , __default_alloc_template ( true , &num ) make : * * * [ &name ] error &num 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+^ trieved . 
+^ trieved . 
+^ trieved . 
+^ trieved . 
+^ trieved . 
+^ ifier : ifier : &num , &num , &name : 4 } ] &num ) &name : &name , &name : &name , ource node point : &num ) instead ? 
+^ &num / &num / &num &num : &num : &num &website , &website ng . 
+^ i 'll log into ng the code from and &name &name at &name : &num &name : &num &num , &name &name , &name , &name , ep &num &name &num &num , res &num &num , &name } ) at fff7e&smiley at ) at &name : &num 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

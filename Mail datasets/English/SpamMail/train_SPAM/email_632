@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ could you use an extra $ &num $ &num a week ? 
+^ iq 
+</text_normal>
+</subject>
+<date> sun, 23 mar 2003 15:39:46 -0500 </date>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

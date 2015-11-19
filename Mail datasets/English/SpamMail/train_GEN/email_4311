@@ -1,0 +1,48 @@
+<message>
+<date> tue, 10 dec 2002 10:42:41 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : squash 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , shall we play on &name ? 
+^ around &num : &num ? 
+^ &char 
+^ on mon , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name im around til saturday . 
+^ let me know if &char want a game . 
+^ have a good night tonight 
+^ cheers 
+^ &name 
+^ &name , i 've got the " not-to-be-missed " &name christmas meal tonight , so am tied up . 
+^ are you around for the rest of the week ? 
+^ if so maybe we could play wed / thurs / &name ? 
+^ cheers , 
+^ &char 
+^ on mon , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ &name , 
+^ i 'm around tongiht if you fancy a game . 
+^ cheers 
+^ &name 
+^ &name , 
+^ are you around this evening ? 
+^ do you want to play squash ? 
+^ if not then some other time ! 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

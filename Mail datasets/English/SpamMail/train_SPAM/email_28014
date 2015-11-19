@@ -1,0 +1,23 @@
+<message>
+<from> com com </from>
+<subject>
+<text_normal> 
+
+^ &name activated &name 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 22:11:59 -0700 </date>
+<content-type> text/html; </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name activated neopets are sweeping the world . 
+^ get yours in time for &name &name ! ! 
+^ for a retailer near you , click on the appropriate country below : 
+^ note ; not available at all store locations 
+^ &name , &name , &name , &name 
+^ &website mailings , please send an e-mail to &email with 'remove ' in the subject line . 
+</text_normal>
+</message_body>
+</message>

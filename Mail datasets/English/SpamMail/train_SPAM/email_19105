@@ -1,0 +1,31 @@
+<message>
+<date> fri, 4 apr 2003 05:07:06 -0500 (est) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name subscription up to &num off 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ email_040403 
+^ newsweek magazine 
+^ newsstand . . . . ... $ &num our &name . . . . . . ... $ &num 
+^ time magazine 
+^ newsstand . . . . ... $ &num our &name . . . . . ... $ &num 
+^ the week magazine 
+^ newsstand . . . . ... $ &num our &name . . . . . . ... $ &num 
+^ tv guide 
+^ newsstand . . . . ... $ &num our &name . . . . . ... $ &num 
+^ national enquirer 
+^ newsstand . . . . ... $ &num our &name . . . . . ... $ &num 
+^ &name magazine 
+^ newsstand . . . . ... $ &num our &name . . . . . ... $ &num 
+^ to unsubscribe from this mailing list : click 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * free &name &name &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> sun, 06 apr 2003 09:02:25 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

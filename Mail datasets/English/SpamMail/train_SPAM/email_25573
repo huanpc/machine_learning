@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name & event reminder 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 02:47:34 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

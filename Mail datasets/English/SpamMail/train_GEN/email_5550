@@ -1,0 +1,30 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ the &name &name &name 
+</text_normal>
+</subject>
+<date> fri, 1 nov 2002 15:37:07 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name 
+^ due to the state of the &name after last guest night please be aware of the following : 
+^ - the powers that be in the college were extremely unimpressed with the mess in the &name on wednesday morning . 
+^ this will not help our case for the redecoration of the &name . 
+^ - the bedders do not clear up after &name &name . 
+^ this means that it comes down to the people on the committee . 
+^ we spend a considerable amount of time organising things for the &name , and do not appreciate having to clear up after you on top of what we already do . 
+^ please try and keep the mess to a minimum . 
+^ thanks &name 
+^ &name &name &name president &name &name college &name &name &name 
+^ t: &num &num 
+^ m: &num &num 
+^ &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

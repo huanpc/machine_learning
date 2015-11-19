@@ -1,0 +1,26 @@
+<message>
+<date> wed, 12 feb 2003 14:25:19 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ speech processing &num lectures 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ the speech processing &num lecture notes are available at 
+^ &website 
+^ ( note access from the &name machines . 
+^ if you have an &name address that you need access from let me know . ) 
+^ i will try to keep these upto date , so they reflect any problems that people mention . 
+^ if you know of any errors in the notes let me know . 
+^ &name 
+^ &name &name , &name &name group &name : ( &num ) &num &num &name university engineering dept. &name : ( &num ) &num &num &name street , &name , &name &name . 
+^ email : &email 
+</text_normal>
+</message_body>
+</message>

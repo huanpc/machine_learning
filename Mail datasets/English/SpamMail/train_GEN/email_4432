@@ -1,0 +1,23 @@
+<message>
+<date> wed, 5 feb 2003 15:51:41 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : lang-2 practical 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ sorry to bother you again ! 
+^ i notice that both my program and rmrsdump get stuck when trying to parse q2.rmrs ( & q1.rmrs ) at exactly the same point - at the end of sentence &num . 
+^ has anyone else had this problem ? 
+^ regards , 
+^ &name
+</text_normal>
+</message_body>
+</message>

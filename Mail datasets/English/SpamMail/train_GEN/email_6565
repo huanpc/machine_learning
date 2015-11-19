@@ -1,0 +1,36 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ meminstall 
+</text_normal>
+</subject>
+<date> wed, 19 mar 2003 16:18:27 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , i have found an application file on my hard drive named meminstall . 
+^ the properties give me the description : 'sfx &name &name ( &name archive ) " and also gives your web address in the version ; &name . 
+^ why have i got this on my pc and what is it for ? 
+^ i did not load this from anywhere , and it the file was created on &num / &num / &num , so it was not on the pc when i bought it . 
+^ can you explain please ? 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , i have found an application file on my hard drive named meminstall . 
+^ the properties give me the description : 'sfx &name &name ( &name archive ) " and also gives your web address in the version ; &name . 
+^ why have i got this on my pc and what is it for ? 
+^ i did not load this from anywhere , and it the file was created on &num / &num / &num , so it was not on the pc when i bought it . 
+^ can you explain please ? 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

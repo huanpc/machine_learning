@@ -1,0 +1,46 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 29 apr 2003 15:19:23 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_embedded> 
+
+^ opus 
+</text_embedded>
+<text_normal> 
+
+^ opus:~ : ls &char /tmp 
+^ - rw------- &num &num &name &num &num : &num /tmp opus:~ : 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ looks like there may be a problem with /tmp / permissions , or there may be another instance running ... 
+^ i understand that , but i have no rights to the /tmp / directory , do i ? 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ you have write access 
+</text_normal>
+<text_embedded> 
+
+^ as for another instance running , nothing appears in " top " . 
+</text_embedded>
+<text_normal> 
+
+^ " ps &name " is safer . 
+^ so : it looks like &name ran it at &num : &num on &name &num and it did n't tidy up . 
+^ lock file removed . 
+</text_normal>
+</message_body>
+</message>

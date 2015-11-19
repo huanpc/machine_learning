@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ you guys have had long enough to ship my order ( order # &name . 
+^ i 've decided just to cancel . 
+</text_normal>
+</message_body>
+</message>

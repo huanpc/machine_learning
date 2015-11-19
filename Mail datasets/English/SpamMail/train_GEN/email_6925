@@ -1,0 +1,42 @@
+<message>
+<date> sun, 29 dec 2002 15:15:42 +0000 </date>
+<to> com </to>
+<from> co.uk </from>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ in message ( &email ) , &name &name ( &email ) writes 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ &name &name &name &name - very nice tool . 
+^ as a suggestion , how about an option to print the file ? 
+^ this is a common requirement for &name files . 
+</text_embedded>
+
+^ i 'm generally of the opinion that printing readme files is something that &name authors like to think their users do , but is in reality something rarely done , since the readme information is skimmed over and for anything relevant and then closed , never to be looked at again ( unless a problem arises ) . 
+^ this is based on my experiences of watching countless others install software , my own experience and talking to others . 
+^ it would therefore seem a fairly pointless feature which would only add bloat . 
+^ maybe you can convince me otherwise , but at the moment i remain to be convinced that printing &name files is common practice . 
+</text_embedded>
+<text_normal> 
+
+^ &smiley 
+^ i agree with your sentiments about people printing them ! ! 
+^ i was just thinking that a print facility would widen the scope of the utility from read me files , to a way of supplying formatted text for just about anything . 
+^ &name 
+^ ( &char &char ) 
+^ - &name ( _)-ooo----------------------- | this e-mail was a product of the ... | | | | &name &name &name | | | | and was brought to you by &name and &name &name | | &email | | &website / | | | | if you have a good , clean and non-offensive joke , | | why not pass it on to the &name where it will be | | distributed to the poor and needy . 
+^ &name
+</text_normal>
+</message_body>
+</message>

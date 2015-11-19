@@ -1,0 +1,36 @@
+<message>
+<content-type> multipart/alternative </content-type>
+<date>         sun, 16 mar 2003 02:33:56 -0000 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ seeking &name / &name / &name / mapx / sylvanmaps / sylvanmaps-asp development , support , &name roles 
+</text_normal>
+</subject>
+<to> ac.uk </to>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear all , 
+^ i am interested in finding development and support / training roles preferablly in the &name and &name county areas for &name related work . 
+^ good skills in &name , visual basic integrated development , &name , &name &name , and &name &name integration . 
+^ also sylvanmaps-asp / &name web based solutions for internet and intranet applications development 
+^ all those interested please contact me at &email for my cv and more details on my experience . 
+^ thanks &name &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear all , 
+^ i am interested in finding development and support / training roles preferablly in the &name and &name county areas for &name related work . 
+^ good skills in &name , visual basic integrated development , &name , &name &name , and &name &name integration . 
+^ also sylvanmaps-asp / &name web based solutions for internet and intranet applications development 
+^ all those interested please contact me at &email for my cv and more details on my experience . 
+^ thanks &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

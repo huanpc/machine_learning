@@ -1,0 +1,29 @@
+<message>
+<from> net </from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ your action needed to complete registration [ &num ] 
+</text_normal>
+</subject>
+<date> tue,  1 apr 2003 20:38:28 -0600 (cst) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ &website ! 
+^ &website , you can do either of the following : 
+^ &num reply to this message by pressing the reply button of your email program . 
+^ the link below should be included in the reply . 
+^ or 
+^ &num click on the link below : 
+^ &website 
+^ &website has to offer . 
+^ your long-lost friend might just be an email away ! 
+^ sincerely , &website &name 
+^ &website . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ hello 
+</text_normal>
+</subject>
+<date> mon, 07 apr 2003 01:42:48 -0600 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

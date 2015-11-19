@@ -1,0 +1,14 @@
+<message>
+<from> org </from>
+<subject>
+<text_normal> 
+
+^ &name &name declined # &num 
+</text_normal>
+</subject>
+<date> sun, 06 apr 2003 18:59:40 -1700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

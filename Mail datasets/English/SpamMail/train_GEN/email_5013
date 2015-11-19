@@ -1,0 +1,26 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : versioning again 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 10 jun 2003 15:54:07 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_embedded> 
+
+^ sorry , i 'm back at home now . 
+^ we can meet on thursday , probably sometime in the afternoon - i 'll confirm once i 've heard from all my students , 
+</text_embedded>
+<text_normal> 
+
+^ sure . 
+^ just let me know when it 's more convenient for you . 
+^ cheers , &name 
+^ &name : tomorrow i shall be in &name applying for the japanese visa ( fingers crossed ) . 
+</text_normal>
+</message_body>
+</message>

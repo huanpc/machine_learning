@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ urgent notice - please respond immediately 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> tue, 1 apr 2003 14:45:56 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

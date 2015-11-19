@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ opt-in email &name &name 
+</text_normal>
+</subject>
+<date> fri, 14 mar 2003 12:39:18 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

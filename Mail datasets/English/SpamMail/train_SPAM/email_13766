@@ -1,0 +1,13 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ it ai n't just the cruise : big bands and &name &name &name master &name at sea . 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

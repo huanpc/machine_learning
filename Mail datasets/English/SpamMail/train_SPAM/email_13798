@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name movies that you rent spto &char &char &char 
+</text_normal>
+</subject>
+<date> wed, 02 apr 03 09:12:59 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,27 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ looking for &name it consultants / employees 
+</text_normal>
+</subject>
+<date> mon, 24 mar 2003 09:59:19 -0600 </date>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name , 
+^ i 'm a technical recruiter in &name , &name . 
+^ i understand you might 've had past dealings with the &name corporation . 
+^ i know there have been lots of layoffs and cutbacks in the travel industry , and i 'm hoping you might be able to point me in the right direction . 
+^ i have a client in &name who is looking for several programmers : to be exact , senior-level &name &name &name &name developers with heavy backend experience in a high-transaction environment . 
+^ i know &name uses ( or used ) &name &name . 
+^ on a whim , i thought i 'd check with you to see if you know anyone who might work ( or have worked ) in it at &name 
+^ in addition to this long-term contract opportunity in &name , &name . , i also have a permanent senior architect position requiring the same skills . 
+^ thanks in advance for your help . 
+^ best regards , &name &name 
+</text_normal>
+</message_body>
+</message>

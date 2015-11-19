@@ -1,0 +1,21 @@
+<message>
+<date> thu, 8 may 2003 01:00:34 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name question 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi dr. &name , 
+^ i was wondering if you had the chance to update the lingo folder in /usr / groups / nltools / yet with the newest version or if i should be using the version off the website . 
+^ it seems that this folder was last updated on march 6th ... is this the version i should be using ? 
+^ thanks , &name 
+</text_normal>
+</message_body>
+</message>

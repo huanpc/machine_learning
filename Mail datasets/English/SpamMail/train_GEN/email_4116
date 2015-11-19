@@ -1,0 +1,36 @@
+<message>
+<date> mon, 14 feb 2000 16:30:31 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : very important ! ! ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ let 's go to &name . 
+^ i 'll send in my form . 
+^ you send in yours . 
+^ everything will be fine ... 
+^ ... everything will ... be ... fine ... 
+^ okay , done . 
+^ &name , 
+^ &name 
+^ on mon , &num &name &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , &name &name ! 
+^ are you going to go to sizewall ? 
+^ huh , i did n't hear that ! 
+^ do you think it 's a good use of money , yeah , maybe , dunno , should we go , you decide . 
+^ now ! 
+^ &name &name &name 
+</text_embedded>
+</message_body>
+</message>

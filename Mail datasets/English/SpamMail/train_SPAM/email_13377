@@ -1,0 +1,19 @@
+<message>
+<date> mon, 31 mar 2003 01:50:49 +0000 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ get freedom from &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ 
+^ - - &name : send email to &email and put ' unsubscribe lfs-dev ' in the subject header of the message 
+</text_normal>
+</message_body>
+</message>

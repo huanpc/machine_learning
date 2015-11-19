@@ -1,0 +1,33 @@
+<message>
+<from> me.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ fwd : grading suggestion 
+</text_normal>
+</subject>
+<date> wed, 8 jan 2003 18:27:30 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_embedded> 
+
+^ in message ( &email ) , &name &name ( &email ) writes 
+<text_embedded> 
+
+^ so i think go ahead as &name suggests , and not to consider it an 
+<text_embedded> 
+
+^ exception . 
+^ does anyone want a vote on this , or may we just do it ? 
+</text_embedded>
+
+</text_embedded>
+
+^ i am happy to go ahead , and in future use this case as a precedent . 
+^ &char small amendment to the web page may be in order . 
+^ &char 
+^ &name &name 
+</text_embedded>
+</message_body>
+</message>

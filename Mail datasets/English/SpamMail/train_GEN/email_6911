@@ -1,0 +1,16 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ sat wedding 
+</text_normal>
+</subject>
+<date> mon, 23 sep 2002 19:36:55 +0100 </date>
+<content-type> multipart/related; type="multipart/alternative" </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+</message_body>
+</message>

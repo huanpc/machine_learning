@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : protect your computer and your valuable information ! 
+^ &char 
+</text_normal>
+</subject>
+<date> thu, 06 feb 03 14:54:49 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

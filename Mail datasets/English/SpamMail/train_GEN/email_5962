@@ -1,0 +1,40 @@
+<message>
+<from> org.uk </from>
+<to>
+</to>
+<subject>
+<text_normal> 
+
+^ after the evening service . 
+^ 2nd feb party 
+</text_normal>
+</subject>
+<date> sun, 2 feb 2003 15:32:47 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hello &num and all . 
+^ just a quick note to or e-mail even to say that , after the evening service , this evening , we shall be having a little get together in &name &name &name &name , tea , coffee and snack eats will be there too . 
+^ everyone is welcome , even if you have not been to the evening service . 
+^ so turn up about &num : 00pm at &name old court , it is &name &name room , ( opposite the porters lodge . ) even if it is just to say hi , it will be a relaxed sunday evening thing . 
+^ " go , eat your food with gladness , and drink your wine with a joyful heart , for it is now that &name favours what you do . " &name &num : &num 
+^ &name bless 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hello &num and all . 
+^ just a quick note to or e-mail even to say that , after the evening service , this evening , we shall be having a little get together in &name &name &name &name , tea , coffee and snack eats will be there too . 
+^ everyone is welcome , even if you have not been to the evening service . 
+^ so turn up about &num : 00pm at &name old court , it is &name &name room , ( opposite the porters lodge . ) even if it is just to say hi , it will be a relaxed sunday evening thing . 
+^ " go , eat your food with gladness , and drink your wine with a joyful heart , for it is now that &name favours what you do . " &name &num : &num 
+^ &name bless 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

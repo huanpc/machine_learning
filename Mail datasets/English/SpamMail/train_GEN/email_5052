@@ -1,0 +1,46 @@
+<message>
+<date> thu, 06 mar 2003 16:28:51 +0900 </date>
+<from> go.jp </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ invited paper for &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-2022-jp </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ thank you for your e-mail . 
+^ i inform you about the format of your invited paper . 
+^ we are extremely happy if you send us your paper ! 
+^ best regards , &name &name instructions for authors for camera-ready of gl-2003 ( this format is same as for &name . ) 
+^ ( &char ) overhead projector and &name projector are available at the conference . 
+^ if you need other requirement , please let us know . 
+^ ( &char ) papers should be prepared according to the following guidelines : 
+^ &num the maximum length of a paper is &num pages for a invited speaker . 
+^ &num use &name size paper . 
+^ please send us &num hardcopies of your paper , printed single-sided , or send a ( postscript , &name , or pdf ) file via e-mail . 
+^ &num center the title of the manuscript along with authors " names and their complete addresses at the top of the first page . 
+^ &num generally print all text , including titles and figures , in &website by &website ) space between the &num columns . 
+^ exceptions to the two-column format include the title and author information at the top of the first page and any full-width figures or tables . 
+^ &num text should be centered on each page . 
+^ on &name paper , this roughly &website ) margins on left and right sides of each &website ) margin on the top of each page . 
+^ &num type single spaced . 
+^ &num print on only &num side of the page . 
+^ &num indent when starting a new paragraph . 
+^ &num use standard fonts such as &name roman or &name modern roman , &num to &num points for text , &num to &num points for headings and title . 
+^ &num do not print page numbers . 
+^ instead , please number the pages clearly on the reverse side , in pencil . 
+^ ( &char ) your final camera-ready must reach to &name &name by an e-mail or a postal mail no later than april 4th , &num . 
+^ the mailing address : 
+^ for e-mail : &email 
+^ for postal mail : &name &name &name research laboratory &name &name &name research center &num &name , &name , &name , &name , &num , &name tel:+81-774-95-2430 fax:+81-774-95-2429 we are looking forward to seeing you in &name in april ! 
+^ sincerely , 
+^ &name &name and &name &name 
+^ &email university of &name | &name : &website &name / &name | &name : &num / &num / &num &num &num &num , bvd du pont-d' &name | &name : &num / &num / &num &num &num ch-1211 &name &num ( &name ) | &name &name &name research laboratory &name &name &name research center &num &name , &name , &name , &name , &num , &name tel:+81-774-95-2430 fax:+81-774-95-2429 
+</text_normal>
+</message_body>
+</message>

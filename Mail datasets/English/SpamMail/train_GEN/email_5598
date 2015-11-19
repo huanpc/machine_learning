@@ -1,0 +1,37 @@
+<message>
+<date> mon, 18 nov 2002 09:33:25 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : dinner and a movie ( international film &name ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name monsoon wedding is better 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi everyone , 
+^ this wednesday ( &name &num ) , a mini-theme night has been planned for the international film series . 
+^ some of us will be going out for dinner before the movie starts . 
+^ details are as follows : 
+^ &name 
+^ - indian food , please meet outside the p' lodge at 7pm . 
+^ &name 
+^ - there is some debate over whether to show 'monsoon wedding " or " bend it like beckham . " what do people think ? 
+^ please e-mail us back with preferences , otherwise we will just pick the one we want to watch ! 
+^ we hope you can make it ! 
+^ &name &name &name &name 
+</text_embedded>
+<text_normal> 
+
+^ &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

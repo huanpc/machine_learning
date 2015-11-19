@@ -1,0 +1,33 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ re : room allocation update 
+</text_normal>
+</subject>
+<date> thu, 26 sep 2002 10:25:28 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ it is proposed to start the room allocation moves on monday &num september . 
+^ the room affected will be : 
+^ gs20 , &name , &name , &name , &name , &name , &name , &name , and &name . 
+^ rooms where furniture will be removed from are : 
+^ fw01 , &name , &name , &name , &name and &name . 
+^ i am sorry for any inconvenience this may cause . 
+^ &name &name or i can be contacted regarding any problems related to the move . 
+^ thank you &name &name 
+^ &char slightly revised version is now on the noticeboard . 
+^ building services will be touring the building tomorrow ( tuesday ) to assess the furniture situation ; if your office is harbouring a spare desk then be prepared for it to be exchanged for a table ! 
+^ those people moving office are asked to arrange by email to sys-admin the removals of computers etc. and the transfer of telephone numbers , and by email to archie.brown for assistance in the removal of personal belongings such as books and papers . 
+^ if you are moving office and wo n't be here at the end of this week then please let me know so that we can manage the move in your absence . 
+^ &name starts on tuesday &num october so i hope everything can be sorted out by then . 
+^ please contact me if there are any general problems . 
+^ thanks 
+^ &name 
+</text_normal>
+</message_body>
+</message>

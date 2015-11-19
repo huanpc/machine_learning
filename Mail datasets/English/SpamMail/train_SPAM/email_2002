@@ -1,0 +1,35 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> sun, 23 mar 2003 14:02:45 -0700 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you are receiving this email from &name because one of our affiliates has notified us that you want to receive third-party offers . 
+^ if that is not the case , please follow the unsubscribe instructions at the bottom of this email . 
+^ dear &name , 
+^ car troubles always seem to happen at the worst possible time . 
+^ protect yourself and your family 
+^ with a quality extended warranty for your car , truck , or &name , so that large expenses ca n't hit you all at once . 
+^ cover any vehicle with less than &num , &num miles . 
+^ buy direct and save money ! 
+^ click here for more information ! 
+^ you can extend your existing warranty , or get a new one , even if your original warranty has already expired ! 
+^ how much would it cost to protect your investment for the future ? 
+^ get a free extended &name &name . 
+^ click here to get your free quote ! 
+^ there is no obligation to buy anything ! 
+^ this is a free service and takes only moments to fill out the &name request form ! 
+^ take a few minutes to protect yourself from large repair bills ! 
+^ visit our website : click here 
+^ please click here to opt out of future e-mailings . 
+</text_normal>
+</message_body>
+</message>

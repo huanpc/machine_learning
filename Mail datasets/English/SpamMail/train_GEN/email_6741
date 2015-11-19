@@ -1,0 +1,51 @@
+<message>
+<from> net </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ pray for &name &name 
+</text_normal>
+</subject>
+<date> thu, 6 feb 2003 10:04:22 +0700 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name
+^ burmese people in &name 
+^ in the middle of the &name &name is the island of &name . 
+^ for decades , it has been a base for the us navy operating in the &name &name . 
+^ it has also attracted thousands of burmese people , as it is a gateway to residence in the &name . 
+^ over the last few years , there has been quite a bit of outreach among them by a burmese pastor , and many people appear to have responded to &name , and have proceeded for baptism . 
+^ however , there have been accusations that their motives may not have been of a spiritual nature , but out of opportunism , as it seems to be easier for christians than for &name to obtain quicker permission to get to the &name . 
+^ - pray for all the burmese people who hear the gospel , that there would be genuine understanding , repentance and turning to &name . 
+^ - pray for discernment for the pastor , to know which decisions are genuine and which are fake 
+^ - praise for those who have made a real commitment , and pray for follow-up . 
+^ these people are on the move a lot , and it is easy for them to fall away from their newly-found faith if they do n't get adequate teaching 
+^ pray for those burmese christians who make it to the united states . 
+^ many have family members there already , who are likely to still be &name . 
+^ their differences in religion can create many problems in their relationships . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name
+^ burmese people in &name 
+^ in the middle of the &name &name is the island of &name . 
+^ for decades , it has been a base for the us navy operating in the &name &name . 
+^ it has also attracted thousands of burmese people , as it is a gateway to residence in the &name . 
+^ over the last few years , there has been quite a bit of outreach among them by a burmese pastor , and many people appear to have responded to &name , and have proceeded for baptism . 
+^ however , there have been accusations that their motives may not have been of a spiritual nature , but out of opportunism , as it seems to be easier for christians than for &name to obtain quicker permission to get to the &name . 
+^ - pray for all the burmese people who hear the gospel , that there would be genuine understanding , repentance and turning to &name . 
+^ - pray for discernment for the pastor , to know which decisions are genuine and which are fake 
+^ - praise for those who have made a real commitment , and pray for follow-up . 
+^ these people are on the move a lot , and it is easy for them to fall away from their newly-found faith if they don &name get adequate teaching pray for those burmese christians who make it to the united states . 
+^ many have family members there already , who are likely to still be &name . 
+^ their differences in religion can create many problems in their relationships . 
+</text_normal>
+</part>
+</message_body>
+</message>

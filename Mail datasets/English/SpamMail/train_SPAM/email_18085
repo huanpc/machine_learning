@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 1st month free ! 
+^ &name &name &name formula ! 
+</text_normal>
+</subject>
+<date> fri, 04 apr 03 12:53:26 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,34 @@
+<message>
+<to> ac.uk ac.uk com com ac.uk ac.uk ac.uk com ac.uk com </to>
+<subject>
+<text_normal> 
+
+^ nl&ip seminar tuesday 25th &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 24 feb 2003 10:01:12 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ natural language and information processing group seminar &website / 
+^ 12pm , tuesday 25th &name , fw11 
+^ &org , &name &name building , &name &name avenue &website 
+^ &name : &name - a &name &name approach to &name &name . 
+^ speaker : &name &name - &name university 
+^ &name : 
+^ &name is a type of figurative language where &num entity is used to refer to another related entity . 
+^ a typical example is ( &num ) does he drive a &name ? 
+^ in ( &num ) , the name of a company " &name " is used to refer to a car produced by that company . 
+^ most traditional approaches to metonymy understanding rely on large amounts of world knowledge and are not easily scalable and / or portable . 
+^ in the mascara project we explored supervised statistical classification methods as an alternative approach . 
+^ we will present the following results : 
+^ &num the regularity and productivity of metonymic readings make it possible to reduce metonymy understanding to a classification task comparable to classic word sense disambiguation for the large majority of metonymic readings . 
+^ &num grammatical argument-head relations are an appropriate feature for such a classification task and , in particular , more predictive for metonymy recognition than e.g. , collocations . 
+^ &num data sparseness in argument-head relations can be at least partially overcome by the integration of thesaurus information without increasing the size of the training data . 
+^ &num we also explore the effect that parser accuracy has on the recognition algorithm and compare the difficulty of metonymy recognition to classic word sense disambiguation . 
+^ ( all welcome - for instructions on how to get to the &org , please see : &website ) 
+</text_normal>
+</message_body>
+</message>

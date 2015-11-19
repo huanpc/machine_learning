@@ -1,0 +1,47 @@
+<message>
+<from> net </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ &name &name - financial crisis 
+</text_normal>
+</subject>
+<date> fri, 16 may 2003 10:08:28 +0700 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name mid - may &num the financial crisis 
+^ at the end of &name , the country of &name was caught up in a financial crisis . 
+^ it is unclear what exactly triggered it off , but rumours of bank closures spread quickly , and many people rushed to the banks to withdraw their savings . 
+^ the banks found themselves running out of cash , and the government put a limit to the amount each individual or commercial company was allowed to withdraw . 
+^ this in turn made it very difficult for companies to pay their employees . 
+^ in addition , all credit cards and cheque transactions have been suspended , with only cash transactions being permitted . 
+^ as the crisis continues with no end in sight , banks are now beginning to ask debtors to return the loans . 
+^ many commercial companies , which have relied on such loans , now find themselves in an even more difficult situation . 
+^ a. . 
+^ pray for the government trying to solve the crisis b. . 
+^ pray that it would be solved in a way which helps all the people of the country 
+^ c. . 
+^ pray for the big companies , that they would be aware of their responsibilities towards their employees d. . 
+^ pray that foreign investors would not be shunned away because of the situation 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name mid - may &num the financial crisis 
+^ at the end of &name , the country of &name was caught up in a financial crisis . 
+^ it is unclear what exactly triggered it off , but rumours of bank closures spread quickly , and many people rushed to the banks to withdraw their savings . 
+^ the banks found themselves running out of cash , and the government put a limit to the amount each individual or commercial company was allowed to withdraw . 
+^ this in turn made it very difficult for companies to pay their employees . 
+^ in addition , all credit cards and cheque transactions have been suspended , with only cash transactions being permitted . 
+^ as the crisis continues with no end in sight , banks are now beginning to ask debtors to return the loans . 
+^ many commercial companies , which have relied on such loans , now find themselves in an even more difficult situation . 
+^ pray for the government trying to solve the crisis pray that it would be solved in a way which helps all the people of the country pray for the big companies , that they would be aware of their responsibilities towards their employees pray that foreign investors would not be shunned away because of the situation 
+</text_normal>
+</part>
+</message_body>
+</message>

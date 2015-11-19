@@ -1,0 +1,73 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name league table 
+</text_normal>
+</subject>
+<date> thu, 6 feb 2003 23:45:31 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi everyone , 
+^ thanks for playing the cuba sharesim . 
+^ after a couple of weeks of play , here is how the portfolio league table currently looks : 
+^ position 
+^ portfolio name 
+^ net &name &pound; &num 
+^ % increase 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +3.28% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.94% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.87% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.38% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +1.13% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +0.95% 
+^ &num 
+^ &name &name 
+^ &num , &num 
+^ +0.79% 
+^ &num 
+^ &name
+^ &num , &num 
+^ +0.45% 
+^ &num 
+^ &name marsh 
+^ &num , &num 
+^ +0.45% 
+^ &num 
+^ &name vice-chair 
+^ &num , &num 
+^ +0.32% 
+^ good luck for the coming week ! 
+^ warmest regards , 
+^ &name &name 
+^ &name vice-chair 
+^ &name university business association committee ( &num ) e-mail : &email 
+^ &website / 
+^ &name &name ( &name &name ) &email &name &name ( &name vice-chair ) &email &name &name ( secretary ) &email &name &name ( treasurer ) &email 
+</text_normal>
+</part>
+</message_body>
+</message>

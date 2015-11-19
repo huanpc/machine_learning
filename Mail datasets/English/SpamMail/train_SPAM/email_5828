@@ -1,0 +1,47 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : &name &name &name and we 'll send you a 12-cup &name ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> thu, 27 mar 2003 19:47:55 -0600 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+^ &char special offer for the discriminating coffee drinker . 
+^ indulge your passion for coffee . 
+^ select &num &num / 2-lb . 
+^ packages of smooth , aromatic &name &name for only $ &num , including shipping and handling , and with your initial shipment we 'll deliver a 12-cup &name and a stylish stainless steel travel mug as a free gift . 
+^ our programmable 12-cup coffeemaker , available in &name , white or green , brews our extraordinary coffees to perfection . 
+^ while our stainless steel travel mug lets you take hot , delicious &name coffee with you wherever you go . 
+^ so , take advantage of this exclusive offer from &name for only $ &num and you 'll receive : 
+^ &num &num / 2-lb . 
+^ packages of &name &name , 
+^ a 12-cup &name &name free , 
+^ a stainless steel travel mug free , 
+^ a &name &name &name . 
+^ ( total retail value : $ &num ) 
+^ it 's time to capture your personal taste preferences in every cup with a tradition of excellence that 's been more than &num years in the making . 
+^ just click here to learn more about this special introductory offer from &name . 
+^ please note the following restrictions : 
+^ &name is only valid for new members of &name &name and is only open to residents of the &name , virgin islands and &name &name . 
+^ limit &num &name &name membership per household . 
+^ &name is valid while supplies last . 
+^ &name &name reserves the right to substitute a free gift of equal or greater value when limited supplies are exceeded . 
+^ orders are subject to approval . 
+^ this offer expires wednesday april 2nd at midnight . 
+^ you have received this offer as a result of your membership in an opt-in mailing list . 
+^ please contact the list directly if you do not wish to receive offers of this type . 
+^ please accept our apologies if you received this mail in error . 
+^ if you do not wish to receive future mail , &name here . 
+^ if you have a problem using the removal process , please call current mail at ( &num ) &num or submit your request to : 
+^ current mail , inc. &num &name &name . 
+^ highway &num &name &num &name , &name &num &name 
+</text_normal>
+</message_body>
+</message>

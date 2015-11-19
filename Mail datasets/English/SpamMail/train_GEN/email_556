@@ -1,0 +1,56 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<date> mon, 24 sep 2001 20:17:38 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ little man , i had wondered at your silence but i thought you were too busy looking for truffles . 
+^ kidding . 
+^ i have been &char &char &char busy with church stuff , like locking up after annoying late people . 
+^ are you going to watch the sketch show tonight on itv ? 
+^ it is very funny , i think you will really like it . 
+^ my sisiter has departed to &name once more and i am berfeft of youthful company . 
+^ has &name deicded what he 's going to do ? 
+^ will you come round for a meal and fix our tv ? 
+^ i am looking forward to seing you lots , you must come to my house soon , but only if you want to of course . 
+^ i have nothing of interest to tell you . 
+^ my best to the fragrant &name , &name &name x 
+</text_normal>
+<text_embedded> 
+
+^ from : &name ( &email ) to : &email subject : &name &name &name : mon , &num &name &num &num : &num : &num &num 
+^ dear &name , 
+^ hello . 
+^ you may have wondered why i have been so silent for the past week , then again you may not . 
+^ well , the reason is because dear old &name was very ill . 
+^ she contracted a nasty computer virus last wednesday . 
+^ this malicious program did not allow her to open any applications , like word , &name explorer , etc. anyway , after downloading a little program from our anti-virus company 's web-site and injecting &name with it she is now back to her old cheerful self . 
+^ her first encounter with a computer virus - quite interesting . 
+^ i saw your bridesmaid-to-be yesterday when he arrived in &name &name . 
+^ i must say i ca n't picture him as a bridesmaid . 
+^ it will be a very odd wedding . 
+^ i have only &num more days of work left ! ! ! 
+^ o joy ! 
+^ then i will be going back to lovely &name on monday . 
+^ so what have you done this week ? 
+^ are you all prepared for next term yet ? 
+^ ( i certainly am not anyway . ) are you still going to post those photos , or would you rather give them to me at &name ? 
+^ hope you are well and having a good time . 
+^ it would be nice to chat sometime soon if you like . 
+^ have a good evening , 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ get your free download of &name explorer at &website 
+</text_normal>
+</message_body>
+</message>

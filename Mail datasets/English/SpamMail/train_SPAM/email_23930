@@ -1,0 +1,14 @@
+<message>
+<from> com com </from>
+<subject>
+<text_normal> 
+
+^ &name &name : up to $ &num , &num &char &char &char &char reward 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> tue, 8 apr 2003 14:59:44 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,26 @@
+<message>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ broken code 
+</text_normal>
+</subject>
+<date> mon, 24 feb 2003 09:18:45 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ just a note 
+^ a collection of classes containing syntax errors was committed to the repository last night , causing automated builds to break . 
+^ please could all obviously broken code be commented out ( and marked with a bloody great big fluorescent comment ! ) before committing classes to the repository . 
+^ if in doubt , it is probably okay to commit code with logical errors ( as long as work is obviously in progress ) , but not okay to commit code with syntax errors . 
+^ the particular broken code is question has been commented out and recommitted to the repository . 
+^ please do an update before making further changes . 
+^ any further offences will be punished with the use of a big stick ! 
+^ all the best 
+^ &name
+</text_normal>
+</message_body>
+</message>

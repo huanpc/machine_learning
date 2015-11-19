@@ -1,0 +1,29 @@
+<message>
+<date> wed, 5 mar 2003 14:41:37 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hockey dinner-last chance 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i 'll be there &name . 
+^ &char 
+^ &name wed , &num mar &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name everyone the list is now down , but &name &name was kind enough to extend the deadline for final numbers , so if anyone missed the list reply to me asap to ensure you get your place ! 
+^ you have till midnight tonight . ... 
+^ also , those who havent let me know about whether they can play on friday yet , please get in touch . 
+^ its at &num at &name . 
+^ any girls up &num it , as i think we may be struggling for numbers as usual . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,11 @@
+<message>
+<subject>
+<text_normal> 
+
+^ sustain your &name &name 
+</text_normal>
+</subject>
+<from> net </from>
+<content-type> multipart/alternative; </content-type>
+<message_body> content-transfer-encoding: 7bit message-id:  x-originalarrivaltime: 07 apr 2003 04:53:48.0563 (utc) filetime=[ad447e30:01c2fcc1] date: 6 apr 2003 21:53:48 -0700 to: &email </message_body>
+</message>

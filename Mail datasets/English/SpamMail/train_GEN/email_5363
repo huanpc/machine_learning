@@ -1,0 +1,22 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ q&a session on &name -- tomorrow &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 10 mar 2003 11:49:50 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ i am offering a question-answer session on &name tomorrow tuesday &num ; you can bring your lunch . 
+^ all who are interested , come to the large room next to the cafe ( behind the doors ) . 
+^ please bring the handouts , and have your questions ready . 
+^ &name
+</text_normal>
+</message_body>
+</message>

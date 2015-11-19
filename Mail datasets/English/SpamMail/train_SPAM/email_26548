@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name : why the crackdown in &name ? 
+^ by &name &name 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 16:49:22 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

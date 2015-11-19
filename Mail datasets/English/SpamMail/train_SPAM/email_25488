@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ $ &num is waiting for you 
+</text_normal>
+</subject>
+<date> tue, 8 apr 2003 23:25:51 -0400  </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

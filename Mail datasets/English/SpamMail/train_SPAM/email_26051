@@ -1,0 +1,14 @@
+<message>
+<date> wed, 9 apr 2003 05:45:58 +0000 (gmt) </date>
+<subject>
+<text_normal> 
+
+^ express notification for &name 
+</text_normal>
+</subject>
+<from> net </from>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

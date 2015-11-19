@@ -1,0 +1,29 @@
+<message>
+<date> tue, 18 feb 2003 17:02:38 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : speech2 practical 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks &name . 
+^ &name 
+^ on &name , &num &name &num , &name &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ &name is the part of the log-likelihood calculation that does not depend on the observation . 
+^ when mixing-up &name checks the &name value ( which is dependent on the variance ) and checks whether this is significantly smaller than average . 
+^ if it is it generates a warning . 
+^ there is no need to worry about this . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

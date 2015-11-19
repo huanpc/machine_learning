@@ -1,0 +1,38 @@
+<message>
+<from> net </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ old songs 
+</text_normal>
+</subject>
+<date> wed, 10 jan 2001 18:39:40 -0800 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ thanks &name . 
+^ any story that starts in 18th century &name ca n't be all bad . 
+^ &name &name , for one . 
+^ as i said before , good for you . 
+^ guess i 'll go dust off my old vinyl records ( remember those ? ) and see if there is n't some inspiration waiting there ! 
+^ thanks for the tip &smiley 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ thanks &name . 
+^ any story that starts in 18th century &name ca n't be all bad . 
+^ &name &name , for one . 
+^ as i said before , good for you . 
+^ guess i 'll go dust off my old vinyl records ( remember those ? ) and see if there is n't some inspiration waiting there ! 
+^ thanks for the tip &smiley 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

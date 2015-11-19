@@ -1,0 +1,23 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name 20th birthday &name ! 
+</text_normal>
+</subject>
+<to> com </to>
+<from>
+</from>
+<content-type> text/plain; charset=utf-8 </content-type>
+<date> mon, 25 dec 2000 18:51:56 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ &name birthday &name ! 
+^ i hope you have a lovely birthday and enjoy eating expensive food . 
+</text_normal>
+<text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

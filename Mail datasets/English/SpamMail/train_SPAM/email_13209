@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name &name short online form watc 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<date> wed, 02 apr 2003 04:55:08 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name more . 
+^ &name and &name direct to your home 
+^ &website 
+^ click here to be removed 
+^ &website 
+</text_normal>
+</message_body>
+</message>

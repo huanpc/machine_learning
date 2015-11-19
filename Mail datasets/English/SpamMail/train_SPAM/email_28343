@@ -1,0 +1,14 @@
+<message>
+<content-type> multipart/related; type="multipart/alternative" </content-type>
+<subject>
+<text_normal> 
+
+^ &name : &name 's inc-est adventure 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 05:49:15 -0400 </date>
+<from> com </from>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

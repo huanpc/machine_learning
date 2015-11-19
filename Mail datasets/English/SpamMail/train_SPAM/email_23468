@@ -1,0 +1,16 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ buy &name , &name & more with no prescription ! 
+^ us doctors and pharmacies ! 
+^ &name &name ! 
+</text_normal>
+</subject>
+<date> tue, 08 apr 03 23:34:13 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

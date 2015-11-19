@@ -1,0 +1,27 @@
+<message>
+<from> fsc </from>
+<date> wed, 09 apr 2003 20:44:10 -0500 </date>
+<subject>
+<text_normal> 
+
+^ enter to win a flat screen tv ! 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ are you a smoker &num or older ? 
+^ click here to enter to win a flat screen tv ! 
+^ &website 
+^ we 've already had &num winners and you could be next ! 
+^ smokers , &num and older , enter to win a &name flat screen tv ! 
+^ click here . 
+^ &website 
+^ you are receiving this email because you have opted-in to receive email from publisher : fsc . 
+^ to unsubscribe , click below : 
+^ &website this message has been processed by &name &name . 
+</text_normal>
+</message_body>
+</message>

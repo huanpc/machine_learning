@@ -1,0 +1,41 @@
+<message>
+<date> wed, 27 nov 2002 22:58:06 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &num inc &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name ; 
+^ no , it was always fine . 
+^ i have known there to be problems related to the &name connectors on monitors , with pins not quite making good contact . 
+^ try wiggling the &name plug in its socket and see if that creates weird colour effects ; if so , the pins may need straightening up . 
+^ &name , 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name all is well with you . 
+^ just wondering .. did you ever lose the red signal ( so everything on the screen seems somewhat blue ) on a temporary basis ? 
+^ if you did , do you know why or any workaround ? 
+^ thanks , 
+^ &name 
+^ on wednesday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ 3pm is fine : i 'll be at home painting the kitchen / weeding the garden / insulating the loft / etc etc anyway ! 
+^ i 'll drop you back at &name afterwards . 
+^ see you on sunday . 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

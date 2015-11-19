@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> fri, 16 may 2003 15:25:15 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ clean clean documentemail microsoftinternetexplorer4 
+^ dear &name 
+^ your were good enough to audition last week for the &name tour and i think ( hope ) details have been passed to you . 
+^ at the moment rehearsals are:- 
+^ &num may  &num ; &name hall 
+^ &num june 
+^ &num june  &num ; am &amp; pm 
+^ &num june 
+^ we were originally due to fly out on june &num ( tuesday ) the authorities shave now asked if we could fly out on monday june &num . 
+^ would this be a problem for you ? 
+^ there will also be additional rehearsals but as yet i don &name know when they will be . 
+^ with best wishes . 
+^ &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

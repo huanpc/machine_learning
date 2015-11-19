@@ -1,0 +1,27 @@
+<message>
+<date> tue, 06 nov 2001 18:56:48 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : ( no subject ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i would love to see you at &name tomorrow . 
+^ hope you are having a good day . 
+^ love &name 
+^ " &name &name " wrote : 
+</text_normal>
+<text_embedded> 
+
+^ see you at &num tomorrow ? 
+^ love &name xx 
+</text_embedded>
+</message_body>
+</message>

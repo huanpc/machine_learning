@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ we specialize in &name approved medications 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 20:55:14 +0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

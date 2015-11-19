@@ -1,0 +1,39 @@
+<message>
+<date> wed, 19 mar 2003 14:38:45 -0500 (est) </date>
+<from> edu </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : this week 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ &name ! 
+^ my last meeting at &org is at &num : &num and i 'm not sure how long it will go , but i 'll probably get there somewhere near &num : &num . 
+^ looking forward to meeting with you , &name 
+^ &name wed , &num mar &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ first -- please call me " &name " mr. &name makes me feel way to old . 
+^ i assume that by " tomorrow " you mean wednesday . 
+^ i 'd be glad to get together with you when you finish with &org . 
+^ we 're at &num &name street . 
+^ &num 
+^ we look forward to seeing you again . 
+^ &name 
+^ hi mr. &name , 
+^ i have been in contact with &name about possibly visiting &name this week while i am in &name to discuss whether you might have any positions available for next year . 
+^ she mentioned that you have been very busy recently with a big project , but things may have calmed down by this week . 
+^ i was curious if this is indeed the case , and whether such a visit might still be possible . 
+^ i am in &name for the next &num days , and will actually be in &name tomorrow visiting &org from &num : &num : &num , and would love the opportunity to stop by and visit at any time if things have calmed down . 
+^ anyway , i hope all is well , &name 
+</text_embedded>
+</message_body>
+</message>

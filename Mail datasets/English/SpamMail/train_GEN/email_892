@@ -1,0 +1,30 @@
+<message>
+<from> ac.uk </from>
+<to> com ac.uk </to>
+<subject>
+<text_normal> 
+
+^ holla 
+</text_normal>
+</subject>
+<date> sat, 29 dec 2001 22:01:31 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ whassup my main man ? 
+^ have they put you back together yet ? 
+^ what was it like ? 
+^ did the nurse help you to have a shower ? ? ? 
+^ anyway , i hope you 're checking your emails ; i 'm back from snowboarding and so life can continue . 
+^ it was great fun - amazing scenery and plenty of bruises ! 
+^ i fell over on average about &num time a day . 
+^ but it was great fun and i would love to go again . 
+^ now i am going to try and get some more uni work done , although i wo n't have much time what with new year , etc. 
+^ when are you coming back to &name ? 
+^ see you soon , 
+^ &name
+</text_normal>
+</message_body>
+</message>

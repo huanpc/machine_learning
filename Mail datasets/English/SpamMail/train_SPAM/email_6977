@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ increase your cell antenna boost by &num for under &num bucks . 
+^ &char 
+</text_normal>
+</subject>
+<date> fri, 28 mar 03 02:22:18 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

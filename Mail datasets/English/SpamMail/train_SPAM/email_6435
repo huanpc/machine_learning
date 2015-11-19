@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ everyone approved &name &name &name ... no &name &name 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 01:14:10 -0800 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ get a wireless phone without the headaches ! 
+^ it 's never been easier or more affordable to get a wireless phone ! 
+^ with this special offer there 's no monthly bill , no credit check , no annual fee and no deposit required . 
+^ this wireless prepaid package ( retail value $ &name is yours for only $ &num ! 
+^ your prepaid wireless phone package will include : &name &name &name digital wireless phone free nationwide long distance free voice mail , caller id , call waiting and 3-way calling free wall charger free handsfree kit $ &num prepaid wireless calling card included 
+^ click here : &website or you may call us directly at &num , and mention bonus code : &num . 
+^ your phone will be delivered right to your door in &num to &num days ! 
+^ &website 
+^ this e-mail was sent to you by the &name &name team on &website . 
+^ you are receiving this e-mail because you registered with one of our partnered sites , and agreed at that time to receive special offers via e-mail . 
+^ you may unsubscribe from this list at any time by clicking here and you will no longer receive these messages . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

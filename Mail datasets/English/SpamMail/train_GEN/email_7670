@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ productreturn # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ &name month i bought a camcorder from you . 
+^ it worked fine for &num weeks then went dead . 
+^ would it be possible for you to exchange this items for me at your local store , even though i bought it on the internet ? 
+</text_normal>
+</message_body>
+</message>

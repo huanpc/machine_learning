@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ rates seen as low as &num 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=caibxwmevxhufmeymlsc </content-type>
+<date> tue, 8 apr 2003 10:16:48 -0400 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

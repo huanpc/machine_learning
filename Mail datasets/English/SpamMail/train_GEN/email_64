@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ lg1 practicals 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 15 nov 2002 17:42:42 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ just a friendly ( i hope ) message to say that we noticed you did n't have the tick for session one of the practicals yet . 
+^ there 's no requirement to get a tick every week as long as you get them all by the end of term , so if this is just because you forgot , or the demonstrator was too busy , or whatever , then that 's fine . 
+^ but if you are having problems , please let me ( or &name ) know asap . 
+^ best , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,15 @@
+<message>
+<subject>
+<text_normal> 
+
+^ how are you like a $ &num &name ? 
+^ ( so inspiring ) 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<date> sun, 23 mar 2003 04:24:03 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,24 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ webpage problem 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 02 jun 2003 14:35:04 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ when i attempt to access your home page from the lab using netscape ( in order to look at one of your papers ) , i get directed to &website 
+^ forbidden 
+^ you do n't have permission to access /invis.js on this server . " 
+^ i assume this effect is n't intended ... 
+^ cheers , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

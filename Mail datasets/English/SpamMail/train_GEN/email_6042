@@ -1,0 +1,42 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name study group 
+</text_normal>
+</subject>
+<date> wed, 30 apr 2003 23:10:31 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ evening all , 
+^ just thinking about a time to meet - unfortunately saturdays at &num : &num are no good and neither are tuesdays at &num : &num . 
+^ at this point complicated discussions happen as to what is the best time . 
+^ what i suggest ( in an attempt to avoid that ) is for everyone to write down times they cant do ( should be easier than times we can do ) and we 'll try to pick a regular common time . 
+^ &name , hope this is possible , &name 
+^ ps the times i ca n't do are : monday &num : &num - &num : &num tuesday evening wednesday &num : &num - &num : &num and evening thursday friday &num : &num - &num : &num saturday evening sunday late morning and early evening 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ evening all , 
+^ just thinking about a time to meet - unfortunately saturdays at &num : &num are no good and neither are tuesdays at &num : &num . 
+^ at this point complicated discussions happen as to what is the best time . 
+^ what i suggest ( in an attempt to avoid that ) is for everyone to write down times they cant do ( should be easier than times we can do ) and we 'll try to pick a regular common time . 
+^ &name , hope this is possible , &name 
+^ ps the times i ca n't do are : monday &num : &num - &num : &num tuesday evening wednesday &num : &num - &num : &num and evening thursday friday &num : &num - &num : &num saturday evening sunday late morning and early evening 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+</message_body>
+</message>

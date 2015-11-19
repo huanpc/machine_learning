@@ -1,0 +1,45 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hey babe 
+</text_normal>
+</subject>
+<date> wed, 04 apr 2001 17:10:03 -0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ pet , hope you have a great time in &name and that you do n't catch foot and mouth ( i think &name has foot in mouth ) . 
+^ i am looking forward to going to rainy cold intense &name . 
+^ lucky lucky me . 
+^ i only ate salad today . 
+^ i like food too much to be on a diet but i feel fat too so ... anyway . 
+^ &name &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : &name to : &email subject : hi ! 
+^ &name : wed , &num &name &num &num : &num : &num &num 
+^ dear &name , 
+^ it was lovely to talk with you the other evening . 
+^ did you have a nice time in &name today ? 
+^ i bought a &num meter long rope out of the flat account yesterday . 
+^ it was only about &pound; &num or so . 
+^ next term is going to be fun ! 
+^ anyway , i 've now got a hotmail account ! 
+^ please do n't e-mail me there though , as i like to have all my e-mails in my &name &name folders . 
+^ however , i can now use &name &name as well as &name ! 
+^ well , i 'm off to &name &name tomorrow morning . 
+^ i hope you enjoy &name &name , and i look forward to chatting again sometime during the last week of term . 
+^ best wishes , 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ get your private , free e-mail from &name &name at &website . 
+</text_normal>
+</message_body>
+</message>

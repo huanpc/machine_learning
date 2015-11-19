@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ video1.jpg video5.jpg video9.mpg ( &name : &char ) 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<date> sat, 29 mar 2003 07:06:07 -0200 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ there 's over &num gigabytes of streaming and downloadable &name quality movies in our &name section . 
+</text_normal>
+</message_body>
+</message>

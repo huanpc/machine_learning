@@ -1,0 +1,47 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : [ autopackage ] libprefix - all the way 
+</text_normal>
+</subject>
+<from> com </from>
+<to> org </to>
+<content-type> text/plain </content-type>
+<date> 02 may 2003 19:25:23 +0100 </date>
+<message_body>
+<text_embedded> 
+
+^ also , as a note , i started hacking on my own little example libprefix , just to play around with the /proc ideas and generic directory lookups . 
+^ see how well i can get it to work and if it 's practical in my design . 
+</text_embedded>
+<text_normal> 
+
+^ niceness . 
+^ let us know how it goes . 
+</text_normal>
+<text_embedded> 
+
+^ then there 's looking up executable names in /proc , and utilizing a default relative path , altho special casing stuff in /usr is necessary ( sigh ) . 
+^ i have n't looked into how a library could auto-guess it 's location ; i 'm guessing the library will have to know it 's soname , look that up in the executable 's maps , and pull the information from there , if possible . 
+^ or it might all not be possible &smiley 
+</text_embedded>
+<text_normal> 
+
+^ you can get the address of a function then figure out the object by looking at the addresses in the map list . 
+^ we experimented with poking linker structures to no avail . 
+^ at some point when i learn the art of glibc hacking if &name has n't already done it i 'll add dlinfo ( ) which lets us get the origin as defined by &name , which should be good enough . 
+</text_normal>
+<text_embedded> 
+
+^ well , if autopackage is n't flexible enough ( or libprefix , i should say - i fully have faith autopackage itself will be ) an app will only be usable on &num vendor of &name . 
+^ just assuming everything works like redhat or it 's knock-offs is a problem with &name 's, and one that 's honestly not easily fixable ... 
+</text_embedded>
+<text_normal> 
+
+^ that 'll change with time . 
+^ and packaging is a large part of the reason most commercial vendors only support &num or &num distros i think . 
+^ &name mailing list &email 
+</text_normal>
+</message_body>
+</message>

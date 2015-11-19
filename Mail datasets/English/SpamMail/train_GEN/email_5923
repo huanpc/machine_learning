@@ -1,0 +1,61 @@
+<message>
+<date> tue, 27 may 2003 03:14:14 +0000 (utc) </date>
+<from> org </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ re : [ &name ] &name font mix 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ thanks - sure to convert ttf to ps was a delight to know about and unmac , wow , all those years of collecting fonts on the &name from job to job . 
+^ when i moved to &name i thought i 'd have start most from scratch . 
+^ &name , not . 
+^ &name 
+^ on &name , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name : &name , &num may &num &num : &num : &num &num from : &name &name ( &email ) to : &name ( &email ) &name : &email subject : re : [ &name ] &name font mix 
+^ on &name , &num . 
+^ &name &num &num : &num , &name wrote : 
+<text_embedded> 
+
+^ i have mix &num &name fonts . 
+^ i want to move to &name &name . 
+^ there are &name , &name , &name and who knows what kind of fonts . 
+^ &num . 
+^ i have moved them to the &name box using ftp as .hqx files . 
+^ &num now i am uncertain of what do do . 
+</text_embedded>
+
+^ hi , this is not ... trivial . 
+^ there is a win32 tool ( which runs under wine ) that &website . 
+^ also , in the ( &name ) package t1utils , there is a tool called t1unmac which should be able to get at least &name fonts out into the pc format world . 
+^ if you know german , you can follow my directions at &website 
+^ if you do n't, maybe someone with time can translate that &smiley 
+^ good luck ! 
+^ - &name # &smiley 
+^ &name mailing list &email 
+</text_embedded>
+<text_normal> 
+
+^ &name &name &name &num so . 
+^ 5th street &name , &name &num &name &num &email 
+^ first there was &name for &name sake , and out of the world consciousness of free expression where knowledge was not proprietary came - yes , open software and a new age of prosperous freedom . 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

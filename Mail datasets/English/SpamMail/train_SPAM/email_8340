@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<date> sun, 30 mar 2003 09:02:58 -0500 </date>
+<subject>
+<text_normal> 
+
+^ subject : , get the duckie massager , voted best novelty gift of the year ! 
+^ &num 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &num 
+^ this message was sent to 
+^ the preceding message was sent to you as a recurring mailing of the &name &name &name . 
+^ to no longer receive email from the &name &name &name , simply click the link below . 
+^ &website 
+^ to contact us via postal mail or phone : customer service 
+^ - &num &name rd. &name &name . 
+^ i-2 # &num - &name , &name &num - &num 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ apply for any loan in &name ! 
+^ click &name 
+</text_normal>
+</subject>
+<date> wed, 26 mar 2003 10:43:19 -1800 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name rates have started to drop again ! 
+^ simply fill out our free no obligation form and find out how much you can save on : 
+^ &num ) &name your existing mortgage &num ) getting a new home loan &num ) getting a home equity loan &num ) &name cash out for home improvements 
+^ ... and much more 
+^ just visit our website by clicking the link below : 
+^ &website 
+</text_normal>
+</message_body>
+</message>

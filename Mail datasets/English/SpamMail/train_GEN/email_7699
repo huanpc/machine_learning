@@ -1,0 +1,25 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : welfare queries ... 
+</text_normal>
+</subject>
+<date> 15 jan 2003 11:38:41 +0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hello there , i 'm the &name 's welfare officer , and we do have info sheets . 
+^ my predecessor put them in the toilets etc , and they are pretty effective . 
+^ i 'll attach the document ( hopefully ... computer skills are not my forte ) : hope it 's useful ! 
+^ happy new year and all that , &name 
+</text_normal>
+</part>
+<part num="2" type="application/msword">
+</part>
+</message_body>
+</message>

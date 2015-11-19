@@ -1,0 +1,26 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name # one of our building system newsletter 
+</text_normal>
+</subject>
+<from> com com </from>
+<date> tue, 8 apr 2003 04:35:29 -0400 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ greetings to the 4th issue of our building system newsletter . 
+^ hopefully by now , you 've nearly reached your goal of &num streams of $ &num signups . 
+^ keep posting your streams of $ &num letters to the safelists you joined . 
+^ be sure to go back as often as you can to repost them . 
+^ - - &name 
+^ - - &name , &name , &name & &name ( gems ) 
+^ &email 
+^ &name the next issue of our building system newsletter will arrive next week . 
+^ to unsubscribe from this message category click on the following link : &website ( a href' &website ' ) &name &name - click here to unsubscribe ( /a ) 
+</text_normal>
+</message_body>
+</message>

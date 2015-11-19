@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ selfview &num 
+</text_normal>
+</subject>
+<date> sat, 30 jun 2001 15:26:55 -0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi , can you tell me where i can download &name form ? 
+^ regards &name get your private , free e-mail from &name &name at &website . 
+</text_normal>
+</message_body>
+</message>

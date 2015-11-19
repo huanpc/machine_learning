@@ -1,0 +1,20 @@
+<message>
+<subject>
+<text_normal> 
+
+^ homes for sale from $ &num , &num - foreclosures , &name , &name 
+</text_normal>
+</subject>
+<from>
+</from>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<date> tue,  1 apr 2003 11:01:56 -0800 (pst) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ web cancellations : you may click ( &char 
+^ ( img border' &num ' border' &num ' 
+</text_normal>
+</message_body>
+</message>

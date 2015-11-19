@@ -1,0 +1,25 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : meeting 
+</text_normal>
+</subject>
+<date> tue, 15 oct 2002 00:07:49 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_embedded> 
+
+^ there we go - i 've reminded you ! 
+^ &name , could you remind me whether it was in mine or your room ? 
+</text_embedded>
+<text_normal> 
+
+^ thanks &smiley 
+^ it was mine . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name ! 
+^ never buy a &name again ! 
+</text_normal>
+</subject>
+<date> sat, 05 apr 03 05:42:37 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

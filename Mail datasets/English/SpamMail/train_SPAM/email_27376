@@ -1,0 +1,14 @@
+<message>
+<date> wed, 9 apr 2003 20:00:00 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ do you have the image i 'm looking for ? 
+</text_normal>
+</subject>
+<content-type> multipart/alternative;    boundary=mimeboundary </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

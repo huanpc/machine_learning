@@ -1,0 +1,26 @@
+<message>
+<date> thu, 24 jan 2002 11:47:17 +0100 (cet) </date>
+<from> uu.se </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ use of articles in a course 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ dear dr &name , 
+^ i would like to use some of the online papers on &website computational semantics here at &name university ( dept. of linguistics / language engineering programme ) . 
+^ i would like to make sure that this is ok with you ( and your co-authors ) . 
+^ the &name paper and an algebra for semantic construction in constraint-based grammars are the most relevant &num . 
+^ ( i think the work reported there is really great . ) 
+^ yours sincerely , &name &name 
+^ &name &name , inst. &char . 
+^ lingvistik , &name &name , &name &num , &num &num &name . 
+^ [ centrum , &name ] 
+</text_normal>
+</message_body>
+</message>

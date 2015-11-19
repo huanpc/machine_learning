@@ -1,0 +1,25 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : pray 
+</text_normal>
+</subject>
+<date> thu, 6 mar 2003 10:23:18 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_embedded> 
+
+^ &name - how does friday &name suit you ? 
+^ and where are we to meet ? 
+</text_embedded>
+<text_normal> 
+
+^ that 's fine . 
+^ i think it 's &name 's room . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

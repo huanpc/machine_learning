@@ -1,0 +1,13 @@
+<message>
+<date> fri, 14 mar 2003 15:26:02 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ ifstream wnout ; &name syns [ &num ] ; wnout.open ( &name , ifstream : : in ) ; while ( wnout.good ( )){ wnout.getline ( syns , &num ) ; if ( 0strncmp ( syns,'sense &num " , &name wnout.getline ( syns , &num ) ; break ; 
+^ &name &name &name &name ( &name &name , &name & &name technology ) university of &name 
+</text_normal>
+</message_body>
+</message>

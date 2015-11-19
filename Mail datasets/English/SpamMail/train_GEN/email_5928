@@ -1,0 +1,33 @@
+<message>
+<date> mon, 26 may 2003 00:41:41 +0200 </date>
+<from> net </from>
+<to> altmuehlnet.de </to>
+<subject>
+<text_normal> 
+
+^ [ &name ] &name &name in scribus &num on &name / &name 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , 
+^ &char face a very strange problem . 
+^ &name does n't accept the truetype fonts provided by an xfs-xtt ( debian unstable ppc ) . 
+^ &name lists the ms truetype fonts as registered and tkfont shows them as well . 
+^ other non-truetype fonts are available in scribus . 
+^ on an x86 machine the truetype fonts are also available in scribus through xfs-xtt . 
+^ ( debian testing x86 ) 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

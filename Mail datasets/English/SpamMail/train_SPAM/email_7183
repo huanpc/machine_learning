@@ -1,0 +1,21 @@
+<message>
+<date> 20 feb 2003 00:40:50 -0000 </date>
+<from> optin </from>
+<subject>
+<text_normal> 
+
+^ do you ebay &num 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name . 
+^ third-party offers contained in this email are the sole responsibility of the offer originator , offer # &num . 
+^ please do not reply to this email , your request will not be properly processed . 
+^ this may be a reoccurring mailing . 
+</text_normal>
+</message_body>
+</message>

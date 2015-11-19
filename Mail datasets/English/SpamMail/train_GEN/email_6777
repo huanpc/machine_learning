@@ -1,0 +1,39 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ problem 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 13:38:08 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , &num downloaded your software . 
+^ &num question ... i am using it for a &website file alone , it does n't change the icon on the start menu . 
+^ if i also change the main .exe file , it does . 
+^ however , if i then try to open the program , it says " this application requires shockwave player &num , which is not installed . 
+^ click ok to download it " . 
+^ do you know why this would happen ? 
+^ it worked fine before i tried to change the icon . 
+^ thanks , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi , &website file alone , it does n't change the icon on the start menu . 
+^ if i also change the main .exe file , it does . 
+^ however , if i then try to open the program , it says " this application requires shockwave player &num , which is not installed . 
+^ click ok to download it " . 
+^ do you know why this would happen ? 
+^ it worked fine before i tried to change the icon . 
+^ thanks , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

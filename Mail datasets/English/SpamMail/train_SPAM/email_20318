@@ -1,0 +1,27 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &num vagas de empregos para &name nos &name &char &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> mon, 7 apr 2003 03:38:12 -0300 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &name no brasil para &name nos &name &name &char &name 
+^ &char site &name promover a sua &num &name &name est' gios &char &name no &name , entre os dias &num &char &num &name &name , no hotel &name &name , na rua bas' lio da &name , &num - a &num metros do metr rep' blica - no &name , em s' &char &name . 
+^ no dia &num , a feira ocorrer no per' odo das &num &char &num horas &char no dia &num , das &num &char &num horas . 
+^ &char evento destina-se ao recrutamento &name enfermeiros para trabalhar em hospitais nos &name &name ( com n'vel universit' rio ) &char jovens &name &num a &num anos que pretendem ser baby-sitter no exterior , &name 'm de estagi' rios para per' odo &name &num meses nos &name &name /europa . 
+^ &name caso , exige-se que &char candidato seja universit' rio &char que tenha no m' nimo &char ingl 's intermedi' rio . 
+^ &website &name . 
+^ &char feira ainda oferecer &num vagas para universit' rios para est' gios &name &num &website &name . 
+^ &char quem pretende ser baby-sitter contar com diversas op' es de destino , &char sal' rios em m'dia &name &name &num &name . 
+^ &name informa' es atrav 's &name telefones ( &num ) &num / &num . 
+^ informa' es para &name com &name &name , fones ( &num ) &num / &num 
+</text_normal>
+</message_body>
+</message>

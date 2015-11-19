@@ -1,0 +1,33 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ alert ! 
+^ protect your computer 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 16:31:28 -2000 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ important : you must have this software to protect your computer or face devastating attacks & loss of information . 
+^ no one wants this so read below : 
+^ protect your system with the all new &name &name works professional &num &name edition . 
+^ this includes : 
+^ * &name &name protects your pc from virus threats ... 
+^ * &name utilities optimizes pc performance and solves problems . ... 
+^ * &name &name cleans out internet clutter ... 
+^ * &name by &name provides quick and easy system recovery ... 
+^ * &name &name utilities for fast & safe system upgrading , backup , and recovery ... 
+^ all of this costs over $ &num in &name ! 
+^ yours now for only $ &num while supplis last . 
+^ click below now ... 
+^ &website 
+^ please click the link below if you wish to be removed from our exclusive bargain mailing list offers . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

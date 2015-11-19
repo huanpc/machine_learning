@@ -1,0 +1,25 @@
+<message>
+<date> tue, 01 apr 2003 19:16:30 -0500 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &num free &name . ... &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+^ ( html) ( &name &name &name family'sansserif ' face' arial ' lang' 0' ) ( b) ( &char href' &website ) 
+^ ( &num ( &name color' # &name ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' 0' ) ( b)no ( &num ( &name color' # &num ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' 0' ) ( &char ) credit card required ( &num ( &name color' # &name ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' 0' ) ( b)no ( &num ( &name color' # &num ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' 0' ) ( &char ) &name &name ( &num ( &name color' # &name ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' 0' ) ( b)no ( &num ( &name color' # &num ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' 0' ) ( &char ) dialer you download ( &num ( &name color' # &num ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' &num ' ) 
+^ ( &num ( &name color' # &name ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' 0' ) ( b)all you need ( &num ( &name color' # &num ' back' # ffffff ' style' background-color : # ffffff ' &name &name family'sansserif ' face' arial ' lang' 0' ) ( &char ) is an ( b) ( &char href' &website ' ) 
+^ to be unsubscribed from our list , please ( b) ( &char href' &website . 
+^ ( &num ( &num ) 
+^ try and get &num hours free for &num &name &name &num for free ! 
+^ download 
+</text_normal>
+</message_body>
+</message>

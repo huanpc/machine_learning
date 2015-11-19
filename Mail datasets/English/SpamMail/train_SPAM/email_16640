@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ i like you ! 
+^ do you know ? 
+</text_normal>
+</subject>
+<date> sun, 9 feb 2003 1:53:3 +0200 </date>
+<content-type> text/html; charset="iso-8859-2" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ your personal email address was obtained from an opt-in list . 
+^ &name &name ( &name &name &name ) approved list - type &name &name zt%22d%h&amp;eusa . 
+^ to unsubscribe from this list , please click here . 
+^ we do not condone spam in any shape or form . 
+^ thank you kindly for your cooperation . 
+</text_normal>
+</message_body>
+</message>

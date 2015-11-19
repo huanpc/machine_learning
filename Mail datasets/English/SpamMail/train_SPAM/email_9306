@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name ! ! ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled document 
+^ &name registrierung war erfolgreich 
+^ &name code f&uuml;r die &name war erfolgreich 
+^ hier &name ! ! ! 
+^ &name code 
+^ 228skt983 
+</text_normal>
+</message_body>
+</message>

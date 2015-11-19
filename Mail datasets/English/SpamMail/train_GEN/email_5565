@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ pub lunch ; &name &name 's betrayal 
+</text_normal>
+</subject>
+<date> mon, 4 nov 2002 23:20:27 -0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ ( &num ) 
+^ the cads committee invites you to their pub lunch on saturday 9th at &num , to be held at all &name &num . 
+^ come along to meet us and discuss your ideas for future performances ! 
+^ ( &num ) 
+^ &name is &name 's best-friend . 
+^ &name loves &name . 
+^ &name is &name 's wife . 
+^ cads presents 
+^ &name &name 's betrayal 
+^ love , infidelity , publishing and &name in " a brooding comedy of sexual manners " ( &name &name ) . 
+^ &num 30pm &num - &num november &num 
+^ &name &name theatre , &name 's collge 
+^ tickets &pound; &num ( &pound; &num concs ) , on the door or in advance on &num &num 
+^ we look forward to seeing you ! 
+^ &name &name cads secretary 
+</text_normal>
+</part>
+<part num="2" type="application/ms-tnef">
+</part>
+</message_body>
+</message>

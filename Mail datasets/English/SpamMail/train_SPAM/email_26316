@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ you have &num card waiting ! 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 05:51:02 -0400 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &num 
+^ you can get pre-qualified for credit cards with up to a $ &num limit ! 
+^ click to claim your credit card ( &char ) now : 
+^ click here ! 
+^ click here to earn your degree online ! 
+^ this message has been processed by &name &name . 
+^ the e-mail address is &website ] 
+^ or reply to this message with the word &quot;unsubscribe&quot; in the subject line . 
+^ if you feel this is unsolicited mail , reply to this message with the word &quot;abuse&quot; in the subject and your reasons in the body of the message . 
+</text_normal>
+</message_body>
+</message>

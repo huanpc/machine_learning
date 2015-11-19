@@ -1,0 +1,25 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name mail 
+</text_normal>
+</subject>
+<to> co.uk </to>
+<from> ac.uk </from>
+<date> tue, 16 apr 2002 22:56:38 +0100 </date>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i listened to your voicemail - let 's just say it 's not the kind of greeting i 'd have on my phone . 
+^ anyway , i remembered a conversation between &name and myself last term and thought i 'd mention it to you . 
+^ we were thinking about making a cd after the exams - what do you think of this ? 
+^ obviously we 'd need to use your recording equipment . 
+^ well , it might not happen but it 's an idea anyway . 
+^ see you in a few days . 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,29 @@
+<message>
+<date> wed, 15 may 2002 22:01:41 +0100 </date>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i have done as you said , &char geological guru , and forwarded your message . 
+^ hope your exams finish in style ! 
+^ by the way , my dad is dr. &name - which i corrected for you ! 
+^ not that he 's a militant bigot about people it , that 's just for reference ! ! 
+^ his email address is &email should you need it . 
+^ is rheology and &name nice ? 
+^ i have sedimentary tomorrow and i have n't done anything for it . 
+^ and i mean that . 
+^ oh well . 
+^ best of luck for your funding ! 
+^ love &name . 
+</text_normal>
+</message_body>
+</message>

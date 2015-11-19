@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name and &name 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 16:39:56 00800 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,57 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<date> mon, 21 oct 2002 14:57:35 -0700 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , well it 's good to hear that your on top of things . 
+^ it does n't entirely surprise me that you knew about it : ) . 
+^ i did n't know you could drag and drop .exes though : ) . 
+^ maybe i should read the &name some time : ) . 
+^ you 're welcome , 
+^ - christian 
+^ thanks . 
+^ i know exactly why it does it and that 's because it was a quick fix for a problem i had on my computer ( in that when i dragged & dropped a file onto the icon replacer executable , it was passed in capital letters , which was ugly ) . 
+^ there is a way to fix it ( implementing &name support properly ) , but it is n't a problem in the new version , since the naming of files is left entirely to the innosetup compiler . 
+^ thanks for mentioning it anyway . 
+^ &name 
+^ on tuesday &num &name &num &num : &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey admittedly i still have n't used your updated version of &name replacer , because it requires &name &name and i wo n't be using that until it 's officially released . 
+^ ( which will hopefully happen before i 'm dead and gone 
+^ &smiley i did want to let you know that the older version is renaming the 
+^ &website " --- ) 'dvdx &website " notice the &char becomes lowercase . 
+^ i just thought i 'd mention it so you could make sure that this bug does n't also exist in your newer version . 
+^ thanks , christian &name 
+<text_embedded> 
+
+^ hi &name , are you aware that your home page &website 
+</text_embedded>
+
+^ link 
+<text_embedded> 
+
+^ to &website replacer . 
+^ thanks , christian 
+</text_embedded>
+
+^ thanks . 
+^ the innosetup icon replacer page links to the newsgroup which links there . 
+^ i should directly link there however . 
+^ my home page desperately needs updating ( completely redoing ) actually . 
+^ if has n't had proper updates since june &num . 
+^ but i just do n't have the time these days . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

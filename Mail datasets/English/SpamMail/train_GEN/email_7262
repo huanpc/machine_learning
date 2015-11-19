@@ -1,0 +1,27 @@
+<message>
+<date> thu, 20 feb 2003 20:01:30 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ urgent ! ! ! ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ &name has just informed me of a slight bug in composite work units . 
+^ apparently , the work units are not being bundled up properly to form composite work units . 
+^ he changed the latency settings to check this . 
+^ the &name heavily relies on this . 
+^ please can you sort out this problem &name . 
+^ we need to finish the &name tomorrow afternoon . 
+^ &name and &name have been &name this email . 
+^ &name and &name ... please help &name locate the bug . 
+^ cheers , &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,28 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name : you 've been selected for our quick messaging survey 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<date> fri, 11 apr 2003 11:30:04 -0400 (edt) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ as a valued member of network of it-specific web sites , your direct input matters to us . 
+^ that 's why i selected your name from among a handful of our members to take this important survey - your feedback counts ! 
+^ survey questions pertain to your opinions of a messaging-focused it conference . 
+^ your answers will be kept strictly confidential and will directly impact how we build a valuable event for you and your peers . 
+^ the survey is very quick and takes less than &num seconds to complete . 
+^ please click here : &website 
+^ i look forward to your feedback and greatly appreciate your help . 
+^ thanks in advance for your essential , unbiased input ! 
+^ &name &name &name be removed simply reply to this email with remove within the body or subject . 
+^ please allow &num hours for your request to be processed . 
+</text_normal>
+</message_body>
+</message>

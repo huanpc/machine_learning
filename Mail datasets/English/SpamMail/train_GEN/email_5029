@@ -1,0 +1,21 @@
+<message>
+<date> tue, 20 nov 2001 17:20:46 +0100 </date>
+<from> uni </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thank you very much for booking the rooms . 
+^ this sound like a reasonnable solution to me . 
+^ if our administration complains , i can easily pay the remaining &num pound by myself . 
+^ yours &name 
+</text_normal>
+</message_body>
+</message>

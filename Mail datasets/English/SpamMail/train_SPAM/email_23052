@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ found &num new cards for &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=hsnxcxaqsqolzpnzptuw </content-type>
+<date> mon, 7 apr 2003 20:13:00 -0600 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

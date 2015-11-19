@@ -1,0 +1,24 @@
+<message>
+<date> tue, 13 may 2003 23:41:03 +0100 </date>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name pdf 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name 
+^ &num point i did not make is i 'm using a laptop so minor differences might not be so obvious , or perhaps my eyes are n't what they were ! 
+^ anyway , here 's my pdf version . 
+^ regards 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

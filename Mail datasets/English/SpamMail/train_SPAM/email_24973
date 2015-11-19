@@ -1,0 +1,13 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ we are anxious to hear from you 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=ntslghcqitmhlesawngf </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

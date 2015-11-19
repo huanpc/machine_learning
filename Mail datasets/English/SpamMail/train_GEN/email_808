@@ -1,0 +1,32 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ chat 
+</text_normal>
+</subject>
+<date> mon, 2 apr 2001 20:46:01 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ i 'm trying to get on now . 
+^ do i need &name &name ? 
+^ &char 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ i 'm trying to get on now . 
+^ do i need &name &name ? 
+^ &char 
+</text_normal>
+</part>
+</message_body>
+</message>

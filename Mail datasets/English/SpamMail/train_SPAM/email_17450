@@ -1,0 +1,29 @@
+<message>
+<date> fri, 04 apr 2003 11:30:00 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * &name : free ' &name &name &name ' at freedvds.com ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ or see below . 
+^ notice : this is an advertisement . 
+^ if you do not wish to receive further information from &name , go to 
+^ third-party offers contained in this email are the sole responsibility of the offer originator . 
+^ all questions about the offer featured in this and other emails should be directed toward the advertiser and / or the offer originator . 
+^ please do not reply to the email address in the from or to line in this mailing . 
+^ all customer support issues should be directed toward &email . 
+^ this message has been brought to you by : 
+^ &name &num east 149th street 3rd floor &name , ny &num &website email : &email 
+^ ( &char ) &name , &num . 
+^ all rights reserved . 
+</text_normal>
+</message_body>
+</message>

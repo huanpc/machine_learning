@@ -1,0 +1,15 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ the &name &name &name event 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> fri, 4 apr 2003 17:34:56 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

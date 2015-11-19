@@ -1,0 +1,24 @@
+<message>
+<date> fri, 28 mar 2003 01:41:11 -0800 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ time magazine - free &name &name & &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ brought to you by ... 
+^ &website 
+^ get &name magazine , and you may also receive a free &name &name &name -- plus you 'll get a free hand-held organizer . 
+^ click here for full details ( &website ) 
+^ ( &website ) 
+^ if you would like to unsubscribe from all future mailings , click ( mailto : &email ) here to send a blank email to &email 
+^ this message was sent to address 
+</text_normal>
+</message_body>
+</message>

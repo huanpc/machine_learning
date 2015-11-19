@@ -1,0 +1,29 @@
+<message>
+<date> tue, 15 oct 2002 20:16:47 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : your mail 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ on &num &name &num , &name &name wrote : 
+^ hi &name , 
+^ yes , i 'm definitely hoping to go . 
+^ also , i enjoyed &name &name on sunday and i may go again . 
+^ i hope this does n't mean that you feel you ca n't come . 
+^ hope you 're ok , 
+^ &name
+</text_normal>
+<text_embedded> 
+
+^ are you going to &name 's thing ? 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,37 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<date> wed, 23 apr 2003 17:42:31 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi all , 
+^ &name and i will go for the tuesday 2-3pm slot if that 's ok , preferring to be supervised in &name . 
+^ will 
+^ i 'm supervising &num groups and seeing each group at least &num times this term . 
+^ it would be good to set up a regular , mutually convenient time . 
+^ i am available at the following times : 
+^ mondays &num , &num ( &num &name ; &num , &num , &num may ) in &name tuesdays &num , &num , &num ( &num , &num , &num may ) either all at &name or all in eh12 
+^ the groups are as follows . 
+^ i suggest that the &name group have monday at &num p.m. and the rest of you share out the tuesday slots and agree whether you want them out here or in college . 
+^ could you please select a time with your partner ( &char ) and e-mail everyone to confirm it . 
+^ &name , &name & &name ( &name , &name &char / &char &name , &name ) 
+^ - at least &num supervisions 
+^ &name & &name ( &name ) 
+^ - &num or &num supervisions 
+^ &name & &name ( &name ) 
+^ - &num supervisions ( plus the one this friday ) 
+^ &name & &name ( &name ) 
+^ - &num supervisions 
+^ &name 
+^ &name &name , director of studies in computer science &name college , &name &email 
+</text_normal>
+</message_body>
+</message>

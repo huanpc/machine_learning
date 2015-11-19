@@ -1,0 +1,39 @@
+<message>
+<date> wed, 19 feb 2003 20:24:26 +0000 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ re : urgent 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii"; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ this is really getting beyond a joke ! 
+^ i hope there is a good reason for you not being able to make the meeting . 
+^ can you able to meet tomorrow at 6pm in cockcroft &num ? 
+^ please let me know on any progress with the manual so i can continually check it , also mail me with any questions with regards to its contents . 
+^ i will need a fairly substantial list of composites and their primes to test all the factorization algorithms . 
+^ i 'm in the process of writing some code to use your array of mycomposites to test these algorithms . 
+^ the length of the primes is needed - in the code &char sent you there is a method which works this out . 
+^ i 'm assuming that you remember all of what we talked about on monday . 
+^ i feel that each class in lima.mathematical.factorization and lima.mathematical.utilities needs testing . 
+^ and ideally each individual class of &name . 
+^ please e-mail sometime tonight about the above and also whether you can make the additional meeting in place of this evenings one you could n't make . 
+^ &name 
+^ at &num : &num &num / &num / &num &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i 'm really sorry , but i do n't think i 'm going to be able to make this evening . 
+^ i think therefore we 'll have to each try to do some individual work before tomorrow when we can combine our efforts . 
+^ very sorry about this , 
+^ &name 
+^ &name &name &name college , &name &name &name &name &name : room &name , &name &name &name &name : &email &name &name : &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

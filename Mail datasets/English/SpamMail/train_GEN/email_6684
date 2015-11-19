@@ -1,0 +1,56 @@
+<message>
+<date> tue, 27 may 2003 11:08:18 +0200 </date>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : observations on the new &name startup dialog 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ on mon , may &num , &num at &num : &num : &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ on monday &num may &num &num : &num , &name &name wrote : 
+<text_embedded> 
+
+^ the way &name are used in all applications is that they provide different views to the same data . 
+</text_embedded>
+
+^ certainly not . 
+^ do all my konqueror &name show the same data ? 
+^ do all my kspread sheets ( &num per &name ) show the same data ? 
+</text_embedded>
+<text_normal> 
+
+^ you are right ; and i should not have taken the shortcut in my explenation . 
+^ in these cases the widgets that are outside the &name ( and thus common to the different pages ) make a very clear what they do . 
+^ as soon as i put a button outside the &name , like , for example , an " apply " button the content of all &name is to be applied . 
+^ if a widget outside of the &name ( like the location bar of konq ) does not show its different between the &name then it becomes cumbersome to use . 
+^ and last , but not least . 
+^ we read from left to right , top to bottom . 
+^ when a button is outside and below the &name the user has just seen the different &name and the button is 'seen " as a button for all &name . 
+^ this is why the kfind dialog would be horrible when the buttons are not at the right but at the bottom ( try it &smiley 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ &name , quick scetch attached that might not be the end-all , but should at the very least prove to solve more problems then most ideas i have seen so far . 
+</text_embedded>
+
+^ this would still open a modal dialog ( the file dialog ) above the template chooser dialog ( modal too ) - is n't that considered bad practice ? 
+</text_embedded>
+<text_normal> 
+
+^ good point . 
+^ &name &name 
+^ kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,22 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ accident report form 
+</text_normal>
+</subject>
+<date> thu, 22 may 2003 12:47:25 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ dear &name 
+^ please could you come into &name ( &name &name building ) sometime soon and sign our accident book . 
+^ after receiving your accident report form i then have to fill in the department book which needs signing by you as well . 
+^ thanks 
+^ &name &name health and safety secretary 
+</text_normal>
+</message_body>
+</message>

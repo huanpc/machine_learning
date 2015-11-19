@@ -1,0 +1,62 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ update 
+</text_normal>
+</subject>
+<date> thu, 15 feb 2001 20:39:00 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ went into school yesterday for a meeting with &name &name re relationships in the english department . 
+^ the department 's been a shambles for months . 
+^ &name &name left for a similar job in &name . 
+^ she was glad to escape . 
+^ &name &name is definitely seen as being a useless manager . 
+^ everybody has been interviewed by the boss in confidence to see if he can get things sorted . 
+^ fingers crossed . 
+^ feel out of things with being off ill . 
+^ felt better yesterday after getting my gripes off my chest . 
+^ got the impression that my complaints were shared by everyone else . 
+^ feel rotten today because i think it took too much out of me . 
+^ ca n't see me being back at work next week either to be honest . 
+^ study leave has been extended for &num days because of snow closures last week . 
+^ trouble continues with the tuesday club , particularly between &name and &name . 
+^ feel like piggy in the middle . 
+^ &char me miserum . 
+^ cheer me up , darling ! 
+^ love , 
+^ mam xx 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ went into school yesterday for a meeting with &name &name re relationships in the english department . 
+^ the department 's been a shambles for months . 
+^ &name &name left for a similar job in &name . 
+^ she was glad to escape . 
+^ &name &name is definitely seen as being a useless manager . 
+^ everybody has been interviewed by the boss in confidence to see if he can get things sorted . 
+^ fingers crossed . 
+^ feel out of things with being off ill . 
+^ felt better yesterday after getting my gripes off my chest . 
+^ got the impression that my complaints were shared by everyone else . 
+^ feel rotten today because i think it took too much out of me . 
+^ ca n't see me being back at work next week either to be honest . 
+^ study leave has been extended for &num days because of snow closures last week . 
+^ trouble continues with the tuesday club , particularly between &name and &name . 
+^ feel like piggy in the middle . 
+^ &char me miserum . 
+^ cheer me up , darling ! 
+^ love , 
+^ mam xx 
+</text_normal>
+</part>
+</message_body>
+</message>

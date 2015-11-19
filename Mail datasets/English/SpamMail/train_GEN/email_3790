@@ -1,0 +1,69 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : post-exam meeting 
+</text_normal>
+</subject>
+<date> tue, 28 may 2002 19:56:21 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name
+^ this friday , &num may at 10.30am is &name look forward to seeing you at our house then . 
+^ please would you bring a hard copy of your &name with you . 
+^ i 've been able to copy it off my pc , but the formatting is all messed up , so i can read it but visually it looks very untidy . 
+^ &name &name 
+^ hi &name , here 's my most recent &name . 
+^ how about sometime on friday ? 
+^ say friday morning at &num : &num ? 
+^ &name 
+^ &name &name wrote : 
+^ hi &name i hope exams have gone well for you so far , if they are not yet completed . 
+^ we must meet up again once exams are behind you and before you get totally caught up in post-exam fever . 
+^ as well as catching up on all your news etc , i have to let &name have a brief &name of you and we need to be sure we agree about what it says - i 'm sure that 's not going to be a problem . 
+^ if you have a &name written already , bring that along with you . 
+^ but in case you have n't i 'll drop a blank form into college for you which shows you the sort of record college want to have . 
+^ i am free some of this week and , as things stand at present , most of next week . 
+^ please would you suggest a couple of times when we could meet and we 'll see what we can fix . 
+^ best wishes &name &name &name &name 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+^ mobile ( vodafone ) &num &num &num &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name
+^ this friday , &num may at 10.30am is &name look forward to seeing you at our house then . 
+^ please would you bring a hard copy of your &name with you . 
+^ i 've been able to copy it off my pc , but the formatting is all messed up , so i can read it but visually it looks very untidy . 
+^ &name &name 
+^ hi &name , 
+^ here 's my most recent &name . 
+^ how about sometime on friday ? 
+^ say friday morning at &num : &num ? 
+^ &name 
+^ &name &name wrote : hi &name i hope exams have gone well for you so far , if they are not yet completed . 
+^ we must meet up again once exams are behind you and before you get totally caught up in post-exam fever . 
+^ as well as catching up on all your news etc , i have to let &name have a brief &name of you and we need to be sure we agree about what it says - i 'm sure that 's not going to be a problem . 
+^ if you have a &name written already , bring that along with you . 
+^ but in case you have n't i 'll drop a blank form into college for you which shows you the sort of record college want to have . 
+^ i am free some of this week and , as things stand at present , most of next week . 
+^ please would you suggest a couple of times when we could meet and we 'll see what we can fix . 
+^ best wishes &name 
+^ &name &name &name 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+^ mobile ( vodafone ) &num &num &num &num 
+</text_normal>
+</part>
+</message_body>
+</message>

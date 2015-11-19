@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name to rights : now only $ &num &name on &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> 21 mar 2003 21:20:10 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,18 @@
+<message>
+<date> sun, 30 mar 2003 07:12:33 -0300 </date>
+<from> com </from>
+<content-type> text/plain </content-type>
+<subject>
+<text_normal> 
+
+^ and &name 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website 
+</text_normal>
+</message_body>
+</message>

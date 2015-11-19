@@ -1,0 +1,60 @@
+<message>
+<from> co.uk </from>
+<to> com com net com com com ac.uk ac.uk com com com </to>
+<subject>
+<text_normal> 
+
+^ &name we are all clear ! 
+</text_normal>
+</subject>
+<date> mon, 3 sep 2001 19:01:16 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ ok all , 
+^ it seems that we are all &name for the weekend of the &num / &num / &num . 
+^ here are the details : 
+^ arrive at &name 's house some time on the friday evening or saturday morning . 
+^ bring some food please ! ! ! ! 
+^ ( like a dessert or some rolls or a roast pig or something ) that way &name 's mum does not have to feed us all of the time . 
+^ leave &name 's house some time on sunday . 
+^ for the christians among us , we might want to go to church i guess . . ... 
+^ but then again maybe not . 
+^ &name - i have not had a reply from your good self , but i hope you can come ! 
+^ " till we meet again and the case is solv-ed . 
+^ ( which film ? ) 
+^ &name 
+^ after having said i could n't go , it now looks like i might be able to as long as i can get time off work , so i 'm going in to grovel today . 
+^ if i can make it down , i 'll be arriving at the train station at &name ... would anyone be able to pick me up ? 
+^ and i would need taking back to the station for 7pm ish on sunday ( do those times sound like what everyone else had in mind ? ? ) . 
+^ let me know what you guys have planned , &name as &name says , it kind of depends on who else can make it . 
+^ see you all then ( i hope ! ! ) , lots of love , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ ok all , 
+^ it seems that we are all &name for the weekend of the &num / &num / &num . 
+^ here are the details : 
+^ arrive at &name 's house some time on the friday evening or saturday morning . 
+^ bring some food please ! ! ! ! 
+^ ( like a dessert or some rolls or a roast pig or something ) that way &name 's mum does not have to feed us all of the time . 
+^ leave &name 's house some time on sunday . 
+^ for the christians among us , we might want to go to church i guess . . ... 
+^ but then again maybe not . 
+^ &name - i have not had a reply from your good self , but i hope you can come ! 
+^ " till we meet again and the case is solv-ed . 
+^ ( which film ? ) 
+^ &name 
+^ after having said i could n't go , it now looks like i might be able to as long as i can get time off work , so i 'm going in to grovel today . 
+^ if i can make it down , i 'll be arriving at the train station at &name ... would anyone be able to pick me up ? 
+^ and i would need taking back to the station for 7pm ish on sunday ( do those times sound like what everyone else had in mind ? ? ) . 
+^ let me know what you guys have planned , &name as &name says , it kind of depends on who else can make it . 
+^ see you all then ( i hope ! ! ) , lots of love , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

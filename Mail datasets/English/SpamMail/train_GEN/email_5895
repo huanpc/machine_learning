@@ -1,0 +1,39 @@
+<message>
+<date> fri, 24 jan 2003 17:36:36 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] meetings for the weekend ... &smiley 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ dear everyone 
+^ i hope everyone will agree that we should get together over the weekend to discuss our ideas further and make some decisions , if we are to effectively make our deadline on next wednesday , as we do n't have much time left ! 
+^ &name and i would like to suggest that we have a couple of meetings : 
+^ &name &name ( sunday ) 
+^ &name : &num p.m. ? 
+^ ( or a convenient time ) . 
+^ &name : &name ? 
+^ this meeting would be for * everyone * involved with &name &name . 
+^ our priority should be discuss what we will need to achieve before next wednesday 's deadline , and how we are going to achieve it . 
+^ &name is compiling an agenda for this meeting , and will forward it shortly . 
+^ preliminary &name ( &name ) 
+^ &name : &num p.m. ? 
+^ ( or a convenient time ) . 
+^ &name : &name ? 
+^ this meeting would be for those of us involved with abstracting the class and interface designs . 
+^ i believe this could probably involve &name , &name , &name , but really any of us who would like to contribute to this specific area . 
+^ we should aspire to producing a working set of interfaces and packages by the end of the meeting , as we do n't have much time left . 
+^ please could everyone reply by email to indicate what times they are available ? 
+^ despite the impending deadline , * please * feel free to forget everything this evening and have a good friday night ! 
+^ all the best 
+^ &name 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,35 @@
+<message>
+<subject>
+<text_normal> 
+
+^ delegation + &name . 
+^ stress relief is in sight ... 
+</text_normal>
+</subject>
+<from> com </from>
+<date> sun, 23 mar 2003 23:05:55 -0600 </date>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name is pleased to announce groupmanager &num for &name &name ! 
+^ groupmanager &num has the group management functionality that &name &name and group owners have longed dreamed of ... at a cost that wo n't break the bank . 
+^ new release special : purchase groupmanager &num before april &num , &num and save &num ! 
+^ groupmanager &num provides : 
+^ - easy and complete management of &name &name groups . 
+^ - reduction of &name &name &name and / or help desk time . 
+^ - a clean user interface that requires no end-user training ! 
+^ - historical audit trail of all group modifications 
+^ - delegation of group creation , change and deletion to end-users . 
+^ the release of groupmanager &num further strengthens &name 's position in the &name &name and domino market . 
+^ no other product comes close to groupmanager &num for ease of use and complete functionality . 
+^ in fact , &name magazine says ' &name makes notes group management easy ' and ' groupmanager should be listed as a stress relieving medication ! ' &name information on groupmanager &num can be found at &website 
+^ so , get the &name &name group monkey off your back ! 
+^ start saving time and money by implementing groupmanager &num today ! 
+^ find out more by contacting &name ( &name ) , &name ( &name ) . 
+^ remember , purchase by april &num , &num to save &num ! 
+^ groupmanager &num is brought to you by &name ... maker of high quality &name &name / domino software such as &name pro , command center &name , and &name . 
+</text_normal>
+</message_body>
+</message>

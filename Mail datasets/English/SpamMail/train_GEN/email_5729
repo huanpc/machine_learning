@@ -1,0 +1,33 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ mail delivery failed : returning message to sender ( fwd ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 19 dec 2002 17:23:36 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ 
+^ - ------ forwarded message 
+^ return-path : ( ) envelope-to : &email &name : &name , &num &name &num &num : &num : &num &num &website # &num ) id 18p4g6-0001gq-00 for &email ; &name , &num &name &num &num : &num : &num &num x-failed-recipients : &email from : mail delivery system ( &email ) to : &email subject : mail delivery failed : returning message to sender &name : ( &email ) &name : &name , &num &name &num &num : &num : &num &num 
+^ this message was created automatically by mail delivery software . 
+^ a message that you sent could not be delivered to &num or more of its recipients . 
+^ the following address ( es ) failed : 
+^ &email : &name error from remote mailer after &name &name ( &email ) : &name ] : &num all email should be sent to user and not to a specific machine ( e.g. ( &email ) ) 
+^ - ------ this is a copy of the message , including all the headers . 
+^ ------ 
+^ return-path : ( &email ) &website ( [ &website ident [ ceqh3yljppnvhv8uq6corlkn9dyvvcb5 ] ) &website # &num ) id 18p4g6-0001gn-00 ; &name , &num &name &num &num : &num : &num &num &name : exmh version 2.5+cl &num / &num / &num with nmh-1.0.4 to : " &name &name " ( &email ) cc : &email subject : re : modified relaxng &name : message from " &name &name " ( &email ) &website.4.33.0212181113120.14151-20000 &email ) &name : &num &name : text / plain ; charsetus-ascii date : &name , &num &name &num &num : &num : &num &num from : &name &name ( &email ) &name : ( &email ) 
+^ thank you . 
+^ validated fine this time . 
+^ you got the tick . 
+^ have a nice break . 
+^ &name 
+^ - ------ end of forwarded message 
+</text_normal>
+</message_body>
+</message>

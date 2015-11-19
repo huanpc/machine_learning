@@ -1,0 +1,56 @@
+<message>
+<date> sun, 15 jun 2003 14:06:24 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : question 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks , i 'll try this out today &smiley 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ the version of the &name that i have mostly has the naming convention with _n_ etc in the rels as i think you need . 
+^ you can always copy this from &website or tell me where you got your version from and i 'll update that . 
+^ let me know if this is n't enough . 
+^ preliminary code revisions are below . 
+^ in case of problems , my version is in &website
+^ the revised version will stamp some of the rels in the &name with a cfrom and &name field , but so far i 'm not printing this . 
+^ if you want me to do so , let me know what output format you 're using . 
+^ it should be putting the cfrom and &name on all lexical rels , but let me know if you need more . 
+^ i have n't tested this very , so let me know asap of problems , 
+^ &name 
+^ &website 
+^ basic_relation : cont & [ &name handle , wlink * list * , &name * top * , from string , to string ] . 
+^ revised code : &website 
+^ add the following 
+^ ( defparameter * * &name ) 
+^ and redefine as follows : 
+^ ( defun ( sense history word lex-ids from to ) # +ignore ( format &char " ~%construct word ~a " word ) ( let ( ( located-fs ( if ( fboundp * add-position-fn * ) ( funcall * add-position-fn * sense from to ) sense ) ) ) ( make-edge : id ( next-edge ) : category ( indef-type-of-tdfs sense ) : rule ( if history ( mhistory-rule ( car history ) ) word ) : dag located-fs : leaves ( list word ) : lex-ids lex-ids : morph-history ( construct-morph-history word lex-ids history from to ) : spelling-change ( when history ( mhistory-new-spelling ( car history ) ) ) : from from : to to ) ) ) 
+^ in mrs / 
+^ add : 
+^ ( defun ( fs ) ( let ( ( label-list ( fs-arcs fs ) ) ) ( if * rel-from-feature * ( cdr ( assoc * rel-from-feature * label-list ) ) ) ) ) 
+^ ( defun ( fs ) ( let ( ( label-list ( fs-arcs fs ) ) ) ( if * rel-from-feature * ( cdr ( assoc * rel-to-feature * label-list ) ) ) ) ) and redefine : 
+^ ( defun ( fs indexing-p ) ; ; ; indexing-p is set if this is being called when we 're indexing lexical ; ; ; entries ( if ( is-valid-fs fs ) ( let * ( ( handel-pair ( if ( not indexing-p ) ( extract-handel-pair-from-rel-fs fs ) ) ) ( handle-var ( if handel-pair ( create-variable ( cdr handel-pair ) variable-generator ) ) ) ( pred ( create-type ( extract-pred-from-rel-fs fs ) ) ) ( reltype ( extract-type-from-rel-fs fs ) ) ( fvps ( extract-fvps-from-rel-fs fs variable-generator indexing-p ) ) ( parameter-strings ( get-fvps-parameter-strings fvps ) ) ( from ( extract-from-from-rel-fs fs ) ) ( to ( extract-to-from-rel-fs fs ) ) ) ( unless ( member pred * dummy-relations * ) ( make-char-rel : reltype ( if reltype ( create-type reltype ) ) : sort pred : &name handle-var : flist fvps : parameter-strings parameter-strings : cfrom from : cto to ) ) ) ) ) 
+^ in mrs / 
+^ redefine 
+^ ( defparameter * * ( , ( vsym " &name " ) , ( vsym " from " ) , ( vsym " to " ) ) " a list of features which are ignored completely " ) 
+^ and add 
+^ ( defparameter * * ( vsym " from " ) ) 
+^ ( defparameter * rel-to-feature * ( vsym " to " ) ) 
+^ &website - delete the in-package if so ) 
+^ ( in-package : lkb ) 
+^ ( defun ( fs from to ) ( let ( ( new-tdfs ( make-from-to-tdfs from to ) ) ( result &name ) ) ( if new-tdfs ( with-unification-context ( fs ) ( if ( setq result ( yadu fs new-tdfs ) ) ( copy-tdfs-elements result ) fs ) ) fs ) ) ) 
+^ ( defparameter * * " ) 
+^ ( defun ( from to ) ( let ( ( unifs ( list ( make-unification : lhs ( create-path-from-feature-list " ( synsem local keys key from ) ) : rhs ( make-u-value : type ( format &name " ~a " from ) ) ) ( make-unification : lhs ( create-path-from-feature-list " ( synsem local keys key to ) ) : rhs ( make-u-value : type ( format &name " ~a " to ) ) ) ) ) ) ( let ( ( indef ( process-unifications unifs ) ) ) ( when indef ( setf indef ( create-wffs indef ) ) ( make-tdfs : indef indef ) ) ) ) ) 
+</text_embedded>
+</message_body>
+</message>

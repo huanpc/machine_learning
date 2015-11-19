@@ -1,0 +1,15 @@
+<message>
+<date> sun, 06 apr 2003 08:04:34 +0000 (gmt) </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ save over &num ! ! 
+^ on &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

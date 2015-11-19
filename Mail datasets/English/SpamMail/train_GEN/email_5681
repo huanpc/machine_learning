@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ first overdue letter ( &name ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<date> thu, 05 dec 2002 10:40:15 -0000   </date>
+<message_body>
+<text_normal> 
+
+^ &name &name college &name &name &name 
+^ &name &name &name 
+^ &name &name college &name 
+^ &num &name &num 
+^ dear &name &name 
+^ please note that the following material is now overdue . 
+^ &char fine of 20p per item per day will be charged to your college &name if the item remains overdue for more than &num days during full term . 
+^ items &num or more days overdue are charged at 50p per day , as are items not returned at any end-of term recall . 
+^ copy no : &num author : &name , &name &name class : &name &name &char due : &num &name &num dei 
+^ &name : c++ : how to program / &name &name , &name &name 
+^ copy no : &name author : &name , &name class : &name &name due : &num &name &num 
+^ &name : &name : a reader and coursebook / edited by &name &name and &name &name 
+^ author : &name , &name copy no : &name class : &name &name due : &num &name &num can &name : formal semantics : an introduction / &name &name 
+^ copy no : &num author : &name , &name class : &name &name due : &num &name &num 
+^ &name : probability : an introduction / &name &name , &name &name 
+^ copy no : &num author : &name , &name &name class : &name &name due : &num &name &num dei 
+^ &name : &name and &name wide web : how to program / &name &name , &name &name , &name &name 
+^ if you are unable to return these items immediately , please contact the library . 
+^ yours sincerely , 
+</text_normal>
+</message_body>
+</message>

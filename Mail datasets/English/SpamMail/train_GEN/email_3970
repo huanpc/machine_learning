@@ -1,0 +1,35 @@
+<message>
+<date> fri, 25 may 2001 14:53:53 -0700 </date>
+<from> org </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ " t.s. &name " wrote : 
+</text_normal>
+<text_embedded> 
+
+^ so with regards to dates in &name ... 
+^ i believe &name is leaving for &name on the 17th , so would it be all right if i came and stayed with you from the 16th until the 18th ? 
+</text_embedded>
+<text_normal> 
+
+^ &name , 
+^ yes , we look forward to your visit ! 
+^ ... and you 're certainly welcome to stay longer if you need to shorten your stay at &name 's for any reason . 
+^ do you need a ride from the airport on the 12th - or has &name taken care of that ? 
+^ &name exams went well for you ( assuming these are over now ? ) . 
+^ i sure enjoyed my visit with &name and your parents ! 
+^ &num highlight was canoeing up the river &name on an incredibly warm and pleasant afternoon after watching the &name cup final . 
+^ am told the best guide on the river was not in town however - he was apparently busy pondering the origins of rocks in another part of the country . 
+^ - &name 
+</text_normal>
+</message_body>
+</message>

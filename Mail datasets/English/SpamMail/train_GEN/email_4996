@@ -1,0 +1,27 @@
+<message>
+<date> fri, 21 mar 2003 20:40:16 -0500 (est) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ question 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi dr. &name , 
+^ my name is &name &name - we met very briefly at sigmod last june ( at your demo session ) . 
+^ i am currently trying to decide where i want to to a phd - i have been accepted at &name , &org , and &name . 
+^ i am having great difficulty making this decision , as all &num are great schools . 
+^ people from &org and &name told me that you interviewed there , and i know you went to &org as an undergrad and &name as a grad . 
+^ as a &name person , the database community at &name and &org would look a lot more appealing to me if you ended up going there ( there is no real community at &org right now , and if you joined &name and &name at &name , that department would be significantly improved ) . 
+^ i know you are still going through interviews and have no idea where you will end up , but i was wondering if you had any initial preferences going in ( especially now after you spent the day at &name ) and what you think might be the general likelyhood of going to one of those &num schools should they both give you an offer . 
+^ i know this is a very difficult / awkward question to answer , so if you ca n't answer it , i understand . 
+^ anyway , if you have any other views of &name vs. &org for grad school , let me know &smiley 
+^ thanks , &name 
+</text_normal>
+</message_body>
+</message>

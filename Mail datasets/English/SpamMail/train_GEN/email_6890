@@ -1,0 +1,43 @@
+<message>
+<from> com </from>
+<to> com com </to>
+<subject>
+<text_normal> 
+
+^ request to be able to distribute your program for free 
+</text_normal>
+</subject>
+<date> 15 apr 2003 10:58:26 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ &website . 
+^ i am contacting you because &name would like to request to include your free &name &name program within our mybizgate club members " &name " ( perks page ) page linked back to your web site . 
+^ basically as a perk for members as is stated on the members page " these programs are freely available on the &name , however it has taken many man hours to find these great programs of which meet very stringent guidelines . 
+^ gathered together under agreement for usage as a perk for &name club members . " as well there is a statement of usage " all software is for personal use only , for legal or warranty issues check with program publisher . 
+^ &name has been tested within the platform ( operating system ) listed , the &name club is not responsible for any damage or consequences raised by use or inability to use any programs listed . '' &name may also be interested in other free programs you will make available . 
+^ please feel free to contact me any time . 
+^ looking forward to your reply , 
+^ &name &name , &name free &num , direct &num , &email 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , 
+^ &website . 
+^ i am contacting you because &name would like to request to include your free &name &name program within our mybizgate club members " &name " ( perks page ) page linked back to your web site . 
+^ basically as a perk for members as is stated on the members page " these programs are freely available on the &name , however it has taken many man hours to find these great programs of which meet very stringent guidelines . 
+^ gathered together under agreement for usage as a perk for &name club members . " as well there is a statement of usage " all software is for personal use only , for legal or warranty issues check with program publisher . 
+^ &name has been tested within the platform ( operating system ) listed , the &name club is not responsible for any damage or consequences raised by use or inability to use any programs listed . 
+^ '' &name may also be interested in other free programs you will make available . 
+^ please feel free to contact me any time . 
+^ looking forward to your reply , 
+^ &name &name , &name free &num , direct &num , &email 
+</text_normal>
+</part>
+</message_body>
+</message>

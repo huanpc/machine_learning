@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name &name &name &num &name 
+</text_normal>
+</subject>
+<date> thu, 03 apr 2003 11:17:17 -0900 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ . 
+^ &char ) &char 
+^ x' &name * ' &pound; - &char y ] ( { &char ] jb' &char 
+</text_normal>
+</message_body>
+</message>

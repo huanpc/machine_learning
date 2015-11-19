@@ -1,0 +1,33 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ alert : rates below &num available , but not for &name &name 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 21:42:28 -2000 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ alert : rates below &num available , but not for long 
+^ fact : interest rates are at their lowest point in &num years ! 
+^ &name &name &name 
+^ * &name 
+^ * &name &name &name 
+^ * &name &name 
+^ * debt * auto loans 
+^ * credit cards 
+^ * student loans 
+^ * second mortgage 
+^ * &name &name 
+^ this service is &num free without any obligation . 
+^ stop by at : &website 
+^ drop list : &website 
+^ vpso0selbkqsymyqdjbbz3yzyiqywuoszbzsgjvypuqujwavbvqobld0hbrrxldwc0tm 
+</text_normal>
+</message_body>
+</message>

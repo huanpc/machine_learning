@@ -1,0 +1,23 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ practical class in the intel laboratory 
+</text_normal>
+</subject>
+<date> thu, 30 jan 2003 12:54:33 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ there will be a formal practical class for part &name students in the intel lab this afternoon ( thursday 30th january ) , tomorrow ( friday 31st ) and next thursday ( &name 6th ) . 
+^ it is likely that all the machines will be needed between about &num : &num and &num : &num , so please be prepared to leave if asked . 
+^ we do apologise for the inconvenience and the short notice . 
+^ many thanks , &name &name 
+^ &org student administration &name &name building &name &name &name &name avenue &name &name &name , &name &name &name telephone : &num ( &num ) &num &name : &num ( &num ) &num email : &email 
+^ &website / 
+</text_normal>
+</message_body>
+</message>

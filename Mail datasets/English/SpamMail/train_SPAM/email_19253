@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name ! 
+^ $ &num , &num cash , over and over again , for just $ &num ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> sat, 5 apr 2003 23:38:49 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hi - 
+^ this brand new program has just launched . 
+^ you can make up to $ &num , &num cash , over and over again , as a member of this easy , extremely inexpensive money generator . 
+^ the owner is our affiliated partner , and our &name is in a very top position in their network . 
+^ we jumped on this quickly due to the reputation and anticipation their programsalways provide . 
+^ check out more by sending a blank e-mail , with 'sc ' in the subject line , to &email 
+^ have a great day , &name &name &name 
+^ if you wish to be removed from this list , please send an e-mail to &email with remove in the subject line . 
+</text_normal>
+</message_body>
+</message>

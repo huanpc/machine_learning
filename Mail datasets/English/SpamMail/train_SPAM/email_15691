@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name &name systems news opt-in 
+</text_normal>
+</subject>
+<date> mon, 31 mar 2003 16:23:31 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

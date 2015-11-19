@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name a $ &num , &num &name &name &name 
+</text_normal>
+</subject>
+<date> tue, 8 apr 2003 02:52:29 -0400  </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you are receiving this email from &name as stated in our terms and conditions in return for being provided free browser based email services . 
+^ if you feel you have received this email in error or do not wish to receive additional offers , please follow the instructions at the bottom of this email . 
+^ ( &website ) ( &website ) 
+^ to no longer receive these offers , click here . 
+^ . 
+^ ( &website to have your email address removed by postal mail . 
+^ &name &num &name &name &name city , ok &num 
+</text_normal>
+</message_body>
+</message>

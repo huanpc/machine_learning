@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<date> fri, 28 mar 2003 09:38:47 -0800 </date>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ all you need for access is a valid email address 
+^ &website 
+</text_normal>
+</message_body>
+</message>

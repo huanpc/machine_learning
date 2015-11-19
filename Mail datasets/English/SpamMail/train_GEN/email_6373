@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : if you have n't openned my 1st email -do n't -rread this first 
+</text_normal>
+</subject>
+<date> wed, 30 oct 2002 08:46:08 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ glads to hear it &name - ca n't understand why your computer was clean as i sent the atachment aas i received it , and only when i was alerted and looked again , i saw that the attachment did n't have a &name but a .emt ( i think that was it - i have deleted it now ! ) which mail administrator intercepted and told me about . 
+^ now whether mail administrator took it out before sending the message on , i do n't know - if so it must be awfully clever ! 
+^ however my computer does n't seem to be affected so perhaps all is ok &name 
+^ it was completely clean when it arrived at my computer - i looked at the source to check ! 
+^ hope all is well with you 
+^ love &name 
+^ on tuesday &num &name &num &num : &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ unfortunately , although the email came from a reputable source to me , hidden in it was a virus , which inadvertantly i must have passed on to you . 
+^ i 'm really sorry about this . 
+^ however , if it makes you feel better , when i discovered this i ran my virus &name , and &name found nothing . 
+^ and my computer seems to be working ok . 
+^ but just in case - if you have n't openned it yet - do n't ( &name because the contents were quite good ! ) &name 
+</text_embedded>
+</message_body>
+</message>

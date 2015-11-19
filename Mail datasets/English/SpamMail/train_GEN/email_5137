@@ -1,0 +1,64 @@
+<message>
+<date> mon, 22 jul 2002 12:52:27 +0200 (met dst) </date>
+<to> ac.uk </to>
+<from> org </from>
+<subject>
+<text_normal> 
+
+^ [ &name ] &name &name representation - call for interest 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+^ call for interest 
+^ the &name working group on the representation of &name semantic information , which was established earlier this year and had a small preliminary meeting at &name &num , will hold its first meeting on tuesday , january &num , &num in &name , the &name , in conjunction with the 5th international workshop on computational semantics ( iwcs-5 , january &num ) . 
+^ this will be a one-day meeting for discussions on a number of important issues relating to the representation of multimodal semantic information . 
+^ working group members and other experts will be asked to prepare position statements on these issues . 
+^ we intend to make a website where these position statements will be made available , together with background material that may be useful for preparing the discussions . 
+^ the meeting should then primarily consist of structured discussions , fueled by summaries of position statements . 
+^ topics to be addressed at the meeting include : 
+^ * about the &name in general : 
+^ - aims and scope 
+^ - objectives and general requirements 
+^ + extensibility , openness ,. . 
+^ ( see also &name &num workshop paper " towards multimodal remantic representation " by &name &name and &name &name , which can be found at &website 
+^ * meaning representation from different perspectives , such as : 
+^ - language ( text and speech ) 
+^ - language generation 
+^ - design of embodied agents 
+^ - interpretation of gestures and facial expressions 
+^ - fusion and coordination of modalities 
+^ - multimodal dialogue system architecture 
+^ * what should be represented 
+^ - semantic and pragmatic aspects of meaning 
+^ - information in gestures , postures , facial expressions 
+^ - nonlinguistic information in speech and text 
+^ - metadata : time stamps , processing information ,. . 
+^ - social and cultural information 
+^ - links to other information 
+^ * basic components and mechanisms 
+^ - constructs 
+^ - mechanisms for linking and sharing 
+^ - specific issues , such as + underspecification techniques + flatness of representations 
+^ - which representation formalisms should be analysed for best practices , lessons learned , common underlying ideas , special features ,. . 
+^ * relation to neighouring activities 
+^ - &name , &name , semantic web 
+^ - ontologies , domain modeling , user modeling 
+^ - lexicon formats 
+^ - &name schemes 
+^ * action plans 
+^ - activities to be undertaken 
+^ - who does what when 
+^ - &name membership 
+^ - &name communication 
+^ - next meeting 
+^ this &name meeting is open to anyone who takes an active interest in the representation of multimodal semantic information ; the working group also welcomes new members . 
+^ if you are interested in participating , and / or in joining the working group , please get in touch with &name &name ( at &email ) who is chairman of this &name and organizes the &name activities together with &name &name ( &name ) and &name &name ( &name ) . 
+^ suggestions for additional topics or for contributions relating to &name topics are also welcome ! 
+^ for background information about the &name see also &website for information about iwcs-5 see &website 
+</text_normal>
+</message_body>
+</message>

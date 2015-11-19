@@ -1,0 +1,53 @@
+<message>
+<to> co.uk ac.uk ac.uk ac.uk com ac.uk com ac.uk com com ac.uk com ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name tuesday 3rd december 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<date> thu, 28 nov 2002 09:30:34 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ natural language and information processing group seminar &website / 
+^ &name : automatic indexing and retrieval of crime-scene photographs : havin &char 
+^ recourse to natural language processing 
+^ speaker : &name &name - &name university 
+^ &num noon , tuesday 3rd december , room &name 
+^ &org , &name &name building , &name &name avenue &website 
+^ &name : 
+^ current approaches in automatic text-based image indexing fail in capturi ng 
+^ semantic information expressed in the captions , that is important for the 
+^ subsequent retrieval of the images . 
+^ the indexing and retrieval prototype 
+^ developed within the scene of crime information system ( socis ) project 
+^ attempts to go beyond keyword-based approaches and methods that extract 
+^ syntactic relations from captions . 
+^ socis relies on advanced natural langu age 
+^ processing techniques in order to extract relational facts from captions . 
+^ these relational facts consist of a pragmatic relation '' and the entiti es 
+^ this relation connects ( triples of the form : arg1- &name &name ) . 
+^ in socis , the 
+^ triples are used as complex image indexing terms ; however , the extraction 
+^ mechanism is used not only for indexing purposes but also for image retri eval . 
+^ extracting the corresponding relational structures from free-natural &name uage 
+^ queries , socis attempts to match the query triples to the indexing triple &char and 
+^ retrieve the appropriate images with high precision and recall . 
+^ we have 
+^ implemented this approach for crime investigation , an application domain where 
+^ efficient querying of large crime-scene photograph databases is of crucia &char 
+^ importance . 
+^ in this presentation , i will start with a demonstration of the current so &name 
+^ prototype and an overview of the application scenario and i will then foc us on 
+^ the &name techniques used for developing the prototype . 
+^ the main extraction 
+^ mechanism will be presented , as well as a preliminary retrieval mechanism ( the 
+^ " query triples - indexing triples " matching mechanism ) . 
+^ ( all welcome - for instructions on how to get to the &org , 
+^ please see : &website ) 
+</text_normal>
+</message_body>
+</message>

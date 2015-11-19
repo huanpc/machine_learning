@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ do you feel lobely ? 
+^ ... &name this , it might help . 
+</text_normal>
+</subject>
+<date> sat, 05 apr 2003 12:47:05 -0900 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

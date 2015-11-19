@@ -1,0 +1,224 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name : &name &name : &name wireless connections ; the power of the &name command 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<date> wed,  2 apr 2003 11:00:31 -0500 (est) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ | &name &name april &num , &num 
+^ essential tools and advice for the windows administrator . 
+^ more tips : our sponsors : 
+^ - &name commander &num -- free 30-day evaluation free download : get critical patches and updates out in this issue | table of contents 
+^ &num administrator tips 
+^ - set processor affinity for a device driver 
+^ - &name &name wireless connections 
+^ - &name with the &name command 
+^ - ask &name &name : upgrades vs. ghosting for &name migration 
+^ &num important announcements and links 
+^ - know-it-all quiz # &num : &name computing 
+^ - &name &name : a primer on permissions 
+^ - &name &name : &name the contenders 
+^ - letters to the editor : true it blooper rebuttals 
+^ - &name contest : new month , new prize ! 
+^ &name an iaudio &name player 
+^ sponsored by : &name &name 
+^ intuitive desktop management ... free software download ! 
+^ you 've been there before . 
+^ you can handle viruses , accidental damage from new software and the occasional corrupted registry . 
+^ but what if you 're hit with &num or &num emergencies at once ? 
+^ there wo n't be time to experiment , re-image or reload . 
+^ you 'll need &name commander &num . 
+^ with it , you can quickly &name dead or damaged systems to a convenient windowing interface stocked with powerful tools . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ try it free with a 30-day evaluation &name : processor affinity for a device driver | by &name &name 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ windows &num administrators with multiprocessor systems are probably familiar with the procedure for setting a particular application to work with a specific processor . 
+^ this is known as assigning processor affinity for an application , and in certain circumstances it can be extremely useful . 
+^ if you have a dual-processor system with web server software and database software , you can assign each one to a specific processor so they do n't step on each other 's toes , so to speak . 
+^ but it 's also possible to assign hardware drivers to a specific processor . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ click for the full &name wireless connections | by &name &name 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ if you start upgrading users to &name &name , you may find that their wireless cards no longer work . 
+^ if this happens , check to see the status of your network connection in the network connections dialog . 
+^ if the icon for that connection is dimmed , you might have a configuration problem in software , or you might need to reinstall your hardware . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ click for the full with the &name command | by &name &name 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ how can you find out where your network problems originate ? 
+^ the &name command is used to analyze problems with &name to &name address translations , and has &num useful options for troubleshooting . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ click for the full tip ... &name . 
+^ ghosting for &name migration | ask &name &name 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ dear &name : i 'm attempting to standardize and refine some of our personal computer practices . 
+^ our pc tech team uses &name &name images when configuring new pcs with &name &name pro prior to deployment . 
+^ the time required for an in-place &name and application upgrade is substantial when compared to the use of a drive image . 
+^ i 'm trying to make a formal case against doing in-place upgrades to &name &name pro and my &name has requested documentation to substantiate my claims . 
+^ any suggestions for finding just such documentation ? 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ click here for &name 's expert more tips like this one ? 
+^ then sign up to ' tips from our experts ' biweekly newsletter . 
+^ just &num click will automatically activate your free by : &name &name &name software deployment solution 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ free download : deploy any software to any computer with new prism deploy &num 
+^ &name ! 
+^ automatically target and deploy critical software and patches from &num interface without conducting a separate inventory . 
+^ &name even the most complicated tasks in the most complex environments . 
+^ get full windows installer support and &name reporting capabilities . 
+^ prism deploy is the most powerful , reliable and flexible tool available for packaging , customizing and deploying any software to any computer , anywhere across the network , in minutes . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ click here for your free download : messages and links : 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ confrontational computing | know-it-all quiz # &num 
+^ &name your knowledge with this week 's quiz , then visit the list of related information you 'll find on the answer page . 
+^ the best way to work around the potential conflicts that can occur when more than &num version of &name &name ( i.e. &name &num and &name &num ) is accessing the same &name volume is to : 
+^ a. upgrade your version of &name 
+^ b. change the &name for the problematic object 
+^ d. download the &name &name &name manager for &name &num 
+^ e. destroy all &name permissions on the problematic object 
+^ f. call in an &name hostage negotiator 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ click for the correct primer on permissions | &name &name 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ permissions can save your systems or sabotage them -- it all depends on how well you manage them . 
+^ make sure your rights and permissions are up to par with this little blackbook . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ click here to check out this featured the contenders | &name &name 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ another blooper contest has drawn to a close at a dead heat ! 
+^ have a look at the current contenders below and help us pick the lucky winner of a &name &name cordless optical mouse . 
+^ submit your own for a chance to win and remember -- the selection for our 100th blooper submission , and the special accompanying prize , looms near . 
+^ the process is simple : &name , rate and submit . 
+^ reacquaint yourself with our true it blooper category today . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ &name ! 
+^ true it blooper # &num : fire in the &name ! 
+^ true it blooper # &num : lost in the &name &name ! 
+^ true it blooper # &num : the rules of or check out all the entries for &name and march it blooper rebuttals | letters to the editor 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ when we published the seemingly silly , yet ultimately controversial , ' &name ! 
+^ true it blooper # &num : &name , we hardly knew ye , ' we could have never anticipated the onslaught of user responses it would generate . 
+^ this letters to the editor article features responses that were particularly memorable . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ click here for the full month , new prize ! 
+^ win an iaudio &name player | &name contest 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ april showers bring &name flowers -- oh , and an iaudio &name &num &name &name player with an &name tuner and voice recorder . 
+^ take the snow tires off your car , start filling the pool and , most importantly , submit a training and career tips | free free biweekly newsletter provides expert certification and career tips and advice , and the latest updates on &name certification and training developments . 
+^ just &num click here will automatically activate your contacts * * * * * * * * * * * * * * * * * * * * * * 
+^ &name &name , ) ) &name feedback on tips and ideas for new tip content . 
+^ &name parry , &name &name ) ) send me your news , press releases and product announcements . 
+^ &name &name , senior site editor , & &website ) ) send me your original articles and best practices . 
+^ catherine &name , &name &name , & &website ) ) send me your bloopers and featured topic ideas . 
+^ &name &name , senior news writer ) ) send me your news and story ideas . 
+^ matt &name , &name writer ) ) send me your windows manageability news and press releases . 
+^ christine &name , &name ) ) send me your ideas for online event and discussion day topics . 
+^ david &name , assistant editor ) ) send me your tips and true it bloopers . 
+^ &name &name , assistant editor ) ) send me your favorite web sites and white papers . 
+^ mike kelly ) ) contact me to sponsor this or any other newsletter . 
+^ * * * * * * * * * * * * * * * * * * * * * about this newsletter * * * * * * * * * * * * * * * * * * * * * * * * 
+^ published by - the most targeted it &name &name &num all rights reserved . 
+^ : : : : : : : : : : : : : : : : : : : : about this newsletter : : : : : : : : : : : : : : : : : : : : : 
+^ published by - the most targeted it &name &name &num , all rights reserved . 
+^ unsubscribe from ' administrator tips ' 
+^ - &name reply to this email with remove within the body or subject 
+</text_normal>
+<text_embedded> 
+
+^ or 
+^ - go to : - log in to edit your profile . 
+^ - click on the link to edit email subscriptions . 
+^ - uncheck the box next to the newsletter you wish to unsubscribe from . 
+^ - when finished , click 'save changes to my profile . ' 
+</text_embedded>
+</message_body>
+</message>

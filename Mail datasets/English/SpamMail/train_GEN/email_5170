@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : meeting 
+</text_normal>
+</subject>
+<date> tue, 27 may 2003 22:09:09 +0100 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ friday is open for me . 
+^ how about &num ? 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> sat, 5 apr 2003 00:28:39 -0300 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name sua carreira independente 
+^ &name sua carreira independente ! 
+^ clique aqui ! 
+</text_normal>
+</message_body>
+</message>

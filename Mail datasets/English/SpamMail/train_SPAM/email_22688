@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 16th notice : &name &name &name &name # &num - please &name immediately 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> mon, 07 apr 2003 20:34:09 -0400 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

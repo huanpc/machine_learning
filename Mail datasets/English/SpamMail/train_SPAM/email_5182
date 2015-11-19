@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ neuer link 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name , &name dir ganz &name was sagen &smiley aber nicht per mail ich hab da eine beraschung f' &char dich ! ! ! 
+^ hier &name f' &char deine beraschung &smiley 
+</text_normal>
+</message_body>
+</message>

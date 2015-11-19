@@ -1,0 +1,44 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ your birthday , &name 
+</text_normal>
+</subject>
+<date> mon, 16 sep 2002 13:36:00 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ to &name 
+^ &name birthday to you happy birthday to you happy birthday dear &name &name birthday to you . 
+^ &name , whoa and hoopla . 
+^ so am how does it feel to be &num ? 
+^ your all grown up now . 
+^ hope your well and having a good birthday , i 'm fine and no longer working which is slightly odd . 
+^ &name said to wish you a happy birthday , so happy birthday from &name . 
+^ my e-mail address at &name will be &email or something like that ( replace numbers with letters ect ) i know i 'm a computer genius . 
+^ take care and have a good birthday 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ to &name 
+^ &name birthday to you happy birthday to you happy birthday dear &name &name birthday to you . 
+^ &name , whoa and hoopla . 
+^ so am how does it feel to be &num ? 
+^ your all grown up now . 
+^ hope your well and having a good birthday , i 'm fine and no longer working which is slightly odd . 
+^ &name said to wish you a happy birthday , so happy birthday from &name . 
+^ &website or something like that ( replace numbers with letters ect ) i know i 'm a computer genius . 
+^ take care and have a good birthday 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

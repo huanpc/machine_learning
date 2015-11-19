@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ productreturn # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ what is your return policy ? 
+^ i have a &name that turned out not to meet my needs 
+
+</text_normal>
+</message_body>
+</message>

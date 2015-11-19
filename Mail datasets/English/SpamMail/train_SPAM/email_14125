@@ -1,0 +1,26 @@
+<message>
+<date> wed, 02 apr 2003 04:17:06 +0-200 </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name ! 
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( html ) 
+^ ( head ) 
+^ ( title)l'sel &name kizlar ( /title ) ( /head ) 
+^ ( body ) 
+^ ( div align' center ' ) ( center ) ( table border' &num ' cellpadding' &num ' cellspacing' &num ' style' border-collapse : collapse ' bordercolor' # &num ' width' &num ' id' &name ' ) ( tr ) ( td width' &num ' ) ( &char align' center' ) ( font color' # &name ) ( &char ) ( span style' background-color : # &name ' ) ( a target' _blank ' href' &website ' ) l'sel &name kizlar' in ve lolitalar' in v'deolari ( /a) ( /span) ( /b) ( /font) ( /td ) ( /tr ) ( tr ) ( td width' &num ' ) ( &char align' center ' ) ( a target' _blank ' href' &website ' ) ( img border' &num ' src' &website ) ( /tr ) ( tr ) ( td width' &num ' ) ( &char align' center' ) ( b) ( font color' # &name ' size' &num ' ) ( a target' _blank ' href' &website ' ) ( marquee bgcolor' # &name ' width' &name )bedava ... &name ... &name ... &name ... &name ... &name ... &name ... &name ... ( /marquee) ( /a) ( /font) ( /b) ( /td ) ( /tr ) ( tr ) ( td width' &num ' ) ( &char align' center' ) ( font size' &num ' face' arial ' color' # &name ) ( &char ) ( a style' text-decoration : none ' target' _blank ' href' &website ' ) &website ) ( &char align' center' ) ( b) ( font face' arial ' size' &num ' color' # &num ' ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ( a style' text-decoration : none ' target' _blank ' href' &website ' ) &website ) ( /tr ) ( /table ) ( /center ) ( /div ) 
+^ ( /body ) 
+^ ( /html ) 
+</text_normal>
+</message_body>
+</message>

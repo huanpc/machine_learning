@@ -1,0 +1,33 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : more books 
+</text_normal>
+</subject>
+<date> wed, 21 mar 2001 14:56:08 +0000 (gmt) </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ on &name , &num mar &num &num : &num : &num &num ( &name ) &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ here 's some books for the final ( i hope i think you hope ? ? ! ! ! ) &num courses ... 
+^ continuous maths : 
+^ ( oh , okay it looks like there is n't a reading list for this one after all ... ) 
+^ &name and &name : 
+^ logic in computer science : modelling and reasoning about systems , &name and &name * * * * * * * * * no symbolic logic and mechanical theorem &name , chang and &name * * * * * * * * * * * yes logic for information technology , &name * * * * * * no logic for computer science , &name and &name * * * * * * * yes but &name have to recall it from some poor student who has it out &name the 1st june 
+^ see yous , 
+^ &name xx 
+</text_embedded>
+<text_normal> 
+
+^ &name &name &email 
+</text_normal>
+</message_body>
+</message>

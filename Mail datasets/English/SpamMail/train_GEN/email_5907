@@ -1,0 +1,52 @@
+<message>
+<from> ac.uk </from>
+<to> org </to>
+<date> 23 jan 2003 14:33:37 +0000 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] &name - urgent read 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ timeline based work delegation for &name group please conform to the deadlines . 
+^ things to be done:- 
+^ thursday 
+^ &num revised version of the requirements - &name 
+^ &num bibliography - &name 
+^ &num &name harness for testing the big &name package - &name 
+^ &num &name emails &name about how the testing is to be done . 
+^ &num start writing specs - &name , &name , &name , &name , &name 
+^ &num &name to convert all minutes and previous documetns to latex . 
+^ &num &name to email group with a primer on using &name . 
+^ &num &name to investigate a windows based &name system and elaborate upon it . 
+^ friday 
+^ &num spec writing continued ... hopefully get a first version of specs underway by friday afternoon . 
+^ &num . 
+^ draft out a list of deliverables to be presented on the day of the first review meeting . 
+^ &num . 
+^ saturday 
+^ &num try to get a project management software working . 
+^ &num . 
+^ &num . 
+^ sunday 
+^ &num &name to consolidate specs . 
+^ &num &name consolidates teh specs made so far into &name ( &name helps her ) . 
+^ &num . 
+^ monday 
+^ &num . 
+^ &num . 
+^ &num . 
+^ tuesday 
+^ &num &name &name - to be attended by all &num . 
+^ &num . 
+^ i shall be filling in more details onto this timeline as we move along it is going to be difficult to split up the task of drafting out a clean-cut specification at the moment . 
+^ please bear with me . 
+^ cheers , &name 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

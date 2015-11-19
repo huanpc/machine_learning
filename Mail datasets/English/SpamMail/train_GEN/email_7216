@@ -1,0 +1,45 @@
+<message>
+<date> wed, 05 mar 2003 08:43:35 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : tonight at 11pm 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ no problem mate , i had a good crowd of people from this and other colleges who got the job done well . 
+^ this is the big day , i am very excited , i have a real chance but we all need to work hard now . 
+^ so anyone that you can convince to vote for me today , would mean so much . 
+^ &name 
+^ - -on &num march &num &num : &num &num &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ sorry i could n't make this , but just to say , all the best and good luck ! 
+^ &name 
+^ on tuesday &num mar &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ hi , just to remind everyone that we are meeting at 11pm outside &name plodge . 
+^ please , absolutely anyone who can come along , come along . 
+^ even &num minutes would help , you can go home when you like . 
+^ this is the last big push , i have n't had a proper sleep in ages , and i really need you . 
+^ we will be putting up flyers and stuff all over the city . 
+^ it should be fun ! 
+^ if you ca n't make it for that time but would like to come later , just give me a ring on &num &num 
+^ i will have my mobile on me , i will probably be up all night so phone me any time . 
+^ also , please &num send stuff to email lists that are nothing to do with the elections , on my behalf . 
+^ this is n't allowed . 
+^ let 's get ready to roll ! 
+^ &name 
+</text_embedded>
+
+^ &name &name &name college , &name &name &name &name &name : room &name , &name &name e-mail &name : &email &name &name : &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

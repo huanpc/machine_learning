@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ prescriptions written and filled online ! 
+^ us doctors and pharmacies ! 
+^ &name &name ! 
+^ iq &char 
+</text_normal>
+</subject>
+<date> thu, 20 mar 03 02:21:15 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

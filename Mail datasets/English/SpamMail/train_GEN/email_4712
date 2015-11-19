@@ -1,0 +1,29 @@
+<message>
+<date> wed, 14 may 2003 10:11:33 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ re : photos 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , you may be a cstit , but i am a &name . 
+^ &name wed , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &num cstits in a row . 
+<text_embedded> 
+
+^ they 're at &website / 
+^ &char 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,26 @@
+<message>
+<date> sun, 26 jan 2003 10:29:08 -0000 </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ virus ? ? ? 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i got the following email through an attachment from a friend . 
+^ i 'm confused but &char deleted the file anyway because i 'd never seen a &name symbol before on a file and i saw i had received the file earlier this week . 
+^ can you please confirm whether this was an actual virus before &char send the email around to everyone ? 
+^ thanx , &name 
+^ &name &name &name college &name &num &num 
+</text_normal>
+</part>
+<part num="2" type="application/msword">
+</part>
+</message_body>
+</message>

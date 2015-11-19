@@ -1,0 +1,33 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : conflict with &name survey--your help is needed ! 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 18:33:15 -0800 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ca n't read this ? 
+^ go here : &website 
+^ new survey : conflict with &name 
+^ dear &name , 
+^ we need your help ! 
+^ today , we 're conducting another international consumer survey about the conflict with &name and we 'd like to invite you to help us out . 
+^ &name your opinion and make a difference ! 
+^ for your help , you will automatically be entered to the big and famous $ &num , &num cash sweepstakes upon completing this survey . 
+^ please complete this survey right away to get your opinions counted and entry to the sweepstakes . 
+^ to access the online survey click the banner below to start ! 
+^ if you ca n't see the banner , click here to start : &website 
+^ thank you for your participation - we value your opinions as always ! 
+^ we hope you enjoy the survey ! 
+^ sincerely , 
+^ &name &name &name director 
+^ &website &name , ca &num 
+</text_normal>
+</message_body>
+</message>

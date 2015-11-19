@@ -1,0 +1,25 @@
+<message>
+<date> 10 apr 2003 20:55:14 -0000 </date>
+<from> com com </from>
+<subject>
+<text_normal> 
+
+^ someone sent you an &name ! 
+^ see who ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &email has sent you an &name &name ! 
+^ an &name &name likes you ! 
+^ ( a href' &website ) 
+^ ulxhcaxew3gyx5twws4 
+^ es1 
+^ below is the result of your feedback form . 
+^ it was submitted by &email ( &email ) on thursday , april &num , &num at &num : &num : &num 
+</text_normal>
+</message_body>
+</message>

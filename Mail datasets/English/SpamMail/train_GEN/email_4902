@@ -1,0 +1,28 @@
+<message>
+<date> thu, 25 jul 2002 11:19:12 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : map works ! ! 
+^ .. what 's next ? 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , what is your number again ? 
+^ &name 
+^ on &name , &num &name &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey &name . 
+^ jeong-hyon just commmited a version of the gui . 
+^ i 'll redesign the network and send it to you again . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

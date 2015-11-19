@@ -1,0 +1,18 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ chinese new year concert &num &name &num monday 
+</text_normal>
+</subject>
+<date> sun, 12 jan 2003 23:25:07 -0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="application/msword">
+</part>
+</message_body>
+</message>

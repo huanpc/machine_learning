@@ -1,0 +1,22 @@
+<message>
+<from> co.uk </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> mon, 16 sep 2002 20:39:06 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ no &name , but i think she 'll probably still check &email 
+^ &name 
+^ hi &name , 
+^ do you have &name 's new email address ? 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * say goodbye to &name joints with your free sample ... 
+</text_normal>
+</subject>
+<date> sun, 6 apr 2003 04:44:02 -0400 </date>
+<content-type> text/html; charset = "iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+^ if you believe this is spam , click to unsubscribe , click ( a valuable message is made possible by your &name membership 
+</text_normal>
+</message_body>
+</message>

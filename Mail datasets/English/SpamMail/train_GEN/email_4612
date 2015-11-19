@@ -1,0 +1,24 @@
+<message>
+<date> wed, 30 apr 2003 14:22:30 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ emails 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ &name question : do you think i should throw away the " to " and " from " header information ? 
+^ - clearly it cannot be used without serious anonymisation , but the question is whether it is possible to do that robustly and actually retain any useful information at all . 
+^ i.e. saving &website " might &website " might be quite personal . 
+^ i think this such information will probably have to be discarded . 
+^ cheers , 
+^ &name
+</text_normal>
+</message_body>
+</message>

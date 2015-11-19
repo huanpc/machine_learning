@@ -1,0 +1,60 @@
+<message>
+<date> wed, 02 apr 2003 11:16:51 -0800 </date>
+<from> org </from>
+<subject>
+<text_normal> 
+
+^ re : harddrive for &name & &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ * on [ &num &num : &num ] bespoke : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name to say , swapping internal drives will not work . 
+^ laptops and their operating systems / drivers all carry proprietary bridge files pertinent only to the machine it is installed in. &name : your &name &name .. &name / &num will carry &num set of internal bridge files and a &name &name &name / &num will likely have another set . 
+^ the only option in regards to swapping would be a non-bootable &name drive . 
+</text_embedded>
+<text_normal> 
+
+^ i 'm not necessarily interested in maintaining the &name install with the switch . 
+^ i can reinstall from scratch , as if it is a blank drive . 
+^ if necessary , i can boot into e.g. &name rescue mode and &num out the disk . 
+^ i just want the flexibility of having modular components . 
+^ the drive on the dell is dead ; no matter what our answer is , i need a drive for that system . 
+^ can you recommend a specific drive ? 
+^ i 'll just order it through your website . 
+^ if that drive happens to ' fit ' into the &name , with the understanding that the &name might not be so kind , that 'd be peachy . 
+^ thanks again - &name 
+</text_normal>
+<text_embedded> 
+
+^ you would just need to load the drivers on each machine and the unit is hot-pluggable . 
+^ any questions please let me know . 
+<text_embedded> 
+
+^ thanks for making your informative site available . 
+^ considering that you have just about the best prices for laptop harddrives , and the expertise , i am going to defer to you for this answer . 
+^ i have a &name &name &name ( &name &num ) and a later model &name &name &name ( &name &num ) . 
+^ the drive on the dell is kaput , and i would like a replacement drive that can swap between the &num systems . 
+^ i think something in the &num &name range would be best ; it seems like the best price point and fits within my budget ( say , about $ &num shipped plus tax , or thereabouts ) . 
+^ i 'm in &name &name . 
+^ is there a drive that can fulfill this need ? 
+^ are there any issues ? 
+^ i can supply more exacting model numbers if necessary ( the thinkpads have a broad range of system numbers ) . 
+^ &name - &name 
+^ ( ) &name &name ( ) ' as sharp as the leading | &email | edge of a ball bearing . ' ( ) ( ) - &name &name 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ ( ) &name &name ( ) ' as sharp as the leading | &email | edge of a ball bearing . ' ( ) ( ) - &name &name 
+</text_normal>
+</message_body>
+</message>

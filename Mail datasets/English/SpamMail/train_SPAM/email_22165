@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ finally a digital &name &name 
+</text_normal>
+</subject>
+<date> mon, 07 apr 2003 15:22:39 -1600 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &name 
+^ if you no longer wish to receive our offers and updates click here and we will promptly &name your request . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

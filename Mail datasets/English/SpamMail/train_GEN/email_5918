@@ -1,0 +1,22 @@
+<message>
+<date> thu, 29 may 2003 09:36:20 -0400 </date>
+<from> com </from>
+<to> altmuehlnet.de </to>
+<subject>
+<text_normal> 
+
+^ [ &name ] &name rendering in &name ( &name &name &char ) 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="multipart/signed">
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

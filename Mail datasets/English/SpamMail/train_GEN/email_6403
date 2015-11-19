@@ -1,0 +1,91 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name &name 
+</text_normal>
+</subject>
+<date> sat, 15 mar 2003 15:20:42 -0500 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ i 'm so greatful . 
+^ i 've already started to make changes to incorporate it with my product . 
+^ thank you very much . 
+^ i 'm assuming i am allowed to use this in a commercial ( eg shareware ) product , without restriction , so long as i agree to provide you with fair compensation provided the finished product is a success . 
+^ also , i am putting this copyright in the resources of this &name : 
+^ &name &num &name &name &name . 
+^ includes code licensed from &name &name , &name &num . 
+^ please let me know if that is alright , or if you would like any changes to the verbage . 
+^ thanks again , 
+^ - &name &name &name 
+^ &website . 
+^ &name this is useful to you . 
+^ if you make a small fortune out of your shareware product ( well , you can dream ) , then remember me as a poor student who helped make it possible &smiley 
+^ regards , 
+^ &name 
+^ on wednesday &num mar &num &num : &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi ! 
+<text_embedded>
+
+<text_embedded> 
+
+^ what language are you using to write your tool ? 
+</text_embedded>
+
+</text_embedded>
+
+^ c++ 
+<text_embedded>
+
+<text_embedded> 
+
+^ and are you looking to modify 
+</text_embedded>
+
+</text_embedded>
+
+^ general executables or innosetup &num ? 
+^ general executables . 
+^ thanks , 
+^ - &name &name &name 
+^ what language are you using to write your tool ? 
+^ and are you looking to modify general executables or innosetup &num ? 
+^ regards , 
+^ &name 
+^ on tuesday &num mar &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ &name , 
+^ i 'm working on a small shareware scripting language . 
+^ the language gets " compiled " to an exe ( using a stub executable ) . 
+^ i want to be able to 
+</text_embedded>
+
+^ allow 
+<text_embedded> 
+
+^ users to replace the icon of the executable , but i have n't found a way to get this to work under &num . 
+^ i was wondering if you would be interested in providing me a custom 
+</text_embedded>
+
+^ version 
+<text_embedded> 
+
+^ of your " innosetup &name &name " i could bundle with the product . 
+^ basically the name would be changed , and it would simply take &num command line parameters which would be the executable to affect , and the icon to replace with . 
+^ i would actually prefer no &name , maybe just some file logging . 
+^ if you 're interested we can work out a fair arrangement . 
+^ thanks , 
+^ - &name &name &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

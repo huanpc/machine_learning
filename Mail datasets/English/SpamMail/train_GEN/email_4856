@@ -1,0 +1,27 @@
+<message>
+<date> mon, 22 jul 2002 14:13:30 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : the predicates and expressions &name code ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ yes , that is correct . 
+^ on mon , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name people ( not to be confused with boat people ) , 
+^ just want to confirm which boxes will be ready for friday . 
+^ are they : filter map groupby 
+^ please let me know if i 'm correct . 
+^ thanks , &name 
+</text_embedded>
+</message_body>
+</message>

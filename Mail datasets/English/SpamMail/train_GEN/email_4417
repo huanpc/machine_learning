@@ -1,0 +1,80 @@
+<message>
+<date> mon, 3 feb 2003 13:27:50 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hi &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hey &name , 
+</text_normal>
+<text_embedded> 
+
+^ um , not quite . 
+^ we 've split up - my decision . 
+^ it 's a long story , but you 'll probably have to wait for my biography to be written ... 
+</text_embedded>
+<text_normal> 
+
+^ &name me a copy will you . 
+</text_normal>
+<text_embedded> 
+
+^ hope your life is less traumatic ! 
+</text_embedded>
+<text_normal> 
+
+^ i guess i have n't had to go through an engagement break-up , but my life is pretty traumatic in other ways ! 
+^ i can definitely relate to trauma ! 
+</text_normal>
+<text_embedded> 
+
+^ when they talk about &name , do they discuss how much of it can be done with clever pattern spotting ? 
+^ is this &name ? 
+^ &name [ &num marks ] 
+</text_embedded>
+<text_normal> 
+
+^ &name .. &name ... dunno really ... i guess ... like ... they sort-of like ... talk about stuff . 
+^ ( i 'd give myself &num for that . ) 
+^ i suppose in some ways it 's all about pattern-spotting of sorts , just depends whether the patterns are 'deep " or 'shallow " . 
+^ the basic framework is usually something like : 
+^ lexical analysis ( proper-name / date-spotting , etc. ) - ) syntactic analysis - ) &name ( predicate-based ) relational analysis ( semantic expansion? * ) - ) &name / stochastic comparison 
+^ * synonym / hypernym / hyponym conceptual expansion 
+</text_normal>
+<text_embedded> 
+
+^ but i do feel they are missing the point , in places . 
+</text_embedded>
+<text_normal> 
+
+^ yes , i suppose the problem is that it 's difficult to draw a box around what &name actually is . 
+</text_normal>
+<text_embedded> 
+
+^ how 's the project work proceeding ? 
+</text_embedded>
+<text_normal> 
+
+^ have n't really started the main project yet - that begins next term , but i will have to decide fairly shortly what i 'm going to do . 
+^ am hoping to be inspired by something ( soon ) . 
+</text_normal>
+<text_embedded> 
+
+^ ps i might be down in &name in early march , to play go . 
+</text_embedded>
+<text_normal> 
+
+^ &name ! 
+^ tell me when and i 'll see if i can come along . 
+^ all the best &name , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,30 @@
+<message>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : looking for harpsichords 
+</text_normal>
+</subject>
+<date> thu, 31 jan 2002 23:16:26 -0000 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , now i have a feeling my college has a harpsichord ... well there 's something harpsichord shaped anyway . ... but it lives up &num flights of stairs ... i do n't know if that makes life difficult . 
+^ best if you email my co rep &name - &email he 's more in touch with music related things in college than i am and knows the girl who is organ scholar and music society chair better than i do . 
+^ &name 
+</text_normal>
+<text_embedded> 
+
+^ dear all , 
+^ i am writing to you as the reps of the colleges closest to &name 's. 
+^ for the performance of &name 's &name on the 11th &name we are in need of a harpsichord . 
+^ the best offer we have had so far is &pound; &num from &name . 
+^ would it be possible for you to find out if you have a harpsichord in your college and if so , could we hire it from you for a &pound; &num or less ( preferably less ) . 
+^ many thanks , &name 
+^ &name &name &num &name 's college &num &num 
+</text_embedded>
+</message_body>
+</message>

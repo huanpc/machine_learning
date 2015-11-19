@@ -1,0 +1,30 @@
+<message>
+<date> sun, 30 mar 2003 14:04:59 -0700 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name $ &num , &num - poetry contest 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ the &name &name . 
+^ &num issue &num 
+^ free poetry contest ! ! 
+^ &name $ &num , &num ! ! ! 
+^ &website ( &website ) 
+^ enter the international open amateur poetry contest for your chance to win the grand prize of $ &num , &num ! 
+^ click here for details : &website ( &website ) 
+^ &name &name ! ! 
+^ cancel your subscription here : 
+^ requests may take up to &num hours to process . 
+^ as a result , you may receive additional e-mail during this time . 
+^ qnivq ( fnxbjfxv 
+^yzpb ( pbz 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,35 @@
+<message>
+<date> tue, 21 jan 2003 13:51:34 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks &name . 
+^ just &num further thing ... 
+^ is it necessary for us to be in &name at any point during august ? 
+^ thanks , 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i think generally the &name graduation ceremonies are in december , january , &name , march , april , may and so forth . 
+^ you can check with your college the date that they will slot you in. whilst the course finishes once your thesis has been approved ( in august ) , until the degree committee of the &org have met to ratify the final results ( in september ) and the &org have also met ( in october ) , you will not be awarded the &name &name degree . 
+^ i hope that rather convoluted explanation helps ! 
+^ &name 
+^ hi &name , 
+^ is there a graduation date for the &name course ? 
+^ when does the course officially finish ? 
+^ thanks , 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

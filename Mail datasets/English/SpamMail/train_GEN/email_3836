@@ -1,0 +1,33 @@
+<message>
+<date> wed, 02 oct 2002 11:18:16 +0100 </date>
+<to> co.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ at &num : &num am &num / &num &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i just thought that i would let you know that i have been offered a place on the msc course at &name , with a bursary to cover the course fees . 
+^ i have accepted it , and that starts on monday , with registration this friday . 
+^ it is amazing how things fall into place right at the last minute . 
+^ thank you both very much for writing references for me , i do really appreciate it 
+^ - particularly at this rushed time of year . 
+</text_embedded>
+<text_normal> 
+
+^ congratulations &name and good luck with the course . 
+^ all the best , 
+^ col. 
+^ &name &name department of geological sciences university of &name &name , &name &name &name kingdom &name : &num ( &num ) &num &num &num &name : &num ( &num ) &num &num &num &email 
+</text_normal>
+</message_body>
+</message>

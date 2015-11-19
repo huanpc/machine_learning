@@ -1,0 +1,56 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ mummy calling 
+</text_normal>
+</subject>
+<date> tue, 7 nov 2000 16:37:56 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , darling . 
+^ just a short message to keep you up to date with events here in the &name . 
+^ sad news on sunday , i 'm afraid . 
+^ &name ( &name 's ) dad died suddenly so as you 'd expect , &name 's a mess . 
+^ &num good thing is that the tuesday club have all rallied and seem to have managed to settle their differences . 
+^ the funeral is on thursday so i 'll have to take the afternoon off work for that . 
+^ another nice man gone . 
+^ &name has surprisingly survived her weekend in &name but i 'm sure she 'll tell you more than i can . 
+^ &name is history again as of last night . 
+^ &name says she missed out on the floating-on-air , everything is great stage this time and went straight to the how -annoying -can -he -get stage so it was doomed from the restart . 
+^ less than &num weeks to go until &name &name . 
+^ will have to look out my most aerodynamic underwear to throw at him . 
+^ no more rubbish springs to mind . 
+^ write right soon , right ? 
+^ love , 
+^ &name xx
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , darling . 
+^ just a short message to keep you up to date with events here in the &name . 
+^ sad news on sunday , i 'm afraid . 
+^ &name ( &name 's ) dad died suddenly so as you 'd expect , &name 's a mess . 
+^ &num good thing is that the tuesday club have all rallied and seem to have managed to settle their differences . 
+^ the funeral is on thursday so i 'll have to take the afternoon off work for that . 
+^ another nice man gone . 
+^ &name has surprisingly survived her weekend in &name but i 'm sure she 'll tell you more than i can . 
+^ &name is history again as of last night . 
+^ &name says she missed out on the floating-on-air , everything is great stage this time and went straight to the how -annoying -can -he -get stage so it was doomed from the restart . 
+^ less than &num weeks to go until &name &name . 
+^ will have to look out my most aerodynamic underwear to throw at him . 
+^ no more rubbish springs to mind . 
+^ write right soon , right ? 
+^ love , 
+^ &name xx
+</text_normal>
+</part>
+</message_body>
+</message>

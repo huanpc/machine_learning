@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<date> sat, 14 dec 2002 20:27:56 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ how are you doing ? 
+^ guess knee-deep in the exam preparations ! 
+^ hey have you collected the language sample paper with solutions from the admin office ? 
+^ i forgot to do that last friday and guess i 'll come &num day to the computer lab . 
+^ i remember &char wanted to collect last yrs speech papers - are ur plans to come to &name still on ? 
+^ do let me know . 
+^ cheers , &name . 
+^ stop more &name with the new &name &num and get &num months free * &website 
+</text_normal>
+</message_body>
+</message>

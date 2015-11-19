@@ -1,0 +1,49 @@
+<message>
+<date> fri, 24 jan 2003 21:05:40 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] &name &num of &num 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ i 'll remind everyone that they should have understood &name , checked out the current src and &name modules and have your own stuff added to the repository by now . 
+^ sunday is too late to be fiddling with this stuff . 
+^ note that the docs have to be handed by &num noon on tuesday , and thus we need to have them finished by monday . 
+^ that means we are on day &num out of &num . 
+^ the spec document must be &num words long . 
+^ we have &num words in the requirements document ( &name is working on the latex version of this , and he will have them done by saturday morning ) 
+^ thus we need another &num words . 
+^ &name , &name , &name , &name & &name are down to get the specs done . 
+^ &name , &name and i stayed until &num on thursday designing stuff . 
+^ as a result of this i am writing the module definitions for the distribution system and &name is / has written the module design for the factorisation system . 
+^ somewhere we need to articulate &name 's work on these algorithms . 
+^ this could be javadocs or in latex . 
+^ i suggest that everyone should meet at the &name at &num on saturday . 
+^ we can have at least &num groups of us , one on the spec . 
+^ &name and one on the module interfaces . 
+^ the aim to get those &num words typed in , and to finish the module interfaces . 
+^ i got this from deliverables.html : the deliverables expected for each of the &num review meetings ... 
+^ functional specification and module design 
+^ * introduction - informal description of project 
+^ * assumptions - to clarify specification 
+^ * environment - choice of language and tools 
+^ * inputs , functions & outputs 
+^ * overall architecture 
+^ * specification of components and their test requirements 
+^ * &name acceptance criteria 
+^ * division of tasks - including manager , librarian , secretary , documentation as well as design , coding , troubleshooting and arrangements for covering each other 
+^ we also need a project plan - who is doing this ? 
+^ what kind of user interface are we aiming for ? 
+^ please could everyone re-read the deliverables and check we have n't missed anything - it is better to worry now than to miss an important part out . 
+^ &name 
+^ " nothing would please me more than being able to hire &num programmers and deluge the hobby market with good software . " - &name &name &num 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,32 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ information passed on 
+</text_normal>
+</subject>
+<date> sat, 3 may 2003 14:49:33 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name phoned me this morning to tell you this , so it is information from &name to &name via &name . 
+^ she knows somebody who has been working ( aged &num ) for &name ( university of &name local examination syndicate or something like that ) , doing programming for &pound; &num per hour . 
+^ she got the impression it was fairly easy to get work there ; the address is &num &name road if you are interested . 
+^ love , mum 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name phoned me this morning to tell you this , so it is information from &name to &name via &name . 
+^ she knows somebody who has been working ( aged &num ) for &name ( university of &name local examination syndicate or something like that ) , doing programming for &pound; &num per hour . 
+^ she got the impression it was fairly easy to get work there ; the address is &num &name road if you are interested . 
+^ love , mum 
+</text_normal>
+</part>
+</message_body>
+</message>

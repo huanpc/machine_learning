@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &num . 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 07:14:41 -0800 </date>
+<content-type> text/html; charset="euc-kr" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ . 
+^ &website 
+^ &pound; &num &char &char 
+^ - . 
+^ - ' ' 
+^ &website all rights reserved &email 
+</text_normal>
+</message_body>
+</message>

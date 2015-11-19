@@ -1,0 +1,14 @@
+<message>
+<content-type> multipart/alternative </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ message for &name &name - we are trying to reach you 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 18:42:24 -0400 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

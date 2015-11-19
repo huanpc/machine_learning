@@ -1,0 +1,21 @@
+<message>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<to> com </to>
+<from>
+</from>
+<date> mon, 11 dec 2000 18:47:13 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ are you still online ? ? ? 
+^ &name 
+</text_normal>
+</message_body>
+</message>

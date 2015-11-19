@@ -1,0 +1,32 @@
+<message>
+<date> wed, 18 dec 2002 11:30:30 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ yeah , it 's quite a good one - i think you look a little like 'strider " from lotr ! 
+^ i guess it 's that rugged un-shaven look . 
+^ anyway , have a good christmas yourself mr. &name . 
+^ &char 
+^ on wed , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ good photo ! 
+^ really cool to catch up at the weekend , hope to see you again sometime in the not too distant future . 
+^ have a good christmas and all that &smiley 
+^ &name 
+^ hi guys ! 
+^ here 's the argos photo - nice . 
+^ &char 
+</text_embedded>
+</message_body>
+</message>

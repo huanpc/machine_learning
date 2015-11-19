@@ -1,0 +1,22 @@
+<message>
+<date> mon, 07 apr 2003 21:06:42 +0900 </date>
+<from> go.jp </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ hope you are well and you had a nice weekend . 
+^ could you please send it to me by april 14th ? 
+^ we are waiting for your paper for &name . 
+^ all the best , &name 
+</text_normal>
+</message_body>
+</message>

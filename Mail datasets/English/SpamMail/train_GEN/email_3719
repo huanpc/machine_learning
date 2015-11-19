@@ -1,0 +1,23 @@
+<message>
+<date> mon, 25 feb 2002 09:43:20 +0000 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ please note that the test will be a closed book test as in previous years and as stated earlier , but as a concession to fairness those students taking the test tomorrow afternoon , and only those taking the test tomorrow afternoon , may collect a copy of the handout and references for tomorrows lecture today , if they want . 
+^ this will give them the opportunity to look at the lecture material before the lecture and the test on tuesday , so as to not unfairly disadvantage them . 
+^ i will also start the tuesday afternoon test at &num not &num so as to give those students taking the tuesday test a bit more time to look through their lecture notes . 
+^ students taking the test on wednesday morning will be given the handouts with the lecture in the normal way . 
+^ any queries see me 
+^ &name
+</text_normal>
+</message_body>
+</message>

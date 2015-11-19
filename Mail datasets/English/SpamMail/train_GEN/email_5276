@@ -1,0 +1,35 @@
+<message>
+<from> me.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name co-opted 
+</text_normal>
+</subject>
+<date> tue, 7 jan 2003 21:59:35 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_embedded> 
+
+^ i 'm delighted to announce that we 've unanimously coopted &name &name to council . 
+^ &name , please would you add &name to the council-private and council- discussion mail lists ? 
+^ her email is &name &name ( &email ) 
+</text_embedded>
+<text_normal> 
+
+^ &name , welcome to council . 
+^ you should now be on the &email and &email email lists . 
+^ that is you should receive email sent to either of these addresses , and you should be able to send to them . 
+^ council-private is strictly council members only , which is occasionally useful . 
+^ council-discussion is the list we use to discuss most things . 
+^ it is council ( &name &name , &char &name &name , me , &name &name , &name &name , you , &name &name and &name &name ) plus some other people , roughly , the people who are responsible for communication ( &name &name - journal editor , &name &name - membership secretary , &name &name - newsletter editor , &name &name - publicity , &name &name - webmaster , &name &name - youth newsletter ) . 
+^ as you start receiving messages on these &num lists , you should rapidly get the hang of it . 
+^ also , email sent to the address &email should get forwarded to &email this may not be terribly useful , but still . 
+^ anyway , you should receive &num copies of this message because i am &name it to the &num address . 
+^ finally , could you have a look at ( &website ( &website you is ok . 
+^ if you are prepared to have this information published , it would be nice to have the rest of your contact information . 
+^ &name . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : activating &name etc in &name ( and machine ? ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 01 nov 2002 13:14:40 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_embedded> 
+
+^ thanks very much - do n't know if he 'll be able to let us know if he 's changed laptops ( he 's travelling and may not be reading email ) , but it wo n't matter much if there 's a sl delay getting him set up 
+^ it 's should not take too much time to update the &name table and install it again , if he changed his laptop . 
+^ the port is ready and it 's on vlan &num . 
+^ i have left a &name cable there for him . 
+</text_embedded>
+<text_normal> 
+
+^ regards , &name 
+</text_normal>
+</message_body>
+</message>

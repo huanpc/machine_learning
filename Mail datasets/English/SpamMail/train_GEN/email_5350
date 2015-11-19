@@ -1,0 +1,17 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<date> 27 feb 2003 15:26:36 +0000 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name &name 
+^ i have just telephoned the &org regarding your wife 's application for admission . 
+^ her application was actually logged on today , but it will be &num to &num weeks before her papers can be sent to the department , due to a backlog at the board . 
+^ i hope this information helps . 
+^ yours sincerely 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ family is the priority . 
+</text_normal>
+</subject>
+<date> mon, 24 mar 2003 13:45:35 -0500 </date>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ special promotion . 
+^ you were selected to receive this special offer . 
+^ &num nights of vacation in &name / &name with a cruise , just $ &num per person . 
+^ href' &website 
+</text_normal>
+</message_body>
+</message>

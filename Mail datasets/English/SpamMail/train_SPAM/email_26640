@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ consolidate bills into &num compact payment qw 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 18:29:08 -0400 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ n' &char &name +rm 
+^u' &char ' &num  
+^ l' &char 
+</text_normal>
+</message_body>
+</message>

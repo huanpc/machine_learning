@@ -1,0 +1,40 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> fri, 15 nov 2002 10:22:50 -0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ the final trip of the term will be next weekend : 
+^ 22-24th november , staying in &name &name , &name ( &name &name ) 
+^ for anyone unfamiliar with the area , &name has the highest and most rugged mountains in &name and &name - it 's a really beautiful part of the country with lots of fantastic walking ( &num peaks over 3000ft including &name itself ) . 
+^ it should be another fantastic trip ( as i hope you have come to expect from &name ! ) 
+^ &name will be by minibus , leaving between &name and 7pm on friday evening ( it 's a bit closer than the lakes ) . 
+^ walks will run on saturday and sunday and we will return on sunday evening . 
+^ the cost of the trip is &pound; &num pounds - you will need to be a member ( although you can join when you sign up ) . 
+^ there are up to &num places on this trip . 
+^ it is important that you follow the standard sign-up procedure as follows in order to secure your place ( we have had a lot of enquiries so it 's looking like it will be very popular ) : 
+^ a box will be placed in &name &name 's college porters " lodge from 8am until &name this monday ( 18th november ) . 
+^ you will need to print your name and details in the first free row on the sign-up sheet and follow the instructions on the sheet . 
+^ places are on a first come , first served basis . 
+^ you should bring a cheque for &pound; &num ( + membership fees as appropriate ) . 
+^ also , be sure to take a trip info sheet . 
+^ membership is &pound; &num pounds for a year or &pound; &num for &num years ( or the duration of your course if longer ) . 
+^ if getting to &name 's on monday morning is going to be impossible , then please let me know , and we should be able to arrange a pre-sign for you . 
+^ you should email me with notice even if you have mentionned it in person , please . 
+^ i look forward to seeing many of you soon ! 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="application/ms-tnef">
+</part>
+</message_body>
+</message>

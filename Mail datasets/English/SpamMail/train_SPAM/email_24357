@@ -1,0 +1,22 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ wrote a letter to me . 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ have received a postcard . 
+^ can see it here . 
+^ only for adults : sex-test . 
+^ &name , can refuse to receive letters . 
+^ for that just send a letter to &email with the subject : delete . 
+</text_normal>
+</message_body>
+</message>

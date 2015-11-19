@@ -1,0 +1,22 @@
+<message>
+<date> sun, 23 mar 2003 05:48:28 -0800 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ $ &num free at blackjack ballroom 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) ( &website ) ( &website ) 
+^ remove yourself from this recurring list by : 
+^ &name sending a blank email to &email ( mailto : &email ) 
+^ b. sending a postal mail to customerservice , &num &name &name # &num &name city , &name &num 
+^ this message was sent to address 
+</text_normal>
+</message_body>
+</message>

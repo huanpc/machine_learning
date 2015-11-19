@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> thu, 28 feb 2002 10:49:47 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+^ jist a wee email since i am in college . 
+^ hope your reply to my mail was really hard to understand , at first i thought that you had just returned it and i was like , oh no ! ! ! 
+^ i 've just been accepted for &name next year ( if &char pass my &name this year ! ) so i am well chuffed , how long have you got to do and what do you fancy doing ? 
+^ i go straight into third year so i can get my honours in &num , after that i dont have a clue ! ! 
+^ maybe see you sometime this year ! ! ! 
+^ &name xxx 
+^ join the world 's largest e-mail service with &name &name . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

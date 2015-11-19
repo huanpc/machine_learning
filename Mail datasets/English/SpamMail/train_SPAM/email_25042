@@ -1,0 +1,21 @@
+<message>
+<date> wed, 9 apr 2003 22:52:14 -0700 </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &num &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website &num ) 
+^ you are receiving this email as a subscriber to our mailing list . 
+^ to remove yourself from this and related email lists click here : unsubscribe my ( &website ) email 
+</text_normal>
+</message_body>
+</message>

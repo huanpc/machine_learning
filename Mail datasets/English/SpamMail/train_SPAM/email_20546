@@ -1,0 +1,21 @@
+<message>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<subject>
+<text_normal> 
+
+^ &name &name ! ... &name &name ... &name ... &num &num 
+</text_normal>
+</subject>
+<date> mon, 7 apr 2003 18:43:00 -0400 </date>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name ( &website / ) 
+^ no mail ! 
+^ ( &website ) 
+^ t6f20ltopho 1658pgur1-322etgk378l19 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,58 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ upwardly ( ? ) mobile 
+</text_normal>
+</subject>
+<date> sun, 25 feb 2001 22:56:54 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ invested in a mobile phone last week . 
+^ have found it a &name for keeping in touch with &name / &name . 
+^ please consider one , especially &name . 
+^ my number is &num . 
+^ &name said you 'd texted her . 
+^ feel free to do the same with me ! 
+^ still signed off , but i am noticing an improvement . 
+^ was speaking to &name &name on friday . 
+^ he was asking how you were getting on . 
+^ &name seems a lot better about her " pals " . 
+^ how 's your social life at the moment ? 
+^ got your home date yet ? 
+^ you ok for money ? 
+^ how 's the workload just now ? 
+^ &name and write and write ! 
+^ love , 
+^ &name xx 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ invested in a mobile phone last week . 
+^ have found it a &name for keeping in touch with &name / &name . 
+^ please consider one , especially &name . 
+^ my number is &num . 
+^ &name said you 'd texted her . 
+^ feel free to do the same with me ! 
+^ still signed off , but i am noticing an improvement . 
+^ was speaking to &name &name on friday . 
+^ he was asking how you were getting on . 
+^ &name seems a lot better about her " pals " . 
+^ how 's your social life at the moment ? 
+^ got your home date yet ? 
+^ you ok for money ? 
+^ how 's the workload just now ? 
+^ &name and write and write ! 
+^ love , 
+^ &name xx 
+</text_normal>
+</part>
+</message_body>
+</message>

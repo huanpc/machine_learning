@@ -1,0 +1,45 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name and baila night 
+</text_normal>
+</subject>
+<date> fri, 8 nov 2002 21:44:35 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hey everyone . 
+^ just a quick reminder of our event tomorrow ! ! ! ! ! ! ! 
+^ thats this saturday . 
+^ its the return of the infamous &name and baila night . 
+^ come and dance the night away to the latest smooth grooves mixed with the greatest old school rnb and &name . 
+^ if last time was anything to go by , it 'll be full really quickly , so come early . 
+^ be there or miss a night to remember . 
+^ when : saturday 9th november where : &name party room what time : &name cost : &pound; &num members , &pound; &num non-members 
+^ see you there 
+^ the &name &name committee " eagles may soar high and proud but weasels do n't get sucked into jet engines " 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hey everyone . 
+^ just a quick reminder of our event tomorrow ! ! ! ! ! ! ! 
+^ thats this saturday . 
+^ its the return of the infamous &name and baila night . 
+^ come and dance the night away to the latest smooth grooves mixed with the greatest old school rnb and &name . 
+^ if last time was anything to go by , it 'll be full really quickly , so come early . 
+^ be there or miss a night to remember . 
+^ when : saturday 9th november where : &name party room what time : &name cost : &pound; &num members , &pound; &num non-members 
+^ see you there 
+^ the &name &name &name 
+^ - --------------------------------------------------------------' eagles may soar high and proud but weasels do n't get sucked into jet engines " 
+</text_normal>
+</part>
+</message_body>
+</message>

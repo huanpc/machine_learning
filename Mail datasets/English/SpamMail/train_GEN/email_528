@@ -1,0 +1,23 @@
+<message>
+<date> thu, 28 jun 2001 20:11:14 +0100 </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i am currently waiting for you to come online . 
+^ &name , you 're even later than &name would be ! 
+^ anyway , a video has been left in the flat - 'sense and &name " - is it yours ? 
+^ very best wishes , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,26 @@
+<message>
+<date> wed, 9 apr 2003 10:23:22 -0700 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name predictions &num accurate 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) 
+^ our stock market weekly report has been very accurate in predicting market tops & bottoms using technical analysis . 
+^ this has given our subscribers a great trading advantage . 
+^ for free excerpts of our current analysis on where the market is going next , click on the icon above or simply click ( &website . 
+^ the preceding message was sent to you as an opt-in subscriber to &name . 
+^ we will continue to bring you valuable offers on the products and services that interest you most . 
+^ if you wish to unsubscribe please click here : 
+^ to unsubscribe via postal mail , please send request to : &num military trail # &num &name beach , &name &num 
+^ ( &website ) 
+</text_normal>
+</message_body>
+</message>

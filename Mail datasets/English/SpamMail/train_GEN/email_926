@@ -1,0 +1,51 @@
+<message>
+<date> sun, 10 mar 2002 12:41:26 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ sorry to hear football was cancelled . 
+^ tell me - did you watch tv in " &name " tv room ? 
+^ you must be very courageous ! 
+^ did they have &name at the cheese and wine party ? 
+^ glad to hear you enjoyed it . 
+^ yes , i love music . 
+^ it is wonderul and very stirring . 
+^ hope you have a great day . 
+^ see you later . 
+^ &name 
+^ &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey &name , 
+^ i have had a really nice evening . 
+^ i worked until &num : &num , then went to watch tv with &name for a bit , and then at about &num : &num i went to a cheese and wine party at &name &name 's house ( a cranmerite ) . 
+^ i ate loads of cheese and grapes and things . 
+^ it was fantastic ! 
+^ do n't you just love music ! 
+^ &name , 
+^ &name 
+<text_embedded> 
+
+^ hi &name ! 
+^ how are you this evening ? 
+^ was football good ? 
+^ i 've been to see " guys and &name " - very good . 
+^ although , i was sitting next to &name and he was getting rather hot under the collar at some points . 
+^ i 'm sure he 'll tell you about it . 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

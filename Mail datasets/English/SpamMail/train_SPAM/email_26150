@@ -1,0 +1,35 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ ( ) ... @ 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 15:10:28 +0900 </date>
+<content-type> text/html; charset="euc-kr" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ? 
+^ . 
+^ ' ' . 
+^ [ &num , ] 
+^ ! 
+^ ! 
+^ ! 
+^ ( ) 
+^ , , , , , 
+^ &pound; &pound; &name &name . 
+^ . 
+^ &pound; : ( ) | : : &num | &name : &num &pound; : &num | : &email 
+^ ( &pound; ) 
+^ . 
+^ . 
+^ . 
+^ . 
+^ [ ] . 
+</text_normal>
+</message_body>
+</message>

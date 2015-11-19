@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name : in all &name 
+</text_normal>
+</subject>
+<date> tue, 08 apr 2003 11:55:35 -0400 </date>
+<content-type> multipart/related; type="multipart/alternative" </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

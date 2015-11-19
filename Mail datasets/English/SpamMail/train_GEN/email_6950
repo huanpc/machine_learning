@@ -1,0 +1,19 @@
+<message>
+<from>
+</from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ &name &name &name 
+</text_normal>
+</subject>
+<date> tue, 3 sep 2002 14:03:47 -0400 </date>
+<content-type> multipart/related </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="image/gif">
+</part>
+</message_body>
+</message>

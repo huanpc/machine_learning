@@ -1,0 +1,23 @@
+<message>
+<date> sat, 12 oct 2002 14:35:36 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hockey practice 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ sorry , but i wo n't be able to make the hockey practice on sunday as i 'm playing football . 
+^ please put me on the email list though , and i 'll make it when i can . 
+^ cheers , 
+^ &name 
+^ my email address is : &name 
+</text_normal>
+</message_body>
+</message>

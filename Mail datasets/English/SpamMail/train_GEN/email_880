@@ -1,0 +1,31 @@
+<message>
+<to> co.uk </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ &name says hi 
+</text_normal>
+</subject>
+<date> sun, 09 sep 2001 13:52:58 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ hello . 
+^ firstly , thank you for sending the " lucre " e-mail . 
+^ your classification of &name ( at least i assume it was he ) was rather amusing . 
+^ it was really great to hear from you the other night . 
+^ thanks for calling . 
+^ &name suggested you all kidnap me from work - i like that idea very much ! 
+^ yesterday morning i was working , but in the afternoon i went up to &name and bought a pair of shoes . 
+^ i am now in the rather frivolous position of having &num pairs of shoes . 
+^ last night i had a wonderfully luxurious hot bath , which i enjoyed immensely . 
+^ this morning i have been at church and am now looking forward to a delicious stir-fry for lunch . 
+^ i have decided that i am only going to write up another &num chemistry lectures before next term , after which i will relax / turn my attention to more interesting pursuits in the evenings . 
+^ bye , and enjoy next weekend . 
+^ &name
+</text_normal>
+</message_body>
+</message>

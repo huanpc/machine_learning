@@ -1,0 +1,20 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ pay-per-view is now &name 
+</text_normal>
+</subject>
+<date> sun, 6 apr 2003 06:24:42 +1200 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ digital cable &name 
+^ to be removed 
+</text_normal>
+</message_body>
+</message>

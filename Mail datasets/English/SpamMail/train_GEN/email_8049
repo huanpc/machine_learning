@@ -1,0 +1,109 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain </content-type>
+<date> 25 nov 2002 19:52:41 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ &name wed , &num at &num : &num , &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ you mean i should be wishing for alcohol ? 
+^ oh i do ... i almost bought buy one get one free non alcoholic wine-y type stuff in &name today . 
+^ then i laughed at myself and bought buy one get one free &char and &char smoothies instead . 
+^ &name ... 
+</text_embedded>
+<text_normal> 
+
+^ what 's a &char and &char smoothy ? 
+</text_normal>
+<text_embedded> 
+
+^ that 's me . 
+^ &name at gamez . 
+^ with a &char . 
+^ &name the &name . 
+^ i like it . 
+^ although , to be honest , i prefer &name . 
+^ &smiley 
+</text_embedded>
+<text_normal> 
+
+^ &name the &name . 
+^ &name . 
+^ you really are a little shining wit ! 
+</text_normal>
+<text_embedded> 
+
+^ i 've never been designated driver , never having driven since i passed my driving test almost &num years ago now . 
+^ &name . 
+^ also , let the record show that diet &name sucks the big one , and should never be consumed . 
+^ diet coke all the way ! 
+^ or &name &name . 
+</text_embedded>
+<text_normal> 
+
+^ both ( or all ) of those suck big &num , &name ( see , &char * am * a computer user!) . 
+^ partly i became designated driver voluntarily , so i could n't drink , because i knew i 'd get bladdered if i did drink ... 
+</text_normal>
+<text_embedded> 
+
+^ i am your friend , dip . 
+</text_embedded>
+<text_normal> 
+
+^ dip ? 
+</text_normal>
+<text_embedded> 
+
+^ i 'll probably share the bottle ( assuming i ever get it ... ) with whoever happens to be with me when i drink it . 
+^ of course , when i collect it i 'll probably be on my own ... mwahahahahaha . ... &smiley 
+</text_embedded>
+<text_normal> 
+
+^ bugger ! 
+</text_normal>
+<text_embedded> 
+
+^ unfortunately , i 'm quite busy too . 
+^ i do n't * like * being busy . 
+^ i 'm * lazy * . 
+</text_embedded>
+<text_normal> 
+
+^ me too . 
+^ i 'm actually sleeping right now and letting a little shell script write this email . 
+</text_normal>
+<text_embedded> 
+
+^ why ca n't everyone just leave me alone ... ? ! 
+^ sigh . 
+</text_embedded>
+<text_normal> 
+
+^ this is the opposite of my problems . 
+^ ohhhhh. &num seeee . 
+^ you mean work-wise ... &smiley 
+</text_normal>
+<text_embedded> 
+
+^ &name ha ... short notice indeed . 
+^ i have n't tried to book online &name i 'm going to see it on saturday with &name anyway , sorry ! 
+^ ho hum . 
+^ but &name who ? 
+^ how old ? 
+</text_embedded>
+<text_normal> 
+
+^ i think he 's about sh : &name failed with return code &num 
+</text_normal>
+</message_body>
+</message>

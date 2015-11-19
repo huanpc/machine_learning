@@ -1,0 +1,47 @@
+<message>
+<from> net </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name technical support 
+</text_normal>
+</subject>
+<date> wed, 17 jul 2002 19:55:28 -0400 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ attached is the &name file , but i found a workaround that seems to work on all versions of windows . 
+^ &website files that &name creates can take an &name command line &website until the &website ( or whatever ) is finished . " it was added to support the &name systems management system , i think , but once i added that to the command line in my &name file , it worked like a charm . 
+^ ( i do n't think it 's in the version i 've attached - i ca n't put my hands on the latest and greatest version of my &name file at the moment . ) 
+^ thanks for your help , and for a great program ! 
+^ &name &name &email 
+</text_normal>
+<text_embedded> 
+
+^ i do n't suppose you could send me a sample of a &name with an installshield setup that does this on &name ? 
+^ thanks , 
+^ &name &name &name &name &name 
+^ &name &name : &name , free & easy for file sharing &website 
+^ - - &name &name & fingerprint - &website aaa8 95a1 cc07 ae13 &name &name &name &name 0b16 5d3f 
+^ on &num &name &num at &num : &num , &name &name wrote : 
+<text_embedded> 
+
+^ as you suggested , &num downloaded the &num version , but i still have the problem where &name deletes the files before installshield is finished with them . 
+^ as far as i know , this only happens on &name me 
+^ - i know it works okay on &name , &name , and &name . 
+^ ( i do have the &website or whatever it 's called included in the installshield kit . ) 
+^ i hate to turn off the 'delete files when done " switch , but the only other alternative is to make separate installation kits for &name . 
+^ let me know if i can help you debug this , or if you have any ideas . 
+^ thanks . 
+^ &name &name &email 
+</text_embedded>
+
+</text_embedded>
+</part>
+<part num="2" type="application/octet-stream">
+</part>
+</message_body>
+</message>

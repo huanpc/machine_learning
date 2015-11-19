@@ -1,0 +1,41 @@
+<message>
+<date> wed, 07 nov 2001 08:35:57 -0400 </date>
+<to> ac.uk </to>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ re : prayers for &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi , &name -- sorry to hear you 've been feeling under the weather . 
+^ hope you 're back to your old self ( young self ? ) soon ! 
+^ take care of yourself , ok ? 
+^ bye for now &name &smiley 
+^ at &num : &num am &num / &num / &num &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ thank you so very much for your reply . 
+^ we have our first meeting tonight , so i 'm looking forward to that . 
+^ yesterday i had one of those ill days where i tried to go to a lecture in the morning , succeeded , but regretted it the whole hour . 
+^ i spent the rest of the day in bed and feel almost completely better today , if a bit tired . 
+^ is n't that terrible ? 
+^ from monday night i 've had over &num hours of sleep and i 'm tired ! ! ! 
+^ thank you for your prayers . 
+^ perhaps by the time i retire i 'll know what i 'm meant to do ! 
+^ &smiley 
+^ my love to you all , 
+^ &name &name &name &name 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+</text_embedded>
+</message_body>
+</message>

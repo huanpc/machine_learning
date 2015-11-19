@@ -1,0 +1,26 @@
+<message>
+<from> net </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ help pliz with sfxmaker 
+</text_normal>
+</subject>
+<date> thu, 15 aug 2002 07:25:12 -0600 </date>
+<content-type> text/plain; format=flowed; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hello i am trying to make a sfx file . 
+^ i am planning to run &num exe file after extraction . 
+^ how can i do it ? 
+^ there is only &num command box . 
+^ i have tried to edit the sfx file ( script file ) . 
+^ i add &num command . 
+^ but only the first &num running . 
+^ help please 
+^ &email 
+</text_normal>
+</message_body>
+</message>

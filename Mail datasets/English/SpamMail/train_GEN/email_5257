@@ -1,0 +1,34 @@
+<message>
+<content-type> multipart/alternative </content-type>
+<from> co.uk </from>
+<to> com </to>
+<date> tue, 27 may 2003 17:42:04 </date>
+<subject>
+<text_normal> 
+
+^ get your paws on a kitten care pack & ipoints 
+</text_normal>
+</subject>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ get a free kitten care pack 
+^ ipoints &name offers 
+^ dear &name 
+^ get your paws on a kitten care pack and earn yourself &num ipoints . 
+^ each pack contains the best start in life - a comprehensive guide packed full of helpful advice on all aspects of kitten care , some pouches of &name &name food and some money-off coupons . 
+^ all absolutely free . 
+^ simply click through to complete your details and we 'll send a kitten care pack out to you . 
+^ applications to be received by 31st july &num . 
+^ available whilst stocks last . 
+^ please allow &num days for delivery . 
+^ only one whiskas&reg; care pack per household . 
+^ &name recommends that a kitten is still a kitten until it is around &num months old . 
+^ [ &num ] &name , incorporated . 
+^ you have received this email because you are a member of the ipoints rewards programme . 
+^ if you do not want to receive any more emails from ipoints , send an email to &email from the email address this message was sent to . 
+</text_normal>
+</part>
+</message_body>
+</message>

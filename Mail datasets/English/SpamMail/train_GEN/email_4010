@@ -1,0 +1,20 @@
+<message>
+<date> tue, 26 nov 2002 11:26:09 +0000 </date>
+<from> ac.uk </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ &name , forgot the possible time ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ possible time was &num : 17pm . 
+^ will let you know . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

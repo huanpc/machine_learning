@@ -1,0 +1,14 @@
+<message>
+<subject>
+<text_normal> 
+
+^ congratulations &name &name ! 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<date> thu, 27 mar 2003 12:27:31 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

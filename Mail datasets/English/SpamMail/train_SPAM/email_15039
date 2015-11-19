@@ -1,0 +1,27 @@
+<message>
+<date> thu, 03 apr 2003 02:54:05 -0600 (cst) </date>
+<from> com com </from>
+<subject>
+<text_normal> 
+
+^ support our troops ! 
+^ ( + &num &name ) 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hello you have &num miles ! 
+^ we send this mail so you can earn free travel , faster . 
+^ but if you 'd like to unsubscribe , instructions appear at the bottom . 
+^ to unsubscribe : or forward a copy of this email to &email 
+^ &name & &name | &name &name - mostly free | profile | refer a &name &name | your privacy | terms & conditions | partners 
+^ &name &name mail brings you offers to help you earn free travel faster . 
+^ by clicking any links in this e-mail you agree to hold &name , inc. harmless from any liabilities or damages that could arise from participating in merchant offers . 
+^ &name , &name &name , ' the fastest free travel on the net ' and the &name logo are service marks or trade marks of &name , inc. &name &num . 
+^ all rights reserved . 
+</text_normal>
+</message_body>
+</message>

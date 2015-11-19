@@ -1,0 +1,54 @@
+<message>
+<from> net </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ what 's happening 
+</text_normal>
+</subject>
+<date> tue, 12 jun 2001 18:55:11 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ i tried to get a hold of your dad at the weekend to find out if you were finished with exams or still had more to go . 
+^ but he 's a hard person to get a hold of . 
+^ anyway hope all of your exams are over now and you are just enjoying yourself . 
+^ i 'm sure you 've done quite well . 
+^ are you getting a summer job in the south or will it be &name again ? 
+^ we 're planning of coming over for just over &num weeks , leaving &name on july 12th , arriving &name on the 13th and spending a few days with &name before going up to the &name . 
+^ nothing booked yet but that 's the plan . 
+^ the weather here is really hot but it was quite cold up till a couple of weeks ago . 
+^ last weekend was our first nice weekend in a while so we finally got some gardening done . 
+^ &name is quite poorly with a sore throat and cold and feeling quite sorry for himself . 
+^ anyway , i 've got to go now as i 've got to make some phonecalls before it gets too late . 
+^ will be in touch shortly . 
+^ &name , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , 
+^ i tried to get a hold of your dad at the weekend to find out if you were finished with exams or still had more to go . 
+^ but he 's a hard person to get a hold of . 
+^ anyway hope all of your exams are over now and you are just enjoying yourself . 
+^ i 'm sure you 've done quite well . 
+^ are you getting a summer job in the south or will it be &name again ? 
+^ we 're planning of coming over for just over &num weeks , leaving &name on july 12th , arriving &name on the 13th and spending a few days with &name before going up to the &name . 
+^ nothing booked yet but that 's the plan . 
+^ the weather here is really hot but it was quite cold up till a couple of weeks ago . 
+^ last weekend was our first nice weekend in a while so we finally got some gardening done . 
+^ &name is quite poorly with a sore throat and cold and feeling quite sorry for himself . 
+^ anyway , i 've got to go now as i 've got to make some phonecalls before it gets too late . 
+^ will be in touch shortly . 
+^ &name , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

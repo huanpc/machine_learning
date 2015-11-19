@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name , this is unbelievable - $ &num million 3-game bonanza for only $ &num ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> sat, 01 mar 2003 05:42:24 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

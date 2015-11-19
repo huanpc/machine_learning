@@ -1,0 +1,24 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name results letters 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<date> tue, 6 may 2003 14:41:10 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ dear masters in &name students , 
+^ i will be down in the student admin office ( gc04 ) from &num : &num until &num : &num dispensing the exam results letters . 
+^ if you ca n't manage that time please ask reception or &name &name to let you in and come up to &name . 
+^ alternatively , on your instructions , i will send your results to your college address . 
+^ thanks , &name 
+^ &name &name &name &name &name laboratory student administration &name &name building &name &name avenue &name &name &name 
+^ &name : &num ( &num ) &num &num &num &name : &num ( &num ) &num &num email : &email 
+</text_normal>
+</message_body>
+</message>

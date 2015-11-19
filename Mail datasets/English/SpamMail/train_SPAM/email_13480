@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ notification of &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=qiylifzwdkxvkppisted </content-type>
+<date> tue, 1 apr 2003 19:52:45 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,26 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ re-introducing &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ my name is &name &name and i am writing to remind you of &name a premier &name directory and internet marketplace for products and services for small to medium-sized businesses . 
+^ i am writing for to reasons today . 
+^ &num to invite you to find categories / offerings that are applicable to your business and will interest our targeted at-work audience . 
+^ &num to offer you a free or a priority sorted listing on &name . 
+^ to get listed ahead of please feel free to me with any questions at or simply reply to this email . 
+^ thanks a lot ! 
+^ &name 
+^ &name 
+</text_normal>
+</message_body>
+</message>

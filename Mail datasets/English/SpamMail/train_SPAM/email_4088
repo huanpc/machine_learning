@@ -1,0 +1,17 @@
+<message>
+<from> com.mx </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ paquete &name &num en espaf1ol ? 
+</text_normal>
+</subject>
+<date> wed, 26 mar 2003 15:39:26 -0300 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

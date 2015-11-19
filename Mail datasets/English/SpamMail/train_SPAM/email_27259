@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ cat 
+</text_normal>
+</subject>
+<date> wed, 09 apr 2003 03:35:39 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ $ &num per guest will cover &num nights of vacation in &name & the &name with an all-inclusive &name &name . 
+^ stop this mailing by submitting email , &email 
+</text_normal>
+</message_body>
+</message>

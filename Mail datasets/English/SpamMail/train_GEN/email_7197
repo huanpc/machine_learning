@@ -1,0 +1,23 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ tickets for &name &name 's passion 
+</text_normal>
+</subject>
+<date> fri, 14 feb 2003 15:05:16 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ just so you know , if you want tickets for &name &name 's passion tomorrow , email &email and they will put some aside for you . 
+^ we 're hoping they 'll sell out - get yours now ! 
+^ &name . 
+^ p.s. check out the new &name cu website : &website what else to put on ? 
+^ this is the &name college &name &name &name &name 
+^ if you would like to be removed from this list , or if you would like to post a message to the list , please email &name &name at ( &email ) 
+</text_normal>
+</message_body>
+</message>

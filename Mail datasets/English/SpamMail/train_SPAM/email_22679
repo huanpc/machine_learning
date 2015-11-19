@@ -1,0 +1,29 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ congratulations ! 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<date> tue, 8 apr 2003 01:30:02 -0400 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ congratulations , &website 's grand opening ! 
+^ call now toll free ! 
+^ &num 
+^ we would like to invite you and your family to spend &num days & &num nights in &name &name , &name $ &num ! 
+^ plus , as a bonus we will throw in &num &name &name or universal tickets ! 
+^ &name condos in the &name mountains of &name , &name for &num days & &num nights $ &num ! 
+^ &num destination vacation packages $ &num ! 
+^ call now toll free ! 
+^ &num 
+^ to learn more about this and other incredibly discounted vacation packages come visit us at &website / 
+^ to be removed from our mailing list you may click here , or send an email to &email 
+^ this advertising material is being used for the purpose of soliciting sales of a vacation ownership plan . 
+</text_normal>
+</message_body>
+</message>

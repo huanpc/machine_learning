@@ -33,5 +33,17 @@ public class Constant {
 	public static final String DATA_LEARN_HTML_4[] = {DATA_LEARN_DIR+"/learnSpam_HTML_2_840",
 			DATA_LEARN_DIR+"/learnHam_HTML_2_840"};
 	public static final String WORD_TABLE_4 = "learning_words_4";
+	// Tập dữ liệu tiếng việt
+	public static final String DATA_TEST_VI[] = {"./Code Project/Mail datasets/VietNamese/outputMailSpam",
+		"./Code Project/Mail datasets/VietNamese/outputMail"};
+	public static final String DATA_LEARN_VI[] = {"./Code Project/Mail datasets/VietNamese/outputMailSpam",
+		"./Code Project/Mail datasets/VietNamese/outputMail"};
+	public static final String WORD_TABLE_VI = "learning_words_vi";
+	
+	public static final String DATA_TEST_HTML_5[] = {DATASET_FOLDER+"/SpamMail/test_SPAM",
+		DATASET_FOLDER+"/SpamMail/test_GEN"};
+	public static final String DATA_LEARN_HTML_5[] = {DATASET_FOLDER+"/SpamMail/train_SPAM",
+		DATASET_FOLDER+"/SpamMail/train_GEN"};
+	public static final String WORD_TABLE_5 = "learning_words_5";
 	
 }

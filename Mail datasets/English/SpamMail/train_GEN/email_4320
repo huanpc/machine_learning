@@ -1,0 +1,29 @@
+<message>
+<date> mon, 16 dec 2002 14:04:03 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hey honey 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks a lot &name ! 
+^ had a great time - must remember not to drink so much fruit juice in future ! 
+^ i got home at about &num : &num , so that was ok . 
+^ remember - watch out for those gamma rays . 
+^ &smiley 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey honey great to see you over the weekend ... hope you did n't get back too late ... have a good week of revision and have a super christmas with your lovely family ... 
+^ you 're great love &name x 
+</text_embedded>
+</message_body>
+</message>

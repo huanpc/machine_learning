@@ -1,0 +1,24 @@
+<message>
+<date> sun, 30 mar 2003 05:49:52 -0800 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name : &name &name , bets are now &name ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ : : &website : : &name &num 
+^ thank you for reading the casino spot newsletter ! 
+^ for removal instructions , please click here please allow &num hours to be permanently removed from our database . 
+^ if you continue to receive this newsletter after unsubscribing , please email &email and one of our representatives will contact you . 
+^ this mailing complies with all &name &name regulatory and jurisdictional laws . 
+^ &copy; &num &name , &name , &num &name ave , &name &num , &name , &name . 
+^ &num &name free : &num 
+</text_normal>
+</message_body>
+</message>

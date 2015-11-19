@@ -1,0 +1,28 @@
+<message>
+<date> mon, 17 jun 2002 16:37:01 +0100 (bst) </date>
+<from> ac.uk </from>
+<to>
+</to>
+<subject>
+<text_normal> 
+
+^ rambling club update 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ just a quick end-of-term email ! 
+^ last summer , we organised a few walks for those people staying in &name during the vacation . 
+^ we were thinking of doing a similar thing this summer , so if you are interested and would like to be on a contact list , then please send an email to &name ( &email ) ( in the first instance ) , or to &name ( &email ) . 
+^ also a reminder about the varsity march , which is happening this weekend - if you are interested in taking part in this 82-mile walk from &name to &name , then please contact &name ( &email ) as soon as possible for details . 
+^ if you 've signed up for this walk , and have n't received an update from &name in the past few hours , then please send him a reminder ! 
+^ finally , we hope that you 've enjoyed our events this year , and look forward to seeing you on our walks next term ! 
+^ best wishes , 
+^ &name 
+^ if you would like to be removed from this list , or to change the address by which you are contacted , then please send an email to &email . 
+</text_normal>
+</message_body>
+</message>

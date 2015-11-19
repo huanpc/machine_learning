@@ -1,0 +1,237 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : [ autopackage ] libprefix - all the way 
+</text_normal>
+</subject>
+<to> org </to>
+<content-type> text/plain </content-type>
+<date> fri, 02 may 2003 12:15:23 -0400 </date>
+<message_body>
+<text_normal> 
+
+^ on &name , &num at &num : &num , &name &name wrote : 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ i have tons of apps from third parties with similarly odd directory structures . 
+^ i 've used many distros that had weird layouts . 
+^ my own habits came from suggestions from many other people . 
+^ the common case might just use ./configure , but then , if everyone was the common case , libprefix would n't be needed . 
+^ 
+^, 
+^ 
+</text_embedded>
+
+^ &name , but we ca n't accomodate every case , and there 's no obligation to use libprefix anyway - apps are free to roll their own way to look things up ( and indeed , most games i 've played on linux do this already ) . 
+</text_embedded>
+<text_normal> 
+
+^ &name . 
+^ but it shouldbn' &char be any _extra_ work , should it ? 
+^ also , as a note , i started hacking on my own little example libprefix , just to play around with the /proc ideas and generic directory lookups . 
+^ see how well i can get it to work and if it 's practical in my design . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ &name . 
+^ but say i install the same app twice , because i 'm a clueless newbie , so i install version &num in /usr / local / and version &num in /usr / local / app-1.1 , and the binary for version &num gets put in /usr / local / bin . 
+</text_embedded>
+
+^ it would n't though , it 'd be in /usr / local / app-1.1 / bin perhaps with a symlink in /usr / local / bin . 
+^ the only time this situation could occur is if the user manually tweaked configure arguments , which clueless newbies do n't do . 
+</text_embedded>
+<text_normal> 
+
+^ this is true perhaps . 
+^ i 've always used --bindir , but that 's probably a bad habit of mine . 
+^ ~, 
+^ 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ this is actually common &name practice . 
+^ &name got lazy and started putting all apps in &num prefix , versus their own , and now most &name do this . 
+^ we ca n't just up and change to what we should have kept doing because we do n't have libprefix . 
+^ ~, 
+^ which was the point of me starting this discussion ; that we have such a lib , it should be complete , and solve the problem completely , and not just the small part of the problem we want to look at . 
+^ 
+^, 
+^ 
+</text_embedded>
+
+^ so , the issue here seems to be that you think the complete problem is needing some generic path location service for any part of a program , so the apps directory layout can be rearranged at will , at runtime , whereas all i am interested in is being able to install an app to different prefixes . 
+^ does that sound right ? 
+</text_embedded>
+<text_normal> 
+
+^ &name or less , yes . 
+^ they can both exist quite easily i 'd imagine ; i 'm working on my little quick example library to show . 
+^ 
+^, 
+^ 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ i still also think autopackage could be tremendously useful to &name , and most of those have proper &name system hierarchies - things get a lot more complicated there ... ( my first time &char / &name was rather enlightening , just seeing where they opted to put the various pieces of something like gnome ) 
+</text_embedded>
+
+^ perhaps , but supporting other forms of &name brings in all kinds of stuff i do n't really want to think about right now , it 's hard enough supporting different forms of &name as it is . 
+</text_embedded>
+<text_normal> 
+
+^ &name , yes . 
+^ this is then i suppose a personal goal for me , and not you guys . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ &name . 
+^ unfortunately , even major distros do n't do this . 
+^ several put things in /opt / gnome , but then you have gtk and such in /usr , and source-installed apps in /usr / local or /opt / blah , and then you have stuff in $ home , etc. it 's nice to have &num prefix at most . 
+^ in reality , we have _way_ too many ... &smiley 
+</text_embedded>
+
+^ the only one i know of which does this is &name ? 
+</text_embedded>
+<text_normal> 
+
+^ several of the popular desktop distros do this i believe as well , from wht i 've read ( never used one of them myself ) . 
+^ i 've always working a couple hobby distros with a similar layout . 
+^ gentoo might also do this , not sure . 
+^ not sure on &name , i think it used by stopped - been years since i used that &num tho . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ those desktop environments need fixing for it , tho - there needs to be a much easier way of using all those multiple prefixes . 
+^ but that 's a different problem . 
+</text_embedded>
+
+^ i think it 'd be nicer if wildcard expansion worked in paths , so : 
+^ export orbit_dir' /opt/ * /share / orbit " 
+^ or whatever . 
+^ on the other hand , there 's a reason datadir is called 'share " by default - having things in the same prefix by default makes relying on other packages * much * easier ( otherwise you start having to call libprefix for your dependancies as well , no guarantees that works and things go boom ) . 
+</text_embedded>
+<text_normal> 
+
+^ &name . 
+^ shared data dir is important . 
+^ gnome generic things in /usr / share / gnome for example ( how it should be , anyways ) . 
+^ &name specific info should be in its own /usr / share / app or whatever . 
+^ you end up having to have a directory structure in there somewhere , or soon as you have more than a small handful of apps you 're going to be running into conflicts . 
+^ ~, 
+^ 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ well , if you 're installing into a common prefix like /usr or /usr / local , no need to over-ride anything . 
+^ if the user specifies binaries in /usr / bin , data in /usr / apps / appname , and libraries in /usr / lib / appname ( yes , a contrived example ) , autopacakge could see the default relative paths wo n't work , and write out the over-ride file . 
+</text_embedded>
+
+^ this is easy enough that i expect it 'll get implemented . 
+^ just a matter of code . 
+^ i 'm still sceptical about how useful that is , but supporting it is so easy there 's little reason not to . 
+</text_embedded>
+<text_normal> 
+
+^ &name . 
+^ the little lib i 'm throwing together will support and directory name you want ; you just ask it for 'datadir " to get that , or " bindir " , or if your app has some special need ( the app authors and system admins know better than we do , after all ) that could be there too ; for example , 'maildir " or somesuch . 
+^ then there 's looking up executable names in /proc , and utilizing a default relative path , altho special casing stuff in /usr is necessary ( sigh ) . 
+^ i have n't looked into how a library could auto-guess it 's location ; i 'm guessing the library will have to know it 's soname , look that up in the executable 's maps , and pull the information from there , if possible . 
+^ or it might all not be possible &smiley 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ &name . 
+^ but average users need to be able to see the data to back it up . 
+^ &name in accounting or whatever is n't going to know about " ~ /.usr / blah " this is going to ask how to backup or transfer something to her laptop or home machine , and &char want to be able to give her discussions 
+</text_embedded>
+
+^ but &name would n't * want * to backup anything in ~ /.usr because that is like /usr - it 's only for read-only application binaries / libs / data , not anything users would ever change . 
+^ users only care about backing things up in $ home . 
+</text_embedded>
+<text_normal> 
+
+^ you know , good point . 
+^ silly me . 
+^ 
+^, 
+^ 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ &name . 
+^ the problem has several points . 
+^ arguing about the pros / cons of it probably does n't belong here tho . 
+^ &char nice backup app would be killer tho ... 
+</text_embedded>
+
+^ yeah . 
+^ next time i have a chance to recruit somebody i 'll mention it &smiley 
+<text_embedded> 
+
+^ well , the code should be very easily portable . 
+^ the /proc stuff , no , but then , i 've already stated how i see that as a " if it 's possible , use it , but do n't ever dare depend on it " situation . 
+^ ~, 
+^ 
+</text_embedded>
+
+^ 
+^ * shrug * most other platforms have their own packaging system anyway ( bsd ports , fink , solaris pkgs and so on ) , and need the binaries recompiling . 
+</text_embedded>
+<text_normal> 
+
+^ &name . 
+^ there 's leway tho . 
+^ &name can run &name apps . 
+^ commercial software developers would still love a good deployment tool . 
+^ and so on . 
+</text_normal>
+<text_embedded> 
+
+^ what 's more , no other form of &name other than &name is really going to be used by our target audience of ultra-n00bs , i expect your average &name user would rather use the sun provided tools than have autopackage go poking around in their system . 
+^ so , although i guess i could be convinced on this one , portability to other forms of &name is pretty much at the bottom of my priorities list . 
+</text_embedded>
+<text_normal> 
+
+^ understood . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ i 'm also a huge portability freak , so i ca n't help but think of multi-platform functionality . 
+^ i _hate_ vendor lockin ... &smiley 
+</text_embedded>
+
+^ so do i , but i do n't consider &name to be a vendor ( or any other free platform for that matter ) . 
+</text_embedded>
+<text_normal> 
+
+^ well , if autopackage is n't flexible enough ( or libprefix , i should say - i fully have faith autopackage itself will be ) an app will only be usable on &num vendor of &name . 
+^ just assuming everything works like redhat or it 's knock-offs is a problem with &name 's, and one that 's honestly not easily fixable ... 
+^ the pain of war cannot exceed the woe of aftermath . 
+^ - - led &name , " battle of &name " 
+^ &name mailing list &email 
+</text_normal>
+</message_body>
+</message>

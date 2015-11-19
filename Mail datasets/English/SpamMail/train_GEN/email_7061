@@ -1,0 +1,48 @@
+<message>
+<date> sun, 26 jan 2003 22:38:39 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ its freee ! ! ! ! ! 
+^ - -on &num january &num &num : &num &num &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ how much does it cost ? 
+^ cheers , 
+^ &name 
+^ on sunday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ ____ _____ ___ _ __ _____ ____ / ___ | |_ _ | / _ | &smiley / | ____ | / ___ | ___ | | | | | | | " / | _ | ___ ___ ) | | | | |_ | | | . 
+^ | |___ ___ ) | 
+^ | ____ / |_ | ___ / |_|_ |_____ | |____ / 
+^ the committee and &name of the 
+^ pembroke college stokes society 
+^ request the pleasure of your company 
+^ at their talk 
+^ the mind 's &name : vision and the brain 
+^ dr &name &name 
+^ at &num : &num pm on tuesday 28th january , &num 
+^ in the &name room , &name college 
+^ &name will be served~ 
+^ &num &num &num &num &num &num &num &num &num &num &num &num &num &num &num &num &num &num &num &num &num 
+</text_embedded>
+
+^ &name cornish room &name , &name &name &name college , &name &name &name &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+<text_normal> 
+
+^ &name &name &name college vice-president and it director , &name university &name &name and business association ( &name ) email : &email &name : &num web : &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,22 @@
+<message>
+<date> fri, 31 jan 2003 11:03:54 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ &name &name spoke to me about the possibility of doing security at the &name &name . 
+^ do you still need people ? 
+^ regards , 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

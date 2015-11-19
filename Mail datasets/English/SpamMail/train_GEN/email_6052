@@ -1,0 +1,23 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ birthdays ! 
+</text_normal>
+</subject>
+<date> thu, 16 jan 2003 16:14:17 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ how kind of you to ask ! 
+^ my birthday is 31st august , so it 's some way off yet ! 
+^ could you remind me when your 's is as well please ! 
+^ see you soon 
+^ &name
+</text_normal>
+</message_body>
+</message>

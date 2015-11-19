@@ -1,0 +1,45 @@
+<message>
+<date> fri, 14 feb 2003 17:12:04 +0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ re : appointment ( fwd ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ special &name : &name , &name and &name 
+^ this looks good ! 
+^ hi &name , 
+^ it 's good to hear that someone nearby is also factoring integers . 
+^ i 'm not sure exactly what you mean by " &name &name " and i 'd like to find out . 
+^ i 've had a quick scan of your web site at &website but have n't yet had the chance to study it all in depth . 
+^ &num question immediately springs to mind though : why limit yourselves to &num digit numbers ? 
+^ please let me have more details and perhaps i will be able to help you with your project . 
+^ i 'm happy to communicate by email or we can schedule a meeting if that 's more convenient for you . 
+^ cheers , &name 
+</text_normal>
+<text_embedded> 
+
+^ dear &name &name , 
+^ i represent a research group at the &org , &name doing a project in &name &name of large integers . 
+^ after having done extensive research into this field , and coming up with a first version implmentation of a reasonably powerful factorisation procedure , we are looking towards optimising several bits in our code . 
+^ various senior professors at the &org , especially , our project supervisor , dr &name &name , have strongly reccomended your name for assistance . 
+^ i hope you would be able to spare a little time to share some of your expertise with us . 
+^ we would really appreciate it . 
+^ many thanks . 
+^ kind regards , 
+^ &name . 
+^ &name &name &name &name &name &name &website 
+</text_embedded>
+<text_normal> 
+
+^ &name &name vice president &name university &name &name and business association ( &name ) &website 
+^ &name college &name &name : &num web : &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ just &num time - &name &name &name &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<date> wed, 02 apr 2003 17:41:56 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hello standing in the pharmacy waiting and watching the pharmacist hoping your next . 
+^ no waiting rooms for &name 
+^ { if you do not want to receive any more of these emails , click below } 
+^ remove 
+</text_normal>
+</message_body>
+</message>

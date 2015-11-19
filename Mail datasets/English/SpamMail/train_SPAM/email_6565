@@ -1,0 +1,17 @@
+<message>
+<from> com.hk </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ &char ? 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 12:00:00 +0800 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

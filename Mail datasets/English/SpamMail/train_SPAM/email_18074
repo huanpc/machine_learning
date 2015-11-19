@@ -1,0 +1,22 @@
+<message>
+<from> uni </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ &name ? 
+^ &char ? 
+^ s8 / &name ? 
+</text_normal>
+</subject>
+<date> sat, 5 apr 2003 07:17:20 +0800 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( ! 
+^ &name &name public ' -//w3c//dtd &name &num &name ' ) ( &name xmlns : &char ' urn : schemas-microsoft-com : office : office' ) ( head ) ( meta http-equivcontent-type content' text / html ; &name ' ) ( meta content'mshtml &num ' namegenerator) ( &num ) ( body) ( &name &name ) ( &char &name &name ) ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman' ' )&nbsp;&nbsp;&nbsp;( &num ) ( &char classmsonormal style'margin : &name &name &name ) ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman' ' )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ( &num ( span &name &name ) ( &char : p) ( /o : p) ( &num ( &num ) ( &char classmsonormal style'margin : &name &name &name ) ( span &name &name ) ( &name face' &name &name roman' )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ( ( &num ( &num ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name ) ( &name face' &name &name roman' )1500 ( &num ( &num ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name ) ( &name face' &name &name roman' )2-7 ( &num ( &num ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name ) ( &name face' &name &name roman' )) ( &char : p) ( /o : p) ( &num ( &num ( &num ) ( &char &name &name ) ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name &name ) ( &name face' &name &name roman' ): ( &num ( &num ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name &name ) ( &name face' &name &name roman' ), ( &num ( &num ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name &name ) ( &name face' &name &name roman' ), ( &num ( &num ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name &name ) ( &name face' &name &name roman ' ). ( &char : p) ( /o : p) ( &num ( &num ( &num ) ( &char classmsonormal style'margin : &name &name &name ) ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name ) ( &name face' &name &name roman' ): ( &num ( &num ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name ) ( &name face' &name &name roman' )+ ( &num ( &num ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name &name ) ( &char : p) ( /o : p) ( &num ( &num ) ( &char classmsonormal style'margin : &name &name &name ) ( span &website ; mso-ascii-font-family : ' &name &name roman ' ; mso-hansi-font-family : ' &name &name roman '' ) ( &num ( span &name ) ( &name face' &name &name roman ' ) : &email ( &char : p) ( /o : p) ( &num ( &num ( &num ) ( &char &name &name ) ( &num ( &num ( &num ( &num ( &num ) 
+</text_normal>
+</message_body>
+</message>

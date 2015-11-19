@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : $ &num transfer into your account . 
+^ see enclosed for details 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=boundary_35162.35611_05279968 </content-type>
+<date> wed, 26 mar 2003 20:35:33 -0500 (est) </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

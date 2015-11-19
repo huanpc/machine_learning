@@ -1,0 +1,33 @@
+<message>
+<date> fri, 4 apr 2003 02:50:30 -0600 (cst) </date>
+<from> co.kr </from>
+<subject>
+<text_normal> 
+
+^ &name &char & courier 
+</text_normal>
+</subject>
+<content-type> text/html; charset=ks_c_5601-1987 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ [ ] . 
+^ ( ) &name &char ( ) 
+^ &name &char , , , . 
+^ &num &num . 
+^ pick up . 
+^ ( . ) 
+^ ( . ) 
+^ &pound; . 
+^ ( &pound; &num . ) 
+^ &pound; . 
+^ ( . ) 
+^ &amp; &amp; . 
+^ &num courier service ( door to door delivery service ) 
+^ &num hand carry , cargo &num . 
+^ : &name : &num &name : &num 
+^ ( ) : ( &name &char : &num ) 
+</text_normal>
+</message_body>
+</message>

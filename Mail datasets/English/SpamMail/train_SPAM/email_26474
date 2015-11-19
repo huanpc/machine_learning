@@ -1,0 +1,31 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name &name t-shirts: $ &num - &name embroidered golf shirts: $ &num . 
+^ &num 
+</text_normal>
+</subject>
+<date> fri, 4 apr 2003 16:20:16 -0400  </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ your logo affordably printed on quality &name golf shirts & tee shirts 
+^ golf shirts t-shirts embroidered prices include your company logo screen printed with your logo $ &num $ &num ( &website product details ( &website product details 
+^ * &name &name &name golf shirts * &num &name . 
+^ * &num colors to choose from * min . 
+^ &num * contact us for &name 
+^ * &num - $ &num * &num - $ &num * &num - $ &num * &num - $ &num * minimum order of &num t-shirts available at additional charge * &num free screen * prices include your &num color imprint * &name &name &name &num &name &name 
+^ free screen ! 
+^ to place an order or get additional information , please contact us : ( mailto : &email ) &email or call us toll free &num 
+^ we are a family owned business , operating in &name , &name for over &num years . 
+^ signatures giant sized posters * corporate apparel * signs & banners * promotional products * trophies & awards &num &name &name street * &name , &name &num &num 
+^ we &name the removal requests that we receive . 
+^ to be removed from future mailings , please email us at : ( mailto : &email ) &email with the email address you want removed typed into the subject line of your email . 
+^ we apologize for any inconvenience . 
+</text_normal>
+</message_body>
+</message>

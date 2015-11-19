@@ -1,0 +1,14 @@
+<message>
+<date> wed, 9 apr 2003 18:22:58 +1000 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ this is cool &num : &num : &num 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

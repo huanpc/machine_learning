@@ -1,0 +1,25 @@
+<message>
+<date> fri, 4 apr 2003 06:01:59 gmt </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ can do this 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hello would you like to receive $ &num , &num to $ &num , &num cash every week starting immediately ? 
+^ all you have to do is return calls from home - to people who have asked to be called -no selling . 
+^ please call &num 
+^ i will personally call you back , and take no more than &num minutes of your time . 
+^ your e-mail address removal / &name instructions : 
+^ we comply with proposed federal legislation regarding unsolicited commercial e-mail by , providing you with a method for your e-mail address to be permanently removed from our database , and any future mailings from our company . 
+^ to remove your address , please send an e-mail message with the word remove in the subject line to : &email . 
+^ you must type the word remove in the subject line and i will gladly handle your request to be removed from the database immediately . 
+</text_normal>
+</message_body>
+</message>

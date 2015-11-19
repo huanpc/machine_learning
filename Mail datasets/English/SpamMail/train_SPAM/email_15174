@@ -1,0 +1,36 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : why your computer is running so slow ! 
+</text_normal>
+</subject>
+<date> wed, 2 apr 2003 10:38:21 -0700 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ have you noticed your computer running slower than ever ? 
+^ the reason for that may have to do with online advertisers adding spyware or adware to your computer without your knowledge . 
+^ 'spyware ' is a common term for files that are installed on your system without your knowledge that allow companies to monitor your &name activity . 
+^ ' adware ' is software that will show you popup ads over and over . 
+^ what they do n't tell you , however , is how these files can be extremely dangerous to your pc and could cause major problems with your pc . 
+^ we are offering every computer owner , including yourself , the opportunity to scan your computer to see how many 'spyware ' infections your pc has free of charge . 
+^ to scan your computer for free , click here : 
+^ &website 
+^ our goal is to put an end to shady online advertising so that &name users can enjoy the &name wide web without having their privacy intruded upon . 
+^ we urge you to run the free scan ! 
+^ click here to begin &name : 
+^ &website 
+^ thank you for your time , and we hope that we have been of some help . 
+^ remove yourself from this recurring list by sending a blank email to 
+^ mailto : &email 
+^ or 
+^ by sending a postal mail to &name , &name &num , &name , &name &num 
+^ this message was sent to address 
+</text_normal>
+</message_body>
+</message>

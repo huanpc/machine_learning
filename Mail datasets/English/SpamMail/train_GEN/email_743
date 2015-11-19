@@ -1,0 +1,27 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<date> tue, 26 sep 2000 15:21:01 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ ok , here 's the deal . 
+^ &name &name signal processing , meaning that you can add effects like reverb and chorus to the sounds ( pianos , guitars , etc. .. ) 
+^ &name musical instrument &name &name ( or something like that ! ) . 
+^ this means that you can link an instrument with &name to other instruments or devices such as the computer . 
+^ this is how i do my computer based recording using the keyboard . 
+^ i would suggest that for future use , &name is probably vital . 
+^ i am surprised that the &name keyboard does not have &name , but i suppose that is why it is so cheap , as otherwise it sounds superior to the casio . 
+^ any further questions let me know ! 
+^ &name
+</text_normal>
+</message_body>
+</message>

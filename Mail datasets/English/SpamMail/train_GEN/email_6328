@@ -1,0 +1,76 @@
+<message>
+<from> org.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name : &name 
+</text_normal>
+</subject>
+<date> tue, 3 dec 2002 14:26:36 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name 
+^ here is the e-mail i sent out yesterday detailing all the things that need to be brought . 
+^ do not worry about the mass of e-mails , i enjoy getting e-mails so keep sending them . 
+^ &name 
+^ how to bake the perfect houseparty cake . 
+^ you will need the following ingredients : 
+^ &num ) lots of students ( of all varieties ) 
+^ &num ) a sense of humour+ bright ideas , sketches , skits and jokes . 
+^ &num ) &char &name with or without &name depending upon your view of the deutrocanonical scriptures and the council of &name . 
+^ &num ) a sleeping bag and / or bedding material sheets and pillow cases , but they provide blankets and pillow cases . 
+^ &num ) any board games and / or sporting equipment that you may care to bring . 
+^ &num ) any musical instruments you want to play and worship the &name with . 
+^ &num ) a coach from &name avenue at &num : &num for a &num : &num departure on friday 6th december . 
+^ the lay-by , on the &name college side of the road opposite the toilets on midsummer common . 
+^ near the roundabout on &name &name and &name lane . 
+^ ( where the coach went from last year and to &name . ) 
+^ &name &name &name &name 
+^ &smiley tooth brush and washing stuff , towel 
+^ &num ) nuclear reactor 
+^ &num ) &name ( if nuclear reactor impractical ) 
+^ take all the ingredients , mix together on coach , then friday night add videos and food , on saturday add a pinch of go-karts , walks and sport . 
+^ throw in &name &name , inspired &name teaching and prayer . 
+^ by sunday afternoon , the houseparty should be fully ready . 
+^ if any of these cooking instructions are unclear please be in touch . 
+^ &name bless 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name 
+^ here is the e-mail i sent out yesterday detailing all the things that need to be brought . 
+^ do not worry about the mass of e-mails , i enjoy getting e-mails so keep sending them . 
+^ &name 
+^ how to bake the perfect houseparty cake . 
+^ you will need the following ingredients : 
+^ &num ) lots of students ( of all varieties ) 
+^ &num ) a sense of humour+ bright ideas , sketches , skits and jokes . 
+^ &num ) &char &name with or without &name depending upon your view of the deutrocanonical scriptures and the council of &name . 
+^ &num ) a sleeping bag and / or bedding material sheets and pillow cases , but they provide blankets and pillow cases . 
+^ &num ) any board games and / or sporting equipment that you may care to bring . 
+^ &num ) any musical instruments you want to play and worship the &name with . 
+^ &num ) a coach from &name avenue at &num : &num for a &num : &num departure on friday 6th december . 
+^ the lay-by , on the &name college side of the road opposite the toilets on midsummer common . 
+^ near the roundabout on &name &name and &name lane . 
+^ ( where the coach went from last year and to &name . ) 
+^ &website 
+^ &smiley tooth brush and washing stuff , towel 
+^ &num ) nuclear reactor 
+^ &num ) &name ( if nuclear reactor impractical ) 
+^ take all the ingredients , mix together on coach , then friday night add videos and food , on saturday add a pinch of go-karts , walks and sport . 
+^ throw in &name &name , inspired &name teaching and prayer . 
+^ by sunday afternoon , the houseparty should be fully ready . 
+^ if any of these cooking instructions are unclear please be in touch . 
+^ &name bless 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

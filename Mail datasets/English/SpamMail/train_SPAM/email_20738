@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name &name : re : we have a job offer for you ! 
+</text_normal>
+</subject>
+<date> tue, 08 apr 2003 08:09:29 -1000 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ sie &name eine &name auf unserem server . 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> sat, 1 mar 2003 14:20:12 +0100 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ sie &name eine nicht best' tigte und gelesene kontaktmail auf unserem &name sie diese &name lesen und best' tigen wollen . 
+^ folgen sie einfach diesen sie , das diese &name nach &num &name wieder von unserem server gel'scht wird . 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

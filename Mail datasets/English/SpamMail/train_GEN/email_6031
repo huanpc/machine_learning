@@ -1,0 +1,32 @@
+<message>
+<content-type> multipart/alternative </content-type>
+<subject>
+<text_normal> 
+
+^ &name quotes 
+</text_normal>
+</subject>
+<date> tue, 5 nov 2002 10:01:52 -0800 </date>
+<from> com </from>
+<to> com </to>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i am wondering if there is any way to disable the bible quotes that scroll at the bottom of your software . 
+^ i work in an extremely multi-cutlural enviroment and would like to use this software for some of the work we will be doing , but simply ca n't deploy this to my users with the quotes . 
+^ if there is any way to turn this off i would appreciate it , otherwise i will have to determine another application that will met our needs . 
+^ thanks a lot , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ message i am wondering if there is any way to disable the bible quotes that scroll at the bottom of your software . 
+^ i work in an extremely multi-cutlural enviroment and would like to use this software for some of the work we will be doing , but simply ca n't deploy this to my users with the quotes . 
+^ if there is any way to turn this off i would appreciate it , otherwise i will have to determine another application that will met our needs . 
+^ thanks a lot , &name &num 
+</text_normal>
+</part>
+</message_body>
+</message>

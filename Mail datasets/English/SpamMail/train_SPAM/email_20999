@@ -1,0 +1,19 @@
+<message>
+<date> wed, 2 apr 2003 22:11:39 -0700 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name , get $ &num by tomorrow 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website / ) ( &website / ) ( &website / ) click to unsubscribe from these mailings . 
+^ - &num 
+</text_normal>
+</message_body>
+</message>

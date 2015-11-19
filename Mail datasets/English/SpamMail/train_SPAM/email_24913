@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your membership has been acquired 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 11:42:18 +1200 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

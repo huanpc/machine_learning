@@ -1,0 +1,27 @@
+<message>
+<from> com </from>
+<to> org </to>
+<content-type> text/plain </content-type>
+<subject>
+<text_normal> 
+
+^ [ autopackage ] skeleton files docs 
+</text_normal>
+</subject>
+<date> 27 may 2003 21:51:32 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ i 've posted some documentation regarded the new split-versioned skeleton files system to the website , hopefully it will be in depth enough for some time ( unless we decide to change the system again : ) . 
+^ we 're starting to get a nice nest egg of skeleton files together , but there are still some key &num missing . 
+^ in particular , the libpng skeleton is non-functional until we can figure out the total mess this library has got itself into . 
+^ if anybody could explain how , or better yet write a test script , to figure out whether &name , &num and &num are actually present on a system that would be really great . 
+^ as an example of the extreme badness of this lib : 
+^ yuck huh ? 
+^ this is the sort of screwed up thing we have to deal with , hence the fact that skeleton files are useful . 
+^ anyway . 
+^ &name people find it helpful thanks -mike 
+^ &name mailing list &email 
+</text_normal>
+</message_body>
+</message>

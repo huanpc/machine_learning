@@ -1,0 +1,30 @@
+<message>
+<date> fri, 19 jul 2002 18:04:09 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : integration 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ ok , let us know when you want us to come to providence . 
+^ our code is tested and ready to integrate - even with the new tuple representation ( or rather your old tuple representation ) . 
+^ we also coded a group-by box so if the &name people are ready on monday we can integrate that as well . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey all , 
+^ looks like i will not be able to finish integrating the catalog api into the scheduler by sunday . 
+^ so , let 's plan on doing integration on monday . 
+^ i 'll have a better idea about timing for monday on sunday . 
+^ have a great weekend , &name 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,26 @@
+<message>
+<date> fri, 09 may 2003 15:10:39 +0100 </date>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ birthday party 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ my birthday is &num may : i 'll be turning &num . 
+^ i 'd like to have a get-together the day after to celebrate . 
+^ the get-together will be at the &name &name , which is at &num &name yard ( off bridge &name : you turn in by the silver shop ) . 
+^ it 's at &num : &num &name sunday &num may . 
+^ please rsvp so i can give the &name &name an accurate head count . 
+^ ++ &name &name , &email 
+^ * * to see an award-winning website with stories , essays , artwork , 
+^ * * games , and a four-dimensional maze , why not visit my home page ? 
+^ * * all of this is waiting for you at &website 
+</text_normal>
+</message_body>
+</message>

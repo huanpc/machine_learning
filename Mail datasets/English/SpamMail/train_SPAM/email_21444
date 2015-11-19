@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ ! 
+^ &name &name : are you taking vitamin pill ? 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> 5 apr 2003 05:51:17 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

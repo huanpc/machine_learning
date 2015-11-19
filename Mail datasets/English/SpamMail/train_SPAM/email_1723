@@ -1,0 +1,29 @@
+<message>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<subject>
+<text_normal> 
+
+^ answer questions ... enter to win &num , &num dollars 
+</text_normal>
+</subject>
+<date> sat, 22 mar 2003 08:13:44 -0500 </date>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you are receiving this message as a subscriber to the &name for you network . 
+^ to cancel , see the instructions at the end of this mail . 
+^ take a few moments to complete the survey below ! 
+^ you will entered to win $ &num , &num ! 
+^ &website 
+^ remove yourself from this recurring list by sending a blank email to 
+^ mailto : &email 
+^ or sending a postal mail to : 
+^ customer service 
+^ &num &name &name # &num 
+^ &name , &name &num 
+^ this message was sent to address 
+</text_normal>
+</message_body>
+</message>

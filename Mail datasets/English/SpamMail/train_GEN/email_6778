@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name executing &name file 
+</text_normal>
+</subject>
+<date> thu, 01 aug 2002 13:44:52 +0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i have problem executing the &name file i created using &name re-maker ver &num . 
+^ when i tried to run the &name file i get the message as shown in the bmp file in the attachment . 
+^ please advise what went wrong . 
+^ many thanks 
+^ &name ho 
+^ &name and receive hotmail on your mobile device : &website 
+</text_normal>
+</part>
+</message_body>
+</message>

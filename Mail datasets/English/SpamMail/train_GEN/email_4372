@@ -1,0 +1,23 @@
+<message>
+<date> thu, 16 jan 2003 14:12:46 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name club papers 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i was wondering if you could advise me on the best places to look for the following papers , in relation to the language reading club : 
+^ &char &name the syntactic operations " in &char &name , automatic information organisation and retrieval " , &name &name , &num 
+^ &name &name et &name the use of phrases and structured queries in information retrieval " sigir " &num , &name &org-sigir conference , &num 
+^ regards , 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

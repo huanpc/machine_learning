@@ -1,0 +1,32 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ information from &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 17 feb 2003 14:41:59 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ dear all 
+^ i am sorry that we missed the recruitment fair . 
+^ i am writing for &num reasons : 
+^ &num ) &name have appointed us to handle all their computer games recruitment in the &name - &name , &name and &name . 
+^ we have many excellent opportunities for graduate programmers and welcome applications . 
+^ &num ) we are an agency with many opportunities for graduates ( the service is free to candidates ) . 
+^ we specialise in the games industry and are the leading agency in this sector . 
+^ we are in touch with almost every games developer in the &name and also have opportunities abroad . 
+^ we recruit for &name ( producers of &name ) , &name , &name &name , &name , &name , &name , &name , &name &name , &name , &name , &name , &name , &name , midway , take &num , &name , &name . ... 
+^ please feel free to send us a &name in order to apply to &name or for other opportunities , or contact &name &name ( &email ) , who graduated from corpus in &num and who now works for us , and have a chat . 
+^ best wishes 
+^ &name &name managing director datascope &num / &num &name &name &name &name &name 
+^ &num &num &num 
+^ &website recruitment specialists for the interactive media industries 
+^ exclusive - appointed to handle the whole of sony 's development recruitment - &num / &num 
+</text_normal>
+</message_body>
+</message>

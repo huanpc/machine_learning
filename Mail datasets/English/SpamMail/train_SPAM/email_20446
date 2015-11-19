@@ -1,0 +1,23 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ ( - &num ) &num 
+</text_normal>
+</subject>
+<date> thu, 3 apr 2003 1:23:13 +0300 </date>
+<content-type> text/plain; charset="koi8-r" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ' - ' ( &num ) &num , &num 
+^ - - 
+^ ( ) ( ) 
+^ . 
+^ ( &num ) &num , &num ( ) email - &num 
+</text_normal>
+</message_body>
+</message>

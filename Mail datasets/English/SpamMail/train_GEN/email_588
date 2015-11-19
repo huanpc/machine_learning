@@ -1,0 +1,26 @@
+<message>
+<date> tue, 30 oct 2001 09:37:18 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i am having problems with the disk you gave me . 
+^ it is either not formatted or formatted for apple only . 
+^ anyway , it will not give me access to the publisher file . 
+^ therefore , could you please email me the relevant file and that will hopfully work . 
+^ i got the picture okay . 
+^ do you want it to form the entire background for the poster ? 
+^ hope you enjoyed your weekend at home and i 'll see you sometime . 
+^ love &name 
+</text_normal>
+</message_body>
+</message>

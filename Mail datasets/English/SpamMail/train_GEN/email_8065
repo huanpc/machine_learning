@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name is &num 
+</text_normal>
+</subject>
+<date> sun, 19 jan 2003 15:02:11 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ i have finally cum to the end of my youthful years and will be turning &num next week . 
+^ i would appreciate it if you could ease the pain by buying me lots of drinks ( or some other form of lubricant ) on the night of the event , tuesday 28th january . 
+^ location / time of drink buying to be confirmed , and possibly follwed by an abuse of my &name power in &name 's . 
+^ rsvp to this address , or my cusu one if you want me to avoid work all day . 
+^ &name 
+^ &num &num 
+^ add photos to your e-mail with &name &num . 
+^ get &num months free * . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

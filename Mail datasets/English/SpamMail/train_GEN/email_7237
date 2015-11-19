@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<to> net net </to>
+<subject>
+<text_normal> 
+
+^ trouble with sfxmcmd.exe 
+</text_normal>
+</subject>
+<date> thu, 5 dec 2002 13:20:21 -0700  </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name : &name : by amavisd-milter ( &website / ) status : &char &name : &char 
+^ &website to work in a batch file . 
+^ i am using windows &num . 
+^ here are the relevant lines in my .cmd file : 
+^ set inpfile%~f1 &website " ' %inpfile% " ' &website " ' %outfile% " 
+^ &website . 
+^ &website reports a dialog box saying 
+^ error : invalid archive ( full pathname of file ) 
+^ the .zip file tests fine . 
+^ am i doing something wrong ? 
+^ thanks 
+^ &name &name &name &name french mortuary , inc. &name : ( &num ) &num 
+</text_normal>
+</message_body>
+</message>

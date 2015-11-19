@@ -1,0 +1,23 @@
+<message>
+<from> ac.uk </from>
+<to> org.uk </to>
+<subject>
+<text_normal> 
+
+^ photos 
+</text_normal>
+</subject>
+<date> sun, 23 mar 2003 23:41:46 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ take a look at the " blue &name " photos , linked from this web-site : 
+^ &website / 
+^ i took them a couple of days ago and doctored them today . 
+^ best , 
+^ &name
+</text_normal>
+</message_body>
+</message>

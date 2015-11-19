@@ -1,0 +1,28 @@
+<message>
+<date> sat, 09 nov 2002 22:48:13 -0800 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ re : question 
+</text_normal>
+</subject>
+<to> com </to>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ hello thanks for you reply : i found the problem after spending endless hours trying to figure it out i was unzipping the files with the winxp unzip program ... in return it was giving me a memory allocation error the program was trying to inflate the files to my temp directory but was not able to find the directory ( not sure why ) anyway i installed winzip8.0 and the program loaded thanks again your reply was very much appreciated &name 
+^ - ----begin &name signed message----- hash : sha1 
+^ it would be most helpful if you could give me a &name for the file you downloaded , since &num cannot find anything for the stylus &num on their website . 
+^ i 'll then see if i can help , but ca n't guarantee it - it looks like a problem with &name 's software . 
+^ yours , 
+^ &name &name &name &name &name 
+^ &name &name : &name , free & easy for file sharing &website 
+^ - - &name &name & fingerprint - &website aaa8 95a1 cc07 ae13 &name &name &name &name &name 5d3f 
+^ - ----begin &name signature----- version : &name &name ( &name / &name ) 
+^ id8dbqe9zaoljanccaswxt8ran6baj4wpqkahb4qlcmdm13qsoyczjdxngcfelmw vzakmwkegvu92ynrstad+ue d8kq 
+^ - ----end &name signature----- 
+</text_normal>
+</message_body>
+</message>

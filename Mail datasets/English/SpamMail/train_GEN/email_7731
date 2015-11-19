@@ -1,0 +1,38 @@
+<message>
+<date> fri, 24 jan 2003 17:51:04 +0000 </date>
+<subject>
+<text_normal> 
+
+^ college welfare survey &num 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear all , 
+^ i have prepared , with consultation with yourselves and welfare members of the &name executive a survey of college welfare provision and services . 
+^ i would really like it if all welfare officers could fill the survey in in &website i.e. &website and send it back to me . 
+^ if you would prefer a paper copy and ca n't print one up , then email me and i will put one in the post for you . 
+^ please bear with me , as the survey is a bit long . 
+^ it is worth filling in , i promise . 
+^ i plan to collate all the results and write a brief report of my findings , to circulate to all of you . 
+^ then , more importantly , i will produce the results as a " database " so that you all will have access to each others results ( although no one else will have access ) and you can see examples of best practice , or just some more ideas about how to improve your college welfare . 
+^ the questions are designed to be slightly open ended , so please feel free to elaborate on any of your answers . 
+^ any questions , please do get in touch , and thanks in advance for filling in the survey , i hope you will find the results useful . 
+^ yours , 
+^ &name 
+^ &name &name 
+^ &name welfare and graduates officer 
+^ &num &name &name , &name &name &name 
+^ &num &num 
+^ &email 
+</text_normal>
+</part>
+<part num="2" type="multipart/appledouble">
+</part>
+</message_body>
+</message>

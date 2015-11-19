@@ -1,0 +1,13 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name notice 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=p36s986fh1w7zuzml724ask44b8o2h6188vb </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

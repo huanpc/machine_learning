@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name : your purchase order # ir1760-2250469 / dell order # &num 
+</text_normal>
+</subject>
+<date> fri, 14 mar 2003 18:26:49 -0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,28 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name files 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 14 feb 2003 20:17:35 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ all but &num of the answer files are now in /usr / groups / mphil / qa03 / rmrs / ans - the missing &num files are &num , &num , &num and &num . 
+^ if we can repair the problems we will add those files and let you know . 
+^ otherwise these are the final versions for this practical ( unless very serious bugs are reported ) . 
+^ you may notice that the dates have changed on some of the files that you had before - these files should be otherwise identical to the versions you have been looking at . 
+^ although the old &name and &name files remain , please use the top_docs files instead . 
+^ i have replaced ques-out-jan29.rmrs with a version which has &num structure for each of the &num sentences ( the older version had &num structures missing ) . 
+^ there should be a &num mapping between the sentences in this file and the answer files , apart from the missing answer files mentioned above . 
+^ please let me know at once if you suspect that this is still not the case . 
+^ i will attempt to answer all the outstanding questions that you have sent tonight or on sunday if not . 
+^ thanks for your patience , 
+^ &name
+</text_normal>
+</message_body>
+</message>

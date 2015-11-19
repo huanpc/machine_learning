@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ cv 
+</text_normal>
+</subject>
+<date> fri, 01 jun 2001 12:33:09 +0100 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name , 
+^ here is your &name , as requested . 
+^ see you later , 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=lhh4ro54mfuk8mmd25su7ag5g96fkk3vujs </content-type>
+<date> sat, 22 mar 2003 07:00:50 -0600 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

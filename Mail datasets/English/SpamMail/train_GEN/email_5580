@@ -1,0 +1,31 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name - &name exercise 
+</text_normal>
+</subject>
+<date> thu, 7 nov 2002 18:34:12 -0000 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ thank you for submitting your solution to the &num &name and the web mid-term exercise . 
+^ i am pleased to advise you that your solution is satisfactory and that you will be awarded full marks for this part of the practical assessment . 
+^ &name &name 
+</text_normal>
+<text_embedded> 
+
+^ professor &name , 
+^ attached herewith is the &name exercise . 
+^ please let me know whether it is acceptable . 
+^ thank you . 
+^ with best wishes , &name &name 
+^ mid-term exercise computing and the web . 
+^ do you &name ! ? 
+^ &name - search new jobs daily now &website / 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,50 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name times 
+</text_normal>
+</subject>
+<date> fri, 2 may 2003 20:34:12 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ my vote would be before hall on monday - what about &num for a &num start or something ? 
+^ &name to do other times as below , though . 
+^ &name . 
+^ &name , 
+^ my pretty excel sheet is now complete and says that the times that everyone can do are : 
+^ monday &num : &num - &num wednesday &num : &num - &num ( and after &num : &num ? ? ) friday &num - &num saturday &num - 10am 
+^ any preferences then say - &name suggested maybe &num : 30ish on mon / wed / fri in time for hall ? 
+^ or sat 9am ? 
+^ he also suggested meeting briefly to finalise things - is everyone going to &name 's breakfast this sunday ? 
+^ &name , hope thats it , &name 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ my vote would be before hall on monday - what about &num for a &num start or something ? 
+^ &name to do other times as below , though . 
+^ &name . 
+^ &name , 
+^ my pretty excel sheet is now complete and says that the times that everyone can do are : 
+^ monday &num : &num - &num wednesday &num : &num - &num ( and after &num : &num ? ? ) friday &num - &num saturday &num - 10am 
+^ any preferences then say - &name suggested maybe &num : 30ish on mon / wed / fri in time for hall ? 
+^ or sat 9am ? 
+^ he also suggested meeting briefly to finalise things - is everyone going to &name 's breakfast this sunday ? 
+^ &name , hope thats it , &name 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,13 @@
+<message>
+<subject>
+<text_normal> 
+
+^ free money to pay your bills 
+</text_normal>
+</subject>
+<from> net </from>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,23 @@
+<message>
+<from>
+</from>
+<date> tue, 08 apr 2003 12:37:40 -0800 </date>
+<subject>
+<text_normal> 
+
+^ you won a all inclusive &num days &num nights &name &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you won a all inclusive &num days &num nights &name &name &name vacation 
+^ you won a all inclusive &num days &num nights &name &name &name vacation . 
+^ &num days &num nights on the beach in &name beach , &name . 
+^ &num days &num nights on the beach in &name beach , &name 
+^ click here 
+</text_normal>
+</message_body>
+</message>

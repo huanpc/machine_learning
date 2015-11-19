@@ -1,0 +1,26 @@
+<message>
+<date> mon, 10 feb 2003 20:48:57 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ report . ... &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hello . ... 
+^ please may i remind you that your progress report to me was due in at &num hrs today . 
+^ &name , i have n't heard from you at all ... what have you been upto ? 
+^ i need to complete my progress report soon ( ish) ( due noon tomorrow ) .. you need to provide me with th following info &name : 
+^ . 
+^ what i did in phase &num . 
+^ &name / status . 
+^ problems encountered 
+^ cheers , &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,43 @@
+<message>
+<from>
+</from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name 's exe problems with &name &name 
+</text_normal>
+</subject>
+<date> thu, 8 may 2003 11:50:10 +0200 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ when a &name-made &name is scanned with &name &name , it alerts on " &website " virus . 
+^ when searching &name website about this virus , they say " no additional information " . 
+^ i think &name &name &name &name 's &name &name code with this virus . 
+^ possibly , &name will fix this ( false ) alert . 
+^ but , anyway , i think you should contact them to help them fix it , or fix &name &name code yourself . 
+^ i seize the opportunity of this email to ask you for the next &name version . 
+^ when will it be ? 
+^ yours sincerily . 
+^ &name &name &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &website " virus . 
+^ when searching &name website about this virus , they say " no additional information " . 
+^ i think &name &name &name &name 's &name &name code with this virus . 
+^ possibly , &name will fix this ( false ) alert . 
+^ but , anyway , i think you should contact them to help them fix it , or fix &name &name code yourself . 
+^ i seize the opportunity of this email to ask you for the next &name version . 
+^ when will it be ? 
+^ yours sincerily . 
+^ &name &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

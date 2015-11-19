@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ kisses from &name 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 12:36:52 +1000 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,22 @@
+<message>
+<to>
+</to>
+<subject>
+<text_normal> 
+
+^ re : proposed &name for &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 02 jun 2003 13:58:12 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ sorry , there was a cut-and-paste error in my message 
+^ just &num label 
+^ ( rarg ) ( rargname)carg ( /rargname ) ( label vid' &num " / ) ( constant)london ( /constant ) / ) ( /rarg ) 
+^ &name 
+</text_normal>
+</message_body>
+</message>

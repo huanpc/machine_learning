@@ -1,0 +1,22 @@
+<message>
+<date> 18 feb 2003 03:19:15 -0000 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ request 
+</text_normal>
+</subject>
+<content-type> text/plain; format=flowed </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ i am a master student in computer science at the &name of &name , i wish to apply for the &name program . 
+^ can i know about the chances of &name for the students in &name program ? 
+^ thanks , &name 
+^ &name &name &num , &name &name ave # &num , norman ok-73069 &name : &num 
+</text_normal>
+</message_body>
+</message>

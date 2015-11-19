@@ -1,0 +1,46 @@
+<message>
+<date> tue, 28 jan 2003 19:35:33 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] mintues5 
+</text_normal>
+</subject>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , 
+^ can i just check who is actually doing the &name layout ( or could it possibly been done already ? ! ) 
+^ just to remind everyone again , meeting tmr is 3pm in &name . 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name &name &name &name &num &num 2003-01-28t19 : &num : &name 2003-01-28t19 : &num : &name &num &num &num none &num &num &num &num clean clean microsoftinternetexplorer4 
+^ &char &char &char &char 
+^ minutes for &name &num 
+^ &num / &num / &num &num : &num &name &num : 00pm 
+^ &name &name : all present 
+^ topics discussed : 
+^ &char ) preparation for first review meeting with dr &name : 
+^ - &name &name file is now being set up and handed in for review . 
+^ - make the most of the &num hour slot we have with dr &name , &name be afraid to ask questions and clarify uncertainties . 
+^ &char ) &name &name &name &name group members may record their expenditure for the project ( eg printing costs ) in a file on &name . 
+^ any single purchase exceeding the value of &pound; &num should be discussed and passed by the majority of the group beforehand . 
+^ &char ) dedicated server is needed . 
+^ &name &name . 
+^ &char ) &name is to take on the role of general management of the project , ensuring all guidelines are met and on time . 
+^ &char ) file management and &name layout finalised in the meeting and to be implemented by thursday . 
+^ &char ) file back up : &name backs up automatically on &name . 
+^ to do by thursday : 
+^ set up &name and class-files . 
+</text_normal>
+</part>
+</message_body>
+</message>

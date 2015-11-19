@@ -1,0 +1,33 @@
+<message>
+<date> thu, 21 nov 2002 20:44:04 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name club 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ i have received the following choices from people for the speech reading club . 
+^ if i have missed you off the list , or not shown the correct preference please let me know &name . 
+^ you should also let me know of any changes of preference . 
+^ where a topic preference has been expressed it is in [ ] , &name student . 
+^ no preference : &name &name &name 
+^ &name / &name / &name : &name &name 
+^ &name &name : &name &name &name &name 
+^ speaker &name : &name &name &name &name ( &name ) &name &name &name &name 
+^ acoustic modelling : &name &name [ &name ] &name &name [ &name ] &name &name [ &name / &name ] ( &name ) 
+^ language modelling : &name &name &name &name 
+^ from the current preferences the following themes will be run : 
+^ &name conversion speaker &name ( full ) acoustic modelling language modelling 
+^ i am willing to juggle things around , but the &name club works best when there are &num / &num people in each theme . 
+^ &name 
+^ &name &name , &name &name group &name : ( &num ) &num &num &name university engineering dept. &name : ( &num ) &num &num &name street , &name , &name &name . 
+^ email : &email 
+</text_normal>
+</message_body>
+</message>

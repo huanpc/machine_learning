@@ -1,0 +1,20 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ windows me ... makes the whole &name hang as soon as its been run once . 
+</text_normal>
+</subject>
+<date> mon, 15 jul 2002 16:08:15 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ normal &num documentemail &num &num 
+</text_normal>
+</part>
+</message_body>
+</message>

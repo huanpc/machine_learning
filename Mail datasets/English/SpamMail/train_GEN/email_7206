@@ -1,0 +1,20 @@
+<message>
+<from> ac.uk </from>
+<to> com ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ tickets / &name 
+</text_normal>
+</subject>
+<date> thu, 13 feb 2003 10:56:22 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , &name , &name and &name i 've just had a suggestion from someone which sounds very sensible at this stage , given the ticket sales figures i 've seen . 
+^ maybe you 've already thought of it , but thought i 'd let you know and strongly suggest that you do it ! 
+^ i suggest that we flyer central &name on friday and saturday , and flyer up to &num mins before the performance around &name ( depending on ticket availability at that stage ) let me know if you 'd need some help with printing flyers or getting a team together ( &name &name and i can try to activate the &name flyering team for this purpose if really necessary , altough i 'm guessing you 've already got this under control ... ) love , &name 
+</text_normal>
+</message_body>
+</message>

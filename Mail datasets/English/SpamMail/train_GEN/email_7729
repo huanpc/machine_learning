@@ -1,0 +1,27 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ assistance required 
+</text_normal>
+</subject>
+<date> 16 feb 2003 16:09:55 +0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi guys , 
+^ as you should already know , an article about the &name will be placed in the &name &name review magazine . 
+^ i have done a draft of the article , so please let me know what i think . 
+^ the last time i asked , i got only &num response , so hopefully this time will be better . 
+^ please remember that the article is supposed to represent all of us ! ! 
+^ hoping to hear from each of you , &name 
+</text_normal>
+</part>
+<part num="2" type="application/msword">
+</part>
+</message_body>
+</message>

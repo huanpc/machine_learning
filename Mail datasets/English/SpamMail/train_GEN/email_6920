@@ -1,0 +1,25 @@
+<message>
+<date> wed, 6 nov 2002 17:34:45 gmt </date>
+<from> co.uk co.uk </from>
+<to> com com </to>
+<subject>
+<text_normal> 
+
+^ &name : sales@blankdiscshop.co.uk 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ please view this with a fixed size font . 
+^ date name &name &name type status 
+^ - ------------------ -------------------- ---------- ---- ---- ------ 
+^ &num &num &num : &num : &num &char &char cornish &num &name &name okay 
+^ order : dc84ee10071371 
+^ &name &name &name ------------------------------ ----------------------------- name : &char &char cornish address : &num walnut &name &name &name &name town / &name : &name country : &name &name &name code : &name &name telephone : &num &num email : &email 
+</text_normal>
+</part>
+</message_body>
+</message>

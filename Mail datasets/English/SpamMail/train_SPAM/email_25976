@@ -1,0 +1,20 @@
+<message>
+<date> thu, 10 apr 2003 01:44:01 +0200 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name &name &name &name &name ... 
+</text_normal>
+</subject>
+<content-type> text/html; charset=ks_c_5601-1987 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ : &num 
+^ : &name &num 
+^ _______________________________________________ procps-list mailing 
+</text_normal>
+</message_body>
+</message>

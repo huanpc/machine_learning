@@ -1,0 +1,20 @@
+<message>
+<date> fri, 28 mar 2003 15:37:22 +0100 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name ... 
+</text_normal>
+</subject>
+<content-type> text/html; charset=ks_c_5601-1987 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ : &num 
+^ : &name &num 
+^ ( &name &name src' &website 
+</text_normal>
+</message_body>
+</message>

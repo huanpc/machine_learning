@@ -1,0 +1,24 @@
+<message>
+<date> fri, 17 jan 2003 21:26:47 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] meeting tomorrow 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ hi everyone , 
+^ despite the fact that our meeting with &name &name will be in &num weeks time , we will still meet tomorrow ( saturday ) at &num , &name &num . 
+^ just to remind you if there 's anything you 'd like to talk about tomorrow and would like me to write it in the agenda , please email me tonight . 
+^ also it would be helpful if everyone comes prepared with appropriate articles / books , etc. 
+^ see you all there ! 
+^ &name &name 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

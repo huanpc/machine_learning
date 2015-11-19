@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ missing parts 
+</text_normal>
+</subject>
+<date> wed, 19 feb 2003 22:26:08 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name - any luck with the missing parts ? 
+^ what shall we do if they 're still not there by tomorrow morning ? 
+^ &name and i are taking the boxes back tomorrow at 11am . 
+^ do you have another box as there was only &num but they arrived in &num ? 
+^ please let me know if any parts arrive 
+^ thanks &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name - any luck with the missing parts ? 
+^ what shall we do if they 're still not there by tomorrow morning ? 
+^ &name and i are taking the boxes back tomorrow at 11am . 
+^ do you have another box as there was only &num but they arrived in &num ? 
+^ please let me know if any parts arrive 
+^ thanks &name 
+</text_normal>
+</part>
+</message_body>
+</message>

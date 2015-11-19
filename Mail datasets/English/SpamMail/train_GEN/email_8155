@@ -1,0 +1,25 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ language practicals -- evaluation 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 04 mar 2003 14:01:04 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi students , 
+^ some questions have come up concerning the evaluation of your systems , and here are the answers : 
+^ &num the question parses will not change anymore , they are in their final form . 
+^ &num for evaluation , please exclude questions that are not parsed . 
+^ &num you will receive " unseen " ( &name ) data in the same format as the development data you use up to now , sometime next week . 
+^ because you should report your system 's performance on the test data without any changes to your system , this data is deliberately held back until the very end . 
+^ the difference between the system 's performance on the test data and on the seen ( development ) data -- which you should also report -- tests the generalisability of your strategies . 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,23 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ meetings with &name advisees 
+</text_normal>
+</subject>
+<date> mon, 25 nov 2002 12:45:04 -0000 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name would like to meet up with you as advisees for &num minutes , in room &num , in the engineering dept , on tuesday &num december at the following time : 
+^ &name &name at 10am &name &name at 10.15am &name &name at 10.30am hing &name at 10.45am &name &name at 11.00am 
+^ please could you let me know if these times suit . 
+^ many thanks 
+^ &name &name 
+^ divisional administrator to professor &name &name ( &name of division &char ) university of &name department of engineering &name &name &name &name &name &name : &num ( &num ) &num &num &name : &num ( &num ) &num &num &website / 
+</text_normal>
+</message_body>
+</message>

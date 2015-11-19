@@ -1,0 +1,25 @@
+<message>
+<from> biz </from>
+<date> sat, 29 mar 2003 03:11:24 -0800 </date>
+<subject>
+<text_normal> 
+
+^ online pharmacy * &name , &name , &name .. more 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( html) ( &name color' # &name ' &name family'sansserif ' face' arial ' lang' 0' ) ( b) ( i)convenience ! 
+^ privacy ! 
+^ discount prices ! 
+^ fast delivery! ( &num ( &name color' # &num ' &name family'sansserif ' face' arial ' lang' 0' ) ( &num ( /i ) 
+^ take advantage of ordering from our ( &num ( &name color' # &num ' &name family'sansserif ' face' arial ' lang' 0' ) ( b)online discount pharmacy ( &num ( &name color' # &num ' &name family'sansserif ' face' arial ' lang' 0' ) ( &char ) ! 
+^ ( &num ( &name color' # &name ' &name family'sansserif ' face' arial ' lang' 0' ) ( b)no prior prescription needed. ( &num ( &name color' # &num ' &name family'sansserif ' face' arial ' lang' 0' ) ( &char ) name brand medications , such as &name , &name , &name and more ! 
+^ ( &char href' &website ) 
+^ ( i)order by &name &name , and ( b)your order will arrive the very next business day ( &num ( &num ( &name ) ( &name ) ( &name ) ( &name ) ( &num ( &name color' # &num ' &name family'sansserif ' face' arial ' lang' 0' ) ( /b)------------ ( &name ) no more mail , ( &char href' &website ) 
+</text_normal>
+</message_body>
+</message>

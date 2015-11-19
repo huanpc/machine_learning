@@ -1,0 +1,21 @@
+<message>
+<date> sun, 23 mar 2003 18:04:35 -0800 (pst) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ [ &num / &num / &num &num : &num : &num ] &name : &name - a star is born 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ lights camera action 
+^ take it from the &name 
+^ &website 
+^ be permanently removed from our list - click here 
+</text_normal>
+</message_body>
+</message>

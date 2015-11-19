@@ -1,0 +1,28 @@
+<message>
+<date> fri, 10 may 2002 10:56:46 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : funding 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ congratulations ! 
+^ so are you definitely going there next year then ? ? ? 
+^ &name 
+^ &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ friends , 
+^ &name have offered me funding . 
+^ i 'm rich ! ! ! ! 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

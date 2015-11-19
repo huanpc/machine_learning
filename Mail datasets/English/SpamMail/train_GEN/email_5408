@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<to> ac.uk com </to>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<date> tue, 06 may 2003 10:59:54 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ how are you ? 
+^ &name project going ? 
+^ i bet &char must be at a very competitive stage in ur project right now . 
+^ heard that the results are going to be today - its really nerve-racking is n't it ? 
+^ had to meet &name &name , my supervisor today , so here in &name , if &char come to collect ur results will get a chance to say hi to you ... wish i good-luck with the results . 
+^ bye for now , &name 
+^ hotmail messages direct to your mobile phone &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,30 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ $ &num off your online purchase ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<date> mon, 24 mar 2003 01:01:05 -0500 (est) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ computer books direct 
+^ get an additional $ &num off our already &name club prices ! 
+^ limited-time offer ! 
+^ dear &char : 
+^ we 'd like to thank you for being a valued customer and show our appreciation with this special offer &# &num ; available only online ! 
+^ from now until april &num , &num , we 'll take $ &num off your online purchase . 
+^ simply add your selection ( &char ) to the shopping cart &# &num ; no special codes needed . 
+^ come back and save as many times as you like before april 4th ! 
+^ click here and start saving today ! 
+^ and thanks for being a valued online member ! 
+^ computer books direct&reg; 
+^ if for any reason you 'd prefer not to receive future offers or club news electronically from computer books direct&reg;, please click here . 
+^ to receive future e-mail updates from other book clubs , please click here . 
+</text_normal>
+</message_body>
+</message>

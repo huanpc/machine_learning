@@ -1,0 +1,24 @@
+<message>
+<date> mon, 13 jan 2003 17:35:35 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name at european invitational tournaments [ vote by sunday &num / &num ] 
+</text_normal>
+</subject>
+<to> org </to>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ yes yes yes 
+^ &name &name ( &email ) 
+^ 3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d 3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d 
+^ all , 
+^ to put the motions first , i propose that 
+^ ( &num ) we nominate &char &name hall as our rep to the &num &name event , with &name &name as standby if &char &name is unable to accept ; ( &num ) we nominate &name &name as our rep to the &num &name denso cup if we receive an invitation to that , with &name &name as standby if &name &name is unable to accept ; ( &num ) we make clear an intention to devise a durable system for these nominations , to take effect from &num . 
+^ my reasons for proposing to do it this way 
+</text_normal>
+</message_body>
+</message>

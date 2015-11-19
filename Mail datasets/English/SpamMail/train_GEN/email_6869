@@ -1,0 +1,13 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<date> tue, 18 mar 2003 08:58:14 +0000 </date>
+<content-type> multipart/mixed; boundary=message-boundary-47 </content-type>
+<subject>
+<text_normal> 
+
+^ reminder - &name college teaching and &name &name 
+</text_normal>
+</subject>
+<message_body> --message-boundary-47 content-type: text/plain; charset=us-ascii content-transfer-encoding: 7bit content-description: mail message body dear all, please find attached the teaching and learning questionnaire. if you  haven't had time to complete it yet please can you do  so asap and send it to your tutor. the feedback is very important and  this is your opportunity to let the college know what you think. if  you like you can fill it in on line and send it back electronically  to your tutor - we just want as many responses as possible. please  remember also that  there is a prize draw.  all those who have  returned their forms will be added to the list for the draw, and  there will be boots' vouchers for the first three names drawn from a  hat. sincerely, ann shannon tutorial office --message-boundary-47 content-type: text/plain; charset=us-ascii content-disposition: inline content-description: attachment information. the following section of this message contains a file attachment prepared for transmission using the internet mime message format. if you are using pegasus mail, or any another mime-compliant system, you should be able to save it or view it from within your mailer. if you cannot, please ask your system administrator for assistance. ---- file information ----------- &website date:  18 mar 2003, 8:38 size:  77312 bytes. type:  unknown --message-boundary-47 &website"; type=unknown &website" content-transfer-encoding: base64 </message_body>
+</message>

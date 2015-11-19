@@ -1,0 +1,29 @@
+<message>
+<date> sun, 09 feb 2003 15:00:35 +0000 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ re : supervisions 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii"; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ moving digi com back an hour is fine for me , and so is thursday at &num for &name . 
+^ &name 
+^ at &num : &num am &num / &num / &num &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi 
+^ firstly , i ca n't make digi comm at the prescribed time , because of a project group meeting ( &name , i know it 's kinda ironic given that this was your problem before & i knew there was a reason why &name & i did n't take that slot ) . 
+^ would you be willing to ask if we can have the hour afterwards ? 
+^ also we need to agreed &name on &name &name &num / &name &name sups ie whether thursdays are ok ( see my e-mail to &name &name 'd to you ) or whether you want to go for another time ( see my &name .plan by using finger for when i 'm free ) . 
+^ thanks , &name 
+</text_embedded>
+</message_body>
+</message>

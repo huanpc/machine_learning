@@ -1,0 +1,24 @@
+<message>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : question 
+</text_normal>
+</subject>
+<date> sun, 9 feb 2003 21:09:09 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_embedded> 
+
+^ yes thanks . 
+^ the next one will be thursday &name - 6pm in &name if you 're interested . 
+</text_embedded>
+<text_normal> 
+
+^ could you please let me know where exactly this will be &name as then i can tell the exec as well in case any of them are free at this time and would like to come . 
+^ thanks , &name 
+</text_normal>
+</message_body>
+</message>

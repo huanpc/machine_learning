@@ -1,0 +1,49 @@
+<message>
+<date> mon, 22 jul 2002 19:00:25 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : integration 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name - i am happy to help in any way i can . 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ cool .. that 's great . 
+^ oh , by the way , i 'll be working with your code tonight . 
+^ as i work through , i 'll probably be shooting questions off to you' all . 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ thanks - my guess is we will show up at around &num : &num but i will check with &name and &name . 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ i 'll probably be in by &num or &num tomorrow &name 
+^ on mon , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ &name , 
+^ what time do you expect to be in tomorrow ? 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

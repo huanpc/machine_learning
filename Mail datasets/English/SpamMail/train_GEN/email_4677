@@ -1,0 +1,22 @@
+<message>
+<date> thu, 8 may 2003 11:00:06 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ names 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i 'm thinking of using a list of first names to augment the lexicon with first names it does n't already contain . 
+^ i 've found quite a good list ( of baby names actually ! ) but i was just wondering if you knew of any particularly good lists ? 
+^ cheers , 
+^ &name
+</text_normal>
+</message_body>
+</message>

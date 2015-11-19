@@ -1,0 +1,31 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<date> mon, 02 apr 2001 17:43:57 -0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ yes but i do n't know how to use the aol thing , so i will be here . 
+^ it 's antoineice by the way , not &name . 
+^ anyway , we can sort it at &num &name &name 
+</text_normal>
+<text_embedded> 
+
+^ from : &name to : &email subject : &name &name : mon , &num &name &num &num : &num : &num &num 
+^ hi &name , 
+^ are you still able to chat this evening at &name ? 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ get your private , free e-mail from &name &name at &website . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,40 @@
+<message>
+<date> sun, 16 feb 2003 19:50:12 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name files 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ this should help , it 's the output from grep : 
+^ embo : $ grep " c6 " &name ( " though " ' federal " ' research " 'minister " ' krc6uger " ' and " ' his " ' french " 
+^ " and " ( |n1 / n_n1/- | |minister : &name | ( |n1 / &char | |krc6uger : &name | ) ) ) ) ( " [ " ' article " ' by " ' &name " &name " ' and " ' &name " ' &name " ' under " ' the " ( |n1 / n-name_n1 | |waldemar : &name | ( |n1 / &char | |schc6afer : &name | ) ) ) ) ) " the " 'sc6anger " ' ( " ' &name " ' ) " ' or " ' &name " ' ( " ' &name " ' &name " ' ) " ( |t / np_lmta | ( |np / det_n1 | |the : &name | ( |n1 / &char | |sc6anger : &name | ) ) 
+^ embo : ans $ zcat &name | grep " c6 " ' the " ' nuremberg-to-fc6urth " ' line " ' , " 'so " ' at " ' the " ' beginning " ' of " 
+^ " the " ( |n1 / ap_n1/- | ( |ap / a1 | ( |a1 / a | |nuremberg-to-fc6urth : &name | ) ) 
+^ even if the character gets messed-up , at least you can see the context . 
+^ cheers , 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ i 'm having problems isolating out the cause of the difficulties - can you identify the character that 's causing problems by its &name code or in so me other way that is n't going to get messed up by the mailer ? 
+^ or give me a character position for the place in the file where you get problems ? 
+^ &email said : 
+<text_embedded> 
+
+^ i also found the c6 character in &name . 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

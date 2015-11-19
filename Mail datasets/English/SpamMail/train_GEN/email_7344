@@ -1,0 +1,34 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ worship leader 's prayer 
+</text_normal>
+</subject>
+<date> tue, 21 may 2002 16:33:57 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ if you were there , i 'm sure you 'll agree that &name &name organised a special worship leader 's prayer time last wednesday . 
+^ is there any chance of making this a regular slot ? 
+^ what do you think ? 
+^ &name 
+^ does anyone know &name &name 's e-mail 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ if you were there , i 'm sure you 'll agree that &name &name organised a special worship leader 's prayer time last wednesday . 
+^ is there any chance of making this a regular slot ? 
+^ what do you think ? 
+^ &name 
+^ does anyone know &name &name 's e-mail 
+</text_normal>
+</part>
+</message_body>
+</message>

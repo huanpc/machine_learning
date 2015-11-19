@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : have you seen this ? 
+^ &char vaqm &char 
+</text_normal>
+</subject>
+<date> wed, 09 apr 03 06:58:48 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

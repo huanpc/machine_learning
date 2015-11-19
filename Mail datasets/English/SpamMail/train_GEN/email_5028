@@ -1,0 +1,25 @@
+<message>
+<to> uni uni uni </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 20 nov 2001 16:14:40 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ ok - you 're booked in to the &name &name house , which is on the north side of &name , so relatively close to the lab and relatively central ( &num mins walk to the centre i 'd guess ) . 
+^ i 'm afraid it 's &num pounds per person per night - this was all we could get - we had to get you each double rooms because nowhere had enough singles . 
+^ i hope it is ok - i believe it is reasonably nice . 
+^ &name &name house 
+^ &name & . 
+^ &name &name , &num &name road , &name &name &name &name : &num &num mobile : &num &num &name : &num &num 
+^ i have said you 'll arrive early evening on saturday - if you 're going to be later than that , you 'll need to phone and let them know . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

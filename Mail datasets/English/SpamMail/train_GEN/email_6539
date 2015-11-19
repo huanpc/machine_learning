@@ -1,0 +1,29 @@
+<message>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ &name : manuals 
+</text_normal>
+</subject>
+<date> tue, 25 feb 2003 11:46:23 -0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ in case anyone did n't get these 
+^ all the best 
+^ &name 
+</text_normal>
+<text_embedded> 
+
+^ attached for proof reading , corrections and any changes you want to make . 
+^ please let &name have the final copy in good time to hand it in. 
+^ thanks , 
+^ &name 
+</text_embedded>
+</part>
+</message_body>
+</message>

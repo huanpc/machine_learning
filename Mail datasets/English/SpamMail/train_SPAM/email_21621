@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ any city , any hotel room , best prices online ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> mon, 07 apr 2003 12:42:25 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ get the lowest priced hotel rooms ! 
+^ any city , any room , best prices online ! 
+^ &website 
+^ please accept our apologies if you received this mail in error . 
+^ if you do not wish to receive future mail , &name here . 
+^ if you have a problem using the removal process , please call current mail at ( &num ) &num or submit your request to : 
+^ current mail , inc. &num &name &name . 
+^ highway &num &name &num &name , &name &num &name 
+</text_normal>
+</message_body>
+</message>

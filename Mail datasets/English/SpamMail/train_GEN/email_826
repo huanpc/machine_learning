@@ -1,0 +1,40 @@
+<message>
+<date> mon, 30 apr 2001 14:56:44 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : the meaning of life 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name ha ha ! 
+^ &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ stop spelling your name wrongly ! ! ! 
+^ ( it 's &name ) 
+^ &char 
+^ &name wrote : 
+<text_embedded> 
+
+^ &name &name , &name , &name ad &name ! 
+^ what are you all doing ? 
+^ i have just had a tutorial in organic chemistry with an amusing tutor . 
+^ it was good fun , although i understood very little ! 
+^ however , that 's not important . 
+^ i 'm shortly going back to the flat to eat my lunch - lovely chicken with lemon and coriander , noodles , and soy sauce . 
+^ i hope you are all having productive mornings , and if you are not , life is about much more than exam revision . 
+^ i look forward to seeing you all later today ! 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

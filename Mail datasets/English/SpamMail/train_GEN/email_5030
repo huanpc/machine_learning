@@ -1,0 +1,23 @@
+<message>
+<to> uni </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 20 nov 2001 16:29:40 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ i 'm sorry about having to go over budget - &name is expensive but i had no idea it would be so booked up this time of year . 
+^ we 'll buy you dinner &num night , if that helps ease the pain ... 
+^ could you send a title and short abstract for the talk to : 
+^ &email 
+^ thanks , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,30 @@
+<message>
+<date> tue, 23 jul 2002 22:38:02 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : integration 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ what do n't you have access to ? 
+^ you seem to have write permissions everywhere i can see . 
+^ &name i fixed the map bug - turns out that we always tested the parser on predicates and there was a bug in the &name method that never got found . 
+^ i fixed the bug , but now there is another error later on that the parser does not seem to be causing . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ can you change the permissions on the stuff in /pro / &name / linux / &name 
+^ i ca n't compile . . 
+^ thanks , &name 
+</text_embedded>
+</message_body>
+</message>

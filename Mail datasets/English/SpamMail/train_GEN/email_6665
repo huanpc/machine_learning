@@ -1,0 +1,30 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ notice of an election 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 19 nov 2002 12:35:37 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ notice of the election of &num junior &name ( &num undergraduate and &num graduate ) to the computer science syndicate . 
+^ the procedure for the election shall be that prescribed in the single &name &name regulations except that the duties of the &name under those regulations shall be performed by the returning officer ( &name &char &char &name ) . 
+^ he has deputed the performance of the duties of the returning officer which do not involve the exercise of a discretion to me as secretary of the computer science syndicate . 
+^ nominations must be submitted to me in writing and must be signed by the persons proposing and seconding the nomination and shall be accompanied by a statement , signed by the person nominated , that &char / he consents to her / his nomination . 
+^ the final date for receipt of nominations will be &num on tuesday &num november &num . 
+^ nominations will be published by e-mail and the list displayed on the notice board outside the student administration office in the &name &name building . 
+^ &name will take place on tuesday &num december &num at &name administration reception in the &name &name building between &num - &num and &num - &num . 
+^ an electoral roll of all the persons who are eligible to vote and stand as candidates in the election is provided by the &name schools and is displayed on the notice board outside the student administration office . 
+^ please ask &name or me if you are in any doubt about your standing or that of a proposed candidate . 
+^ the nomination of any candidate whose name , or the name of the proposer or seconder , is not included in the roll , or in the roll as amended by the registrary , shall be declared to be invalid . 
+^ this notice will be displayed on the notice board outside the student admininstration office . 
+^ &name &name secretary of the computer science syndicate 
+^ &num november &num 
+</text_normal>
+</message_body>
+</message>

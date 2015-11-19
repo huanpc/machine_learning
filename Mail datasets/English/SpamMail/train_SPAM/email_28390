@@ -1,0 +1,25 @@
+<message>
+<date> sun, 11 apr 2004 10:29:44 -0300 </date>
+<from> com.br </from>
+<subject>
+<text_normal> 
+
+^ &name &name - ' &name &name ' 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hello you ! ! ! 
+^ i 'm from &name 
+^ check this video of cool hip hop comedy : ' &name &name ' 
+^ available for free download : 
+^ &website 
+^ see you ... : ) ) ____________________________________________________ 
+^ sent by &name &num 
+^ &website 
+</text_normal>
+</message_body>
+</message>

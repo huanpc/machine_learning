@@ -1,0 +1,31 @@
+<message>
+<date> mon, 31 mar 2003 14:06:49 -0700 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ free ' &name ' &name . 
+^ available now ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) 
+^ ( &website ) ( &website ) 
+^ ( &website ) 
+^ ( &website ) 
+^ * see offer for details . 
+^ you must complete a sponsored offer to receive your ' &name '' &name at no cost . 
+^ no purchase necessary . 
+^ by clicking above , you are agreeing to the terms ( &website ) & conditions for this offer . 
+^ ( &website ) 
+^ remove yourself from this recurring list by : sending a blank email to &email ( mailto : &email ) 
+^ - or - 
+^ sending a postal mail to customerservice , &num &name &name # &num , &name , &name &num 
+^ this message was sent to address 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,27 @@
+<message>
+<to> co.uk ac.uk ac.uk ac.uk com ac.uk com ac.uk com com ac.uk com ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name tomorrow 26th november 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 25 nov 2002 08:26:54 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ natural language and information processing group seminar &website / 
+^ 12pm , tuesday 26th november , &name 
+^ &org , &name &name building , &name &name avenue &website 
+^ &name : plug and play &name &name &name 
+^ &name : 
+^ &name and play is an increasingly important concept in system and network architectures . 
+^ we introduce and describe a spoken language dialogue system architecture which supports plug and playable networks of objects in its domain . 
+^ each device in the network carries the linguistic and dialogue management information which is pertinent to it and uploads it dynamically to the relevant language processing components in the spoken language interface . 
+^ this is joint work by &name &name technology limited and &name research . 
+^ ( all welcome - for instructions on how to get to the &org , please see : &website ) 
+</text_normal>
+</message_body>
+</message>

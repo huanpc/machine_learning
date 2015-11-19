@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : cigarettes 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> fri, 28 mar 2003 13:26:30 +0200 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ we welcome you to enter our website : &website at universal duty free you will be able to save lots of money and enjoy first choice brand name products . 
+^ ( about us ) 
+^ it is our goal to serve the needs of the consumer , and to offer only the highest quality merchandise , at highly competitive prices . 
+^ these objectives may seem straightforward , but they require both dedication , teamwork and of course hard work and commitment in any successful endeavor . 
+^ universal duty free stands at your service &num hours a day . 
+^ for any assistance , comments , or feedback , you may contact any of the following departments : &email remove 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,31 @@
+<message>
+<from> net </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ request to include your software on cover c.d. of our magazine 
+</text_normal>
+</subject>
+<date> tue, 26 nov 2002 20:05:18 +0530 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear sir / madam , 
+^ we would like to introduce ourselves as publishers of the largest circulated &name &name &name , " computer vignanam " . 
+^ the people of &name &name , one of the fastest growing it states in &name speak this language and our capital &name is named to be fastest growing it city in the country which is also being referred as &name . 
+^ we started this publication &num years ago , with an aim to impart computer knowledge to the &name speaking people in their mother tongue . 
+^ now our circulation has crossed &num , &num copies . 
+^ from the last &num years , we are bundling &name ds containing useful utilities along with the magazine . 
+^ our forthcoming issue is going to be bundled with a c.d. whose circulation is expected to be around &num , &num copies . 
+^ we would like to include freeware version of your '&name " software in this c.d. this will also help you in promoting your brand name in this upcoming it sector . 
+^ hence we request you to permit us to download the software and include it on the &name 
+^ if you have developed any other softwares which might be interesting to our readers and can permit us to include them also in the c.d. kindly let us know , so that we can look into them and include them . 
+^ looking forward to receive your favourable reply , we remain , 
+^ thank you , for crescent publications , &name &name chief executive 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,38 @@
+<message>
+<from>
+</from>
+<to> org </to>
+<date> mon, 26 may 2003 23:31:20 +0200 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<subject>
+<text_normal> 
+
+^ re : observations on the new &name startup dialog 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ on monday &num may &num &num : &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ the way &name are used in all applications is that they provide different views to the same data . 
+</text_embedded>
+<text_normal> 
+
+^ certainly not . 
+^ do all my konqueror &name show the same data ? 
+^ do all my kspread sheets ( &num per &name ) show the same data ? 
+</text_normal>
+<text_embedded> 
+
+^ &name , quick scetch attached that might not be the end-all , but should at the very least prove to solve more problems then most ideas i have seen so far . 
+</text_embedded>
+<text_normal> 
+
+^ this would still open a modal dialog ( the file dialog ) above the template chooser dialog ( modal too ) - is n't that considered bad practice ? 
+^ &name &name -- &email &name / &name / &name developer klar' lvdalens &name ab , platform-independent software solutions kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

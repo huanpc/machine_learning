@@ -1,0 +1,38 @@
+<message>
+<date> tue, 5 nov 2002 15:18:49 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> org.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ glad to hear you 've finally seen the light ! 
+^ ( although &name is a bit of a toy-town programming language ! ) 
+^ yes , i 'm going round to your parents " this evening . 
+^ &name 
+^ on &name , &num &name &num , &name &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey &name , 
+^ i 've been doing lots of &name this week , and programming is quite fun . 
+^ i can see why you like it so much ! 
+^ i 've just been wrestling a bit with a simple days of the month program which is now working , and i feel pretty good about it , because , like you always did , i have done more than was required ! 
+^ how cool ! 
+^ are you going over to my house tonight to have supper and watch the fireworks ? 
+^ &name ! 
+^ &name &name has no fireworks to watch ! 
+^ keep well , 
+^ &name 
+^ do you &name ! ? 
+^ everything you 'll ever need on &num web page from &name and sport to email and music charts &website 
+</text_embedded>
+</message_body>
+</message>

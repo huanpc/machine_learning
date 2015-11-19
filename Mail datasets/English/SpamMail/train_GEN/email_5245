@@ -1,0 +1,24 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name &name / &name / &name is out of the office . 
+</text_normal>
+</subject>
+<from> co.uk </from>
+<to> ac.uk </to>
+<date> tue, 27 may 2003 14:02:06 +0100 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ i will be out of the office starting &num / &num / &num and will not return until &num / &num / &num . 
+^ if your query is urgent please contact &name &name on &num &num &num or you can contact me on my mobile &num &num . 
+^ the information contained in this message may be confidential and is intended for the addressee only . 
+^ any unauthorised use , dissemination of the information , or copying of this message is prohibited . 
+^ if you are not the addressee , please notify the sender immediately by return e-mail and delete this message . 
+^ although this e-mail and any attachments are believed to be free of any virus , or other defect which might affect any computer or system into which they are received and opened , it is the responsibility of the recipient to ensure that they are virus free and no responsibility is accepted by &name for any loss or damage from receipt or use thereof . 
+^ please note that all e-mail messages are subject to interception for lawful business purposes . 
+</text_normal>
+</message_body>
+</message>

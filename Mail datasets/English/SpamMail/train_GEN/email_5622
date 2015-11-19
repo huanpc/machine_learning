@@ -1,0 +1,22 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name - &name feedback forms 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<date> mon, 25 nov 2002 14:07:07 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ i have placed a pile of &name lectures feedback forms on the far south-western desk in the &name lab . 
+^ we would appreciate it if you could complete the forms and return to me via the student administration office by the end of term . 
+^ many thanks , &name 
+^ &org student administration &name &name building &name &name &name &name avenue &name &name &name , &name &name &name telephone : &num ( &num ) &num &name : &num ( &num ) &num email : &email 
+^ &website / 
+</text_normal>
+</message_body>
+</message>

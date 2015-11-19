@@ -1,0 +1,19 @@
+<message>
+<date> mon, 25 feb 2002 18:17:24 +0000 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ please note that by popular demand the &name &name &name will begin tomorrow at &name as previously advertised , not at 3.45pm . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

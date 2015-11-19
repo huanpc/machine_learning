@@ -1,0 +1,40 @@
+<message>
+<from> com </from>
+<to> org </to>
+<date> fri, 23 may 2003 15:18:24 -0700 </date>
+<content-type> text/plain; charset="utf-8" </content-type>
+<subject>
+<text_normal> 
+
+^ re : k this and &char that 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ 2d----begin &name signed message----- hash : sha1 
+^ on thursday may &num , &num &num : &num , &name strand &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i 'm wondering , do most &name application names really need to start with the letter &char ? 
+^ to me , this is the most annoying aspect of an otherwise well-working desktop environment . 
+^ while including the letter i can make it easy to spot a &name application , is this feature all that useful ? 
+^ and does n't it lead to confusion among newbies when &name applications have names starting with &char anyway ? 
+</text_embedded>
+<text_normal> 
+
+^ i think most developers who do it do so just for fun . 
+^ it becomes a game , or at least a good laugh . 
+^ i do n't see that there 's a plot behind it , or a 
+^ special reason , or much thought at all . 
+^ not that names mean much . 
+^ if you find the &char menu unusable for finding apps 
+^ now , removing the names wo n't help much . 
+^ &char full-fledged app browser app is needed if you want users to be able to explore what 's installed , not some multi-layered menu tucked in the corner of the desktop . 
+^ &num -- &name &name - &email " the shepherd drives the wolf from the sheep 's throat , for which the sheep thanks the shepherd as a liberator , while the wolf denounces him for the same act as the destroyer of liberty . " -- &name &name &name &name signature----- version : &name &name ( &name / &name ) 
+^ &char / akcn6lk966fmzrkkmmqscwmvwmlsagcdgcdz &char 3dg4 / &char 2d----end &name signature----- 
+^ kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

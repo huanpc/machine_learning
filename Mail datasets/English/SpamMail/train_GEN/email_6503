@@ -1,0 +1,87 @@
+<message>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ re : &name folder stucture and repository 
+</text_normal>
+</subject>
+<date> thu, 30 jan 2003 03:34:16 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hello everyone 
+^ further to the previous email , the folder reorganisation is now completed , for the moment at least . 
+^ please take the time to read through this email carefully , since it affects everyone in the group . 
+^ firstly , i would like to apologise if this reorganisation has caused inconvenience to anyone . 
+^ i hope that it has not , but please let me know if there is something about the new structure that you dislike . 
+^ in particular , i would like to apologise to &name , who has put a great amount of work into creating and recreating the repository . 
+^ i hope that reorganising our files has not caused any problems . 
+^ the previous repository , and all files therein , has been completely archived in multiple locations . 
+^ the intention has been to reorganise our current content , so that files are more logically categorised . 
+^ i hope that people find it easier to navigate and find the files they want . 
+^ the main guiding principles have been : 
+^ + the usage of human-readable folder names throughout . 
+^ + adherence ( nearly ) to the decisions made at our last review meeting . 
+^ a rundown of the new structure is given below , but firstly i 'd like to draw your attention to some important points : 
+^ &name 
+^ everything in this email refers to our file-space on &name , 'specifically &website / societies / &name / " and not the &name file-space . 
+^ &name 
+^ &char complete backup of the entire folder structure within " /societies / &name / " was taken before the folder reorganisation was performed . 
+^ the new structure was built side-by-side with the previous structure . 
+^ a second backup of the structure was taken after the new structure was built . 
+^ &website / " , &website " was taken to be the time of backup . 
+^ after the second backup was performed , the previous structure was removed . 
+^ each of these backups are mirrored on another server in the event of catastrophic failure . 
+^ these careful steps were taken to ensure that the entire structure was carefully backed up in case of errors or omissions in the new structure . 
+^ &name 
+^ the following folders have not been reorganised : 
+^ /societies / &name / cgi-bin / /societies / &name / public_html / 
+^ question : does this last folder contain manually generated documentation ? 
+^ if so , maybe we should consider moving the source files to the repository , leaving only generated files in public_html . 
+^ &name files are also subject to revision . 
+^ &name &name &name 
+^ societies / &name / archive / snapshots of the previous and current folder structures for archival . 
+^ bin / privately accessible utilities , ( including the &name viewer ) . 
+^ cgi-bin / publicly accessible utilities . 
+^ public_html / &name root . 
+^ repository / the &name repository folder . 
+^ &name / the root " &name " module . 
+^ documentation / documentation . 
+^ agendas / agendas . 
+^ deliverables / &name documents . 
+^ presentation / presentation material requirements / requirements . 
+^ research / our research files . 
+^ specification / the current specification . 
+^ &name / project standards . 
+^ strategy / strategy documentation . 
+^ tasks / current task lists . 
+^ source / &name source files . 
+^ &name / root package name . 
+^ distribution / experimental / mathematical / factorisation / &name / pollardrho / quadraticsieve / trialdivision / functional / storage / test / validation / 
+^ &name &name 
+^ as mentioned in the above diagram , a new repository folder has been created , namely /societies / &name / repository / . 
+^ if you are using &name in &name , you will need to change the &name environment variable like so : 
+^ &name &name : ext : &email:/societies / &name / repository / 
+^ where " usrid " is your hermes user id . 
+^ i 've attempted to put all source files in the repository . 
+^ if you think any have been left out , first check through renamed files , then please look in /societies / &name / archive / ... 
+^ please note that as a general rule , no generated files are to be placed in the repository . 
+^ &name code changes 
+^ where possible , existing source code has been updated to reflect the small changes in the package structure . 
+^ this has been done to minimise inconvenience to all those in the programming team . 
+^ please accept my apologies if i missed anything , my intention has not been to break things that already compile successfully . 
+^ and finally ... 
+^ if you 're reading this , then thanks for your time in digesting this email . 
+^ i would suggest that someone in our group should be assigned the general responsibility of maintaining our folders in logical state . 
+^ otherwise , things tend to get a little disorganised ... &smiley 
+^ look forward to seeing everyone tomorrow . 
+^ i 'm now off to bed for some rest . ... ( finally ! ) 
+^ all the best 
+^ &name 
+^ " we are all in the gutter , but some of us are looking up at the stars . " &name &name 
+</text_normal>
+</message_body>
+</message>

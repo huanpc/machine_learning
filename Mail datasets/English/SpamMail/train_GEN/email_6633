@@ -1,0 +1,19 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ na &char / &char 
+</text_normal>
+</subject>
+<date> sun, 19 jan 2003 21:06:46 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ times for monday : 
+^ &name &name , &name &name &name , &name &name &name , &name 
+</text_normal>
+</message_body>
+</message>

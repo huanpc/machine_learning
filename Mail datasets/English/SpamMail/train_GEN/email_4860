@@ -1,0 +1,20 @@
+<message>
+<date> mon, 22 jul 2002 17:46:16 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ today 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i am going to work from home for the rest of the day so email me if you have any questions . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

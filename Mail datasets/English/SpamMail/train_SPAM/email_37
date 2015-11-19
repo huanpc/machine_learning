@@ -1,0 +1,29 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ weekend rade update- nascar 's &name city &num 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> 21 mar 2003 22:55:41 -0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ the &name city &num at &name &name &name is scheduled for tomorrow , sunday , march &num at &num : &num p.m. et on &name . 
+^ congratulations ! ! 
+^ &name , you 've been selected to receive a free &name &name ! ! 
+^ the top &num drivers in the &name cup points standings are : &name &name &name &name &name &name &name &name jr. &name &name 
+^ &name , you are a preferred customer at free gift club and have been awarded a free &name gift - but as of today it remains unclaimed . 
+^ &name click here to claim it . 
+^ this free gift is reserved for you only and will be held for the next &num hours . 
+^ we hope to give you adequate time to claim this product . 
+^ please confirm your address to receive this nascar&reg; gift . 
+^ please click here to begin . 
+^ today 's date is &num / &num / &num 
+^ you are currently subscribed as : if you wish to be removed please : click here 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ you wanna see &name &name ? 
+</text_normal>
+</subject>
+<date> wednesday, 02 apr 2003 02:06:36  +0200 </date>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

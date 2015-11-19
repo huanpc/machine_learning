@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your free &name &name &name 
+</text_normal>
+</subject>
+<date> wed, 06 apr 2022 01:09:54 -0700 </date>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

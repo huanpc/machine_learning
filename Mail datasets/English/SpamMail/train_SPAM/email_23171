@@ -1,0 +1,14 @@
+<message>
+<date> tue,  8 apr 2003 10:15:04 -0700 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your entry with &name &name house &num / &num / &num 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

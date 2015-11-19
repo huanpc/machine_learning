@@ -1,0 +1,56 @@
+<message>
+<from> com </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> fri, 5 apr 2002 20:30:39 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name &name . ... 
+^ &name ! ! ! 
+</text_normal>
+<text_embedded> 
+
+^ yeah , &name was here for about &num days , which was really very much fun . 
+^ my family did like her , i believe and now &name is a little bit less scared of my parents . 
+^ both good things , me thinks ! 
+^ the weather is indeed brilliant ! 
+^ i washed and hung &num loads of washing today ! 
+^ &name ! 
+^ &name 
+<text_embedded> 
+
+^ &name , darling ... 
+^ i have no answers - what * has * happened to you ? 
+^ &smiley 
+^ did &name come to visit you in &name ? 
+^ hope you had fun ! 
+^ did your family like her - and did she like them ? ? 
+^ hope you 're having a good holiday ! ! 
+^ i 'm missing everyone but otherwise quite enjoying being unemployed still ! 
+^ i 've been doing revision and helping my parents in the garden and staying in bed til late , etc. a proper holiday ! 
+^ especially this wonderful wonderful weather ! 
+^ ( &char love sunshine ) 
+^ have fun &name , love &name &char 
+<text_embedded> 
+
+^ because i do n't have free calls . 
+^ &name &name ! 
+^ i 've had the most wonderful few days with &name . 
+^ oh dear , what has happened to me ? ! ! ! 
+^ love , &name 
+</text_embedded>
+
+</text_embedded>
+
+^ do you &name ! ? 
+^ get your free&email address at &website 
+</text_embedded>
+</message_body>
+</message>

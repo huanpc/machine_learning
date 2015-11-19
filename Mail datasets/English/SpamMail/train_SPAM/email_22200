@@ -1,0 +1,33 @@
+<message>
+<date> mon, 7 apr 2003 13:29:08 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * your $ &num credit line was approved 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ or see below to unsubscribe . 
+^ claim your new credit card now ! 
+^ it does n't matter if you have : 
+^ &name credit - no credit - &name income - past bankruptcy 
+^ do you meet these criteria ? 
+^ &num live in the united states ? 
+^ &num have a social security number or &name &name &name ? 
+^ &num &num years of age or older ? 
+^ &num have a valid checking or savings account ? 
+^ &num have valid &name or other income of at least $ &num / month ? 
+^ &num have a &name &name &name ( does not have to be in your name ) ? 
+^ &num no pending bankruptcy ( discharged bankruptcies are ok ) ? 
+^ &num no current delinquencies in past &num days ? 
+^ if you answered yes to all of these simple questions we guarantee that you will receive a credit card with up to a $ &num credit limit . 
+^ &website , all rights 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,22 @@
+<message>
+<date> tue, 7 jan 2003 17:31:17 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ email 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i expect you might have got an email from &name &name about &name . 
+^ i have talked with him at some length about this , so if there 's anything you want to talk about do give me a ring . 
+^ otherwise no worries . 
+^ love &name 
+</text_normal>
+</message_body>
+</message>

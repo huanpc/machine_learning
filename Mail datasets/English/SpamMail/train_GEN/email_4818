@@ -1,0 +1,34 @@
+<message>
+<date> thu, 11 jul 2002 17:10:27 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ update 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi professor &name , 
+^ persistent objects in c++ 
+^ we spent quite some time trying to get &name going ... it comes with an example , but we tried everything we could , and it just would n't compile . 
+^ the errors seem to stem from the fact that their code is written for &name c++ compilers ... there is also no good indication that the community out there even uses &name ( although it did spawn into implementations for &name and &name , which are used ) . 
+^ so we tried our luck compiling on machines at &name ; on &name , some linux boxes , and over there the problem was that &name is n't installed yet ! 
+^ &smiley we emailed &name to find out if there was any machine with berkeleydb libraries , and we also gave him the info on how to ( try ) to compile &name , so he can find out too whats to blame : old code , or us . 
+^ thus , at this point , we have no " implemented " solution -- &num way would be to 'do it ourselves " , where our object store will be berkeleydb . 
+^ ( i.o.t. &char , do a simple " &name " just for berkeleydb . 
+^ we may even get inspired by the &name &name &name ( although his code is really obfuscated ) ... ) . 
+^ unless * soon * , &name starts working ... 
+^ over to &name now : 
+^ &name ------ &name and i did some research on recursive decent parsers during the day , and we started to write some pseudocode for how to write a recursive-decent parser from the grammer . 
+^ some issues came up . 
+^ first , we think that while the grammer is adequate for the client-side , it might not work for server-side because of type reeasons ( for instance we think that maybe there should be separate operators for " +int " ' -float " etc ) . 
+^ without modification of the grammer , we were not sure how we could apply the recursive decent paradigm to the current grammer and class declarations ( because context becomes important so we ca n't simply parse from left-to-right ) . 
+^ anyway , &name and i were wondering if you had time to meet tomorrow to discuss both the parser and the persistent object situation . 
+^ &name and &name 
+</text_normal>
+</message_body>
+</message>

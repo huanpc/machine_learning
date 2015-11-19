@@ -1,0 +1,60 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ thank you , you 've paid 
+</text_normal>
+</subject>
+<to> com </to>
+<date> mon, 28 oct 2002 19:08:34 gmt </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ thank you , you 've paid 
+^ dear &name , 
+^ &website . 
+^ your payment has been processed , on our behalf , by worldpay in order to ensure maximum level of security possible . 
+^ your payment ... 
+^ at &num &name &num &num : &num : &num &name you made a payment for &name &num &website . 
+^ reference : &num this is not a tax receipt . 
+^ your order ... 
+^ for all enquiries about the delivery of the goods / services you have purchased , please email international &name &name ( uk ) at : &email and attach this receipt or print your name and order number . 
+^ for information about the processing of your payment , email worldpay : mailto : &email 
+^ about worldpay 
+^ learn about our world leading payment security at &website . 
+^ trusted by customers in &num countries , we care about your privacy : &website . 
+^ contact our global customer service &name at mailto : &email for any help you need regarding your payment , quoting transaction &name &num . 
+^ &name : this confirmation email is not an acceptance of your order and you cannot assume that a contract exists between yourself and international &name &name ( uk ) for the sale of goods or services until international &name &name ( uk ) specifically confirms it . 
+^ it is international &name &name ( uk)'s responsibility to confirm acceptance of your order and for delivery . 
+^ thank you again for shopping with international &name &name ( uk ) . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ thank you , you 've paid 
+^ thank you , you 've paid 
+^ dear &name , 
+^ &website . 
+^ your payment has been processed , on our behalf , by worldpay in order to ensure maximum level of security possible . 
+^ your payment ... 
+^ at &num &name &num &num : &num : &num &name you made a payment for &name &num &website . 
+^ reference : &num 
+^ this is not a tax receipt . 
+^ your order ... 
+^ for all enquiries about the delivery of the goods / services you have purchased , please email international &name &name ( uk ) at : &email and attach this receipt or print your name and order number . 
+^ for information about the processing of your payment , email worldpay : mailto : &email mail the store 
+^ about worldpay 
+^ learn about our world leading payment security here . 
+^ trusted by customers in &num countries , we care about your privacy . 
+^ contact our global customer service &name at &email for any help you need regarding your payment , quoting transaction &name &num . 
+^ &name : this confirmation email is not an acceptance of your order and you cannot assume that a contract exists between yourself and international &name &name ( uk ) for the sale of goods or services until international &name &name ( uk ) specifically confirms it . 
+^ it is international &name &name ( uk)'s responsibility to confirm acceptance of your order and for delivery . 
+^ thank you again for shopping with international &name &name ( uk ) . 
+</text_normal>
+</part>
+</message_body>
+</message>

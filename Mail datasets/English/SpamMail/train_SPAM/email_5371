@@ -1,0 +1,15 @@
+<message>
+<date> 28 mar 2003 11:06:01 -0000 </date>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<subject>
+<text_normal> 
+
+^ what 's cooking at the &name &name ? 
+^ ( &num ) 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

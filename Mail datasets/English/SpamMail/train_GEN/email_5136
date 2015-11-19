@@ -1,0 +1,72 @@
+<message>
+<date> mon, 29 apr 2002 12:04:38 +0200 (met dst) </date>
+<to> ac.uk </to>
+<from> org </from>
+<subject>
+<text_normal> 
+
+^ [ &name ] iwcs-5 : first announcement and call for papers 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<message_body>
+<text_normal> 
+
+^ [ apologies for multiple copies ] 
+^ fifth international workshop on 
+^ computational semantics 
+^ ( iwcs-5 ) 
+^ january &num , &num , &name , the &name 
+^ endorsed by &name , the &name special interest group in &name &name &name , the &name special interest group on the lexicon 
+^ first announcement and call for papers 
+^ &name university will host the fifth international workshop on computational semantics ( iwcs-5 ) , which will take place from &num january &num . 
+^ the aim of the workshop is to bring together researchers interested in any aspects of the computation of meaning in natural language , in language-based multimedia objects , or in multimodal messages . 
+^ topics of interest 
+^ topics of interest for the workshop will be computational aspects of semantic theories and theoretical issues in building natural language understanding systems . 
+^ papers are invited in areas which include , but are not limited to , the following : 
+^ * construction and use of natural language semantic 
+^ * knowledge representation and reasoning in meaning computation 
+^ * learning lexical semantics from corpora 
+^ * meaning representation in multimodal interaction 
+^ * the semantic web , ontologies and natural language semantics 
+^ * meaning in multimedia objects 
+^ * the computational interface 
+^ * modelling and using context for semantic 
+^ * computational semantics of speech acts 
+^ * logic and use of underspecified of meaning 
+^ * monotonicity and shallow reasoning in 
+^ * dynamic interpretation in text , speech and dialogue 
+^ * inductive logic programming and computational semantics 
+^ * semantic aspects of language generation 
+^ * shallow processing and formal semantics 
+^ invited speakers to be announced 
+^ programme committee ( not all confirmed yet ) 
+^ &name &name &name &name &name &name &name &name &name &name ( chair ) &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name mc &name &name &name &name &name &name &name 
+^ organising committee 
+^ &name &name &name &name &name &name &name van der &name &name &name &name &name &name &name 
+^ submission requirements 
+^ submission of full papers authors are asked to submit an original paper of maximally &num pages by september &num , &num . 
+^ files should be prepared with latex and initial submissions should be in postscript format . 
+^ ( for accepted papers we will need the latex source code to prepare the proceedings . ) the page limit presupposes the standard &num point computer modern font and default latex formatting . 
+^ all papers will be refereed by the programme committee . 
+^ we aim at publishing a selection of accepted papers in book form after the workshop . 
+^ email your postscript file to : &email 
+^ there are &num levels of acceptance : 
+^ - acceptance for a long ( &num min . ) presentation . 
+^ the full paper will be published in the proceedings , available at the time of the workshop . 
+^ - acceptance for a flash ( &num min . ) presentation in a plenary session plus presentation of a poster in one of the poster sessions . 
+^ authors will be invited to publish a 3-page abstract in the proceedings . 
+^ submission of poster abstracts it is also possible to directly submit a 3-page abstract for a flash presentation and a poster session . 
+^ the abstract should be prepared with &name ( &num point computer modern , default formatting ) . 
+^ email to &email the resulting postscript file by &num november &num . 
+^ further guidelines since we will use the latex source code of accepted papers and poster abstracts for producing the proceedings , please follow the further guidelines for submission at the iwcs-5 website : 
+^ &website 
+^ important dates 
+^ &num september &num submission of full papers &num october &num notification of acceptance &num november &num submission of poster abstracts &num november &num &name papers due &num december &num deadline for early registration &num january &num &name 
+^ further information 
+^ secretariat : &name &name &name &name &name and &name &name university &name &name &num &num le &name the &name &name : &num &num &num &num &name : &num &num &num &num email : &email 
+^ &name : &website 
+^ iwcs-5 is endorsed by &name , the &name special interest group in computational semantics ( see &website and by &name , the &name special interest group on the lexicon ( see &website 
+</text_normal>
+</message_body>
+</message>

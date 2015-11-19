@@ -1,0 +1,33 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &char and &char practical -- a question and its answer 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 29 nov 2002 15:36:19 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi 
+^ i got an email asking how the same &name file could be associated with both a &name and a &name &name schema at the same time ( without editing the &name file ) . 
+^ the answer is that this is not technically possible -- for this practical you can comment things in and out of your files . 
+^ here 's the long answer : 
+^ &name and &name &name are alternative schema languages , and in no real-world application would anybody have both associated with the same file , as i asked you to do for this exercise . 
+^ thus , the &name specifications do not define an elegant syntax to connect an &name file to both . 
+^ in the practical , you will have to comment the doctype declaration ( and for later answers , certain processing instructions ( &name ) in and out of the &name file during this exercise -- send the final &name file with all lines in it , but commented out , i will be able to figure out what you meant . 
+^ as a reminder : &name validation needs a hard-wired doctype declaration in the &name document . 
+^ use &name to validate . 
+^ relaxng validation works with the program jing -- give it the relaxng schema as a parameter , and comment the doctype declaration out . 
+^ &name this clarifies things-- &name 
+^ &name : &num small remark about what you said -- you said that if you omit the doctype declaration , your &name is valid . 
+^ this is not the case -- for validity you need a schema by definition ! 
+^ what you probably meant is that the parser does not complain , but in the given case this only means the &name is well-formed -- the parser automatically switches to a well-formed parse only if it finds no doctype declaration . 
+^ if there is a doctype declaration , the stakes are higher , and several things must now hold : the dtd must exist , must comply with &name syntax rules , and must correctly describe the structure of the &name instance . 
+^ - ------ end of forwarded message 
+</text_normal>
+</message_body>
+</message>

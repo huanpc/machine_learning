@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ {%account%} &name , look at &name &name * vm qb &char 
+</text_normal>
+</subject>
+<date> thu, 10 apr 03 08:52:14 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

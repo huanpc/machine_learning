@@ -1,0 +1,68 @@
+<message>
+<date> tue, 06 may 2003 12:09:48 +0100 </date>
+<to> ac.uk </to>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name participation at the &name &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name , 
+^ i am writing to see if you would like to take part in a study that i am running at the cognition and brain sciences unit in &name . 
+^ the study involves coming in for &num 30min-1hr sessions - twice a week for 
+^ &num weeks ( or &num sessions within a &num day period ) is best . 
+^ the tasks involved are : 
+^ - reading text on a computer 
+^ - filling in missing words on a computer 
+^ - answering comprehension questions about the text and 
+^ - answering some personality questionnaires 
+^ we will pay a lump some of money at the end of the last session , which will 
+^ be the sum of the time you 've spent here each time , plus travel , which should equate to around &pound; &num in total . 
+^ participation in this experiment is dependant on a certain factor which cannot be determined until the first session ( determined by questionnaire ) , 
+^ so we also have an alternative task set up if we decide not to go ahead with the above experiment . 
+^ this is a one-session experiment . 
+^ in this case you will just be paid for that session , plus travel . 
+^ i am looking to begin testing straight away , but the study will be ongoing 
+^ for the next month or so , so if your not available straight away , you can still contact me . 
+^ if you would like to take part in the study or want further details , please 
+^ contact me by email , or phone ( below ) . 
+^ many thanks , 
+^ &name &name . 
+^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - &name &name &name &name and brain sciences unit &num &name &name &name &name &num 
+^ &website email : &email 
+^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name , 
+^ i am writing to see if you would like to take part in a study that i am running at the cognition and brain sciences unit in &name . 
+^ the study involves coming in for &num 30min-1hr sessions - twice a week for &num weeks ( or &num sessions within a &num day period ) is best . 
+^ the tasks involved are : 
+^ - reading text on a computer 
+^ - filling in missing words on a computer 
+^ - answering comprehension questions about the text and 
+^ - answering some personality questionnaires 
+^ we will pay a lump some of money at the end of the last session , which will be the sum of the time you 've spent here each time , plus travel , which should equate to around &pound; &num in total . 
+^ participation in this experiment is dependant on a certain factor which cannot be determined until the first session ( determined by questionnaire ) , so we also have an alternative task set up if we decide not to go ahead with the above experiment . 
+^ this is a one-session experiment . 
+^ in this case you will just be paid for that session , plus travel . 
+^ i am looking to begin testing straight away , but the study will be ongoing for the next month or so , so if your not available straight away , you can still contact me . 
+^ if you would like to take part in the study or want further details , please contact me by email , or phone ( below ) . 
+^ many thanks , 
+^ &name &name . 
+^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - &name &name &name &name and brain sciences unit &num &name &name &name &name &num 
+^ &website email : &email 
+^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+</text_normal>
+</part>
+</message_body>
+</message>

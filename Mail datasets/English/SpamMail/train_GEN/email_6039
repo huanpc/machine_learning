@@ -1,0 +1,28 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ bible study 
+</text_normal>
+</subject>
+<date> mon, 19 may 2003 13:39:23 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name , could you manage &num or &num ish tomorrow as something has come up at lunchtime ? 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name , could you manage &num or &num ish tomorrow as something has come up at lunchtime ? 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

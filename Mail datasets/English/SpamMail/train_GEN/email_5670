@@ -1,0 +1,37 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ fwd : &name hall christmas bop - " celebrate good times , come on ! " 
+</text_normal>
+</subject>
+<date> mon, 02 dec 2002 13:48:17 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi guys , this should be a good one ! 
+</text_normal>
+<text_embedded> 
+
+^ from : &name &name ( &email ) subject : &name hall christmas bop - " celebrate good times , come on ! " hi everyone , 
+^ it 's that time of year again , when we need to celebrate the beginning of the festive season . ... 
+^ here are the details of the &name &name &name christmas &name : 
+^ where : the &name &name &name when : next &name 6th &name from &name onwards - bar open for drinks till &num . 
+^ music : cheesy &name &name : &name &pound; &num , guests &pound; &num 
+^ join us for the second last &name &name event of the term ! 
+^ &name &name 
+^ &name &name &name &name &name 
+^ &num &num 
+^ this message is sent via the &name &name list of &name social officers . 
+^ to request changes to the list , contact &name &name ( &email ) 
+</text_embedded>
+<text_normal> 
+
+^ stop more &name with the new &name &num and get &num months free * &website 
+^ &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

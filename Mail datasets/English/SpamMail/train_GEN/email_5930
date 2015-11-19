@@ -1,0 +1,81 @@
+<message>
+<date> wed, 28 may 2003 17:44:16 -0400 </date>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : [ &name ] tutorial ? 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ at wed , &num may &num &num : &num : &num &num , &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ although i have several yeas of experience with &name in its several variants i am an absolute newbie to the world of &name . 
+^ so to get started i am looking for &num things : 
+^ &num a tutorial that will walk me through a typical project . 
+</text_embedded>
+<text_normal> 
+
+^ that is in the works at the moment . 
+^ i have put together a quick start guide , but have added some new material which based on the latest features , so this has delayed its release . 
+^ the other challenge is to keep with all the added new features &smiley 
+</text_normal>
+<text_embedded> 
+
+^ 
+^ &num a feature list that will allow me to see what &name has as compared to the other products available . 
+</text_embedded>
+<text_normal> 
+
+^ &website 
+</text_normal>
+<text_embedded> 
+
+^ 
+^ &num a pdf version of the manual . 
+</text_embedded>
+<text_normal> 
+
+^ &name has only recently addded some features which greatly help speed up composing longer documents like a manual . 
+^ my aim is to release the docs for &name &num as a fully interactive &name - all created natively with &name . 
+</text_normal>
+<text_embedded> 
+
+^ &name it is described as being " like quark or &name " but since these products are quite different that is not a sufficient description . 
+^ my first impression is that it is closer to the capabiities of quark . 
+</text_embedded>
+<text_normal> 
+
+^ it may share many concepts in the menu structure like &name , but in my experience with documenting &name , its &name &name features in power and ease of use are only matched by &name &num , so it has elements of both &name . 
+^ exporting directly from &name is not its strength &name . 
+</text_normal>
+<text_embedded> 
+
+^ from my experience supporting &name users professionally , &name has done a brilliant job of masking a great deal of the complexity of creating high quality &name , without handcuffing advanced users . 
+^ &name &name with &name , &name etc , is often fraught with errors for many users . 
+</text_embedded>
+<text_normal> 
+
+^ you might be interested to see this : &website 
+^ i think it is important to appreciate that &name is still a young and quickly developing project , which is entirely made of volunteers . 
+^ i am of the mind there is a place for both &name and &name . 
+^ we are lucky to have both freely available with active development and support . 
+^ regards , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

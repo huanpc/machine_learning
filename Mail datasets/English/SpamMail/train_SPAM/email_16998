@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ look at these &num girls 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> thu, 03 apr 2003 16:10:13 -0700 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ $ &name $ encodebatchdata 
+^ &name 
+</text_normal>
+</message_body>
+</message>

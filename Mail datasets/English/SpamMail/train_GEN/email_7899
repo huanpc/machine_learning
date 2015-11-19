@@ -1,0 +1,52 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hello stranger 
+</text_normal>
+</subject>
+<date> tue, 13 feb 2001 13:41:16 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ you are a very difficult person to get hold of , &char beloved one . 
+^ have attempted to phone you on numerous occasions but always failed . 
+^ i miss you ! 
+^ had a plan in mind to visit you this coming weekend as we have friday and monday off school , but that 's out of the question now because i 'm not up to it , even if it was ok with you . 
+^ this is my third week off work ! 
+^ started off with an ear infection ( in the tinnitis ear ) which sent my balance totally off kilter and now that 's improving but i appear to have post-viral fatigue which is making me wabbit big time . 
+^ &name this wears off soon because i feel totally useless . 
+^ have n't even seen the car for over &num weeks . 
+^ watched about &num videos , it seems like . 
+^ have had my shopping done by pals , had pots of food cooked etc. &name invalid stuff . 
+^ still , should know a difference soon . 
+^ please reply soonest ! 
+^ love , 
+^ mam xx 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ you are a very difficult person to get hold of , &char beloved one . 
+^ have attempted to phone you on numerous occasions but always failed . 
+^ i miss you ! 
+^ had a plan in mind to visit you this coming weekend as we have friday and monday off school , but that 's out of the question now because i 'm not up to it , even if it was ok with you . 
+^ this is my third week off work ! 
+^ started off with an ear infection ( in the tinnitis ear ) which sent my balance totally off kilter and now that 's improving but i appear to have post-viral fatigue which is making me wabbit big time . 
+^ &name this wears off soon because i feel totally useless . 
+^ have n't even seen the car for over &num weeks . 
+^ watched about &num videos , it seems like . 
+^ have had my shopping done by pals , had pots of food cooked etc. &name invalid stuff . 
+^ still , should know a difference soon . 
+^ please reply soonest ! 
+^ love , 
+^ mam xx 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,19 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ missed &name lecture 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 28 feb 2003 11:30:19 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ i 'll do an extra lecture in language &num on friday next week at &num ( i.e. after dialogue systems ) to make up for the one i missed yesterday . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

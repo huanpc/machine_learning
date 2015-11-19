@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your weekend &name ... free chocolate 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> sat, 29 mar 2003 08:14:28 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ free chocolate bars 
+^ &website 
+^ ( a href' &website ) 
+^ to be unsubscribed from the &name free gift certificates mailing list simply click on the link below users : ( a unsubscribe link here ( /a ) 
+</text_normal>
+</message_body>
+</message>

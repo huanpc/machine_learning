@@ -1,0 +1,15 @@
+<message>
+<from> org </from>
+<subject>
+<text_normal> 
+
+^ special offer ! 
+^ &num off &name &name ! 
+</text_normal>
+</subject>
+<date> mon, 31 mar 03 11:02:05 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ money 
+</text_normal>
+</subject>
+<date> mon, 20 jan 2003 19:25:14 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ balance of &pound; &num transferred to cover room rent ! 
+^ love mum &amp; dad 
+</text_normal>
+</part>
+</message_body>
+</message>

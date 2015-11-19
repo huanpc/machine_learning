@@ -1,0 +1,24 @@
+<message>
+<date> mon, 3 feb 2003 13:44:54 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i 'm away this coming weekend , &name 7th - &name 9th . 
+^ this may be a problem in regards to attending the briefing session , as specified in paragraph &num . 
+^ of the contract . 
+^ what should i do ? 
+^ regards , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,212 @@
+<message>
+<from>
+</from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name &name 
+</text_normal>
+</subject>
+<date> wed, 10 apr 2002 12:21:00 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear mr. &name : 
+^ thank you much for your proposal . 
+^ i have taken the liberty to forward it on to those management individuals responsible for such affairs . 
+^ i wish you the very best in your studies and career . 
+^ &name &name 
+^ &num &name road &name , &name &name &name april 9th , &num dear sir / madam , 
+^ my name is &name &name , and i am a canadian currently living in &name . 
+^ i am in my 3rd and final year of an undergraduate geology degree at the university of &name . 
+^ i hope to continue my studies in geology over the coming years . 
+^ i would like to specialise in three-dimensional digital mapping of geological structures . 
+^ this field is undergoing rapid development , as advances in the computer industry make it more feasible and informative . 
+^ &name university has accepted my application to continue my study in this area at the phd level . 
+^ they propose a three-year doctorate during which i would develop a cm scale , digital three-dimensional emplacement model of the whin sill . 
+^ however , due to cutbacks at the british geological survey , the funds which until recently would have paid for this study are no longer available . 
+^ although the project specifies the examination of the whin sill , an alternative land-based geological feature would serve just as well for the development of these mapping techniques . 
+^ the cost of this research is approximately &pound; &num , &num per annum . 
+^ under the advice of one of my potential supervisors , dr. &name &name , i am seeking sponsorship for this postgraduate degree . 
+^ as a mining company with a vested interest in the development of the geological sciences , in particular , exploration techniques , i felt it appropriate to approach you about sponsorship for this project . 
+^ it is my hope that you will consider helping me to fund this study , either in part or in full . 
+^ i attach a short synopsis of the proposed phd , prepared by &name &name , &name and &name of the university of &name and an approximate breakdown of costs . 
+^ i also attach my re9sume9 . 
+^ thank you for considering this application and i eagerly await your reply . 
+^ yours truly , 
+^ &name &name &name 
+^ - ----a short synopsis of the proposed phd project.----- 
+^ the intrusion architecture of the whin sill complex : digital acquisition and modelling 
+^ digital mapping technologies provide the potential to automatically capture , visualize and model the &num geometry of structures such as basins , intrusions , and fault zones . 
+^ new methodologies that best combine &name , &name &name , &name data management systems and visualisation software are now urgently required . 
+^ in conjunction with the &name ( &name &name &name ) and &name ( system for integrated geospatial mapping ) projects at &name , the aim of this project will be to develop methodologies of collecting spatially constrained geological information in the field and producing &num models from the data . 
+^ this provides the opportunity to test a range of new technologies on a specific geological problem , including data collection , data processing , &num geological model construction and data management . 
+^ the student will use &name , &name and &name &name location methods to map intrusions of the whin sill complex , to cm-scale accuracy , collating spatial co-ordinates on a palm-top computer whilst traversing along or across the exposed igneous bodies . 
+^ the data will be incorporated onto a digital &num topographic map and aerial photograph database using industry standard &name for data management in a &name format . 
+^ structural attributes observed at individual localities will be collected and stored in digital format , including contact type and orientation data , linkage features displayed , intrusion-rock type and country rock structural and contact metamorphic features . 
+^ detailed digital outcrop maps will capture the detailed &num relationships and will be supplemented by digital photographs on which mm-scale features can be digitised with all data ( topographic , remotely sensed images and structural measurements ) . 
+^ the student will then use &name software for &num visualization of the &name data layers to provide a basis for creating a model of the intrusion network . 
+^ additional constraints on the &num architecture from geophysical datasets will be incorporated as appropriate . 
+^ factors determining the final emplacement of high-level dykes , sills and laccoliths are complex , and depend upon a range of physical parameters including magma driving pressure , the local ( and regional ) stress field , and the physical properties ( viscosity and density ) of the intruding magma . 
+^ despite their wide occurrence and structural importance in basin architecture , their &num geometry is not well understood . 
+^ the development of a digital model will allow the reconstruction of the emplacement history through time as well as an assessment of the effects of intrusion of a major sill complex on basin evolution and architecture . 
+^ the student will be part of the &num modelling group at &name . 
+^ this includes the &name research group ( &name &name and &name ) , a well-established group of &name and post-doctoral researchers studying the geological and rheological aspects of faults and shear zones , and the magmatic modelling group ( dr. &name ) , concerned with the influence of igneous rocks on sedimentary basins . 
+^ they will receive training in state of the art digital mapping and data management techniques together with field-based mapping . 
+^ this training will be relevant to a broad range of future careers in the earth sciences . 
+^ related ongoing &name projects include : &num ) &name link project on quantifying fault zone evolution and basement reactivation ; &num ) &name - an &name 5th framework initiative on sub-basalt imaging . 
+^ &num ) modelling of sill and laccolith intrusions . 
+^ &num ) inversion study of &name basin . 
+^ supervisors : dr &name &name , dr &name &name , dr &name &name , 
+^ - ----an approximate breakdown of the costs for this phd project----- 
+^ costs per annum 
+^ &name &name : &pound; &num 
+^ maintenance costs : &pound; &num 
+^ equipment and fieldwork costs : &pound; &num 
+^ - ----the re9sume9 of &name &name &name 
+^ rc9sumc9 
+^ timothy stephen farewell 
+^ personal information and contact details 
+^ date of &name : 30th april , &num 
+^ place of &name : &name , &name , &name 
+^ address : &num &name road , &name , &name cb4 2ap 
+^ &name : ( &num ) &num &num 
+^ e-mail : &email 
+^ education 
+^ &num - &num &name road sixth form college , &name , &name 
+^ &name advanced level ( &char ) 
+^ &name and design advanced level ( &char ) 
+^ &name advanced level ( &char ) 
+^ &name advanced supplementary level ( &char ) 
+^ &num - &num &name university , &name , &name 
+^ &name &name ( in progress ) 
+^ employment 
+^ &num - &num &name &name &name , &name hospital , &name 
+^ &name &name &name 
+^ &num &name 's punting company , &name 
+^ river chauffeur and &name &name 
+^ extracurricular positions and activities 
+^ &num - &num &name road sixth form college , &name 
+^ &name and committee member , &name staff - &name committee 
+^ leader , christian union 
+^ various theatrical and choral performances , including ; &name on the roof , and &name 's &name 
+^ &num - &num &name &name 's college and earth sciences dept , &name university 
+^ president , &name &name 's college &name &name 
+^ leader , &name 's hall worship 
+^ &name and committee member , departmental staff - &name committee 
+^ &name , &name university &name 
+^ &name , &name &name 's college &name 
+^ club member , &name &name 's college men 's &name &name 
+^ interests 
+^ if i am keen to do something , i am dedicated and give it a large amount of effort . 
+^ i am a person who is not satisfied to simply engage in &num activity . 
+^ i enjoy working with new technology and making new discoveries while suggesting original ways of solving problems - hence my academic scientific slant . 
+^ i am creative . 
+^ i enjoy painting portraits , engaging in woodwork , and playing the guitar . 
+^ i am currently in the process of finishing my first historical novel . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear mr. &name : 
+^ thank you much for your proposal . 
+^ i have taken the liberty to forward it on to those management individuals responsible for such affairs . 
+^ i wish you the very best in your studies and career . 
+^ &name &name 
+^ &num &name road &name , &name &name &name april 9th , &num 
+^ dear sir / madam , 
+^ my name is &name &name , and i am a canadian currently living in &name . 
+^ i am in my 3rd and final year of an undergraduate geology degree at the university of &name . 
+^ i hope to continue my studies in geology over the coming years . 
+^ i would like to specialise in three-dimensional digital mapping of geological structures . 
+^ this field is undergoing rapid development , as advances in the computer industry make it more feasible and informative . 
+^ &name university has accepted my application to continue my study in this area at the phd level . 
+^ they propose a three-year doctorate during which i would develop a cm scale , digital three-dimensional emplacement model of the whin sill . 
+^ however , due to cutbacks at the british geological survey , the funds which until recently would have paid for this study are no longer available . 
+^ although the project specifies the examination of the whin sill , an alternative land-based geological feature would serve just as well for the development of these mapping techniques . 
+^ the cost of this research is approximately &pound; &num , &num per annum . 
+^ under the advice of one of my potential supervisors , dr. &name &name , i am seeking sponsorship for this postgraduate degree . 
+^ as a mining company with a vested interest in the development of the geological sciences , in particular , exploration techniques , i felt it appropriate to approach you about sponsorship for this project . 
+^ it is my hope that you will consider helping me to fund this study , either in part or in full . 
+^ i attach a short synopsis of the proposed phd , prepared by &name &name , &name and &name of the university of &name and an approximate breakdown of costs . 
+^ i also attach my re9sume9 . 
+^ thank you for considering this application and i eagerly await your reply . 
+^ yours truly , 
+^ &name &name &name 
+^ - ----a short synopsis of the proposed phd project.----- 
+^ the intrusion architecture of the whin sill complex : digital acquisition and modelling 
+^ digital mapping technologies provide the potential to automatically capture , visualize and model the &num geometry of structures such as basins , intrusions , and fault zones . 
+^ new methodologies that best combine &name , &name &name , &name data management systems and visualisation software are now urgently required . 
+^ in conjunction with the &name ( &name &name &name ) and &name ( system for integrated geospatial mapping ) projects at &name , the aim of this project will be to develop methodologies of collecting spatially constrained geological information in the field and producing &num models from the data . 
+^ this provides the opportunity to test a range of new technologies on a specific geological problem , including data collection , data processing , &num geological model construction and data management . 
+^ the student will use &name , &name and &name &name location methods to map intrusions of the whin sill complex , to cm-scale accuracy , collating spatial co-ordinates on a palm-top computer whilst traversing along or across the exposed igneous bodies . 
+^ the data will be incorporated onto a digital &num topographic map and aerial photograph database using industry standard &name for data management in a &name format . 
+^ structural attributes observed at individual localities will be collected and stored in digital format , including contact type and orientation data , linkage features displayed , intrusion-rock type and country rock structural and contact metamorphic features . 
+^ detailed digital outcrop maps will capture the detailed &num relationships and will be supplemented by digital photographs on which mm-scale features can be digitised with all data ( topographic , remotely sensed images and structural measurements ) . 
+^ the student will then use &name software for &num visualization of the &name data layers to provide a basis for creating a model of the intrusion network . 
+^ additional constraints on the &num architecture from geophysical datasets will be incorporated as appropriate . 
+^ factors determining the final emplacement of high-level dykes , sills and laccoliths are complex , and depend upon a range of physical parameters including magma driving pressure , the local ( and regional ) stress field , and the physical properties ( viscosity and density ) of the intruding magma . 
+^ despite their wide occurrence and structural importance in basin architecture , their &num geometry is not well understood . 
+^ the development of a digital model will allow the reconstruction of the emplacement history through time as well as an assessment of the effects of intrusion of a major sill complex on basin evolution and architecture . 
+^ the student will be part of the &num modelling group at &name . 
+^ this includes the &name research group ( &name &name and &name ) , a well-established group of &name and post-doctoral researchers studying the geological and rheological aspects of faults and shear zones , and the magmatic modelling group ( dr. &name ) , concerned with the influence of igneous rocks on sedimentary basins . 
+^ they will receive training in state of the art digital mapping and data management techniques together with field-based mapping . 
+^ this training will be relevant to a broad range of future careers in the earth sciences . 
+^ related ongoing &name projects include : &num ) &name link project on quantifying fault zone evolution and basement reactivation ; &num ) &name - an &name 5th framework initiative on sub-basalt imaging . 
+^ &num ) modelling of sill and laccolith intrusions . 
+^ &num ) inversion study of &name basin . 
+^ supervisors : dr &name &name , dr &name &name , dr &name &name , 
+^ - ----an approximate breakdown of the costs for this phd project----- 
+^ costs per annum 
+^ &name &name : &pound; &num 
+^ maintenance costs : &pound; &num 
+^ equipment and fieldwork costs : &pound; &num 
+^ - ----the re9sume9 of &name &name &name 
+^ rc9sumc9 
+^ timothy stephen farewell 
+^ personal information and contact details 
+^ date of &name : 30th april , &num 
+^ place of &name : &name , &name , &name 
+^ address : &num &name road , &name , &name cb4 2ap 
+^ &name : ( &num ) &num &num 
+^ e-mail : &email 
+^ education 
+^ &num - &num &name road sixth form college , &name , &name 
+^ &name advanced level ( &char ) 
+^ &name and design advanced level ( &char ) 
+^ &name advanced level ( &char ) 
+^ &name advanced supplementary level ( &char ) 
+^ &num - &num &name university , &name , &name 
+^ &name &name ( in progress ) 
+^ employment 
+^ &num - &num &name &name &name , &name hospital , &name 
+^ &name &name &name 
+^ &num &name 's punting company , &name 
+^ river chauffeur and &name &name 
+^ extracurricular positions and activities 
+^ &num - &num &name road sixth form college , &name 
+^ &name and committee member , &name staff - &name committee 
+^ leader , christian union 
+^ various theatrical and choral performances , including ; &name on the roof , and &name 's &name 
+^ &num - &num &name &name 's college and earth sciences dept , &name university 
+^ president , &name &name 's college &name &name 
+^ leader , &name 's hall worship 
+^ &name and committee member , departmental staff - &name committee 
+^ &name , &name university &name 
+^ &name , &name &name 's college &name 
+^ club member , &name &name 's college men 's &name &name 
+^ interests 
+^ if i am keen to do something , i am dedicated and give it a large amount of effort . 
+^ i am a person who is not satisfied to simply engage in &num activity . 
+^ i enjoy working with new technology and making new discoveries while suggesting original ways of solving problems - hence my academic scientific slant . 
+^ i am creative . 
+^ i enjoy painting portraits , engaging in woodwork , and playing the guitar . 
+^ i am currently in the process of finishing my first historical novel . 
+</text_normal>
+</part>
+</message_body>
+</message>

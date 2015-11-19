@@ -1,0 +1,26 @@
+<message>
+<date> wed, 06 feb 2002 10:07:42 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ [ fwd : fwd : &name / &name ] 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ from : " &name &name " ( &email ) &name : &email : " &name &name " ( &email ) , &email &name : &name , &num &name &num &num : &num : &num &num 
+^ hi everyone 
+^ thought you might find this interesting . 
+^ &name , one of our american friends read it to us at one of the conferences . 
+^ inspirational stuff . 
+^ lots of love 
+^ dad &name &name &email rector , &name &name 's church , &name &name 's adviser for &name 
+</text_normal>
+</part>
+</message_body>
+</message>

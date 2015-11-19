@@ -1,0 +1,32 @@
+<message>
+<date> thu, 12 dec 2002 16:14:11 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name exercise submissions 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i submitted my files on tuesday to &email . 
+^ do you want me to re-submit them to the above address ? 
+^ cheers , 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ according to my counts , i have so far received submissions from the following people : 
+^ &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name &name 
+^ if you are not mentioned on this list , please remember to submit by tomorrow . 
+^ thanks . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

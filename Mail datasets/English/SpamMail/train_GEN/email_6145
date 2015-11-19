@@ -1,0 +1,52 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> sat, 15 feb 2003 23:00:07 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name 
+^ will you be able to sing in the &name requiem on saturday &num april ? 
+^ i do hope so ! 
+^ we have had a really fantastic response from parents and friends and the choir now numbers &num . 
+^ however , the tenor section is the smallest with &num singers , so i 'm sure you can see just how welcome you would be ! ! 
+^ our austrian exchange takes place that week and one of the teachers , whom i 'm sure you will remember , will be singing . 
+^ &char sad piece of news - poor old &name &name died about a month ago . 
+^ he had had prostate cancer for some years but it was only just before christmas that he became really ill . 
+^ &name seems to be coping quite well , in fact we are going over to see her tomorrow . 
+^ she seems to be keeping herself very busy with her school and church . 
+^ anyway , i do hope you will be able to come and sing . 
+^ let me know . 
+^ all the best 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name 
+^ will you be able to sing in the &name requiem on saturday &num april ? 
+^ i do hope so ! 
+^ we have had a really fantastic response from parents and friends and the choir now numbers &num . 
+^ however , the tenor section is the smallest with &num singers , so i 'm sure you can see just how welcome you would be ! ! 
+^ our austrian exchange takes place that week and one of the teachers , whom i 'm sure you will remember , will be singing . 
+^ &char sad piece of news - poor old &name &name died about a month ago . 
+^ he had had prostate cancer for some years but it was only just before christmas that he became really ill . 
+^ &name seems to be coping quite well , in fact we are going over to see her tomorrow . 
+^ she seems to be keeping herself very busy with her school and church . 
+^ anyway , i do hope you will be able to come and sing . 
+^ let me know . 
+^ all the best 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

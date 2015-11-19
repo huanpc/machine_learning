@@ -1,0 +1,48 @@
+<message>
+<date> wed, 7 may 2003 18:17:19 -0700 (pdt) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name virus 
+</text_normal>
+</subject>
+<to> com </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ may &num , &num &name , i have been using your &name software for well over a year for distributing files to users in my firm . 
+^ today , my boss was updating his &name software and it informed him that he had several viruses on his computer contained in .exe files which had all been created by &name . 
+^ if you know what might be causing this issue we would greatly appreciate any clarification or insight you might be able to provide . 
+^ i apologize for not using your &name key , but i do n't run any of the software that it interfaces with . 
+^ thanks in advance for any information you can provide . 
+^ &name &email 
+^ do you &name ! ? 
+^ the &name &name ! 
+^ search - faster . 
+^ easier . 
+^ bingo . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ may &num , &num 
+^ &name , 
+^ i have been using your &name software for well over a year for distributing files to users in my firm . 
+^ today , my boss was updating his &name software and it informed him that he had several viruses on his computer contained in .exe files which had all been created by &name . 
+^ if you know what might be causing this issue we would greatly appreciate any clarification or insight you might be able to provide . 
+^ i apologize for not using your &name key , but i do n't run any of the software that it interfaces with . 
+^ thanks in advance for any information you can provide . 
+^ &name &name &email 
+^ do you &name ! ? 
+^ the &name &name ! 
+^ search - faster . 
+^ easier . 
+^ bingo . 
+</text_normal>
+</part>
+</message_body>
+</message>

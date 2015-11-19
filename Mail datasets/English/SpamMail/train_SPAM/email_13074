@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ welcome to &name with a gift 
+</text_normal>
+</subject>
+<date> tue, 1 apr 2003 21:56:51 +0200 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

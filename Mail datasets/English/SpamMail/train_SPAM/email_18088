@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &num day of &name $ &num value ! 
+</text_normal>
+</subject>
+<date> sat, 05 apr 2003 01:13:27 -0800 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

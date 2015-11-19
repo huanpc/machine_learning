@@ -1,0 +1,36 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ hello 
+</text_normal>
+</subject>
+<date> tue, 21 jan 2003 17:05:45 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i saw &name &name yesterday and she wanted to tell you how wonderful your concert was . 
+^ her friends who are members of really good choirs were also impressed ! 
+^ love , &name 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ i saw &name &name yesterday and she wanted to tell you how wonderful your concert was . 
+^ her friends who are members of really good choirs were also impressed ! 
+^ love , &name 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</part>
+</message_body>
+</message>

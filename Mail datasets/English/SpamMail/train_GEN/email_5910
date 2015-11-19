@@ -1,0 +1,25 @@
+<message>
+<date> sat, 18 jan 2003 11:24:34 +0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] &name 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ hi ! 
+^ until &name gives us webspace ( hopefully ! ) , i decided to put up some stuff on some of my own webspace . 
+^ you can view it here : 
+^ &website 
+^ cheers , &name 
+^ &name &name vice president &name university &name &name and business association ( &name ) &website 
+^ &name college &name &name : &num web : &website 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

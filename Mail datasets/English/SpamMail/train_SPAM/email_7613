@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name notice : ac# &num 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> sat, 29 mar 2003 15:31:47 -0600 (cst) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ join 
+^ she would love to say more , but she has her mouth full at the moment ... 
+^ you can have access to over &num , &num really &name &name &name , and &num , &num movie clips for free ! ! ! 
+^ just &num click away ! ! ! 
+^ click here to enter ! ! ! 
+^ click here to unsubscribe from this list 
+</text_normal>
+</message_body>
+</message>

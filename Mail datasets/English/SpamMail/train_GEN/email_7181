@@ -1,0 +1,43 @@
+<message>
+<date> thu, 06 feb 2003 16:32:41 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : ticket-selling 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ i 'll ask rhian if she is able to cover until &char arrive . 
+^ i think &name should be ok on her own , though i 'll see if she can bring along a friend . 
+^ - -on &num &name &num &num : &num &num &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ that 's great , thanks . 
+^ 1-2pm is still fine with me on monday . 
+^ if either rhian or &name can hold on until &num past &num , that would be very helpful . 
+^ did we decide &name would be ok on her own next tuesday 1-2pm or do we need to find someone for that ? 
+^ &name 
+^ on thursday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ &name , 
+^ &name has offered to do the 12-1pm slot on monday with &name , which means you can make your lecture . 
+^ are still ok for the 1-2pm slot ? 
+^ &name x 
+^ &name &name &name college &name &num &num 
+</text_embedded>
+
+^ &name &name &name college , &name &name &name &name &name : room &name , &name &name e-mail &name : &email &name &name : &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+<text_normal> 
+
+^ &name &name &name college &name &num &num 
+</text_normal>
+</message_body>
+</message>

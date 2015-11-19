@@ -1,0 +1,34 @@
+<message>
+<date> sun, 13 apr 2003 13:19:45 -0700 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ help ! 
+</text_normal>
+</subject>
+<to> com </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &website means ? ? ? ? 
+^ thanks 
+^ &name &name &email ( mailto : &email ) . 
+^ &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ normal &num &name 
+^ &website means ? ? ? ? 
+^ thanks 
+^ &name &name 
+^ &email . 
+^ &num 
+</text_normal>
+</part>
+</message_body>
+</message>

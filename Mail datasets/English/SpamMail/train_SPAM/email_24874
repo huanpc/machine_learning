@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ when will you email me again ? 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 16:36:53 +0200  </date>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ this is our third and final attempt at reaching you . 
+^ we have been hired to contact you because someone you know is interested in you . 
+^ please follow the link below to find out who. . 
+^ &website / 
+^ no more email here &website 
+</text_normal>
+</message_body>
+</message>

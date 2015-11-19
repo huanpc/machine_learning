@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ dear &name &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ did you know that if i typed in any particular word or keyword phrase that is connected to your business , using netscape , explorer , or &name browser i could be immediately sent to your website ! 
+^ our technology can do this for you . 
+^ click here for more information 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,44 @@
+<message>
+<date> sat, 08 mar 2003 18:49:45 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ [ fwd : re : &name &name &name ? ] 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ i doubt the bit about handing work in on monday morning before &name applies to you , but you never know . 
+^ ( &name , &name said &name had n't given you any work to do for the 2nd supervision - we 've got &num next week , this is what he gave us , presumably in addition to the 1st lot ) 
+^ monday at &num is fine , and so is wednesday at &num . 
+^ i give you some more work to ponder about . 
+^ please hand something in on monday morning before &name . 
+^ best , 
+^ &name 
+^ consider the following variants of a &name &name : 
+^ - the tape is infinite on both sides . 
+^ this machine is ( clearly ? 
+^ why ? ) no less powerful than the standard &name machine . 
+^ but is it more powerful ? 
+^ - the head can never replace symbols ( every cell can be written on only once ) 
+^ this machine is ( clearly ? 
+^ why ? ) no more powerful than the standard &name machine . 
+^ but is it less powerful ? 
+^ argue your answers ( not too formally ) . 
+</text_normal>
+<text_embedded> 
+
+^ from the old papers 
+</text_embedded>
+<text_normal> 
+
+^ &num &num &num 
+^ &num &num &num 
+^ &num &num &num 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<date> thu, 07 mar 2002 12:34:41 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ meeting 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i would like to see you at 2pm then . 
+^ but what will we do ? 
+^ there is nowhere in the library to talk ... ? 
+^ &name 
+</text_normal>
+</message_body>
+</message>

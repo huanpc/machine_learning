@@ -1,0 +1,34 @@
+<message>
+<date> fri, 31 jan 2003 11:16:58 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ yes i do , so let me know what college you are at and i will get a contract out to you . 
+^ &name 
+<text_embedded> 
+
+^ hi &name , 
+^ &name &name spoke to me about the possibility of doing security at the &name &name . 
+^ do you still need people ? 
+^ regards , 
+^ &name &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

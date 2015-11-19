@@ -1,0 +1,26 @@
+<message>
+<date> sun, 10 nov 2002 12:03:03 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name event detail 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi everyone , 
+^ just a quick reminder of the time of the meal . 
+^ we meet at the &name pub on &name rd. at &num then make our way to &name house . 
+^ anyone who wants to go and has n't replied just come alone , i 'm sure we can make room for you . 
+^ see you there 
+^ &name &name 
+^ &name house &num &name &name &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

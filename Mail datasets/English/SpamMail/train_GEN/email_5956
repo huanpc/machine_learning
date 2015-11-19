@@ -1,0 +1,34 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : about &name practical , 
+</text_normal>
+</subject>
+<date> wed, 15 jan 2003 16:00:06 -0000 </date>
+<content-type> text/plain; charset="windows-874" </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ no problem & good luck for the last one &smiley 
+^ - - &name . 
+</text_normal>
+<text_embedded> 
+
+^ i 'm your &name supervisor ( including &name practical ) . 
+^ i 've just seen the &name tick list and found out &num missing tick of yours . 
+^ if you would like to have any special supervision for it ( e.g. for an hour ) , please do feel free to let me know & i can help you before the last ticking session &smiley 
+</text_embedded>
+<text_normal> 
+
+^ thank you for the offer . 
+^ however , my tick was nearly complete anyway and the only reason i did n't have it done last term was due to illness so i had no difficulty with achieving the ticks this afternoon . 
+^ thank you nonetheless for your consideration . 
+^ regards , &name 
+^ &name cornish room &name , &name &name &name college , &name &name &name &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ you 're approved - &name or &name 
+</text_normal>
+</subject>
+<date> sun, 06 apr 2003 23:54:14 -0800 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ please send me the $ &num , &num * for using your products as advertised . 
+^ click to confirm 
+^ plus reserve my unsecured , guaranteed credit card . 
+^ * all company rules and regulations must be followed to qualify . 
+^ please see an account representative for details . 
+^ no &name &name &name no &name ! 
+^ apply &name now ! 
+</text_normal>
+</message_body>
+</message>

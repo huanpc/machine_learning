@@ -1,0 +1,35 @@
+<message>
+<date> sun, 10 nov 2002 14:33:26 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name event detail 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hey everybody , 
+^ i wo n't be able to make the meal tomorrow night for a good reason : it is ( was ? ) my birthday on sunday , and myself and &num friends whose birthdays are also nigh are having a party tomorrow night . 
+^ it 's in &name grad bar , which is dead easy to get to , and you are very welcome to come along after the meal if you fancy it . 
+^ ( the theme , which is not of my choosing , is " pimps and hos " , but given that i do n't intend to adhere to the dress code that implies , neither should you ) . 
+^ anyway , see you there if you come , otherwise , have a very good evening . 
+^ &name 
+^ &name &name &email 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi everyone , 
+^ just a quick reminder of the time of the meal . 
+^ we meet at the &name pub on &name rd. at &num then make our way to &name house . 
+^ anyone who wants to go and has n't replied just come alone , i 'm sure we can make room for you . 
+^ see you there 
+^ &name &name 
+^ &name house &num &name &name &name &name ( &website ) 
+</text_embedded>
+</message_body>
+</message>

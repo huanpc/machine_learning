@@ -1,0 +1,28 @@
+<message>
+<date> sat, 24 may 2003 18:28:31 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ call by value-result and call by reference 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ here is a program to illustrate the difference : it only occurs in languages like &name . 
+^ &num program copyout ( input , output ) &num var &char : integer &num procedure unsafe ( var &char : integer ) ; &num begin &char : &num ; &name ; end ; &num begin &num &char : &num ; unsafe ( &char ) ; writeln ( &char ) &num end . 
+^ the activation set up by the call unsafe ( &char ) on line &num can access a as a nonlocal and through formal parameter &char . 
+^ the var is &name to indicate a variable declaration 
+^ call by reference : assignments to both &char and a immediately update a through the pointer , so the final value of &char is &num . 
+^ copy in copy out , as &name rightly said , the value of &num of the actual &char is copied into the formal parameter &char . 
+^ the final value &num of &char is copied out into the l-value ( address ) of a just before control returns , so the final value of &char is &num . 
+^ ( &name , &name and &name &name ) 
+^ i good reason not to have global variables to avoid subtle side effects , and not to have complicated parameter passing techniques . 
+^ &name the revision is going well 
+^ &name
+</text_normal>
+</message_body>
+</message>

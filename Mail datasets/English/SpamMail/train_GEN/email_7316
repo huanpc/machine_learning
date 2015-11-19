@@ -1,0 +1,22 @@
+<message>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name outage : tuesday 29th oct , &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 24 oct 2002 09:59:08 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ mains power in the &name &name building will have to be switched off on tuesday 29th october to allow new supplies to be connected to the main distribution board for the second floor works . 
+^ &name is scheduled to go off at &num and to be back by &num , with a contingency period to &num . 
+^ the main computer room should remain running on battery power . 
+^ the inconvenience is of course regretted . 
+^ at &num stage it seemed that we were going to be faced with &num separate disruptions of this nature over the next few weeks , but strenuous efforts by &name and others have enabled the jobs to be combined . 
+</text_normal>
+</message_body>
+</message>

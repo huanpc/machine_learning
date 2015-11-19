@@ -1,0 +1,13 @@
+<message>
+<content-type> multipart/alternative </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 12th notice : &name &name &name &name # &num - please &name &name 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

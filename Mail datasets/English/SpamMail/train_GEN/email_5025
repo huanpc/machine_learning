@@ -1,0 +1,26 @@
+<message>
+<date> tue, 13 nov 2001 11:28:47 +0100 </date>
+<from> uni </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ thank you very much for all the information that you provided . 
+^ so here are our plans : 
+^ to keeps things simpler for you , and to have a little more independence in moving around in &name , we would rather prefer to take a hotel in the city center . 
+^ if the busses are to unfrequent than taking a taxi in the mornings might indeed be a good choice with &num persons . 
+^ a bed and breakfast or else the guest house you proposed is fine with us . 
+^ we would also like to give a talk that &name will take over . 
+^ until when do you need title and abstract ? 
+^ see you quite soon &name 
+</text_normal>
+</message_body>
+</message>

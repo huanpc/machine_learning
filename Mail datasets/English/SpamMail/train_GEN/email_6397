@@ -1,0 +1,51 @@
+<message>
+<date> tue, 5 nov 2002 07:58:50 -0800 (pst) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : &name icon replacement utility beta &num 
+</text_normal>
+</subject>
+<to> com </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ &website using inno setup &num . 
+^ i have also used inno setup &num &name ( &char ) but did n't try your program on that setup file . 
+^ &website files from both versions of &name ( &num and 3beta ) but your program worked perfectly . 
+^ - -- &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ thank you for your e-mail . 
+^ the behaviour you describe is most odd ! 
+^ which version of &name do you use ? 
+^ also , are you able to send me a setup file which when it has it 's icon modified exibits this behaviour ? 
+^ thanks , &name 
+^ on friday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ innosetup icon replacement utility version &num 
+^ i used it on win98 and a simple install program . 
+^ i asked it to replace the inno setup i created with the inno version2 &website 
+^ it told me it might take a while , but after a minute i got &website went from &name to &name . 
+^ i aborted the operation and ran the setup .. exe surprisingly , setup ran fine , with the old icon . 
+^ you program just filled it up with ? ? ? ? 
+^ and could n't finish some loop ( assuming this is n't a trojan ! ) 
+^ &name &name &smiley / 
+^ do you &name ! ? 
+^ &name - search new jobs daily now &website / 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ &name &name &smiley / 
+^ do you &name ! ? 
+^ &name - search new jobs daily now &website / 
+</text_normal>
+</message_body>
+</message>

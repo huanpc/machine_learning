@@ -1,0 +1,59 @@
+<message>
+<from> org.uk </from>
+<to>
+</to>
+<subject>
+<text_normal> 
+
+^ risky living- &name &name 
+</text_normal>
+</subject>
+<date> wed, 23 oct 2002 19:42:53 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name &name &name 
+^ or more conventionally , greetings &num and all . 
+^ i hope and pray that you are all well . 
+^ keep fighting the good fight . 
+^ this is the weekly e-mail to remind y' all , what 's goin " down &name side . 
+^ tomorrow night at risky living , we have &name from &name &name church and of fusion fame speaking on &name &name , he has been here and done that and he is a really great speaker . 
+^ i am well interested in what he will have to say . 
+^ &num : &num for food and &num : &num for worship . 
+^ sunday , usual service times of &num : &num , &num : &num and &num : &num , you will be on time if you forget to put your clocks back ! 
+^ student lunch as usual will be the &name &name hall after &num : &num service , everyone is welcome as this is a great time to meet and get to know other students at &name . 
+^ tuesday night is &char , this is now closed to new people coming along , but we value your prayers for the course and those on it . 
+^ there will be a course next term , so start thinking about who you want to ask along or suggest the course to and get praying for it now . 
+^ also be prepared for the &char , i mean the welcome team asking you out for coffee sometime over the next week , " i love it when a plan comes together . " 
+^ " if you have a problem , and you know where to find us , then maybe you can hire the ht-team . " 
+^ &name bless 
+^ &name , &name and &name 
+^ &name apologies for the poor standard of humour in this e-mail , the &char standard of humour will resume next week . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name &name 
+^ or more conventionally , greetings &num and all . 
+^ i hope and pray that you are all well . 
+^ keep fighting the good fight . 
+^ this is the weekly e-mail to remind y' all , what 's goin " down &name side . 
+^ tomorrow night at risky living , we have &name from &name &name church and of fusion fame speaking on &name &name , he has been here and done that and he is a really great speaker . 
+^ i am well interested in what he will have to say . 
+^ &num : &num for food and &num : &num for worship . 
+^ sunday , usual service times of &num : &num , &num : &num and &num : &num , you will be on time if you forget to put your clocks back ! 
+^ student lunch as usual will be the &name &name hall after &num : &num service , everyone is welcome as this is a great time to meet and get to know other students at &name . 
+^ tuesday night is &char , this is now closed to new people coming along , but we value your prayers for the course and those on it . 
+^ there will be a course next term , so start thinking about who you want to ask along or suggest the course to and get praying for it now . 
+^ also be prepared for the a- , i mean the welcome team asking you out for coffee sometime over the next week , " i love it when a plan comes together . " 
+^ " if you have a problem , and you know where to find us , then maybe you can hire the ht-team . " 
+^ &name bless 
+^ &name , &name and &name 
+^ &name apologies for the poor standard of humour in this e-mail , the &char standard of humour will resume next week . 
+</text_normal>
+</part>
+</message_body>
+</message>

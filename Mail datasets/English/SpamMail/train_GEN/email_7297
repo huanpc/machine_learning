@@ -1,0 +1,18 @@
+<message>
+<from> net </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : wedding on sat 13th july 
+</text_normal>
+</subject>
+<date> tue, 9 jul 2002 19:35:42 +0100 </date>
+<content-type> multipart/related </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="image/jpeg">
+</part>
+</message_body>
+</message>

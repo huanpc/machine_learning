@@ -1,0 +1,30 @@
+<message>
+<date> thu, 07 mar 2002 12:36:39 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ we can go for a walk ! 
+^ no. .. we can go to the lib cafe , or the chem cafe . 
+^ that will be fun ! 
+^ those lovely people ... 
+^ &name xx 
+^ &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i would like to see you at 2pm then . 
+^ but what will we do ? 
+^ there is nowhere in the library to talk ... ? 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

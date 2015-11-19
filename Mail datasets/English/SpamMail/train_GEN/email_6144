@@ -1,0 +1,48 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> wed, 18 sep 2002 18:11:05 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name 
+^ it 's ages since i saw you but i have n't forgotten how well you sing ! ! 
+^ would you like to take part in the &name &name 's performance of &name 's requiem on saturday april 5th next year , in &name &name 's church , &name &name road ? 
+^ it is - hopefully - going to be quite a big affair , involving present and past students , teachers and parents in both the choir and orchestra . 
+^ we are going to dedicate the performance to the memory of one of our 6th form girls who died a few weeks ago of cancer . 
+^ it would be so nice if you could join us . 
+^ ( &name &name and &name &name would , like me , be overjoyed ! ) there will be a rehearsal on the saturday afternoon , of course , and also some evening &num in the &num weeks leading up to the concert . 
+^ however , i realise that those could be difficult for you and would be quite happy if you could just make the saturday &num . 
+^ ( i know how good your sight-reading is ! ! ) 
+^ quite apart from getting you to siong , it would be lovely to see you again and find out how you are getting on . 
+^ look forward to hearing from you 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name 
+^ it 's ages since i saw you but i have n't forgotten how well you sing ! ! 
+^ would you like to take part in the &name &name 's performance of &name 's requiem on saturday april 5th next year , in &name &name 's church , &name &name road ? 
+^ it is - hopefully - going to be quite a big affair , involving present and past students , teachers and parents in both the choir and orchestra . 
+^ we are going to dedicate the performance to the memory of one of our 6th form girls who died a few weeks ago of cancer . 
+^ it would be so nice if you could join us . 
+^ ( &name &name and &name &name would , like me , be overjoyed ! ) there will be a rehearsal on the saturday afternoon , of course , and also some evening &num in the &num weeks leading up to the concert . 
+^ however , i realise that those could be difficult for you and would be quite happy if you could just make the saturday &num . 
+^ ( i know how good your sight-reading is ! ! ) 
+^ quite apart from getting you to siong , it would be lovely to see you again and find out how you are getting on . 
+^ look forward to hearing from you 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

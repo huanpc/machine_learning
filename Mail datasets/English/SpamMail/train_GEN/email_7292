@@ -1,0 +1,23 @@
+<message>
+<date> fri, 07 feb 2003 18:28:38 +0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ website ... 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hello my dear &num ! 
+^ the website is nearly .. up and running ... 
+^ &name can someone generate javadocs .. and store them in a folder on &name . 
+^ btw , i can see the website at : &website / 
+^ cheers ! ! ! 
+^ &website 
+</text_normal>
+</message_body>
+</message>

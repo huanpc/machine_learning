@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<date> mon, 24 mar 2003 17:04:32 -0900 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &char thought you 'd like this 
+^ &website 
+</text_normal>
+</message_body>
+</message>

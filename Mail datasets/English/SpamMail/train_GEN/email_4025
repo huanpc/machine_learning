@@ -1,0 +1,37 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : sunday the 11th 
+</text_normal>
+</subject>
+<date> tue, 30 oct 2001 15:23:54 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ that has to be the quickest way ever to get yourself a job ! 
+^ we really need people to do them . 
+^ people who want to tell children about the realities of &name and following him . 
+^ if you 'd be willing to take part then either drop me a line or call &name &name ( who is in charge of such things ) on &num &num . 
+^ thanks again , &name 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name &name " ( &email ) to : &name &name ( &email ) subject : re : sunday the 11th date : &name , &num &name &num &num : &num : &num &num 
+^ &name . 
+^ i 'll be there and read ... 
+^ how are things for the children 's talks ? 
+^ &name &name &name &name 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+</text_embedded>
+<text_normal> 
+
+^ get your free download of &name explorer at &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,28 @@
+<message>
+<date> sat, 29 mar 2003 02:04:13 +0-200 </date>
+<subject>
+<text_normal> 
+
+^ &name &name para 
+</text_normal>
+</subject>
+<from>
+</from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ disikus &name &name &name / &website 
+^ ______________________________________________________________- &name &name &name ise 
+^ &name &name yok ise ... &name istiyor ama aradiginizi bulamiyorsaniz , 
+^ &name . 
+^ &website 
+^ _______________________________________________________________________& 
+^ &num &name &name &name &num &name mail &name &num pop3 mail / &name &num &name &name 
+^ &num milyon + &name 
+^ &website 
+^ ( to unsubscribe , send ' unsubscribe sql.el ' to 
+</text_normal>
+</message_body>
+</message>

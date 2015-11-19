@@ -1,0 +1,24 @@
+<message>
+<date> wed, 24 jul 2002 17:47:33 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ type checking 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi professor &name , 
+^ i talked to &name about this - he advised me that it would not be a good idea for us to do it . 
+^ some of the reasons are : 
+^ &num ) it will take at least a day to convert our pseudocode to &name objects and to rewrite the &name in &name to include everything that there &name currently does . 
+^ that leaves a half a day for integration with their code . 
+^ &num ) integrating type inferencing with their code will be extremely difficult - the way their code is structured right now is completely different to our way of thinking . 
+^ the whole idea of 
+</text_normal>
+</message_body>
+</message>

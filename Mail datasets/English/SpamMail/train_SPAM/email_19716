@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : &name information : working from &name - start today 
+</text_normal>
+</subject>
+<date> mon, 07 apr 2003 08:23:12 -0400 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

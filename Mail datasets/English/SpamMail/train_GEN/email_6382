@@ -1,0 +1,22 @@
+<message>
+<date> mon, 03 mar 2003 05:32:51 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ important &num ! ! ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ dear all 
+^ please could someone check that &name work units are working correctly . 
+^ i suspect they might not be , and cause the clients to fail and return to the resolving state . 
+^ cheers 
+^ &name
+</text_normal>
+</message_body>
+</message>

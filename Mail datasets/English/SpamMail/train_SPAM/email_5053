@@ -1,0 +1,27 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &num en &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> fri, 28 mar 2003 05:22:08 +0100 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &name &name 
+^ publicidad &name &name irrepetible . 
+^ &name &name &name &num / &num / &num 
+^ ref. &num &name &name &char &num &name &num &name / &num &name &name / &num &name &name / cdrom &name / &name &name / &name &name / &name ref. &num monitor &num ' &name &name &name &name ( perfecto estado ) &name ( &name + &num ' ) &name &name &name stock : &name &num ; ( &name &name &num ' 
+^ &name m&aacute;s ofertas &name &name &num , &name , &name , &name ... &name precios no incluyen &name . 
+^ &name v&aacute;lida hasta fin &name existencias . 
+^ &char algo muy import&aacute;nte &num &name &name garant&iacute;a real en &name &name &name . 
+^ &name &name productos &name &name ocasi&oacute;n est&aacute;n testeados , auditados &char limpios en nuestros almacenes . 
+^ &name &name de que se agoten &name &website &name &name &name &name &name &name 
+^ si no desean recibir mas emails &name &name &name &name &name .. .. .. 
+</text_normal>
+</message_body>
+</message>

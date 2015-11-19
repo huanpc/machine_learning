@@ -1,0 +1,18 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name emphasis 
+</text_normal>
+</subject>
+<date> 16 apr 2003 12:34:57 +0100 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name , - wicked ! 
+</text_normal>
+</message_body>
+</message>

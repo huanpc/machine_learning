@@ -1,0 +1,20 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ building snags 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 07 sep 2001 10:36:27 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ building snags are now being tracked by a system designed for software bug tracking . 
+^ see &website the local information page has been updated to give better building links . ) 
+^ &name 
+</text_normal>
+</message_body>
+</message>

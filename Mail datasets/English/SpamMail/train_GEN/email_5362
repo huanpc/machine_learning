@@ -1,0 +1,25 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name -- tutorial 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 07 mar 2003 19:02:51 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ dear students , 
+^ i forgot how we remained on the point of me giving a tutorial for internet applications in week &num . 
+^ would you like for me to do that ? 
+^ or have we already set a time for me to do it -- was it on tuesday ? 
+^ if there is already a time set , could somebody please send me an email reminding me of that time ? 
+^ if there is n't could i have an email vote on whether or not you would like me to give such a tutorial -- on monday or tuesday . 
+^ thanks . 
+^ &name
+</text_normal>
+</message_body>
+</message>

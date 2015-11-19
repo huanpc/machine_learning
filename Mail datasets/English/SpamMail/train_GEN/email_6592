@@ -1,0 +1,37 @@
+<message>
+<from> org.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : ministry of &name and &name 
+</text_normal>
+</subject>
+<date> wed, 7 may 2003 10:47:09 +0100 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name 
+^ that is not a problem at all . 
+^ &name had told me that she was getting confirmed , as she was in my &char group last year . 
+^ &name bless 
+^ &name
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ would you &num be willing to person the tea and coffee trolley , on sunday morning at the 11am service ? 
+^ if that would be great , if not , do not worry about it at all , could you just let me know if you are not able to help out . 
+</text_embedded>
+
+^ hi &name , 
+^ i would help , but i 'm at &name 's on sunday when &name &name and &name &name ( both &name students ad both at &name ) are being confirmed , so i wo n't be at &name to do the coffee trolley . 
+^ i 'll quite happily do it on a subsequent sunday if you want . 
+^ &name 
+^ &name &name &name college , &name , &name &name &name &name : &name , &name &name , &name e-mail &name : &email &name : # &num | &name : &email | &name ! 
+^ &name &name / &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

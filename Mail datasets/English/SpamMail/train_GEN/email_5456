@@ -1,0 +1,26 @@
+<message>
+<date> thu, 10 oct 2002 13:28:53 +0100 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii"; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ congratulations ! 
+^ i see that you are here now . 
+^ i hope you are having a nice time in &name . 
+^ there are fully funded research associate positions open . 
+^ try to apply for a position for next year . 
+^ &website 
+^ best wishes , &name 
+^ &name &name research associate speech , vision & &name group &name : ( &num ) ( &num ) &num &num &name university engineering dept. &name : ( &num ) ( &num ) &num &num &name street , &name , &name &name email : &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<date> wed, 31 oct 2001 17:19:23 +0000 </date>
+<to> ac.uk ac.uk ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ pis-take &name &name &name 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ this is slightly amusing , but probably not worth the effort of downloading ghostscript viewer to look at it . 
+^ links to the &name files are below ( you need to install both ) : 
+^ &website 
+^ &website 
+</text_normal>
+</part>
+<part num="2" type="application/zip">
+</part>
+</message_body>
+</message>

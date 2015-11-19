@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<date> tue, 08 apr 2003 09:53:44 -0500 </date>
+<subject>
+<text_normal> 
+
+^ hi , how are you 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &num day / &num night vacation package is just $ &num for up to &num guests . 
+^ to be taken off from the database please send email to &email 
+</text_normal>
+</message_body>
+</message>

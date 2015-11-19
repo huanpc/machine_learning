@@ -1,0 +1,32 @@
+<message>
+<date> fri, 2 may 2003 11:13:36 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hi , 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi admiral , 
+^ i am writing perl scripts like there 's no tomorrow . 
+^ &name just found out that they wo n't be giving the results out until next tuesday ! ! 
+^ other than that the most exciting thing that 's happened here is that i 've drawn a bad picture of a car on the white board ... oh dear . 
+^ see you soon , 
+^ &name 
+^ on &name , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi , &name the gates and your data preparation stuff . 
+^ will they be giving the results today do you think ? 
+^ may turn up if thats the case . 
+^ have to meet up with &name today - &name . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

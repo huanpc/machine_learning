@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ lang2 practical named entities 
+</text_normal>
+</subject>
+<date> tue, 4 mar 2003 08:51:42 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ the named entity files have all been regenerated as a result of some bugs that were discovered . 
+^ specifically , several anomalies were appearing in the &name file format that were not being handled . 
+^ this caused some sentences to fail the named entity recognition and be omitted . 
+^ this has now been addressed . 
+^ cheers , eh 
+</text_normal>
+</message_body>
+</message>

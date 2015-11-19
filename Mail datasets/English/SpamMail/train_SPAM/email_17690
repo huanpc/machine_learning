@@ -1,0 +1,14 @@
+<message>
+<from> co.jp </from>
+<subject>
+<text_normal> 
+
+^ &name : &num month free - &name 
+</text_normal>
+</subject>
+<date> thu, 20 mar 03 11:15:58 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

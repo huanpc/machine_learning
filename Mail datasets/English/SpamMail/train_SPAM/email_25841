@@ -1,0 +1,14 @@
+<message>
+<date> wed, 9 apr 2003 02:00:00 -0800 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ enter to &name a flat screen tv ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative;    boundary=mimeboundary </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

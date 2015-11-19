@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ breaking news , your job sucks . 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> wed, 9 apr 2003 02:53:12 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website 
+^ to be deleted from our member database , please click here 
+</text_normal>
+</message_body>
+</message>

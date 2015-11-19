@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ fwd : you have &name to try this 
+</text_normal>
+</subject>
+<date> tue, 1 apr 2003 17:51:36 -0400  </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

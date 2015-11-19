@@ -1,0 +1,28 @@
+<message>
+<from> com.cn </from>
+<subject>
+<text_normal> 
+
+^ &name translation 
+</text_normal>
+</subject>
+<date> sat, 5 apr 2003 07:52:37 +0800 </date>
+<content-type> text/plain; charset=utf-7 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name translation 
+^ &name is a professional multilingual solutions provider . 
+^ our rich experience and professional team established us as a leader in the field of multilingual solutions . 
+^ &name can provide fast and accurate translations of financial , legal and technical documents on over &num languages , such as english , german , spanish , french , italian , &name , japanese , korean , etc. 
+^ we also provide software localization , website localization , simultaneous and consecutive interpretation for international meetings . 
+^ for further information , please visit our website : 
+^ &website 
+^ contact us at : 
+^ &website 
+^ &name : &num &num &num &name : &num &num &num 
+^ add : &num office &name , &name hotel &num airport road &name , &name 
+</text_normal>
+</message_body>
+</message>

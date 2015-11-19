@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ dear pet owner 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> sat, 29 mar 2003 21:58:11 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

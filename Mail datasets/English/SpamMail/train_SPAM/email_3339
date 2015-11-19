@@ -1,0 +1,18 @@
+<message>
+<from> com.br </from>
+<subject>
+<text_normal> 
+
+^ divulga' &char &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> wed, 26 mar 2003 22:01:07 -0300 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name sair da divulga' &char : &email 
+</text_normal>
+</message_body>
+</message>

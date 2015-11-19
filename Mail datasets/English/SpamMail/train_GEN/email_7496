@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ i placed an order for a laptop over a week ago . 
+^ why have n't i heard anything from you yet ? 
+</text_normal>
+</message_body>
+</message>

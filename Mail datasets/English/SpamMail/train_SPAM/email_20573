@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ updated war news 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ this is how it is going &website please read 
+</text_normal>
+</message_body>
+</message>

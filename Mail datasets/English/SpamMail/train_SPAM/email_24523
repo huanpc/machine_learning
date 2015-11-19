@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ de &name &name is now even more powerful : &name 
+</text_normal>
+</subject>
+<date> tue, 08 apr 2003 19:06:09 -0:0 </date>
+<content-type> multipart/related; type="multipart/alternative" </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

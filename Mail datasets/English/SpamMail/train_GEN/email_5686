@@ -1,0 +1,31 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hoodies 
+</text_normal>
+</subject>
+<date> thu, 5 dec 2002 20:05:28 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ just to clarify : the person to email for hoodies is &name ( &email ) 
+^ do not email me - i will ignore your request and you wo n't get a hoody . 
+^ &name " i am the cat that walks by itself , and all places are alike to me . " &name . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ just to clarify : the person to email for hoodies is &name ( &email ) 
+^ do not email me - i will ignore your request and you wo n't get a hoody . 
+^ &name 
+^ " i am the cat that walks by itself , and all places are alike to me . " &name . 
+</text_normal>
+</part>
+</message_body>
+</message>

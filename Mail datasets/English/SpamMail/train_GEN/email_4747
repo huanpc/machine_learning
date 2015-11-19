@@ -1,0 +1,31 @@
+<message>
+<date> mon, 19 may 2003 13:42:57 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : anonymised email 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks &name - i 've fixed it now so it should n't return it in rich text . 
+^ you can try it again if you like ... 
+^ &char 
+^ on mon , &num may &num , &char &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ when i open your anonymised email at &name the message is not an attachment ... 
+^ &name &name wrote : ( message ) 
+</text_embedded>
+<text_normal> 
+
+^ ( message_body ) 
+</text_normal>
+</message_body>
+</message>

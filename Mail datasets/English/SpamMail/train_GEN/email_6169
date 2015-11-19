@@ -1,0 +1,21 @@
+<message>
+<date> sat, 01 mar 2003 14:49:49 +0000 </date>
+<to> org </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ flow diagram for &name rho 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ here 's a flow diagram of the algorithm we used for &name rho . 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

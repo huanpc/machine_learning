@@ -1,0 +1,30 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name body meeting 
+</text_normal>
+</subject>
+<date> mon, 17 feb 2003 16:22:02 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ the next meeting of the governing body will be on wednesday , &num march &num at 
+^ &num &num pm in the &name hall . 
+^ ( fellows to be admitted to their fellowships should come to the president 's room at &num pm on that day ) . 
+^ &name : lounge &name and gown . 
+^ please could you let me know as soon as possible , and in any event before wednesday , &num &name &num 
+^ &num . 
+^ whether or not you will attend the meeting &num . 
+^ whether or not you will attend dinner &num . 
+^ whether or not you will stay for dessert &num . 
+^ if you have any special dietary requirements . 
+^ &name &name 
+^ &name &name &char &name registrar &name college &name &name &name . 
+^ for address change / removal ask ( &email ) please send messages to all members to ( &email ) 
+</text_normal>
+</message_body>
+</message>

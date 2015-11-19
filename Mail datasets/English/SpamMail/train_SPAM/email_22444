@@ -1,0 +1,46 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ ( ) , &name @ 
+</text_normal>
+</subject>
+<content-type> text/html; charset="ks_c_5601-1987" </content-type>
+<date> tue, 8 apr 2003 16:33:59 +0900 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website 
+^ &name &num 
+^ &num . 
+^ - &pound; - . 
+^ - . 
+^ &num . 
+^ , , . 
+^ - , , , . 
+^ &num . 
+^ &pound; . 
+^ - , 
+^ , , , 
+^ &num . 
+^ - &pound; . . 
+^ - . 
+^ &num . 
+^ . 
+^ . 
+^ ( , , , ... ) 
+^ &num . 
+^ . 
+^ - . 
+^ . 
+^ - , . 
+^ &num . 
+^ - , . 
+^ - , . 
+^ [ ] . 
+^ ( if you do n't want to receive this mail anymore , click here [ &name ] ) &num &pound; &name : &num e-mail : &email 
+</text_normal>
+</message_body>
+</message>

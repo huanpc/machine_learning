@@ -1,0 +1,43 @@
+<message>
+<from> org.uk </from>
+<to>
+</to>
+<subject>
+<text_normal> 
+
+^ who took the fizz out of physics ? 
+</text_normal>
+</subject>
+<date> sat, 1 mar 2003 13:08:26 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ " . ... &name and peace be yours in abundance " &num &name &num : &num 
+^ a few brief notices . 
+^ student lunch this sunday about &num : 30pm in the &name &name &name , all welcome , come say hi and enjoy fellowship with the gathered saints of &name . 
+^ &name after the evening service , about &name we shall be partaking of some of the delights of the sub-continent , will be fun and a chance to enjoy the company of other students at &name , everyone welcome , even if you have not managed to make the evening service . 
+^ 'so i commend the enjoyment of life , because nothing is better for a man under the sun than to eat and drink and be glad . 
+^ then joy will accompany him in his work all the days of the life &name has given him under the sun . " &name &num : &num 
+^ that is all , except to say hopefully see you all sometime tomorrow . 
+^ &name bless 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ " . ... &name and peace be yours in abundance " &num &name &num : &num 
+^ a few brief notices . 
+^ student lunch this sunday about &num : 30pm in the &name &name &name , all welcome , come say hi and enjoy fellowship with the gathered saints of &name . 
+^ &name after the evening service , about &name we shall be partaking of some of the delights of the sub-continent , will be fun and a chance to enjoy the company of other students at &name , everyone welcome , even if you have not managed to make the evening service . 
+^ 'so i commend the enjoyment of life , because nothing is better for a man under the sun than to eat and drink and be glad . 
+^ then joy will accompany him in his work all the days of the life &name has given him under the sun . " &name &num : &num 
+^ that is all , except to say hopefully see you all sometime tomorrow . 
+^ &name bless 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

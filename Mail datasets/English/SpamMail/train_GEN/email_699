@@ -1,0 +1,56 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<date> sun, 04 aug 2002 21:20:18 +0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ &name babe . 
+^ have not yet found job . 
+^ &name appalling . 
+^ am bored . 
+^ west wing great . 
+^ have nothing of interest to say . 
+^ you well ? 
+^ sorry for email shortness ... 
+^ love &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : &name &name to : &email subject : &name &name : &name , &num &name &num &num : &num : &num &num 
+^ dear &name , &name , &name , &name , &name , &name , &name , &name and &name , 
+^ hello . 
+^ i have now moved into &name &char and my spare time is spent cleaning cupboards . 
+^ my telephone number is &num &num &num and you are most welcome to call me as i will be very pleased to hear from you . 
+^ i started my nine-week chemistry placement on monday and it looks as though i am going to enjoy it &smiley the chemistry is interesting - and that ( of course ) is the main thing however , i have been getting up at 6am to catch a bus to &name and that is tiring ! 
+^ last night i lost my mobile phone and felt such a profound loss that i was quite shaken . 
+^ i had left it on an express bus to &name and therefore despaired of all hope of ever seeing it again . 
+^ amazingly it was still on the bus when it got back into &name later that evening and i was reunited ! 
+^ &name - &name you are enjoying your holiday in &name . 
+^ &name - see you on sunday evening ! 
+^ &name - &name your placement is going well too . 
+^ &name - &name ! 
+^ are you still practising scrabble ? 
+^ &name - &name , absent one . 
+^ &name - did you enjoy your holiday in &name ? 
+^ &name - hopefully i 'll see you in a week or so sometime . 
+^ &name - &name , absent one . 
+^ &name - it was good to talk to you the other evening , enjoy &name ! 
+^ i 'm not sure about boredom being decadent . 
+^ i 'll try and write properly soon . 
+^ very best wishes , 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ &name &name is the easiest way to share and print your photos : click here 
+</text_normal>
+</message_body>
+</message>

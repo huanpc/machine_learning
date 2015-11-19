@@ -1,0 +1,29 @@
+<message>
+<date> sat, 11 jan 2003 15:51:00 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> me.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi everyone , 
+^ looks like the list is working . 
+^ &name took so long to respond - i 've been on holiday in &name for a few days &smiley 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ this is just a test . 
+^ &name &name &name will get a copy of this , along with everyone else . 
+^ &name , perhaps you could try replying to the list , so that we know it is working . 
+^ &name . 
+</text_embedded>
+</message_body>
+</message>

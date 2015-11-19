@@ -1,0 +1,15 @@
+<message>
+<content-type> multipart/alternative </content-type>
+<date> fri, 28 mar 2003 15:56:43 ut </date>
+<subject>
+<text_normal> 
+
+^ &name breaking news ! 
+^ ( &name ) &char &name league &name 
+</text_normal>
+</subject>
+<from> com </from>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

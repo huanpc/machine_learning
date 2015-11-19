@@ -1,0 +1,50 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> tue, 11 jun 2002 18:09:54 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name
+^ starting with a national call to prayer for young people to pray for their generation , on december 19th &num , we have carried on this initiative with the young people here in &name . 
+^ our third prayer event is due to take place on july 10th from 7pm - 9pm at &name baptist church . 
+^ please would you make sure your youth leader / young people are given this date , and encouraged to come , as it would be good to see more churches represented . 
+^ so far , the majority of young people attending the first &num evenings were from about half a dozen churches . 
+^ powersurge is an &name in prayer youth initiative . 
+^ on july 10th , we will be concentrating on 'moving on " , as young people prepare to move on to new schools , colleges , or new year groups . 
+^ also , we will be praying for the &name holidays , the activities which they will be involved in , people they will meet , friends they will be spending time with . 
+^ we aim to encourage young people in their daily prayer lives , to teach the importance of and power of prayer , to raise commitment to prayer , to think about new ways to focus in prayer , and to support one another in lifting our joint prayers to &name . 
+^ the young people who have attended the other &num evenings have given us very positive feedback , have both enjoyed and been challenged by the evenings , and have asked for this initiative to be ongoing . 
+^ please pray for &name &name , &name &name , and &name &name as we lead the evening , and also for those involved in leading worship ( not sure who that will be yet ! ) 
+^ please pass this e-mail on to those who need to know , and to any christian young people with whom you have contact . 
+^ for further info please contact &email ( &name prayer co-ordinator ) . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name
+^ starting with a national call to prayer for young people to pray for their generation , on december 19th &num , we have carried on this initiative with the young people here in &name . 
+^ our third prayer event is due to take place on july 10th from 7pm - 9pm at &name baptist church . 
+^ please would you make sure your youth leader / young people are given this date , and encouraged to come , as it would be good to see more churches represented . 
+^ so far , the majority of young people attending the first &num evenings were from about half a dozen churches . 
+^ powersurge is an &name in prayer youth initiative . 
+^ on july 10th , we will be concentrating on 'moving on " , as young people prepare to move on to new schools , colleges , or new year groups . 
+^ also , we will be praying for the &name holidays , the activities which they will be involved in , people they will meet , friends they will be spending time with . 
+^ we aim to encourage young people in their daily prayer lives , to teach the importance of and power of prayer , to raise commitment to prayer , to think about new ways to focus in prayer , and to support one another in lifting our joint prayers to &name . 
+^ the young people who have attended the other &num evenings have given us very positive feedback , have both enjoyed and been challenged by the evenings , and have asked for this initiative to be ongoing . 
+^ please pray for &name &name , &name &name , and &name &name as we lead the evening , and also for those involved in leading worship ( not sure who that will be yet ! ) 
+^ please pass this e-mail on to those who need to know , and to any christian young people with whom you have contact . 
+^ for further info please contact &email ( &name prayer co-ordinator ) . 
+</text_normal>
+</part>
+</message_body>
+</message>

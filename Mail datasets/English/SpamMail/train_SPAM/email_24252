@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ award winning software from &name only $ &num 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> tue, 8 apr 2003 22:50:28 -0600 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

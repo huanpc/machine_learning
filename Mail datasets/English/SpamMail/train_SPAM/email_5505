@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name &name &num off ! 
+^ dtfua 
+</text_normal>
+</subject>
+<date> wed, 26 mar 03 20:53:56 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,65 @@
+<message>
+<date> sun, 4 aug 2002 23:59:48 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ sorry if i was n't clear in my previous email , but i know that &name is a 'special " group-by attribute - that 's why i emailed &name about the section that it turned out you wrote in the &name paper saying that &name is treated like an " implicit group-by attribute " . 
+^ essentially there are &num types of grouping occuring for the tumble box - the first is being done by a restream before the box and the second is being done in the box . 
+^ all i was saying was that the grouping that gets turned into a &name that the restream is doing can be moved into the &name &name . 
+^ regarding map , i was n't assuming that there already was a distinguishing attribute , i was assuming that the persoon creating the query can use their knowledge about the input data to add this distinguishing attribute using map . 
+^ this whole idea hinges on the one-sid-per-input-port assumption . 
+^ if &name 's get assigned before these original input ports ( and thus there might already be more than one simple stream coming into an input port ) then the user wo n't be able to add this distinguising attribute . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name sat , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ on &name , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ the aggregate boxes need to know the stream id 's. 
+^ if they compute an average heartbeat for each soldier , how else do they distinguish readings coming from different soldirer ? . 
+</text_embedded>
+
+^ see the previous email . 
+</text_embedded>
+
+^ i did - obviously it was n't clear . 
+^ you keep saying that a map box can add a distinguishing attribute . 
+^ based on what ? 
+^ there has to be some distinguishing attribute to begin with emanating from sensor sources on which to base the map function , and if there is , why bother having a map ? 
+^ if i am reading between the lines correctly , what you seem to be suggesting is that data sources would have some notion of a stream identifier , but that no boxes would construct such an attribute unless explicitly made to do so . 
+^ presumably , then you would use this identifier as another attribute in the group by clause to simulate the behavior of our current aggregate operators . 
+^ but this does n't work . 
+^ consider tumble , which closes the " current state " every time it sees a new set of group by attributes . 
+^ if the new set of group by attributes differs by a stream identifier attribute , this is not what you want to happen . 
+^ stream identifier attributes are 'special " because seeing a new one with an aggregate box does not necessarily close a state - because multiple states are maintained simultaneously ; &num per stream id . 
+^ consider the following example : 
+^ &num . 
+^ ( &name &num , &char &num ) &num . 
+^ ( &name &num , &char &num ) &num . 
+^ ( &name &num , &char &num ) 
+^ note that none of these tuples needs to close a state , but if you treat &name as a regular group by attribute , you will be closing states after tuples &num and &num . 
+<text_embedded> 
+
+^ also , why would this query be issued if there is no other attribute distinguishing soldiers besides stream id ? 
+^ the result would be a mass of numbers without being able to figure out which soldier has which average heartbeat ( becase the only distinguishing attribute would be stream id which is transparent to the user ) . 
+</text_embedded>
+
+^ that 's a good argument for making stream &name 's publically viewable , unlike what we were thinking before . 
+^ - &name 
+</text_embedded>
+</message_body>
+</message>

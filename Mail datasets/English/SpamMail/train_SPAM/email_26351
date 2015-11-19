@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ subscription confirmation for 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 20:11:08 -0400  </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ welcome to our insane prizes newsletter ! 
+^ we just received a request to add to our mailing list . 
+^ each day we hunt up a great offer from an online merchant , from leading retailers to unique niche shops , and deliver it to your inbox . 
+^ do n't miss an exciting issue . 
+^ each insane prizes newsletter includes easy to use unsubscribe instructions . 
+^ if you no longer want our newsletter , it 's a breeze to let us know . 
+^ sincerely , the insane &name &name 
+^ &name the request to subscribe to our newsletter came from &website at from 
+^ to unsubscribe , go send a blank message 
+</text_normal>
+</message_body>
+</message>

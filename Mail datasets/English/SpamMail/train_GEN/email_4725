@@ -1,0 +1,22 @@
+<message>
+<date> thu, 15 may 2003 13:26:26 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hey 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ how 's things at the &name ? 
+^ had any nice chats with &name recently ? 
+^ we 're all going out to lunch with &name tomorrow ! 
+^ &char 
+</text_normal>
+</message_body>
+</message>

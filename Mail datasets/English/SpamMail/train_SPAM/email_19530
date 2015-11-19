@@ -1,0 +1,14 @@
+<message>
+<date> fri, 4 apr 2003 17:20:00 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name now at &name &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative;    boundary=mimeboundary </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,31 @@
+<message>
+<date> mon, 27 jan 2003 13:59:27 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name club ( fwd ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ theme dates for &name &name club are given below . 
+^ for details of the theme / topic assignment see 
+^ &website 
+^ preliminary meeting : 
+^ these are to allow you to sort out any technical questions , or presentation issues , with the theme organiser ( &char ) . 
+^ &name &name &num : &num : &num monday &name 3rd acoustic modelling : &num : &num : &num tuesday &name 4th speaker &name : &num : &num : &num monday &name 10th language modelling : &num : &num : &num tuesday &name 11th 
+^ &name : 
+^ see &name club page for details . 
+^ all presentations start at &num : &num . 
+^ acoustic modelling : monday 17th &name &name &name : monday 24th feb language modelling : monday 3rd march speaker &name : monday 10th march 
+^ if you have any problems with these times please let me know as soon as possible . 
+^ &name 
+^ &name &name , &name &name group &name : ( &num ) &num &num &name university engineering dept. &name : ( &num ) &num &num &name street , &name , &name &name . 
+^ email : &email 
+</text_normal>
+</message_body>
+</message>

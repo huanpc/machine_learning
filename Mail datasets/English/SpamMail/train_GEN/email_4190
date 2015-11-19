@@ -1,0 +1,14 @@
+<message>
+<to> org.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ events in &name 21st september 
+</text_normal>
+</subject>
+<date> tue, 10 sep 2002 17:26:59 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+</message_body>
+</message>

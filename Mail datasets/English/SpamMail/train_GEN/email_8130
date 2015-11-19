@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ results 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 26 jun 2000 16:19:28 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ dear &name , congratulations ! 
+^ the ranges were : &num - &num , &num - &num , &num - &num , &num - &num 
+^ &name &name &num &num &num &num phys &num &num prac &num 
+^ i 'm very pleased for you . 
+^ &name 
+^ &name &name &name 1st &name &name &num &name &name &num &name &name &name 3rd 
+</text_normal>
+</message_body>
+</message>

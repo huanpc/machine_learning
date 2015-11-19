@@ -1,0 +1,20 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : no luck with the &name proposal 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> sun, 11 may 2003 19:05:05 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ damn . 
+^ i thought we 'd get it . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

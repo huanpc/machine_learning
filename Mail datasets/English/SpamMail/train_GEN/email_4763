@@ -1,0 +1,23 @@
+<message>
+<date> mon, 19 may 2003 16:13:04 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ cron job 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ you were right about the newline &name - it is now running the script . 
+^ however , running the script with an absolute path seems to mean that it does n't recognise any of the standard commands , such as " rm " , " cat " , etc. 
+^ the script in question is a cascade of about &num shell and perl scripts , and i 'm hoping i do n't have to go through all of them and add absolute paths to every command . 
+^ sorry to bother you again about this . 
+^ regards , 
+^ &name
+</text_normal>
+</message_body>
+</message>

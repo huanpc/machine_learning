@@ -1,0 +1,38 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 's book 
+</text_normal>
+</subject>
+<date> sat, 12 apr 2003 18:00:23 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name
+^ &name &name wants his book back about &name sunday special . 
+^ he needs to &char [ ass it opnto someone el;se . 
+^ is it upstairs or do you have it ? 
+^ i will look later today but need to have tea bveofre returniong to &name &name to continue setting up compiters and sort out what was a ridicualous amount of wiring . . . ... ! 
+^ love 
+^ dad 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name
+^ &name &name wants his book back about &name sunday special . 
+^ he needs to &char [ ass it opnto someone el;se . 
+^ is it upstairs or do you have it ? 
+^ i will look later today but need to have tea bveofre returniong to &name &name to continue setting up compiters and sort out what was a ridicualous amount of wiring . . . ... ! 
+^ love 
+^ dad 
+</text_normal>
+</part>
+</message_body>
+</message>

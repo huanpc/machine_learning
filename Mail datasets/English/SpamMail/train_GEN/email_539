@@ -1,0 +1,34 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : bubbles 
+</text_normal>
+</subject>
+<date> wed, 18 jul 2001 18:46:31 -0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , i am now going to &name . 
+^ i will attempt to communicate with you from the outward place . 
+^ adieu till tuesday . 
+^ &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : &name to : &email subject : &name &name : &name , &num &name &num &num : &num : &num &num 
+^ hi &name , 
+^ the attachment is a photo for which you might like to fill in the speech bubbles , if you 're not feeling too ill . 
+^ i 'm collecting the captions , and have already had some very amusing &num back from &name . 
+^ have a nice day . 
+^ &name ( ( &website ) ) 
+</text_embedded>
+<text_normal> 
+
+^ get your private , free e-mail from &name &name at &website . 
+</text_normal>
+</message_body>
+</message>

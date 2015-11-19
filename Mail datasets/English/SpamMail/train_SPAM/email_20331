@@ -1,0 +1,117 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ the uncertainty principle is untenable 
+</text_normal>
+</subject>
+<date> mon, 7 apr 2003 12:43:44 +0800 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ please reply to &email thank you . 
+^ the uncertainty principle is untenable 
+^ by re-analysing &name 's &name &name experiment and the ideal experiment from which the uncertainty principle is derived , it is actually found that the uncertainty principle can not be obtained from them . 
+^ it is therefore found to be untenable . 
+^ &name words : uncertainty principle ; &name 's &name &name experiment ; ideal experiment 
+^ &name experiment &num 
+^ &name 's &name &name experiment 
+^ &char free electron sits directly beneath the center of the microscope 's lens ( please see &name &name &website : 
+^ dx &num ( 2sina ) ( &num ) 
+^ however , in quantum mechanics , where a light wave can act like a particle , a gamma ray an electron gives it a kick . 
+^ at the moment the light is diffracted by the electron into the microscope lens , the electron is thrust to the right . 
+^ to be observed by the microscope , the gamma ray must be scattered into any angle within the cone of angle &num . 
+^ in quantum mechanics , the gamma ray carries momentum as if it were a particle . 
+^ the total momentum &char is related to the wavelength by the formula , 
+^ &char &char / &char , where &char is &name 's constant . 
+^ ( &num ) 
+^ in the extreme case of diffraction of the gamma ray to the right edge of the lens , the total momentum would be the sum of the electron 's momentum p' &char in the &char direction and the gamma &name 's momentum in the &char direction : 
+^ &char ' &char + ( &char &name ) / &char ' , where &char ' is the wavelength of the deflected gamma ray . 
+^ in the other extreme , the observed gamma ray recoils backward , just hitting the left edge of the lens . 
+^ in this case , the total momentum in the &char direction is : 
+^ p' ' &char - ( &char &name ) / &char '' . 
+^ the final &char momentum in each case must equal the initial &char momentum , since momentum is conserved . 
+^ therefore , the final &char momenta are equal to each other : 
+^ p' &char + ( &char &name ) / &char ' p' ' &char - ( &char &name ) / &char '' ( &num ) 
+^ if &char is small , then the wavelengths are approximately the same , 
+^ &char ' ~ &char ' ~ &name so we have 
+^ p' ' &char - p' &char &name ~ &num sina / &char ( &num ) 
+^ since dx &num ( &num &name ) , we obtain a reciprocal relationship between the minimum uncertainty in the measured position , dx , of the electron along the &char axis and the uncertainty in its momentum , &name , in the &char direction : 
+^ &name ~ &char / dx or &name dx ~ &char . 
+^ ( &num ) 
+^ for more than minimum uncertainty , the ' greater &name ' sign may added . 
+^ except for the factor of &name and an equal sign , this is &name 's uncertainty relation for the simultaneous measurement of the position and momentum of an object . 
+^ &name 
+^ to be seen by the microscope , the gamma ray must be scattered into any angle within the cone of angle &num . 
+^ the microscope can resolve ( that is , 'see ' or distinguish ) objects to a size of dx , which is related to and to the wavelength &char of the gamma ray , by the expression : 
+^ dx &num ( 2sina ) ( &num ) 
+^ this is the resolving limit of the microscope and it is the uncertain quantity of the object 's position . 
+^ the microscope can not see the object whose size is smaller than its resolving limit , dx . 
+^ therefore , to be seen by the microscope , the size of the electron must be larger than or equal to the resolving limit . 
+^ but if the size of the electron is larger than or equal to the resolving limit dx , the electron will not be in the range dx . 
+^ therefore , dx can not be deemed to be the uncertain quantity of the electron 's position which can be seen by the microscope , but deemed to be the uncertain quantity of the electron 's position which can not be seen by the microscope . 
+^ to repeat , dx is uncertainty in the electron 's position which can not be seen by the microscope . 
+^ to be seen by the microscope , the gamma ray must be scattered into any angle within the cone of angle &num , so we can measure the momentum of the electron . 
+^ &name is the uncertainty in the electron 's momentum which can be seen by microscope . 
+^ what relates to dx is the electron where the size is smaller than the resolving limit . 
+^ when the electron is in the range dx , it can not be seen by the microscope , so its position is uncertain . 
+^ what relates to &name is the electron where the size is larger than or equal to the resolving limit .the electron is not in the range dx , so it can be seen by the microscope and its position is certain . 
+^ therefore , the electron which relates to dx and &name respectively is not the same . 
+^ what we can see is the electron where the size is larger than or equal to the resolving limit dx and has a certain position , dx &num . 
+^ &name mechanics does not rely on the size of the object , but on &name 's &name &name experiment . 
+^ the use of the microscope must relate to the size of the object . 
+^ the size of the object which can be seen by the microscope must be larger than or equal to the resolving limit dx of the microscope , thus the uncertain quantity of the electron 's position does not exist . 
+^ the gamma ray which is diffracted by the electron can be scattered into any angle within the cone of angle &num , where we can measure the momentum of the electron . 
+^ what we can see is the electron which has a certain position , dx &num , so that in no other position can we measure the momentum of the electron . 
+^ in &name mechanics , the momentum of the electron can be measured accurately when we measure the momentum of the electron only , therefore , we have gained &name &num . 
+^ and , 
+^ &name dx &num . 
+^ ( &num ) 
+^ &name experiment &num 
+^ single slit diffraction experiment 
+^ suppose a particle moves in the &name direction originally and then passes a slit with width dx ( please see diagram below ) . 
+^ the uncertain quantity of the particle 's position in the &char direction is dx , and interference occurs at the back slit . 
+^ according to &name &name , the angle where no. &num min of interference pattern is can be calculated by following formula : 
+^ &name / 2dx ( &num ) 
+^ and &name / &char where &char is &name 's constant . 
+^ ( &num ) 
+^ so the uncertainty principle can be obtained 
+^ &name dx ~ &char ( &num ) 
+^ &name 
+^ according to &name first law , if an external force in the &char direction does not affect the particle , it will move in a uniform straight line , ( motion state or &name state ) , and the motion in the &name direction is unchanged .therefore , we can learn its position in the slit from its starting point . 
+^ the particle can have a certain position in the slit and the uncertain quantity of the position is dx &num . 
+^ according to &name first law , if the external force at the &char direction does not affect particle , and the original motion in the &name direction is not changed , the momentum of the particle int the &char direction will be px0 and the uncertain quantity of the momentum will be &name &num . 
+^ this gives : 
+^ &name dx &num . 
+^ ( &num ) 
+^ no experiment negates newton first &name . 
+^ whether in quantum mechanics or classical mechanics , it applies to the microcosmic world and is of the form of the &name conservation laws . 
+^ if an external force does not affect the particle and it does not remain static or in uniform motion , it has disobeyed the &name conservation laws . 
+^ under the above ideal experiment , it is considered that the width of the slit is the uncertain quantity of the particle 's position . 
+^ but there is certainly no reason for us to consider that the particle in the above experiment has an uncertain position , and no reason for us to consider that the slit 's width is the uncertain quantity of the particle . 
+^ therefore , the uncertainty principle , 
+^ &name dx ~ &char ( &num ) 
+^ which is derived from the above experiment is unreasonable . 
+^ conclusion 
+</text_normal>
+<text_embedded> 
+
+^ from the above re-analysis , it is realized that the ideal experiment demonstration for the uncertainty principle is untenable . 
+^ therefore , the uncertainty principle is untenable . 
+</text_embedded>
+<text_normal> 
+
+^ reference : 
+^ &num &name &name . 
+^ ( &num ) the philosophy of quantum mechanics ( &name &name & sons , &name &name &name ) &name &num 
+^ &num &name , &name &num 
+^ &num &website 
+^ author : &name &name &website &name &name &name &name &name &name &num &name &name 
+^ e-mail : &email &name : &num 
+</text_normal>
+</message_body>
+</message>

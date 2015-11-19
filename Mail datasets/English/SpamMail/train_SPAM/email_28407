@@ -1,0 +1,28 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ you can buy &name &name today ! 
+^ -cpdmrtuxi 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 07:24:45 -0400 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &name ! 
+^ our doctors will write you a prescription for free ! 
+^ buy your prescription &name &name ( &website ) 
+^ medications for : &name &name , pain relief , &name pain relief , women 's health , men 's health , &name , &name &name , &name &name , &name &name 
+^ medications like : &name , &name , &name , &name , &name , &name , and many , many more . 
+^ lowest prices - no prior prescription required 
+^ upon approval , our us licensed doctors will prescribe your medication for free and have the medication shipped overnight to your door . 
+^ we assure you the absolute best value on the &name . 
+^ ( &website ! 
+^ ( &website 
+</text_normal>
+</message_body>
+</message>

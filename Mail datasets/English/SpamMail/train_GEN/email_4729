@@ -1,0 +1,22 @@
+<message>
+<date> sun, 18 may 2003 14:52:42 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name email 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ here is an email for you to anonymise . 
+^ it 's about my friend dr hedge . 
+^ see you later , 
+^ &char 
+</text_normal>
+</message_body>
+</message>

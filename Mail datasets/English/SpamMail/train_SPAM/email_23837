@@ -1,0 +1,25 @@
+<message>
+<date> tue, 08 apr 2003 00:44:01 -0500 </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name your company phone bill every month ! 
+^ &num 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ click here to be removed from future mailings . 
+^ long distance conference calls only &num cents per min . 
+^ we offer an extremely easy to use conferencing service that only costs a fraction of what most companies charge . 
+^ no set-up fees or contracts . 
+^ &name call anywhere over the web for only $ &num cents per minute . 
+^ click here for &name &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,36 @@
+<message>
+<from> com </from>
+<subject></subject>
+<content-type> text/html; charset="ks_c_5601-1987" </content-type>
+<date> fri, 4 apr 2003 02:35:03 +0900 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ .. .. 
+^ , . 
+^ [ ] . 
+^ .. .. 
+^ &num , &num &num &num , &num ! 
+^ ( &num , &num ! ! ! ) 
+^ , , , 
+^ ... ? 
+^ ? 
+^ ? 
+^ &name . 
+^ . 
+^ , 
+^ ( &num ) ( ) 
+^ &num &num , &num 
+^ &num &num , &num &name &num 
+^ &num , &num ! ! ! 
+^ &pound; 
+^ &num 
+^ &num &pound; 
+^ ! ! ! ! 
+^ ... 
+^ &pound; ! ! ! 
+^ &num &num 
+</text_normal>
+</message_body>
+</message>

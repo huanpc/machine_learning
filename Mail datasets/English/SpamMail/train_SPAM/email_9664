@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<date> mon, 31 mar 2003 07:06:59 -0500 </date>
+<subject>
+<text_normal> 
+
+^ &name and &name &name and many more 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ i have enclosed a link to the best pharmacy on the web . 
+^ no prior prescriptions required for valium and more 
+^ &website 
+^ remove email &website 
+</text_normal>
+</message_body>
+</message>

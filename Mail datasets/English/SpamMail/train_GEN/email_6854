@@ -1,0 +1,44 @@
+<message>
+<from> net </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re visit 
+</text_normal>
+</subject>
+<date> sat, 2 nov 2002 21:16:17 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ it was good to see you today , and we enjoyed the break , as well as seeing the &name . 
+^ i should think you got wet on the way back . 
+^ we arrived home to find the bike tools still in the car ; can you manage on borrowed tools for the &num weeks that remain ? 
+^ with brilliant timing a book arrived in the post for you today . 
+^ still i assume you asked for it to come here because you did n't want it there . 
+^ it 's from &name - i suppose it could be a video but it feels like a book . 
+^ on the label it says please check contents immediately . 
+^ i can 
+^ send it up leave it alone check contents ( if you tell me what its supposed to be ) 
+^ love , mum & dad 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ it was good to see you today , and we enjoyed the break , as well as seeing the &name . 
+^ i should think you got wet on the way back . 
+^ we arrived home to find the bike tools still in the car ; can you manage on borrowed tools for the &num weeks that remain ? 
+^ with brilliant timing a book arrived in the post for you today . 
+^ still i assume you asked for it to come here because you did n't want it there . 
+^ it 's from &name - i suppose it could be a video but it feels like a book . 
+^ on the label it says please check contents immediately . 
+^ i can 
+^ send it up leave it alone check contents ( if you tell me what its supposed to be ) 
+^ love , mum &amp; dad 
+</text_normal>
+</part>
+</message_body>
+</message>

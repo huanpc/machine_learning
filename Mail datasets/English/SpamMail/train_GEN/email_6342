@@ -1,0 +1,40 @@
+<message>
+<from> org.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ ht website 
+</text_normal>
+</subject>
+<date> tue, 12 nov 2002 14:52:35 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name 
+^ how are you doing ? 
+^ following up what you said sunday evening about the website . 
+^ what needs up dating on it ? 
+^ and have you better photos ? 
+^ also , are you coming on the &name houseparty , would be great if you could come . 
+^ &name bless 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name 
+^ how are you doing ? 
+^ following up what you said sunday evening about the website . 
+^ what needs up dating on it ? 
+^ and have you better photos ? 
+^ also , are you coming on the &name houseparty , would be great if you could come . 
+^ &name bless 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

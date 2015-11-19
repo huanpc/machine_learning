@@ -1,0 +1,42 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ fencing squash - thursday , 6-7.30pm , &name 's ( &char &name ) 
+</text_normal>
+</subject>
+<date> tue, 15 oct 2002 18:55:30 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , 
+^ this is the long awaited announcement of the much anticipated fencing squash : 
+^ the festivities , which will include fantastic free drinks , an unbelievably awesome fencing demo , and so much more , will run from : 
+^ 6-7.30pm this thursday ( 17th ) in &name 's in &char &name ( look at the map of the college outside the porters " lodge for directions ) . 
+^ all are welcome - remember we provide fun courses for absolute beginners ( with our very own olympic coach &name ) to the national championships for the more advanced . 
+^ why not bring a friend. ( it 's especially fun fighting someone you know ) ? 
+^ see you there , 
+^ &name &name &name social secretary 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ clean clean documentemail microsoftinternetexplorer4 
+^ hi , 
+^ this is the long awaited announcement of the much anticipated fencing squash : 
+^ the festivities , which will include fantastic free drinks , an unbelievably awesome fencing demo , and so much more , will run from : 
+^ 6-7.30pm this thursday ( 17th ) in &name 's in &char &name ( look at the map of the college outside the porters &num ; lodge for directions ) . 
+^ all are welcome  &num ; remember we provide fun courses for absolute beginners ( with our very own olympic coach &name ) to the national championships for the more advanced . 
+^ why not bring a friend &name ( it 's especially fun fighting someone you know ) ? 
+^ see you there , 
+^ &name &name 
+^ &name social secretary 
+</text_normal>
+</part>
+</message_body>
+</message>

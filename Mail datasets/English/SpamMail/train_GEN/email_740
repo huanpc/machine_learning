@@ -1,0 +1,40 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ back to the drizzle ! 
+</text_normal>
+</subject>
+<date> tue, 15 aug 2000 19:08:05 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ ( and sheep ) 
+^ &name ! 
+^ welcome home again ! ! ! ! ! 
+^ i hope you do n't have the cheek to pick this up before you get home , like you did with the last one ! 
+^ i cannot account for the strange and prolific effervations exhibited by &name at the moment . 
+^ i can only hazard a guess that it has something to do with the sun-storms that are so prevelant at this time in the solar calendar . 
+^ see you soon &name , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ ( and sheep ) 
+^ &name ! 
+^ welcome home again ! ! ! ! ! 
+^ i hope you do n't have the cheek to pick this up before you get home , like you did with the last one ! 
+^ i cannot account for the strange and prolific effervations exhibited by &name at the moment . 
+^ i can only hazard a guess that it has something to do with the sun-storms that are so prevelant at this time in the solar calendar . 
+^ see you soon &name , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

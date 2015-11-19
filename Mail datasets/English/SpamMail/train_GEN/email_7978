@@ -1,0 +1,52 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<date> tue, 26 nov 2002 13:19:58 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ that 's a pity . 
+^ i did n't even have to open the attachment .. it was just there . 
+^ no word of him getting out of hospital yet but &name 's putting him on the bottle because he seems to be getting more good out of formula . 
+^ i 'll keep you posted . 
+^ anything new ? 
+^ &name &name 's new car ? 
+^ are they happy together ? 
+^ see you soon ! 
+^ &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name " ( &email ) to : " &name &name " ( &email ) subject : re : &name &name &name : &name , &num &name &num &num : &num : &num &num 
+^ nothing will let me downlaod and look at the photos in this format ... sorry ... 
+<text_embedded>
+
+<text_embedded> 
+
+^ from : &name &name ( &email ) to : &email subject : fwd : &name &name &name : &name , &num &name &num &num : &num : &num &num ( &name ) 
+^ note : forwarded message attached . 
+^ do you &name ! ? 
+^ everything you 'll ever need on &num web page from news and sport to email and music charts &website 
+</text_embedded>
+
+^ add photos to your messages with &name &num . 
+^ get &num months free * . 
+^ &website 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ add photos to your messages with &name &num . 
+^ get &num months free * . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * printer cartridges - you pay no shipping costs - up to &num percent off retail 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> fri, 04 apr 2003 20:12:18 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

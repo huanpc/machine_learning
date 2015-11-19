@@ -1,0 +1,32 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ are you receiving me ? 
+</text_normal>
+</subject>
+<date> sat, 11 nov 2000 16:34:53 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ just thought it was a bit strange that you had not answered my last email . 
+^ everything ok ? 
+^ still no personal phone number ? 
+^ &name xx 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ just thought it was a bit strange that you had not answered my last email . 
+^ everything ok ? 
+^ still no personal phone number ? 
+^ &name xx 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> mon, 24 mar 2003 13:46:02 -0500 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ the best deal under the sun . 
+^ &name travel is offering &num night vacation package to &name / &name / &name / &name with a cruise for $ &num per guest . 
+^ href' &website 
+</text_normal>
+</message_body>
+</message>

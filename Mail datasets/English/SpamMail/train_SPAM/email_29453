@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ boost your &name to &num miles per &name 
+</text_normal>
+</subject>
+<date> tue, 18 mar 03 19:29:55 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

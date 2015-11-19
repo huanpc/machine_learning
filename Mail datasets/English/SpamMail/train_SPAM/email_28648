@@ -1,0 +1,27 @@
+<message>
+<date> fri, 11 apr 2003 11:41:30 gmt </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ none 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ call &num 
+^ u.n.i.v.e.r.s.i.t. &char ~ d.i.p.l.o.m.a. &char 
+^ ( ( &name . 
+^ ( ( no-classes,-books,-tests-or-interviews . 
+^ call &num 
+^ ( ( bachelors,-masters,-mba,-and-doctorate- ( phd)-certificates-available-in-the-field-of-your-choice . 
+^ ( ( &name . 
+^ ( ( &name . 
+^ call &num 
+^ ( ( call-24-hours-a-day,-7-days-a-week,-including-sundays-and-holidays . 
+</text_normal>
+</message_body>
+</message>

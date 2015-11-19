@@ -1,0 +1,58 @@
+<message>
+<from> co.uk </from>
+<to> net com com com com ac.uk ac.uk com com com com </to>
+<subject>
+<text_normal> 
+
+^ important 
+</text_normal>
+</subject>
+<date> sun, 2 sep 2001 18:30:41 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ i have had quite a few replies and it seems that only &name will definitely not be able to make the aforementioned weekend ( is that a definite no &name ? ) , so . ... 
+^ this is what we 're going to do : 
+^ please reply to this message , telling me whether you can / ca n't make the following dates . 
+^ i suggest you copy the dates straight out of this email and just put " yes " , " no " or " part " beside the date to say whether you can / ca n't it then ( " part " if you can only make part of it ) . 
+^ the dates are as follows ( the following is what you are going to copy and send back to me , with your own input ) : 
+^ weekend &num / &num : weekend &num / &num / &num : &name : 
+^ regards , 
+^ &name 
+^ friends , romans and countrypeople , 
+^ as some of you might know , &name and i are cunningly planning a 'marshal a & &char + extras " get-together . 
+^ we have ruminated and cogitated and are proposing as a possiblility the weekend of the &num / &num / 16th of september at &name 's house ( &name ) . 
+^ we need to know who can / ca n't make it on those days , and then we can take it from there . 
+^ we must know soon ! 
+^ please get back to me &name . 
+^ " till we meet again and the foe is vanquished , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ i have had quite a few replies and it seems that only &name will definitely not be able to make the aforementioned weekend ( is that a definite no &name ? ) , so . ... 
+^ this is what we 're going to do : 
+^ please reply to this message , telling me whether you can / ca n't make the following dates . 
+^ i suggest you copy the dates straight out of this email and just put " yes " , " no " or " part " beside the date to say whether you can / ca n't it then ( " part " if you can only make part of it ) . 
+^ the dates are as follows ( the following is what you are going to copy and send back to me , with your own input ) : 
+^ weekend &num / &num : weekend &num / &num / &num : &name : 
+^ regards , 
+^ &name 
+^ friends , romans and countrypeople , 
+^ as some of you might know , &name and i are cunningly planning a 'marshal a &amp; &char + extras " get-together . 
+^ we have ruminated and cogitated and are proposing as a possiblility the weekend of the &num / &num / 16th of september at &name 's house ( &name ) . 
+^ we need to know who can / ca n't make it on those days , and then we can take it from there . 
+^ we must know soon ! 
+^ please get back to me &name . 
+^ " till we meet again and the foe is vanquished , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

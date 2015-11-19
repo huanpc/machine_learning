@@ -1,0 +1,26 @@
+<message>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<subject>
+<text_normal> 
+
+^ &name if only you could get these prices at office &name . 
+^ . 
+^ . 
+</text_normal>
+</subject>
+<date> tue, 1 apr 2003 23:44:30 -0500 </date>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+^ for the best prices on lnk for your printer , just stop by and visit our website at 
+^ &website 
+^ free shipping on orders of $ &num or more . 
+^ &name customer service . 
+^ reliable company . 
+^ if you do n't need our products , just click here : &website 
+</text_normal>
+</message_body>
+</message>

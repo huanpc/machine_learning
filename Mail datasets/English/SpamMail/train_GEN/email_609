@@ -1,0 +1,22 @@
+<message>
+<date> wed, 21 nov 2001 18:10:15 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &smiley 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ did you ever find the jacket you lost a few weeks ago in &name 's? 
+^ if not , then try going to the &name flat before sunday as they have lots of lost property whihc they are about to give to &name . 
+^ it was really nice to see you today ! 
+^ &name
+</text_normal>
+</message_body>
+</message>

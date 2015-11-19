@@ -1,0 +1,67 @@
+<message>
+<date> sun, 21 jul 2002 19:49:38 -0400 (edt) </date>
+<from> edu </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ re : pseudo-code 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name all . 
+^ i 've been finishing up my work on re-writing select & map and i have some questions for you . 
+^ # &num . 
+^ currently , &name ( &name , int ) is a member of the mapbox class . 
+^ it takes a function and the index of that function and stores that function into _funcs . 
+^ my confusion arises from the fact that " expr func " is not stored in the mapbox . 
+^ should n't this be one of the parameters that is stored in the catalog and then put into the &name ? 
+^ then when the box is actually run the function will be set ( i.e. the expressions will be set into functions ) . 
+^ where do you think that i am getting this value ? 
+</text_embedded>
+<text_normal> 
+
+^ i do n't think i understand your question . 
+^ a function is an expression and should be stored in the map box . 
+^ the reason why we did n't have it being set in the constructor is that this way the box can be constructed separately from parsing the expressions ( functions ) . 
+^ the &name can be created and then for each function stored in the database , it can be parsed and then set in the map &name by using the &name method . 
+</text_normal>
+<text_embedded> 
+
+^ # &num . 
+^ also , it says that &name returns tuple whereas it was previously returning &name which gave more information about what was being returned and what needed to be left on the queue , etc. did you remove this on purpose and if so how is the loss of information being handled ? 
+</text_embedded>
+<text_normal> 
+
+^ i think this change coincided with the fact that we were n't going recreate the box each time it was scheduled ( so we do n't have to return the stored tuples and other information ) . 
+^ but now it seems like people are leaning back to that old idea so we would have to indeed return &name . 
+^ i guess for now let 's keep it as &name and then have a discussion when we have time about how we want to do this . 
+</text_normal>
+<text_embedded> 
+
+^ # &num . 
+^ have you guys checked in your code somewhere so that i can verify that i can compile against it ? 
+^ i did n't see it in the &name area . 
+</text_embedded>
+<text_normal> 
+
+^ we are still having trouble getting into &name and so have not checked in our code . 
+^ see you soon , &name 
+</text_normal>
+<text_embedded> 
+
+^ that 's all . 
+^ &name the weekend is treating you all well . 
+^ i will not be available to meet monday after &num : 45pm ( i.e. i need to be in &name for about &num : &num ) but can meet in the morning or early afternoon . 
+^ i will be available all day on tuesday though . 
+^ - &name 
+</text_embedded>
+</message_body>
+</message>

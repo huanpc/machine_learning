@@ -1,0 +1,42 @@
+<message>
+<date> fri, 20 dec 2002 01:25:41 -0800 (pst) </date>
+<from> co.uk </from>
+<subject>
+<text_normal> 
+
+^ re : happy christmas ! 
+</text_normal>
+</subject>
+<to> com </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , thanks for the card . 
+^ i have a new email address now , it 's &email . 
+^ have a good christmas , although i 'll probably see you at church before the big day ! 
+^ &name 
+^ - -- &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ dear &name , 
+^ following the success of last year , again i 'm sending out my cards electronically . 
+^ you can get yours from : 
+^ &website 
+^ sorry if you get this e-mail after christmas - i hope you had a good one ! 
+^ enjoy christmas , rejoice at the coming of our &name and have a great &num , 
+^ best wishes , 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ do you &name ! ? 
+^ &name ! 
+^ mail plus - powerful . 
+^ &name . 
+^ sign up now . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,33 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name parade 
+</text_normal>
+</subject>
+<to> ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<from> police.uk </from>
+<date> tue, 13 may 2003 21:05:31 +0100 </date>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ i am arranging an &name parade for monday 19th may &num at &name police 
+^ station at &num : &num hrs and require some volunteers . 
+^ this one will probabl &char take about &num hours 
+^ please can you give me a call on &num &num or email me and let me know if you can help on that date . 
+^ normal rate of &pound; &num per hour or part hour . 
+^ thanks . 
+^ &name &name 
+^ pc &num 
+^ &num &num &name e-mail is not to be treated as a secure means of communication &name &name monitors all internet e-mail activity and content . 
+^ this communication is confidential and intended for the addressee ( &char ) only . 
+^ please notify the sender if you have received this in error . 
+^ unauthorised use or disclosure of the contents may be unlawful . 
+^ opinions expressed in this document may not be official policy . 
+^ thank you for your cooperation . 
+^ ( &char ) &name &name &num &num 
+</text_normal>
+</message_body>
+</message>

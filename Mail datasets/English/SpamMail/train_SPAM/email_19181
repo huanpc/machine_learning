@@ -1,0 +1,27 @@
+<message>
+<date> sat, 5 apr 2003 02:40:00 -0500 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ re : enter to &name &num lbs . 
+^ of lobster ! 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ free &name &name &name 
+^ &name &num lbs . 
+^ of fresh lobster - free ! 
+^ hurry- another winner selected soon ... 
+^ click here : &website 
+^ ( a href' &website ) 
+^ enjoy the winnings ! 
+^ free &name deals 
+^ click here to unsubscribe : &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<date> thu, 10 apr 2003 15:50:52 -0400 (edt) </date>
+<from> com </from>
+<content-type> multipart/report; report-type=delivery-status </content-type>
+<subject>
+<text_normal> 
+
+^ returned mail : service unavailable 
+</text_normal>
+</subject>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

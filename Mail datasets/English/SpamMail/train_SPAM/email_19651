@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<date> sat,  5 apr 2003 22:13:23 -0500 (est) </date>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * say goodbye to &name bites forever ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

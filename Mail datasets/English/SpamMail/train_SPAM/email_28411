@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your &name &name , free ! 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 09:45:12 -0400 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ please wait while the email loads ... 
+^ ( &website ) ( 
+</text_normal>
+</message_body>
+</message>

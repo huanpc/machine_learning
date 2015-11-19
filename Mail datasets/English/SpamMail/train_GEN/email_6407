@@ -1,0 +1,40 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : int brek 
+</text_normal>
+</subject>
+<date> tue, 15 oct 2002 20:06:05 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ why does n't outlook correctly indent replies to your messages ? 
+^ ( do n't tell me : because it 's broken ? ) . 
+</text_normal>
+<text_embedded> 
+
+^ are you going to the int brek on thursday , 8.00am ? 
+</text_embedded>
+<text_normal> 
+
+^ i was n't planning to . 
+</text_normal>
+<text_embedded> 
+
+^ i just need someone who can meet up with those who want to go from &name ( esp freshers ) , since i have to be there at 
+^ &num 30am and i do n't think many people will want to be there that early ! 
+</text_embedded>
+<text_normal> 
+
+^ " it 's for the freshers ! " ( if you 've never seen &name &name then feel free to ignore that line as you wo n't get the joke , however , because &name &name rocks you ought to go out and see it ) . 
+^ i have a lecture at &num in &name lane , hence my reluctance to go . 
+^ would we be finished in time for that ? 
+^ ( or does it merely * claim * it 'll finish in time for that ? ) 
+^ &name
+</text_normal>
+</message_body>
+</message>

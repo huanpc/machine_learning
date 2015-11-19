@@ -1,0 +1,37 @@
+<message>
+<date> fri, 13 oct 2000 11:42:04 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ excellent ! 
+^ spluttered your way through it eh ? 
+^ sounds familiar ! 
+^ it ai n't easy actually being open enough to admit how you feel , but that 's what makes it all worthwhile . 
+^ i would n't expect to get too much work done today ... 
+^ so , what do the flatmates think ... &name in particular ? 
+^ given his particular views on the subject . 
+^ i 'm out tonight , but i 'll try and phone you tomorrow night to catch up on all the news . 
+^ for your records , my contact details are 
+^ &num &name &name &name 4ru 
+^ ( &num ) &num &num 
+^ you also wanted &name 's email . 
+^ it 's 
+^ &email 
+^ give &name my best . 
+^ tell her to be nice to you . 
+^ :-o ) 
+^ way to go , man , way to go ! 
+^ &name
+</text_normal>
+</message_body>
+</message>

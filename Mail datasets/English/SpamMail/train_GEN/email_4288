@@ -1,0 +1,34 @@
+<message>
+<date> tue, 12 nov 2002 13:35:22 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> org.uk </to>
+<subject>
+<text_normal> 
+
+^ re : code 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ good stuff ! 
+^ pretty long morning , but happy that most of the lectures are finished for this week ! 
+^ see you on sunday , 
+^ &name 
+^ on &name , &num &name &num , &name &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , i love the &name . 
+^ thanks so much ! 
+^ i 'm listening to it now as i program in this project . 
+^ it is going pretty well , and so i 'm quite happy . 
+^ yesterday was very much starting and stopping . 
+^ i hope your day is going well . 
+^ &name 
+^ do you &name ! ? 
+^ everything you 'll ever need on &num web page from news and sport to email and music charts &website 
+</text_embedded>
+</message_body>
+</message>

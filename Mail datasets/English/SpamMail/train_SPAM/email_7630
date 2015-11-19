@@ -1,0 +1,33 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> wed, 12 jan 2000 04:53:55 +1200 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ dear sir , 
+^ for your kind 
+^ i 'm writing you this mail to intimate you with a business transaction involving the transfer of us $ &num million for safe keeping . 
+^ it 's our hope that as a respectable business man , you would be capable of handling high capital investment and i want to on you that you will handle this transaction with all maturity and it deserves . 
+^ i am a director and funds of the department of the federal ministry of petroleum resources . 
+^ my office is also saddled with responsibility of screening , categorization and prioritization of projects embarked upon by this ministry as well as feasibility study for selected projects and supervising the project involved . 
+^ we have been able to track down the sum of us $ &name ( &num &num million &num hundred thousand united states dollars ) been an amount resulting from various inflated payment , my and i now want to quickly transfer this funds to a safe nominated for possible investment abroad . 
+^ we are not allowed as a matter of government policy to operate any foreign because of our status as civil / public servants . 
+^ hence the need to solicit your assistance in the transfer of this funds . 
+^ we have been able to evolve a sharing formula which we hope would be acceptable to you as a means of you should you agree to assist us . 
+^ be assured that all necessary modalities have been finalized on our side with the of top government functionaries at various level of government who will facilitate the transfer of the funds into your nominated 
+^ furthermore , we shall be relying on your advice as regards investments of part of our share in any blue-chip in your be informed that this business is genuinely and &num risk free the high-powered government official involved . 
+^ in that vain , i would require from you urgently your personal telephone and &name &name to enable me brief you in details how we intend to proceed with this transaction and the basic procedure for the release of the funds and onward transfer to your nominated as would be provided by you . 
+^ finally , please make your response to my email look forward to your immediate response and a healthy business relationship with you . 
+^ sincerely , &name &name 
+</text_normal>
+</message_body>
+</message>

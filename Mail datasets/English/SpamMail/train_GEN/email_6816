@@ -1,0 +1,133 @@
+<message>
+<date> tue, 25 feb 2003 21:04:02 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ proud of our project ? 
+^ now 's the time to shout about it ! 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ ( read this ! 
+^ it 's long ! ) 
+^ hi everyone , 
+^ i think most of us are crying out for a break now and wanting to catch up on sleep ... 
+^ i think we all deserve it . 
+^ but we also deserve to win the prize too ! 
+^ so i 'd like to drop a subtle hint about presentation ... &smiley 
+^ i have drafted out a very primitive version of the final presentation ( see attachment ) . 
+^ i 'd really like some feedback on it please ... i 'd like to present a draft version to &name &name in the review meeting , which is tmr ! ! 
+^ another major part of the presentation is the writing up of our technical paper . 
+^ we have done fantastic work , but nobody outside &name really knows about it . 
+^ we need to shout about it , unashamedly . 
+^ instead of &num person writing it all , the best way to go about it is for everyone to mainly write about what they 've done . 
+^ because you are an expert in what you 've done and why you 've done it that way . 
+^ everyone would be best at describing and boasting about their own little bits . 
+^ this way , we are less likely to make technical mistakes or miss out crucial points . 
+^ everyone should be involved in producing this because it is our project . 
+^ i have drafted a structure of the paper , the paper will be handed out on the day of the presentation to all faculty memebers , so it has to be engaging to read and impressive . 
+^ i have attached a framework of the paper , whom i think should write about the individual section and some suggestions as to what need to be discussed in the various sections . 
+^ do n't worry too much about writing in perfect english ... what i need is contents and details . 
+^ the paper obviously need to be later proofread , amended , added flair and the overall tone needs to be set and unified ... but you do n't have to worry about those details . 
+^ i 'd like this done and submitted by sunday please . 
+^ please treat this deadline seriously , because we are serious about our presentation . 
+^ so far we 've given &num to the project , we 've come so far , let 's end it in style too ! 
+^ i know everyone 's tired and have piled a mountain of sup work , but just push it a little bit more ... &smiley 
+^ thanks peeps ! ! ! 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ war and peace &name &name &name &name &num &num 2003-02-23t13 : &num : &name 2003-02-23t13 : &num : 00z &num &num &num none &num &num &num &num clean clean microsoftinternetexplorer4 
+^ war and peace 
+^ our prime &name 
+^ [ slide &num &name general : &name logo , distributed probabilistic factorization of large integers . ] 
+^ ladies , gentlemen , members of the faculty and distinguished guests , welcome to &name 
+^ &name . 
+^ our accomplished mission is a software program that will factorise an arbitrary integer utilising probabilistic algorithms and distributed computing methods . 
+^ [ slide &num : flow diagram of the system , including names of the algorithms used , how the system is distributed ] 
+^ it is an academically impressive and challenging problem , to achieve our goal we employed some of the most leading edge algorithms and tools . 
+^ ( discussion of the various algorithms , how they are optimized in our system . 
+^ &num minutes ) 
+^ but why ? 
+^ you may ask , should it interest you ? 
+^ how ? 
+^ does it affect your life ? 
+^ [ slide &num : applications of factorization in 3freal3f life ] 
+^ well , we all expect our bank details , telephone connections and online transactions to be secure and confidential , but most of us take for granted the fact that primality factorization plays an irreplaceable role in many of the underlying security procedures . 
+^ you may all be aware that the factorization of large numbers is a very difficult problem . 
+^ ( some illustrations required here , eg. it takes typically bla amount of time to factorise a number of bla length ) modern cryptography and security systems exploit the fact that large integers cannot be easily factorised . 
+^ on a national scale , security systems based on primality factorization are extensively used by governments . 
+^ for example , the &name government has been using &num such system -- the &name &name technology to protect its most sensitive information for nearly &num years . 
+^ [ slide &num : how our project may be used in a practical sense ] 
+^ ( discussion of how our project maybe used in a topical context &num min ) 
+^ admittedly , our project is a somewhat primitive realization of this ambitious plan . 
+^ the factorisation is only optimised for integers up to &num hundred decimal digits. ( other constraints , eg on the distribution front and tools available to us ) 
+^ however given the time limit of just &num week , we are proud of our achievements . 
+^ our accomplishment is driven by a genuine interest in the subject , a strong desire to succeed and a well managed and united work force . 
+^ the impending war on &name , the increasingly sophisticated nature of global terrorist organizations are no doubt haunting issues at the back of everybody3fs mind . 
+^ whilst we leave strategic decisions in the hands of our political leaders , as scientists , we can make significant contributions to the underlying operations that govern all decision makings . 
+^ ( invite audience to join &name &name by downloading our client package ! ) 
+^ as scientists , war and peace is very much part of our responsibility . 
+^ as scientists , war and peace is our prime concern . 
+^ thank you . 
+</text_normal>
+</part>
+<part num="3" type="text/html">
+<text_normal> 
+
+^ &name &name &name of large &name &name &name &name &num &num 2003-02-21t18 : &num : &name 2003-02-25t21 : &num : 00z &num &num &num university of &name &num &num &num &num clean clean microsoftinternetexplorer4 
+^ &name &name &name of large integers 
+^ university of &name , &org 
+^ &name &name &num &email 
+^ [ name of members ] 
+^ abstract 
+^ &num introduction 
+^ factorisation algorithms ( technical details , but not too dry please ! ! ) 
+^ &num &num trial division ( &name ) 
+^ - how it works : the algorithm , characteristics , relevant proofs 
+^ - range of operation , complexity , why chosen , shortcomings 
+^ &num &num sieve of &name ( &name ) 
+^ - how it works : the algorithm , characteristics , relevant proofs 
+^ - range of operation , complexity , why chosen , shortcomings 
+^ &num &num &name rho ( &name ) 
+^ - how it works : the algorithm , characteristics , relevant proofs 
+^ - range of operation , complexity , why chosen , shortcomings 
+^ &num &num elliptic curve ( &name ) 
+^ - how it works : the algorithm , characteristics , relevant proofs 
+^ - range of operation , complexity , why chosen , shortcomings 
+^ &num &num &name ( &name ) 
+^ - how it works : the algorithm , characteristics , relevant proofs 
+^ - range of operation , complexity , why chosen , shortcomings 
+^ &num &num block &name for &name ( &name ) 
+^ - how it works : the algorithm , characteristics , relevant proofs 
+^ - range of operation , complexity , why chosen , shortcomings 
+^ distribution 
+^ ( &name ) 
+^ system integration ( &name ) 
+^ application 
+^ - &name ( &name ) 
+^ - how clients can contribute to this project ( &name ) 
+^ - practical values of this project ( &name ) 
+^ evaluation ( &name ) 
+^ - what we3fve taken into consideration throughout the project 
+^ - critical assessment of the outcome , success / areas that could be improved on 
+^ - time constraints and limitations 
+^ future work ( &name ) 
+^ - how &name like to extend this project and take it further 
+^ - potential of this project , what it could achieve 
+^ - our hope for more ppl to join this project by becoming our &name , why it is worthwhile 
+^ acknowledgement 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

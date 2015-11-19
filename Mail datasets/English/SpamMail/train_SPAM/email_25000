@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ hottest &name on the web 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> tue, 08 apr 2003 22:55:21 -0400 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,18 @@
+<message>
+<date> mon, 19 may 2003 17:18:42 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name email 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ some text 
+</text_normal>
+</message_body>
+</message>

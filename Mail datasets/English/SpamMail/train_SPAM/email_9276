@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<date> mon, 31 mar 2003 06:09:30 -0500 </date>
+<subject>
+<text_normal> 
+
+^ this month specials on &name , &name , and &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &num &name really works , you used to have to go to the doctor but then came the internet . 
+^ unreal deals on &name and &name 
+^ opt out 
+</text_normal>
+</message_body>
+</message>

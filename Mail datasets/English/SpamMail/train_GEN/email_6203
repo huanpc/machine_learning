@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> thu, 11 jul 2002 09:49:44 +0200 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ just if you did n't get my email - my outlook did n't want to open those .exe files that you sent for sfx 's ... so plz resend it in some non-exe format ... 
+^ &name 
+^ &name &name &name , inc. 
+^ conexware contact information support : &email sales : &email 
+</text_normal>
+</message_body>
+</message>

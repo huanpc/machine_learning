@@ -1,0 +1,22 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ 
+^ &num 15am &name &name &name 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 09:09:40 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , shall i meet up with you at &num this sat at &name &name &name ? 
+^ or anywhere which is convenient to you ? 
+^ see you soon , &name but as the &num great books , of &name and of scripture , have the same author ; so the study of the latter does not at all hinder an inquisitive man 's delight in the study of the former . 
+^ &name &name , the excellence of theology , &num 
+</text_normal>
+</message_body>
+</message>

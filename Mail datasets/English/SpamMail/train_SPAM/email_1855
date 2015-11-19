@@ -1,0 +1,25 @@
+<message>
+<date> mon, 24 mar 2003 02:40:20 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ amateur contest &name $ &num , &num 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ 
+^ * * subscriber details are included at the bottom. * * 
+^ enter the international open amateur photography contest for your change to win the grand prize of $ &num , &num ! ! 
+^ enter now ! 
+^ &website 
+^ smile ! 
+^ you could be the grand prize winner ! 
+^ cancel your subscription here : ( img 
+</text_normal>
+</message_body>
+</message>

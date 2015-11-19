@@ -1,0 +1,40 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ flingle bunt 
+</text_normal>
+</subject>
+<date> mon, 17 sep 2001 09:06:18 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ i just remembered that i forgot to tell &name about myst . 
+^ please could you pass on the message on my behalf . 
+^ thanks . 
+^ i think the weekend went really well and everybody seemed to really enjoy themselves . 
+^ roll on next year ! 
+^ speak soon , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ i just remembered that i forgot to tell &name about myst . 
+^ please could you pass on the message on my behalf . 
+^ thanks . 
+^ i think the weekend went really well and everybody seemed to really enjoy themselves . 
+^ roll on next year ! 
+^ speak soon , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

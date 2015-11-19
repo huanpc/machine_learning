@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ $ &num $ &num &name &name today , apply free , no credit check 
+</text_normal>
+</subject>
+<date> sat, 5 apr 2003 11:03:10 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

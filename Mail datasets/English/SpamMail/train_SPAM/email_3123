@@ -1,0 +1,23 @@
+<message>
+<from> com.tw net.tw </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ &name ? 
+</text_normal>
+</subject>
+<date> fri, 21 mar 2003 22:23:30 +1200 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ l' &name , &name &name 
+^ i' &char 
+^ i' &char 
+</text_normal>
+</message_body>
+</message>

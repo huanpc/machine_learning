@@ -16,7 +16,7 @@ public class Irregular {
     }
     private void readFile(){
         try{
-            FileReader fr = new FileReader("IrregularVerb.txt");
+            FileReader fr = new FileReader("./IrregularVerb.txt");
             BufferedReader br = new BufferedReader(fr);
             String line;
             while((line = br.readLine())!=null){

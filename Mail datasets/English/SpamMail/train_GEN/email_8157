@@ -1,0 +1,51 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name support at &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> sat, 12 apr 2003 09:56:00 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ message &num : &name &name : &name support , university of &name &name : &num &name &num &num : &num : &num &num from : &name &name ( &email ) subject : &name &name : &name support , university of &name 
+^ &name studies in computational linguistics and language engineering 
+^ &name , university of &name , &name 
+^ the &name at the university of &name is inviting applications for places on its postgraduate studies programme for the coming academic year including at least &num funded studentships . 
+^ the &name offers a unique opportunity for bright dynamic graduates of linguistics , &name science , computational linguistics or a related discipline to study for a phd in the area of computational linguistics and language engineering . 
+^ students at the &name work closely with established researchers , often contributing to existing projects . 
+^ the &name offers an excellent environment for apprentice academics who have opportunities to meet and work with internationally renowned researchers in the field , to present their work to a friendly but discerning audience and to attend conferences , workshops and training courses . 
+^ we welcome applications in &num or more of the core areas of expertise of the institute : 
+^ - document generation , including multimodal and multilingual generation 
+^ - generation in dialogue 
+^ - information extraction , document management and corpus linguistics 
+^ - lexical computing , including lexical representation and computational lexicography 
+^ - natural language interfaces 
+^ applicants should have a good honours degree or equivalent in computer science , computational linguistics , &name or a related discipline or be expecting to achieve this , if final year students . 
+^ the &name also has &num funded studentships available for &name : 
+^ &num ) a studentship on the cogent ( controlled generation of &name ) project . 
+^ the project would be suitable for people interested in carrying out research into areas such as underspecified semantic representations ( e.g. , &name ) , statistical &name and connections between &name and formal semantics ( including ot) . 
+^ the project is in collaboration with &name university , dept. of informatics . 
+^ more information can be found at the following location . 
+^ ( &website ) 
+^ &num ) a studentship on the &name ( towards a unified algorithm for the generation of referring expressions ) project . 
+^ the project combines ( psycho ) linguistic , computational and logical challenges and should be of interest to people whose intellectual home is in either of these areas . 
+^ supervision will be jointly by the universities of &name and &name . 
+^ more information can be found on the &name homepage . 
+^ ( &website ) 
+^ &name a third studentship on natural language generation in the medical domain might become avaible ( related to the clef project ; see &name . 
+^ all applications should ideally reach us by 31st may &num . 
+^ applications received after this deadline may be considered , but this cannot be guaranteed . 
+^ information about how to apply for a place on our phd programme , together with further details on postgraduate studies at the &name , and on the available studentships can be found on our research students page ( &name . 
+^ further information on the institute 's research programme can be found on the &name home page ( &name . 
+^ for informal inquiries about the studentships on the &name and cogent projects send email to ( &email ) 
+^ for informal inquiries about the postgraduate programme at the &name send email to ( &email ) 
+^ &name &name , research student division leader &name , university of &name &name building , &name &name &name &name , &name 
+^ email : &email &name : &num &num &num &name : &num &num &num 
+</text_normal>
+</message_body>
+</message>

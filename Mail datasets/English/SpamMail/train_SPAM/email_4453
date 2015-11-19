@@ -1,0 +1,25 @@
+<message>
+<content-type> text/plain </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name , you 've won ! 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 17:37:04 gmt </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name , 
+^ you 've won ! 
+^ click below to see what it is : 
+^ &website 
+^ thanks , emailprize you received this message because you are registered with insider savings . 
+^ you are subscribed as 
+^ to unsubscribe go to : &website with the word ' unsubscribe ' in the subject line . 
+^ thursday &num / &num / &num &num : &num : &num 
+</text_normal>
+</message_body>
+</message>

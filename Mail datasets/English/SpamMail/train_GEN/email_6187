@@ -1,0 +1,20 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ forgot to say ... 
+</text_normal>
+</subject>
+<date> tue, 12 nov 2002 23:15:22 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ sorry guys , forgot to say ... 8am , &name &name the &name church building , finished in time for going to 9am lectures , breakfast included ... you knew that anyway ... 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,35 @@
+<message>
+<from>
+</from>
+<to> org </to>
+<date> tue, 27 may 2003 22:05:10 +0200 </date>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ &name ( &name ) properties &name &name &name 
+</text_normal>
+</subject>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi ... 
+^ the attached patch replaces the current &name permission &name with the &name + advanced permissions that i proposed last week . 
+^ i would appreciate it if other people could test it thoroughly since number of possible permission settings together with the different behaviour on executable files , regular files , directories and mixed lists of file items makes it very difficult ( if not impossible ) to test all code paths . 
+^ i appreciate other feedback as well , of course . 
+^ &smiley 
+^ when you think that you found a bug , please reload the directory in &name and try again , since there are several bugs in &name that look like errors in the permissions &name , especially with recursive permission changes ( see bugs # &num and # &num ) . 
+^ bye ... 
+</text_normal>
+</part>
+<part num="2" type="application/x-gzip">
+</part>
+<part num="3" type="text/plain">
+<text_normal> 
+
+^ kde-usability mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

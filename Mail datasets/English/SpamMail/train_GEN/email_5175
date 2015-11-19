@@ -1,0 +1,32 @@
+<message>
+<date> sun, 01 jun 2003 22:45:29 +0200 </date>
+<from>
+</from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : adding &name to dt-all " mailing list 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , yes , of course . 
+^ it might just be the case that she 'll get bored with organizational stuff . 
+^ but i would really appreciate her participation in the matrix and &name discussions . 
+^ best , &name 
+^ &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ in a phone conference with &name today , it emerged that it would be good for &name ( working on the matrix and &name composition ) to be up to date on dt-internal ( &char ) &name discussion . 
+^ so , &char checked with ulrich and took the liberty of adding &name to the list . 
+^ i hope you approve ? 
+^ all best - oe 
+^ +++ &name &name ; &name hall ; &name , ca &num ; ( &num &num ) &num &num +++ lingvistisk institutt ; &name ; &num &name ( &name ) ; ( &num ) &num &num &num &num +++ --- &email ; &email ; &email --- 
+</text_embedded>
+</message_body>
+</message>

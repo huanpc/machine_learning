@@ -1,0 +1,42 @@
+<message>
+<date> sat, 25 jan 2003 00:28:58 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ re : [ &name ] &name &num of &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ on &name , &num &name &num &email wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi all , 
+^ first of all , a big thanks to &name ... to bring out the true to picture to those of us who are still slumbering ! ! ! 
+^ i have a few things to say ... 
+^ - -on &num january &num &num : &num &num " &name &name " ( &email ) wrote : 
+<text_embedded> 
+
+^ i 'll remind everyone that they should have understood &name , checked out the current src and &name modules and have your own stuff added to the repository by now . 
+^ sunday is too late to be fiddling with this stuff . 
+</text_embedded>
+
+^ for those who still have n't managed to get their head around &name , please readup about the &name online and try out &name ( &website still having trouble , i would suggest clarifying it out tomorrow afternoon . 
+^ &name , please would you confirm if a repository has been setup on the &name as well . 
+</text_embedded>
+<text_normal> 
+
+^ &name will only work with a single main repository as far as i know . 
+^ at the moment it is on srcf , but we could move it to &name when it settles down . 
+^ i used srcf since it supports &name login and is n't as buggy as &name . 
+^ &name 
+^ " nothing would please me more than being able to hire &num programmers and deluge the hobby market with good software . " - &name &name &num 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

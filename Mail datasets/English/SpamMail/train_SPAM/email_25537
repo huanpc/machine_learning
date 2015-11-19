@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name : uncover the truth about anyone 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=em_boundary_string </content-type>
+<date> wed, 9 apr 2003 15:19:31 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

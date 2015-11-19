@@ -1,0 +1,16 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ motivated ? 
+^ &name ? 
+^ how does $ &num / week sound ? 
+</text_normal>
+</subject>
+<date> tue, 08 apr 2003 05:14:04 +0800 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

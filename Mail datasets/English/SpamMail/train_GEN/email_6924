@@ -1,0 +1,24 @@
+<message>
+<date> thu, 26 dec 2002 16:20:05 +0000 </date>
+<to> com </to>
+<from> co.uk </from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ &name &name &name &name - very nice tool . 
+^ as a suggestion , how about an option to print the file ? 
+^ this is a common requirement for &name files . 
+^ &name for a neat utility 
+^ &name 
+^ &name &name please remove the " furryferret " if replying by e-mail 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,46 @@
+<message>
+<date> tue, 9 jul 2002 15:56:26 -0400 (edt) </date>
+<from> edu </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : leaving time 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i 'll be on the way 
+^ on &name , &num &name &num , &name , &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , mum liked the soup in &name , so we are going to framingham . 
+^ please make up the hours some other day , 
+^ sorry for the inconvenience , 
+^ please let me know what time train you are catching . 
+^ thanks , 
+^ &char / &char 
+<text_embedded> 
+
+^ i need to work &num hours today , so &num is a little early ( i got here at &num : &num ) . 
+^ why do n't you come to &name since we are eating indian ? 
+^ &name 
+^ on &name , &num &name &num , &name , &name wrote : 
+<text_embedded> 
+
+^ &name , 
+^ we ( and you ) need to leave early today to take meme out for dinner ( she ca n't eat as late as &num : &num " cause it can give her indigestion ) . 
+^ so please can you catch an earlier train - say one around &num : &num pm ? 
+^ thanks , 
+^ &char / &char 
+^ &name the software development company &num &name road , &name , ma &num 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,34 @@
+<message>
+<from> com.br </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name replacer and &name &name 
+</text_normal>
+</subject>
+<date> mon, 16 dec 2002 10:26:56 -0200 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name 
+^ very good &name and selfview . 
+^ i ask why after to substitute icone of file generated for selfview , this does not open , occurs " unknown error " under &name me . 
+^ regards 
+^ &name &name &name &email 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name 
+^ very good &name and selfview . 
+^ i ask why after to substitute icone of file generated for selfview , this does not open , occurs " unknown error " under &name me . 
+^ regards 
+^ &name &name &name &email 
+</text_normal>
+</part>
+</message_body>
+</message>

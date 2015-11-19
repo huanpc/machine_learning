@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ &name ? 
+^ &char ? 
+^ &char / &char ? 
+</text_normal>
+</subject>
+<content-type> text/plain;charset="gb2312" </content-type>
+<date> wed, 2 apr 2003 13:47:59 +0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &pound; 
+^ &pound; &pound; 
+^ : &name : 485xh-k75ky 
+^ &pound; 30' &num &pound; &pound; &pound; &pound; 
+^ &pound; &pound; &pound; &pound; 
+^ 1' &website &num &num &pound; &pound; &pound; &num &pound; &num &pound; &pound; 
+^ &pound; 
+^ &pound; &num &pound; &pound; &pound; &num &pound; &pound; &num &pound; &pound; &num &pound; &pound; 
+^ &pound; &pound; 
+^ email' &email 
+^ &pound; &pound; email &pound; 
+^ &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,33 @@
+<message>
+<date> mon, 02 jun 2003 14:49:26 +0100 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ re : webpage problem 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii"; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+</text_normal>
+<text_embedded> 
+
+^ when i attempt to access your home page from the lab using netscape ( in order to look at one of your papers ) , i get directed to &website 
+^ forbidden 
+^ you do n't have permission to access /invis.js on this server . " 
+^ i assume this effect is n't intended ... 
+</text_embedded>
+<text_normal> 
+
+^ oh , good you noticed . 
+^ i experimented with this invisible counter some time ago ( to see how many people access my subcat evaluation page ) , but now the counter website appears to be down , and it gives this error message instead . 
+^ i have just removed the &name script , so hopefully it will work soon . 
+^ if not , then let me know and i can email the paper to you . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

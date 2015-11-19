@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ no &name yet ? 
+^ claim your $ &num 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 14:12:02 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

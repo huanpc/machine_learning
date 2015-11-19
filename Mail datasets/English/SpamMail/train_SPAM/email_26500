@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name 's legislative session 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 18:14:12 -0400  </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ your name has been given to us as someone who would be interested in receiving email updates from the &name house of representatives regarding the legislative session and issues affecting you in your state government . 
+^ feedback on decisions is vital in our effort to strengthen democracy and creates a vibrant future for &name . 
+^ if you would like to receive updates from the &name house regarding your legislature please indicate below or visit the house &name at : 
+^ yes , please send occasional updates to keep me informed about &name government . 
+^ ( &website 
+^ * * * if you have received this e-mail in error , or to unsubscribe , * * * 
+</text_normal>
+</message_body>
+</message>

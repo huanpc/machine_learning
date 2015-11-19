@@ -1,0 +1,38 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name : re : &name with command line after extaction 
+</text_normal>
+</subject>
+<to> com </to>
+<from>
+</from>
+<date> fri, 14 jun 2002 10:43:50 +0200 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear mr. &name , 
+^ the new software version solve my problem ! 
+^ now all is ok . 
+^ my personal compliments for your work . 
+^ best regards , 
+^ g.p. &name &name design & development &name &name &name &name : &num &num &name : &num &num 
+^ &name &name support ( &email per : &email ) &name : &name : re : &name with command line after extaction &num / &num / &num &num 
+</text_normal>
+<text_embedded> 
+
+^ i want specify which is the error message displayed by acrobat . 
+^ the first message is " error during file 's open : the file not exist " and then " error during file 's open : path not exist " really the file exist and is present in extraction path . 
+</text_embedded>
+<text_normal> 
+
+^ definitely then try upgrading as per my other e-mail . 
+^ yours , 
+^ &name &name &name &name &name 
+^ &name &name : &name , free & easy for file sharing &website 
+^ - &name &name & fingerprint - &website aaa8 95a1 cc07 &name &name &name &name &name &name 5d3f 
+</text_normal>
+</message_body>
+</message>

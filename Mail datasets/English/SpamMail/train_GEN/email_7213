@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ tomorrow 
+</text_normal>
+</subject>
+<date> fri, 14 feb 2003 15:05:42 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi guys 
+^ have been trying to call &name today - could one of you call me asap on my mobile ? 
+^ it 's quite urgent . . ... 
+^ cheers 
+^ &name 
+^ &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi guys 
+^ have been trying to call &name today - could one of you call me asap on my mobile ? 
+^ it 's quite urgent . . ... 
+^ cheers 
+^ &name 
+^ - ----------------------------------------------------------- --------------------------- &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+</message_body>
+</message>

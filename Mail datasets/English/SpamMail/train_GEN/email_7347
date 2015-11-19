@@ -1,0 +1,33 @@
+<message>
+<date> fri, 5 jul 2002 11:21:35 -0400 (edt) </date>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hello mr. &name , 
+^ thank you for downloading our &name &name software for &name . 
+^ should you choose to purchase our &name &name , we have several options you might be interested in : 
+^ &name &name &name ( &name ) - great for personal use , this out-of-the-box product has all of the features you would expect from a good spreadsheet , including many built-in functions , graphs , and other features . 
+^ it is compatible with other spreadsheets , including &name , &name &num , &name &num , and other &name formats . 
+^ pricing is $ &num per copy . 
+^ full &name - full &name contains all of the features of xessse , with a larger size and the ability to add features , such as &name and the &name . 
+^ there are also additional financial functions available in full &name that are not available with xessse . 
+^ pricing starts at $ &num per license . 
+^ please contact &name if you are interested in learning more about our add-ins , such as &name and the &name . 
+^ we do offer annual support services . 
+^ do you require any further information ? 
+^ does our product meet your needs ? 
+^ i look forward to hearing from you . 
+^ regards , 
+^ &name &name &name &name &name &email 
+</text_normal>
+</message_body>
+</message>

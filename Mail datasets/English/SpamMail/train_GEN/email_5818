@@ -1,0 +1,36 @@
+<message>
+<content-type> text/plain </content-type>
+<date> mon, 16 dec 2002 11:23:27 ut </date>
+<to> com </to>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ ( &num ) &name scientist / &name / &num 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ dear &name &name 
+^ thank you for your email concerning the delivery address of your new scientist magazine . 
+^ i can confirm that i have checked this and all details are the same , i have started your account back up and you should start receiving them soon . 
+^ please come back to me if you dont receive issues or if you miss anything . 
+^ many thanks 
+^ dear sir or madam , 
+^ you recently wrote to me regarding an undelivered copy of new scientist . 
+^ i am writing to confirm my address as : 
+^ &num walnut &name &name &name &name &name &name 4ee 
+^ many thanks . 
+^ regards , 
+^ &name &name 
+^ &name &name &name &name customer services &name : &num &num &num &num &name : &num &num &num &num email : &email 
+^ &char &name this message is intended only for the use of the person ( &char ) ( " &name &name " ) to whom it is addressed . 
+^ it may contain information , which is privileged and confidential . 
+^ accordingly any dissemination , distribution , copying or other use of this message or any of its content by any person other than the &name recipient may constitute a breach of civil or criminal law and is strictly prohibited . 
+^ if you are not the &name &name , please contact the sender as soon as possible . 
+^ &name business information ltd. and its subsidiary companies &name : &num ( &num ) &num &num &num 
+</text_normal>
+</message_body>
+</message>

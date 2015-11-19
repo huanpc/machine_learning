@@ -1,0 +1,25 @@
+<message>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<from> com </from>
+<to> com </to>
+<date> mon, 23 dec 2002 16:51:43 -0500 </date>
+<subject>
+<text_normal> 
+
+^ merry christmas ! 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ &name &name , 
+^ thank you very much for the lovely and indeed thoughtful e-card ! 
+^ i also wish you a happy christmas holiday and a wonderful time with your family under the tree . 
+^ good luck with your studies for &num ! 
+^ best wishes to your family , especially to &name , whom we all are looking forward to seeing again in summer &num . 
+^ yours , &name 
+^ &website 
+^ meet singles &website 
+</text_normal>
+</message_body>
+</message>

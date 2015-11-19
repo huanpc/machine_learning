@@ -1,0 +1,28 @@
+<message>
+<date> mon, 3 feb 2003 13:14:00 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ how are you doing ? 
+^ how are things with &char ? 
+^ i 'm emailing you in my lunch break - i 'm working pretty hard as always , and good news is that i got &num &char 's ( 75-79% ) in my recent exams . 
+^ we had terrific snow here last thursday , and i went with some friends down to &name college back lawn and messed-around in the snow and built &num snowmen - it was fantastic . 
+^ actually , there are some photos at : 
+^ &website 
+^ am off home this weekend to see some south-african friends who are staying for a couple of nights . 
+^ i 'm also going to pick up some new roller-blades that i ordered ! 
+^ &name , i 've got a speech-processing practical this afternoon , 
+^ &name
+</text_normal>
+</message_body>
+</message>

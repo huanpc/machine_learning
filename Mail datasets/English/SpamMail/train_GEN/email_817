@@ -1,0 +1,64 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ grrrrrrrrrrrrrrr 
+</text_normal>
+</subject>
+<date> sat, 14 apr 2001 09:34:08 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name sir &name of &name . 
+^ thanks for the postcard . 
+^ i 'm glad to hear you are enjoying yourself on the &name isle . 
+^ i have been working the last few days , as well as spending some time with my friend &name . 
+^ i had a good time with &name - he is well and sends his greetings . 
+^ we made a rather nice bowl out of walnut wood which i 'll bring up to the flat next term . 
+^ &name is a bit better after i gave her a good clean-out and made sure all her components were in order . 
+^ guess what , i 'm buying a lap-top ! ! ! ! ! ! 
+^ yes , &name is getting the ultimate companion , but it might mean that she does not come with me this time to &name - fairly shocking i think you 'll agree . 
+^ anyway , more on &name ( the lap-top ) later . 
+^ you 're taking pollen tablets are you - please do n't overdose &name , however bad everything feels . 
+^ i am hoping we can all come and see you on that &char / end . 
+^ i 'm also looking forward to it . 
+^ &name , the other day i overdrew my bank account for the first time . 
+^ now i have got an overdraft , just like all the other students ! 
+^ oh well . 
+^ are you back this &char / end ? 
+^ we could chat online tomorrow ( sunday ) sometime ? 
+^ later , 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name sir &name of &name . 
+^ thanks for the postcard . 
+^ i 'm glad to hear you are enjoying yourself on the &name isle . 
+^ i have been working the last few days , as well as spending some time with my friend &name . 
+^ i had a good time with &name - he is well and sends his greetings . 
+^ we made a rather nice bowl out of walnut wood which i 'll bring up to the flat next term . 
+^ &name is a bit better after i gave her a good clean-out and made sure all her components were in order . 
+^ guess what , i 'm buying a lap-top ! ! ! ! ! ! 
+^ yes , &name is getting the ultimate companion , but it might mean that she does not come with me this time to &name - fairly shocking i think you 'll agree . 
+^ anyway , more on &name ( the lap-top ) later . 
+^ you 're taking pollen tablets are you - please do n't overdose &name , however bad everything feels . 
+^ i am hoping we can all come and see you on that &char / end . 
+^ i 'm also looking forward to it . 
+^ &name , the other day i overdrew my bank account for the first time . 
+^ now i have got an overdraft , just like all the other students ! 
+^ oh well . 
+^ are you back this &char / end ? 
+^ we could chat online tomorrow ( sunday ) sometime ? 
+^ later , 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

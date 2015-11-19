@@ -1,0 +1,35 @@
+<message>
+<date> sat, 14 dec 2002 13:40:25 -0500 (est) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : your mail 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ it 's great to hear from you &smiley 
+^ it turns out that i will not be coming back for the holidays - instead i will be making use of my proximity to the rest of &name to do some traveling . 
+^ i hope to come back to the states in march sometime , in which case i will definitely stop by &name . 
+^ the brief update is that i am really enjoying my time at &name . 
+^ the classes are challenging , the lecturers are very good , and i think i am benefitting from interactions with many other students from all over the world . 
+^ my term ended last friday , and i have a few weeks off until exams and next term in mid-january . 
+^ hopefully next term will be as good as this past term &smiley 
+^ &name new year ! 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , i hope things are going well . 
+^ if you come back for the holidays , drop by . 
+^ in any case , happy new year . 
+^ &name &name &name email : &email computer science department phone : &num &name university , &name &num &name : &num &name , ma &num , &name &name : &website 
+</text_embedded>
+</message_body>
+</message>

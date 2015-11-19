@@ -1,0 +1,20 @@
+<message>
+<subject>
+<text_normal> 
+
+^ would you like &num extra paychecks every month ? 
+</text_normal>
+</subject>
+<from> com </from>
+<date> sun, 6 apr 2003 15:12:25 -0400 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ click here if you ca n't see this flash presentation 
+^ &name &name &email ( &num ) &num 
+^ to unsubscribe from this message category click on the following link : click here 
+</text_normal>
+</message_body>
+</message>

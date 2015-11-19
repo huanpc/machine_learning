@@ -1,0 +1,22 @@
+<message>
+<date> wed, 12 feb 2003 23:48:44 -0000 </date>
+<from> ac.uk </from>
+<to> com ac.uk </to>
+<subject>
+<text_normal> 
+
+^ tickets 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ could you bring the remaining tickets to the prayer meeting tomorrow ? 
+^ &name x 
+^ p.s. do either of you know what time will the doors be opening for audience on saturday ? 
+^ &name &name &name college &name &num &num 
+</text_normal>
+</message_body>
+</message>

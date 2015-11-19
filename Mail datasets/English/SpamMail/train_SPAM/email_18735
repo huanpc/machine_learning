@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ get your medication tomorrow 
+</text_normal>
+</subject>
+<date> fri, 04 apr 2003 18:41:58 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

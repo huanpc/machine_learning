@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name - &num &name &name - &name you virus protection 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> thu, 03 apr 2003 12:49:43 -0600 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &num includes : 
+^ &name antivirus &num norton utilities &name &name &name ghost &num &name by &name 
+^ &num year of updates included with purchase of &name &name &num 
+^ this valuable suite of products , which would normally retail for more than $ &num - combines the world 's leading utility suite with advanced tools to keep your computer running safely and efficiently . 
+^ platforms : &name &name &name &name / professional windows &num professional &name &name / &num 
+^ the smartest &name to solve computer problems 
+^ &name &name &num professional edition includes award-winning &name products and additional utilities that help you protect your pc from virus threats , optimize performance , fix and prevent problems , recover from system failures , clean out &name clutter , and keep dial-up connections active when you 're online . 
+^ please accept our apologies if you received this mail in error . 
+^ if you do not wish to receive future mail , &name here . 
+^ if you have a problem using the removal process , please call current mail at ( &num ) &num or submit your request to : 
+^ current mail , inc. &num &name &name . 
+^ highway &num &name &num &name , &name &num &name 
+</text_normal>
+</message_body>
+</message>

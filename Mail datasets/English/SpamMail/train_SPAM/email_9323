@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ $ &num , &num , &num instant winner email 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 08:03:44 -0800 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ is it your fortune to win $ &num , &num , &num &name ? 
+^ cellspacing0 cellpadding0 border0 ) click here ! 
+^ size3)click here for your chance to win $ &num , &num , &num ! 
+^ &num click the link to register your so we can you if you win . 
+^ &num you will then be taken to the ' &name &name ' cash card . 
+^ click to break of the &num cookies . 
+^ click here to see the official rules . 
+^ size3)good &name ! 
+^ &website size-1 ) to unsubscribe from these 
+</text_normal>
+</message_body>
+</message>

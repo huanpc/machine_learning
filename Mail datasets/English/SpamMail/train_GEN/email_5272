@@ -1,0 +1,40 @@
+<message>
+<date> wed, 28 may 2003 12:02:41 +0100 </date>
+<subject>
+<text_normal> 
+
+^ re : counties - &name players wanted 
+</text_normal>
+</subject>
+<from> org.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i 've forwarded your mail around the club . 
+^ i 'm not sure anyone qualifies though . 
+^ i did play for &name myself a couple of years ago , but i 've moved back into &name since then . 
+^ i assume you 've contacted &name and &name already ? 
+^ good luck ! 
+^ &name 
+^ on &num / &num &num : &num am , &name &name at &email wrote : 
+</text_normal>
+<text_embedded> 
+
+^ dear &name , 
+^ i 'm trying to get together a &name team for the counties this year . 
+^ can you please ask around your club to see whether anybody would be interested or qualifies for &name ? 
+^ people should email me directly on &email . 
+^ cheers , &name 
+</text_embedded>
+<text_normal> 
+
+^ this email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed . 
+^ if you have received this email in error please notify the system manager . 
+^ this footnote also confirms that this email message has been swept by &name for the presence of computer viruses . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

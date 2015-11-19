@@ -1,0 +1,22 @@
+<message>
+<date> sat, 1 feb 2003 13:07:02 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ tonight 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name ! ! 
+^ tonight is &name 's chinese new year meal , and i said that we would get drinks and dessert . 
+^ i am going shopping fairly soon , so i will get dessert , and leave you to get drinks , unless you 'd prefer it the other way round ; does n't matter to me . 
+^ let me know , and i 'll see you soon , 
+^ &name
+</text_normal>
+</message_body>
+</message>

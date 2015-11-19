@@ -1,0 +1,35 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> thu, 3 apr 2003 08:36:37 +0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ email marketing is spreading around the whole world because of its high effectiveness , speed and low cost . 
+^ we offer a complete email marketing solution with quality service and the lowest prices . 
+^ the result is that you will enjoy more success . 
+^ &num targeted email addresses 
+^ we can supply targeted email addresses according to your requirements , which are compiled only on your order , such as region / country / field / occupation / domain name etc. we will customize your customer email lists . 
+^ * our database contains more than &num sorts of email addresses . 
+^ &num targeted mailing 
+^ we can send targeted emails according to your requirements . 
+^ you only need to worry about answering e-mail requests . 
+^ * we can &name &name your web site . 
+^ we also supply a wide variety of email marketing software . 
+^ for more details , you can refer to our site : &website 
+^ our services will help you get more business opportunities . 
+^ regards ! 
+^ mrs. &name &name services &website 
+^ targeted &name , at &name &name . 
+^ receiving this email because you registered to receive special offers from one of our partners . 
+^ if you would prefer not to receive future email , please click here &website 
+</text_normal>
+</message_body>
+</message>

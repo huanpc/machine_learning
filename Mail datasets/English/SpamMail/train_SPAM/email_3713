@@ -1,0 +1,33 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ let 's play ! 
+^ &name &name ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> tue, 25 mar 2003 17:50:33 -0600 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ gamble hero newsletter 
+^ &name &name casino is dedicated to making your online gaming experience as exciting and rewarding as possible . 
+^ part of &num of the most established families of online gaming with over &num million downloads you can expect unmatched service and excellence at &name &name casino . 
+^ you are only minutes away from our &num fabulous casino games . 
+^ simply click here to download the casino and receive your industry leading initial deposit bonus , try your hand at &name &name , &num or double &num roulette or one of our dozens of &name &name or &name machines . 
+^ all funds ( deposit + bonus ) must be wagered a total of &num times prior to withdrawal . 
+^ please verify eligibility prior to making your deposit as known advantage players may be denied the initial bonus . 
+^ &name &name &name , &name &num &name ave . 
+^ &name &num &name , ma &num 
+^ &website 
+^ please click here to opt out of future e-mailings . 
+^ please click here to opt out of future e-mailings . 
+^ please click here to opt out of future e-mailings . 
+^ please click here to opt out of future e-mailings . 
+^ please click here to opt out of future e-mailings . 
+</text_normal>
+</message_body>
+</message>

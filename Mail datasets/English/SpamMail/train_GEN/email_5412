@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : using vp2svp1 etc 
+</text_normal>
+</subject>
+<date> 06 may 2003 15:03:14 +0100 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ on may &num &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ i tried to execute the &name and the sgml2text programs . 
+^ the home / widowb ... directory does n't have these &num programs . 
+^ the directory data / csr-iii_text / lm_utils / obj / alpha / bin / has these programs but it gives 
+</text_embedded>
+<text_normal> 
+
+^ there is a source code under csr-iii_text / lm_utils which you have to compile somewhere in your directory . 
+^ this should work ... &name 
+</text_normal>
+<text_embedded> 
+
+^ an error message when i try to execute them . 
+^ can you help ? 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

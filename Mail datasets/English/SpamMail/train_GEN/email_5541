@@ -1,0 +1,39 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ fwd : an upcoming event of huge interest 
+</text_normal>
+</subject>
+<date> tue, 29 oct 2002 23:21:15 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi guys - do n't know if you 've received this already , but just to let you know : 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name " ( &email ) &name : &name , &num &name &num &num : &num : &num &num ( &name ) to : &email subject : an upcoming event of huge interest . 
+^ hi funky grads , 
+^ thought you might be interested in an upcoming event : 
+^ this thursday is a national day of action against the proposed war on &name . 
+^ &name students against the war ( &name ) are asking everyone to wear white arm bands all day to show their opposition to this war . 
+^ there should be arm bands appearing in &name ( near the pigeon holes ) over the next few days - or else you can make some yourself . 
+^ &name are also asking people to turn up at the market square from about 1pm for events opposing the war . 
+^ this will include a symbolic occupation of a university building to show how strongly people feel about this . 
+^ tell your friends and help stop the war ! 
+^ &name 
+^ this message is sent via the &name &name list of &name social officers . 
+^ to request changes to the list , contact &name &name ( &email ) 
+</text_embedded>
+<text_normal> 
+
+^ choose an &name access plan right for you -- try &name ! 
+^ &website 
+^ &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

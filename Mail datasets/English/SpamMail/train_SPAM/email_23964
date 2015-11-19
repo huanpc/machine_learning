@@ -1,0 +1,14 @@
+<message>
+<from> info </from>
+<subject>
+<text_normal> 
+
+^ &name , your free card has arrived 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> tue, 8 apr 2003 08:56:23 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,23 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ pc &name worker 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 08:02:53 +1200 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ would you like to work at home ? 
+^ pc &name worker process orders from your own home ! 
+^ all you need is a pc , email , and a quality printer ! 
+^ email &email with 'more info ' in subject line for more information 
+^ this is a &num time mailing . 
+^ to be removed , reply to &email with remove in the subject line . 
+</text_normal>
+</message_body>
+</message>

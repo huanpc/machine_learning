@@ -1,0 +1,21 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ houses for sale from $ &num , &num - &name , &name , &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> tue, 08 apr 2003 03:32:09 -0500 </date>
+<message_body>
+<text_normal> 
+
+^ to : &email 
+^ or submit your request to : 
+^ &num &name &name . 
+^ highway &num &name &num &name , &name &num &name 
+</text_normal>
+</message_body>
+</message>

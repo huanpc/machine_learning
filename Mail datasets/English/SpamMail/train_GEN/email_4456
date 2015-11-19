@@ -1,0 +1,24 @@
+<message>
+<date> sun, 16 feb 2003 21:26:28 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name files 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name , 
+^ i 'm also having problems with the &name character in &name : 
+^ embo : $ grep " &name " &name ( |np / np_np-coord/- | ( |np / n1_n1-name/- | ( |n1 / &char | &name : &name | ) ) " heated " ' to " ' &name " ' , " ' its " ' optical " 'density " ' increased " ' in " ' comparison " ' with " ' that " 'recorded " ' at " ' &name " ) ( |np / n1_n1-name/- | ( |n1 / &char | &name : &name | ) ) ) ) ( |np / n1_n1-name/- | ( |n1 / &char | &name : &name | ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ( ep) ( &name_np1_rel ( /realpred) ( label)h102 ( /label) ( arg)x103 ( /arg ) ( /ep ) ( ep) ( &name_np1_rel ( /realpred) ( label)h140 ( /label) ( arg)x141 ( /arg) ( /ep ) 'measured " ' at " ' &num " ' and " ' &name " ' ( " ' i.e. " ' , " 'd / &char " ' ) " ' amounted " 
+^ " to " ( |np / cj-end_np/--- | |and : &name | ( |np / n1_n1-name/- | ( |n1 / &char | &name : &name | ) ) ) ) ( ep) ( &name_np1_rel ( /realpred) ( label)h95 ( /label) ( arg)x96 ( /arg) ( /e &char ) " by " ' 10-15ebc " ) ( |pp / p1 | ( |p1 / p_n1 | |by : &name | ( |n1 / &char | |10-15ebc : &name | ) ) ) ) ) ) ) ) ) ) ( ep) ( realpred)_10-15ebc_n_rel ( /realpred) ( label)h22 ( /label) ( arg)x23 ( /arg) ( / ep ) " isothermic " ' annealing " ' is " ' 840-860ebc " ' and " ' 720-740ebc " ) ( |ap / ap_ap-coord-r/- | ( |ap / a1 | ( |a1 / a | |840-860ebc : &name | ) ) ( |ap / cj-end_ap | |and : &name | ( |ap / a1 | ( |a1 / a | |720-740ebc : &name | ) ) ) ) ) ) ) ) ( ep) ( realpred)_840-860ebc_j_rel ( /realpred) ( label)h71 ( /label) ( arg)x72 ( /arg ) ( /ep ) ( ep) ( realpred)_720-740ebc_j_rel ( /realpred) ( label)h75 ( /label) ( arg)x76 ( /arg ) ( /ep ) " |ebc " ' | " ' - " ' |r4m6s * " ' |3100-3200 " ' |3200-3400 " ' |0.15-0.20 " ' |66.5-6 " | | : &name | | | : &name | ||ebc : &name | | | : &name | |- : &num | ||r4m6s * : &name ( ep) ( realpred)_|ebc_j_rel ( /realpred) ( label)h91 ( /label) ( arg)x92 ( /arg) ( /ep ) ( " hardening " ' was " 'done " ' at " ' 1190-1240ebc " ' in " ' air " ' , " ' in " ' oil " ' , " and " ' after " ' is " ' othermic " ' curing " ' at " ' 480-620ebc " ) ( |pp / p1 | ( |p1 / p_n1 | |at : &name | ( |n1 / &char | |1190-1240ebc : &name | ) ) ) ) ( |pp / p1 | ( |p1 / p_n1 | |at : &name | ( |n1 / &char | |480-620ebc : &name | ) ) ) ) ) ) ) ) ) ( ep) ( realpred)_1190-1240ebc_n_rel ( /realpred) ( label)h13 ( /label) ( arg)x14 ( /ar g) ( /ep ) ( ep) ( realpred)_480-620ebc_n_rel ( /realpred) ( label)h60 ( /label) ( arg)x61 ( /arg ) ( /ep ) ( " &name " 'done " ' at " ' 530-620ebc " 'made " ' it " ' possible " ' to " ' obtain " 
+^ " &char " ( |pp / p1 | ( |p1 / p_n1 | |at : &name | ( |n1 / &char | |530-620ebc : &name | ) ) ) ) ) ( ep) ( realpred)_530-620ebc_n_rel ( /realpred) ( label)h9 ( /label) ( arg)x10 ( /arg) ( /ep ) " tempering " ' for " ' &num " ' hour " ' at " ' 540-560ebc " ' had " ' the " 'maximum " ( |p1 / p_n1 | |at : &name | ( |n1 / &char | |540-560ebc : &name | ) ) ) ) ) ) ) ) ) ) ) ) ( ep) ( realpred)_540-560ebc_n_rel ( /realpred) ( label)h33 ( /label) ( arg)x34 ( /arg ) ( /ep ) " &char " ' temperature " ' of " ' 950-1000ebc " ' for " ' &num " ' hours " ) ( |pp / p1 | ( |p1 / p_n1 | |of : &name | ( |n1 / &char | |950-1000ebc : &name | ) ) ) ) ) ) ) ) ( ep) ( realpred)_950-1000ebc_n_rel ( /realpred) ( label)h112 ( /label) ( arg)x113 ( /a rg) ( /ep ) 
+^ it is clearly supposed to be the 'degree " symbol , but my program does n't like it . 
+^ &name
+</text_normal>
+</message_body>
+</message>

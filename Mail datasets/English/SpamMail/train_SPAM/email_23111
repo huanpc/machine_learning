@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ get a free &num &name &name and domain with payment services . 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> tue, 8 apr 2003 04:28:38 -0700 (pdt) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you received this email because you signed up at &num of &name 's websites ( see the ' properties ' listed at &website . 
+^ ( &char ) &num &name , inc. all rights reserved . 
+</text_normal>
+</message_body>
+</message>

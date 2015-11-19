@@ -1,0 +1,23 @@
+<message>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<subject>
+<text_normal> 
+
+^ &char got a huge one 
+</text_normal>
+</subject>
+<date> sun, 23 mar 2003 00:41:03 -0500 </date>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &num inches of &name ! 
+^ ( &website ) &num inches of &name ! 
+^ ( &website ) &num inches of &name ! 
+^ ( &website ) &num inches of &name ! 
+^ ( &website ) 
+^ push to stop ( &website ) 
+</text_normal>
+</message_body>
+</message>

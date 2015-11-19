@@ -1,0 +1,24 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name &name &name 
+</text_normal>
+</subject>
+<to> ac.uk </to>
+<from> com </from>
+<date> wed, 9 oct 2002 13:33:06 -0500 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ the &name &name program is open to faculty members only . 
+^ as a student , you can do one of &num things to get access to &name products and technologies : 
+^ &num ask one of the faculty members at your school to join the &name &name program . 
+^ once they become members , they can acquire the products you need and provide it to you . 
+^ &num visit the student portal at : &website in addition to providing resources and information , this portal provides access to free downloads , tutorials and even career opportunities . 
+^ please let us know if you have any additional questions . 
+^ &name &name program &email 
+</text_normal>
+</message_body>
+</message>

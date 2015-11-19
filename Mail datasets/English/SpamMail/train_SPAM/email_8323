@@ -1,0 +1,27 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ 
+^ * &name &name &name * 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hello ! 
+^ we present to you new great &name &name site ! ! ! 
+^ at &website youll find : 
+^ and much more . ... 
+^ check it now : &website 
+^ &name and enjoy . 
+^ * if you would like to be unsubcribed from this newsletter please reply to this mail &email * 
+^ best regards . 
+^ dream &name . 
+</text_normal>
+</message_body>
+</message>

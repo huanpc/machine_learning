@@ -1,0 +1,29 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name - &name &name 
+</text_normal>
+</subject>
+<date> mon, 25 nov 2002 16:58:06 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hello ! 
+^ agendas for &name at the end of term went out last week . 
+^ please accept our apologies that we were not able to confirm nominations for president and vice president for the &name of &num / &num when it went to printing . 
+^ i am pleased to confirm that the exec nominate : 
+^ &name &name ( &name ) - president &name &name ( &name ) - vice president 
+^ as on the agenda , please inform me ( &email ; &name " college ) if , as a &name member , you intend to vote against either of those nominated , so that any objections may be investigated if necessary . 
+^ i will also cheekily take this opportunity to flag up the &name &name this coming saturday , which will be a cracking time kicking off witness &num , the &name event next term , with &name &name , our main speaker for the &name event , speaking ; and also the &name service ( also with &name &name ) happening at &name and 10pm at &name &name &name 's on tuesday 3rd december - a great opportunity to be helping us help those around us consider &name &name ! 
+^ with love , in him , 
+^ &name 
+^ &name &num : &num &name said " i am the vine ; you are the branches . 
+^ if a man remains in me and &num in him , he will bear much fruit ; apart from me you can do nothing . " 
+^ this message has been forwarded to you from : soc-ciccu-members mailing list to be removed e-mail : &email 
+</text_normal>
+</message_body>
+</message>

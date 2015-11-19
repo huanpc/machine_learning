@@ -1,0 +1,14 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ purchase or &name your home ; lowest rates in &num yrs . 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

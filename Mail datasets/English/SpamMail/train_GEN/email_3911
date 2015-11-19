@@ -1,0 +1,33 @@
+<message>
+<from> com </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> sat, 30 mar 2002 18:20:24 +0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , i 'm &email 
+^ what is your sign-in name ? 
+^ &name 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name " to : " &name &name " , " &name " , " &name &name " , " &name &name " , " &name " date : sat , &num mar &num &num : &num : &num &num 
+^ &name - just in the off chance that i ever use the program , what are your names so that i can find you , or how do you know how to find people ? 
+^ &name 
+^ do you &name ! ? 
+^ get your free&email address at &website 
+</text_embedded>
+<text_normal> 
+
+^ join the world 's largest e-mail service with &name &name . 
+^ click here 
+</text_normal>
+</message_body>
+</message>

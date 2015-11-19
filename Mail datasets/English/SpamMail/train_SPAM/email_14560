@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ $ &num sign up &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> tue, 1 apr 2003 11:06:22 -0600 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name newsletter 
+^ claim your exclusive bonus today ! 
+^ - great comps &amp; &name member privileges 
+^ - privacy &amp; &name assured 
+^ - exceptional customer service 
+^ - fast payouts 
+^ click here for your &num match bonus ! 
+^ &website 
+^ &name &name has &num incredible games : &name &name &name &name &name &name &name &name &name &name &# &num ; &amp; lots more ! ! ! 
+^ &name &name &name casino - open a &name &name account today ! 
+^ &website 
+^ &name &name &name , &name &num &name ave . 
+^ suite &num &name , ma &num 
+^ &website 
+^ please click here to opt out of future e-mailings . 
+</text_normal>
+</message_body>
+</message>

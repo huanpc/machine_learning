@@ -1,0 +1,193 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hi , 
+</text_normal>
+</subject>
+<date> mon, 13 jan 2003 23:35:12 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ to be honest , i have n't even tried to learn the &name training stuff . 
+^ i 'm relying on answering the other question if that comes up ! 
+^ perhaps we could spend some time going over it after the exams .. ? 
+^ sorry i ca n't be of any help on this one ! 
+^ see you soon , 
+^ &name 
+^ thanks &name 
+^ the fog is clearing a bit ... 
+^ i have a dial up connection so i check my mail infrequently . 
+^ thanks - still stuck with hain . 
+^ how are you ? 
+^ &name hains stuff i think i am quite confused and they may make the &name confusing - sorry . 
+^ ( applys to the prev mail as well . ) 
+^ i was going through the &name training 
+^ first &name are the state sequences initialized with equal data ( transition probs etc ) and then trained 
+^ the way i see it if we are using &name training 
+^ the sequence goes as follows : 
+^ &num use all the training data ( including all utterences ) get the most likely state sequence . 
+^ &name algo 
+^ &num estimate the transition probs using this sequence 
+^ &num use re-estimation formula 
+^ &num repeat 
+^ now i am cofused by the fwd &name &name &name 
+^ at what point is the beta variable calculated ? 
+^ we need alphas to initialize it right ? 
+^ so do we use the fwd algo as &num . 
+^ above and then &name and then the transitions ? 
+^ and then re-estimate . ? 
+^ what is termination in the &name estimate does n't it come to the current node and stop ? 
+^ among the &name reest . 
+^ fomulae there is &name &name r &name &name / ( ... ) what is it ? 
+^ is there a special calculation needed for the last transition ? 
+^ &name i 'm not troubling you too much . 
+^ regards 
+^ &name . 
+^ on &name &num &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name ... ( a 'machine " noise ) 
+^ here 's some attempted answers ... 
+<text_embedded> 
+
+^ 
+^ * * * &name * * * what is a free variable in this context ? 
+</text_embedded>
+
+^ hmmm. well , a bound variable is , for example the " &char " in every ( &char , ... , ... ) . 
+^ now , if we had : 
+^ every ( &char , &name ( &char ) & cat ( &char ) , hates ( &char , &char ) ) 
+^ and there was no outer scope , then the " &char " would be free because it is not bound by any quantifying operator . 
+^ so , then the question seems to be how to interpret such a variable . 
+^ in some systems , free variables are always interpreted as forall-quantified . 
+^ then the above could perhaps be interpreted as : 
+^ every ( &char , cat ( &char ) , every ( &char , &name ( &char ) , hates ( &char , &char ) ) - every dog hates every cat ( one of &num possible &name ! ) 
+^ i 've seen this being done with &name predicate logic , but i do n't think &name mentioned anything about it in regards to &name 's. 
+^ i suppose this means ( hopefully ) that it 's unlikely to come up in the exam . 
+<text_embedded> 
+
+^ i 'd also like to know whether &name is a lexical based model ? 
+^ if so how does it compare with a rule based &name 
+</text_embedded>
+
+^ i remember &name saying that &name was a " radically-lexical " model because as much information as possible is " pushed down " into the lexicon . 
+^ this does not really apply in the same way to &name , because it is purely a semantic modelling language ( as far as i can see ! ) . 
+^ so , rather than a framework within which syntactic and semantic structure can be derived , &name is just an underspecified scopal language for representing semantics . 
+<text_embedded> 
+
+^ ( or lambda calc - is it rule based ? ) model ? 
+</text_embedded>
+
+^ i think &name is rule-based . 
+^ there are a number of simple rules - lambda abstraction , application and reduction ( off the top of my head ) which are the basis for any lc-based system . 
+^ i do n't think &name is rule-based in the same way , rather , i think it is a way of expressing a certain semantic model . 
+<text_embedded> 
+
+^ can you compare &name , &name , ( - some points ) ? 
+</text_embedded>
+
+^ not really , because you express in &name the semantic model that you have constructed using &name . 
+^ however , as with all of this , i may be wrong ! 
+<text_embedded> 
+
+^ to what extent can lambda &name give scope ambiguity ? 
+</text_embedded>
+
+^ as far as i can see , on its own , i do n't think you can express scope ambiguity in &name ... 
+<text_embedded> 
+
+^ can &name do so - if yes does that mean &name is more powerful than lambda 
+^ c. ? 
+</text_embedded>
+
+^ neither can you do so in &name . 
+^ for example , you need &num &name statements to express the ambiguity in " every cat chases some dog " . 
+^ i.e. 
+^ forall &char [ cat ( &char ) ) exists &char [ &name ( &char ) & &name ( &char , &char ) ] ] exists &char [ &name ( &char ) & forall &char [ cat ( &char ) ) &name ( &char , &char ) ] ] 
+^ thus , you need some kind of underspecified scopal language such as &name . 
+<text_embedded> 
+
+^ what is the semantic type of " not " ? 
+^ ( &char , &char ) ? ? 
+</text_embedded>
+
+^ depends how " not " is defined , for example if it is defined as &char [ &char [ &char ( &char ) ] ] then it has type ( ( &char , t), ( &char , &char ) ) . 
+^ on the other hand , if it were defined as &char [ &char ] then it would have type ( &char , &char ) . 
+^ however , the second definition is not very useful for negating verbs , for instance , because we normally need to apply the negation to the verb before we get its subject . 
+^ &name there is some useful stuff somewhere in there ! 
+^ see you soon , 
+^ &name 
+<text_embedded> 
+
+^ hi , , 
+^ how is it going ? 
+^ did you get the papers ? 
+^ i 'm still trying to grapple with my veeeerrry short memory - specially for &name &name 's stuff . 
+^ i finaly managed to type out an answer and some of the issues i have no idea about . 
+^ please reply with comments if you have time . 
+^ regards , &name . 
+^ all this before the call . 
+^ question ) explain what is meant by underspecified scope : 
+^ include in answer 
+^ a)how it is specified b)how it is resolved c)include general comments on &char ) &name &name ii ) &name iii ) free variables iv ) qeq 
+^ &name ) 
+^ consider the sentence " every student attended some lectures " 
+^ this sentence can have &num different semantic representations because of the ambiguity of scope of ( the quantifiers ) some and every . 
+^ &num there is some specific lecture which every student attended . 
+^ some ( &char , lecture' ( &char ) , every ( &char , student' ( &char ) , attend' ( &char , &char ) ) ) 
+^ &num every student attend some lecture ( possible different lectures ) . 
+^ every ( &char , student' ( &char ) , some ( &char , lecture' ( &char ) , attend' ( &char , &char ) ) ) 
+^ &name scope allows us to represent both of these ( valid ) interpretations using just &num representation . 
+^ for example if we use the &name notation the above sentence can be represented as- 
+^ &name : some ( &char , h2 , h3 ) &name : every ( &char , h5 , h6 ) &name : student ( &char ) &name : lecture ( &char ) &name : attend ( &char , &char ) h2 qeq &name h5 qeq l5 
+^ this specification allows us represent ambiguity without spurious generations of trees . 
+^ due to h2 qeq l6 and h5 qeq l5 
+^ some ( &char , lecture ( &char ) , h3 ) and every ( &char , student ( &char ) , h6 ) could be constructed . 
+^ now &name : attend ( &char , &char ) can attach itself to either h3 or h6 giving some ( &char , lecture' ( &char ) , attend' ( &char , &char ) ) or every ( &char , student' ( &char ) , attend' ( &char , &char ) ) 
+^ now the remaining every ( &char , student ( &char ) , h6 ) ) or some ( &char , lecture ( &char ) , h3 ) can combine with some ( &char , lecture' ( &char ) , attend' ( &char , &char ) ) or every ( &char , student' ( &char ) , attend' ( &char , &char ) ) to give the &num trees we need . 
+^ since the qeqs " are in place h2 cannot take labels like &name , l7 etc and thus the spurious generations are avoided . 
+^ generalized q. represent a relnship btwn &num sets of entities and by specifying the quantifiers as ( bound_var , restr , body ) we can model this relationship . 
+^ the sentence 's &num tree representations ( due to ambiguity ) have been broken into small elements and the connections have been called lables ( l1 , &name .. ) and holes ( h1 , h2 .. ) each hole is filled by a specific label which are lisenced by the qeqs . 
+^ all holes are filled . 
+^ a qeq specifies what holes ( may be at a lower level than the immediate ) should be matched with what hole . 
+^ * * * &name * * * what is a free variable in this context ? 
+^ i 'd also like to know whether &name is a lexical based model ? 
+^ if so how does it compare with a rule based &name ( or lambda calc - is it rule based ? ) model ? 
+^ can you compare &name , &name , ( - some points ) ? 
+^ to what extent can lambda &name give scope ambiguity ? 
+^ can &name do so - if yes does that mean &name is more powerful than lambda 
+^ c. ? 
+^ what is the semantic type of " not " ? 
+^ ( &char , &char ) ? ? 
+^ well i just spoke to you . 
+^ see ya , &name 
+^ on &name &num &num , &name &name wrote : 
+<text_embedded> 
+
+^ hi , 
+^ &name had a few past papers . 
+^ there are some in the efac library it is in a separate file - just ask to be shown the &name shelf . 
+^ &name 
+^ on &name &num &num , &name &name wrote : 
+<text_embedded> 
+
+^ hi &name , 
+^ have you got any speech past papers , apart from last year 's one ? 
+^ if so , where did you get it / them from ? 
+^ see you soon , 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

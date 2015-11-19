@@ -1,0 +1,29 @@
+<message>
+<date> wed, 14 may 2003 12:02:14 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ will check my diary when i get home this evening and let you know then . 
+^ &name wed , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ she 's having a b'day meal on the 1st june , sunday , at " &name ! 
+^ &name ! " ( sounds a bit &name &name to me ) ... apparently the legendary &name will be present ... do you fancy coming along , then we can meet the respective sides of our little friendship quadrilateral ? 
+^ the invitation said " &name and &name " ( thank goodness it was n't partner , eh ) ... 
+^ if you do , you 'll have to let me know what you fancy eating ... i have a menu and i need to tick off the foods i 'm planning on eating ... has to be that way as the meal is on a sunday and they want to make sure they 're in stock with everything blah blah blah 
+^ let me know mr. 
+^ &name &name 
+^ &name college , &name : &num &num &name road , mob : &num &num &name , &name &name email : &email 
+</text_embedded>
+</message_body>
+</message>

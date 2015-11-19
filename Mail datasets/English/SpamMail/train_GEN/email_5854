@@ -1,0 +1,102 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : [ autopackage ] failure to install mplayer 
+</text_normal>
+</subject>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> sat, 24 may 2003 15:37:03 -0700 (pdt) </date>
+<message_body>
+<text_normal> 
+
+^ thanks for your quick and thorough reply . 
+^ i will try typing apt-get install term cap when i boot back into knoppix . 
+^ i installed &name first by typing ./sdl.xxxx.package , this was after making it and executable in &name by right clicking on the file and adjusting the permissions 
+^ &name &name is an awesome debian distro .. i do n't run it from the cd rather i have in installed on the hard drive . 
+^ &name was the only version of debian i was ever able to get to work . 
+^ i tried many other distros . 
+^ but i found knoppix to be the best for me with its apt-get ... although i would really like to try lindows but i do n't want to spend &num $ . 
+^ i wish you luck with autopackage because it will something really awesome if it does work . 
+^ i can never just download a program and install it in linux as i could do with windows . 
+^ so hopefully this will be a reality for linux . 
+^ this is the only attempt that i know of to do this . 
+^ - -- &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey &name , 
+^ firstly , thanks for testing the packages . 
+^ we need more people to do this . 
+<text_embedded> 
+
+^ when i try to run the mplayer application after a successful installation i get the following error . 
+^ missing library &name 
+</text_embedded>
+
+^ ok , so mplayer needs this in order to be able to do the text mode progress status updates and so on . . ... most distros have this . 
+^ &name may not . 
+<text_embedded> 
+
+^ i install the the sdl.package also successfully . 
+</text_embedded>
+
+^ ok , this is good to know . 
+<text_embedded> 
+
+^ however when i type in a terminal window mplayer that is the error that comes up . 
+^ i though autopackage is suppose to install without any dependency problems??&smiley note : i am running knoppix &num 
+</text_embedded>
+
+^ &name . 
+^ the basic problem here is autopackage cannot magically solve dependency problems . 
+^ if an autopackage needs another package , then we can do our best to find and install this package first , but that 's all it is - our best attempt . 
+^ we reckon that when we 're done ( that wo n't necessarily be by version &num btw ) we will be a lot better at this than other systems are , but that does n't mean we will always succeed &num . 
+^ at the moment , we can only do this for software that is also packaged as an autopackage . 
+^ so , if you ran the mplayer installer , and it detected that &name was missing , it should have automatically gone and installed &name for you as well . 
+^ did it , or did you have to do that manually ? 
+^ unfortunately , because this mplayer package is a preview release only , we did n't spend much time on producing it . 
+^ so , we missed the dependency on termcap , or rather &name who packaged it decided not to produce the necessary code to autodetect it because &num of the time it will be there already . 
+^ in theory , if we had packaged libtermcap as well , you could have &num .package files in the same directory : 
+^ mplayer-0.90.package sdl-whatever.package libtermcap2.package 
+^ and then you run the mplayer package and it 'd install termcap for you automatically . 
+^ but , once you start doing that you hit a problem , as you can see mplayer needs quite a few things : 
+^ * needed &name 
+^ * needed &name needed &name needed &name needed &name needed &name 
+^ * needed libgtk-1.2.so.0 
+^ * needed libgdk-1.2.so.0 
+^ * needed libgmodule-1.2.so.0 
+^ * needed libglib-1.2.so.0 needed &name needed &name needed &name needed libx11.so.6 needed &name needed libsdl-1.2.so.0 needed &name 
+^ * needed &name needed &name needed ld-linux.so.2 
+^ the * marks the &num we check for . 
+^ as you can see , we skipped quite a few . 
+^ in future , we 'll check for them too , but as this was a " technology preview " release , ie autopackage is n't done yet , we do n't check for all those things because they are normally always present . 
+^ even when we check for everything , some stuff we simply * cannot * install . 
+^ libc.so is provided by your distro and is always present . 
+^ the idea is that in future , when we detect that something is missing , we try and ask the distro itself to install it . 
+^ in your case , something like this will do the trick : 
+^ apt-get install termcap 
+^ ( assuming termcap is the name debian use ) . 
+^ so , our job then becomes figuring that this is the command we need to run . 
+^ that code simply is n't written yet , and wo n't be for some time - read , probably about &num months . 
+^ in this case the problem is that you 're running &name as a distro , which is wierd . 
+^ in future yes , we 'll be able to deal with this , the design is meant to make this possible . 
+^ but it 's not all written yet . 
+^ feel free to help out &smiley 
+^ thanks -mike 
+^ &name mailing list &email 
+^ &website 
+</text_embedded>
+<text_normal> 
+
+^ do you &name ! ? 
+^ the &name &name ! 
+^ search - faster . 
+^ easier . 
+^ bingo . 
+^ &website &name mailing list &email 
+</text_normal>
+</message_body>
+</message>

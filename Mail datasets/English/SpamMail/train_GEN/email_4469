@@ -1,0 +1,45 @@
+<message>
+<date> tue, 18 feb 2003 13:39:15 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : your mail 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+</text_normal>
+<text_embedded> 
+
+^ how 's the football and hockey going ? 
+^ have you scored any more goals ? 
+</text_embedded>
+<text_normal> 
+
+^ no more goals , but i was playing in a hockey cup match the other day with a &name &name player , and he said he thought i could push a uni hockey team if i trained next year ! 
+</text_normal>
+<text_embedded> 
+
+^ is there a good time i can call you sometime soon ? 
+</text_embedded>
+<text_normal> 
+
+^ call me tonight sometime if you like - after &num : 00ish . 
+</text_normal>
+<text_embedded> 
+
+^ do you know if she will be in &name long ? 
+</text_embedded>
+<text_normal> 
+
+^ i think &name left &name yesterday &name . 
+^ speak soon then , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

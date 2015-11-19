@@ -1,0 +1,31 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ hello it 's only me . 
+</text_normal>
+</subject>
+<date> thu, 22 may 2003 00:13:48 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , you may have registered that i 'm not the worlds most reliable correspondent by now sorry ! 
+^ anyway how are you i guess your in the middle of exams at the moment i hope they go well . 
+^ this year i do n't have any which i 'm kind of enjoying , but next year i expect they will be back in full force . 
+^ all the same i 'm really looking forward to the &name . 
+^ how 's your course and how are you ? 
+^ ( you know i 'm a bit better at this now that when you first went away ) 
+^ i 'm going to get myself a laptop to take with me have you got any tips for me ? 
+^ seeing as your a computer person amd i 'm not ! ! ! 
+^ when do you come back then ? 
+^ i 'm finishing work 31st july &num , but that last week i 'm off on holiday anyway so that 's &num weeks of work left before i go and a little bit of time to try and squeese my reading into before i go away-in between all the other things i 'm going to pack into that time . 
+^ see you soon . 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name &name -- free for 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> fri, 4 apr 2003 12:53:02 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

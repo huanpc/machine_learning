@@ -1,0 +1,31 @@
+<message>
+<date> sun, 11 may 2003 22:58:45 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : social psychology experiment 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks very much ! 
+^ we 've booked you for tuesday , 20th may , &name . 
+^ please mark this in your schedule and i 'll get in touch several days beforehand with reminder and directions . 
+^ &name 
+^ &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i 'd be willing to help with this : 
+^ time slot ( &char ) preference 20th may , 3pm 
+^ your gender male 
+^ your date of birth sept &num 
+^ regards , 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

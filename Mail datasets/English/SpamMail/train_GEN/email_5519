@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ important - closure of the &name &name building 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 24 oct 2002 11:58:41 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ notice of closure of the &name gates building 
+^ the building is to be used for a major university event on the evening of tuesday &num november &num . 
+^ a security sweep will be done before the event and that means the building has to be vacated at &num prompt . 
+^ there will be no access to * any * parts of the building from &num until after the event has ended , so please do not attempt to return before &num . 
+^ i apologise for the inconvenience and hope that we can rely on your full cooperation . 
+^ &name &name departmental secretary 
+</text_normal>
+</message_body>
+</message>

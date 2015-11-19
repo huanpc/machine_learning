@@ -1,0 +1,48 @@
+<message>
+<from> com </from>
+<date> mon, 7 apr 2003 20:22:07 -0500 </date>
+<subject>
+<text_normal> 
+
+^ &name &name , sending services , prices start at $ &num &num / &num &num : &num : &num pm 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ best &name emails ! 
+^ /title ) 
+^ click here for website details . 
+^ direct marketing works ! 
+^ and you have finally come to the right place to make it work for you ! 
+^ no worries ! 
+^ do n't have the time to send your own ad ? 
+^ we can send your ad for you ! 
+^ prices start at only $ &num for &num , &num e-mails sent ... 
+^ your ad is not grouped with a bunch of others ads . 
+^ your &name is sent solo . 
+^ we handle all removes and undeliverables . 
+^ you just have to wait for the positive responses . 
+^ click here for website details 
+^ fresh &num , &num list added [ &num ] 
+^ &num , &num business / &name &name $ &num 
+^ &num , 000business / &name &name $ &num 
+^ &num million business / &name &name $ &num 
+^ april specials 
+^ orders of &num &num receive : 
+^ * &num month of free updates of our &name lists are they are added to our database . 
+^ * access to &num million verified general email addresses ! 
+^ * free demo of an e-mail program that will send your e-mails safely , even with free &name 's. 
+^ no risk ! 
+^ all orders receive : 
+^ * free &name list manager 
+^ orders of &num , &num or more receive : 
+^ * stealth mass mailer free ! 
+^ ( a $ &num value ) 
+^ plus more ... 
+^ removal 
+</text_normal>
+</message_body>
+</message>

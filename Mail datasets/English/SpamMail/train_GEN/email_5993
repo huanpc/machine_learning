@@ -1,0 +1,28 @@
+<message>
+<date> fri, 14 mar 2003 14:14:03 +0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ are we glad ? ? 
+^ &name ( fwd ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ i downloaded your project , everything worked up until i tried to run the factorization server- the dist . 
+^ server works well . 
+^ i think there are programs missing from the distributable . 
+^ i am the founder on &website were interested in using your &name program for the rsa-576 factorization . 
+^ we have access to well over &num , &num computer systems all over the world . 
+^ anyhow , looking forward to your response , &name &name &website 
+^ &name &name 
+^ &name college &name university &name : &num &website 
+^ &website 
+</text_normal>
+</message_body>
+</message>

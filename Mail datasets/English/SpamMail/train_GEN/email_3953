@@ -1,0 +1,15 @@
+<message>
+<to> com </to>
+<to> co.uk </to>
+<content-type> multipart/report; report-type=delivery-status </content-type>
+<subject>
+<text_normal> 
+
+^ returned mail : see transcript for details 
+</text_normal>
+</subject>
+<message_body>
+<part num="3" type="message/rfc822">
+</part>
+</message_body>
+</message>

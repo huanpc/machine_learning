@@ -1,0 +1,36 @@
+<message>
+<from> com </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ half finished programme note 
+</text_normal>
+</subject>
+<date> mon, 4 feb 2002 07:37:45 -0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name and &name , 
+^ i asked my friend oli if he would have a look at the grammar for &name 's note . 
+^ he was very kind in doing more than that and has re-written parts of what we had and suggested a skeleton outline for the remaining parts . 
+^ there is comment on the changing nature of his oratorio texts : &website there is comment on english reception : &website 
+^ i have the cover for &num in a book . 
+^ i suggest that &name you scan it in. it has &num &name . 
+^ &num : &num on the front in olde writing . 
+^ if we cannot get this scanned in for you on time then i suggest just quoting &num &name &num : &num straight . 
+^ maybe you could put the quote by &name in a different font and blow it up a bit . 
+^ &name , would you like one of us to write a reason for the &name production ? 
+^ ( &name suggested it as a natural last paragraph to link it all in ) . 
+^ you may feel it necessary to add more to this , please feel free . 
+^ &name suggested that it end up about twice the length that it is now ( &num ) . 
+^ if you choose to use this , then please add &name &name to the list of thanks and as co-writer of the programme note . 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="application/abiword">
+</part>
+</message_body>
+</message>

@@ -1,0 +1,40 @@
+<message>
+<from> co.uk </from>
+<to> com co.uk com </to>
+<subject>
+<text_normal> 
+
+^ re : trains 
+</text_normal>
+</subject>
+<date> wed, 12 sep 2001 20:16:58 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , 
+^ i should be able to meet you no probs , but ring &name 's house a few minutes before you get in to confirm that you are arriving . 
+^ see you soon , 
+^ &name 
+^ &name i 'll be getting in to &name on friday at &num : &num . 
+^ i make that 8pm . 
+^ please could somebody meet me there ? 
+^ thanks , love , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , 
+^ i should be able to meet you no probs , but ring &name 's house a few minutes before you get in to confirm that you are arriving . 
+^ see you soon , 
+^ &name 
+^ &name i 'll be getting in to &name on friday at &num : &num . 
+^ i make that 8pm . 
+^ please could somebody meet me there ? 
+^ thanks , love , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

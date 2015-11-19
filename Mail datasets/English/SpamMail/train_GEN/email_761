@@ -1,0 +1,22 @@
+<message>
+<date> wed, 22 nov 2000 11:14:16 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ get your copy of " &name &num " 
+^ &num great shots of everyone 's favourite model for every month of the year . 
+^ &name , i hope you are " keeping on moving " . 
+^ see ya , 
+^ &char 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,28 @@
+<message>
+<to> ac.uk ac.uk com ac.uk com ac.uk ac.uk com ac.uk </to>
+<subject>
+<text_normal> 
+
+^ nl&ip seminar 4th &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 29 jan 2003 13:21:22 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ natural language and information processing group seminar &website / 
+^ 12pm , tuesday 4th &name , &name 
+^ &org , &name &name building , &name &name avenue &website 
+^ &name : " &name conversational agents -- the inside story " 
+^ speaker : &name &name - &name &name , &name center , &name 
+^ &name : 
+^ &name have produced the world 's first commercial embodied conversational agent ( &name ) - &name &name . 
+^ using a state of the &name &name and animation framework , &name &name enables a user to go to a web site and interact with a &num virtual agent using natural language . 
+^ aimed at the general computer scientist , this talk will include a high level introduction to the processing pipeline in &name 's &name : from the authoring tools for generating graphical and linguistic content , to the statistical &name system , gesture planning and client animation frameworks . 
+^ &name &name will also include an introduction to &name and consider the challenges for current research in &name and computer graphics ( both for the individual fields and their integration ) . 
+^ ( all welcome - for instructions on how to get to the &org , please see : &website ) 
+</text_normal>
+</message_body>
+</message>

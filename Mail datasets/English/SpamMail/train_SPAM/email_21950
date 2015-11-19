@@ -1,0 +1,14 @@
+<message>
+<date> tue, 1 apr 2003 11:11:12 -0500 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ save up to &num on &name and up to &num on hotels 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

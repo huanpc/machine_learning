@@ -1,0 +1,24 @@
+<message>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ &name ! 
+</text_normal>
+</subject>
+<date> thu, 27 feb 2003 09:03:30 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ tried a &num digit number last night , consisting of &char ( &num digit ) * ( &num digit ) * ( &num digit ) number . 
+^ and the result . ... 
+^ factorisation ( &num ) 
+^ prime [ &num , &num , &num ] , composite [ ] ) 
+^ we had a small success ! 
+^ &smiley 
+^ &name
+</text_normal>
+</message_body>
+</message>

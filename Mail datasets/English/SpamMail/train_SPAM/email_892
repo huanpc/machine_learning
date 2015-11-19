@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ free &name &name gift for 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> sun, 23 mar 2003 19:00:21 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

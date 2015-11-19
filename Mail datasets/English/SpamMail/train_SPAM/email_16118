@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name / &char ... 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> thu, 3 apr 2003 09:26:49 -0300 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name contenidos ... 
+^ ... mantenga este mail abierto &char &name la conexi' &char a internet activa ... 
+^ ... aguarde unos instantes ... 
+^ si no puede ver &name contenidos pulse ac 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,102 @@
+<message>
+<date> mon, 25 nov 2002 14:27:42 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : [ &name ] questions about synt.an.tut ( fwd ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal>
+
+</text_normal>
+<text_embedded> 
+
+^ this verb phrase dative alternation is of an indirect object form without a preposition pharse . 
+^ vform of the &name node is set to none so no recursion occurs . 
+^ &name [ vform &num none , &name &num ditrans ] - ) &char np 
+</text_embedded>
+<text_normal> 
+
+^ how does this prevent * &name gives &name " ? 
+</text_normal>
+<text_embedded> 
+
+^ the &name rule for the ditrans valence with vform &num none needs to be specified as above for the first rule to work . 
+^ &char ) " &name made a cake for &name . " 
+^ &name [ vform &num ioprep ] - ) &name [ vform &num none , &name &num ditrans ] pp 
+</text_embedded>
+<text_normal> 
+
+^ need to ensure only for / to &name vform is the attribute i 've used for verb form ( ie. the morphology of the verb ( ing , &name , en , &char ) -- how will your use interact with that ? 
+^ -- do you need a different attribute ? 
+^ what is the advantage of your &num rules over this &num ? : 
+^ &name -- ) &char [ valditrans ] &name &name 
+</text_normal>
+<text_embedded> 
+
+^ 2e. . 
+^ transitive / intransitive contrast . 
+^ 2e. . 
+^ &char ) &name broke the window &char ) the window broke 
+^ broke can subcategorise in &num ways ( as transitive and intransitive ) . 
+^ we have thought of &num ways of dealing with this : 
+^ &num ) by thinking about " broke " as a transitive verb that looses it 's subject / agent ( in &char ) and then uses the object in the subject position . 
+^ we say that certain verbs have the property of being able to 'swap agent " 
+^ in this way , and indicate this with an extra attribute in the lexical entries : 
+^ broke &name [ ... swag3dyes ... val3dtrans ] drop &name [ ... swag3dyes ... val3dtrans ] improve: [ ... swag3dyes ... val3dtrans ] 
+^ the rules below try to capture this , in that a gap may occur after such a 
+^ verb . 
+^ &char - - ) &name &name [ gap3dnp ] &name [ gap3dnp ] -- ) &char [ &name ] &name [ gap3dnp ] &name [ gap3dnp ] -- ) &char 
+^ &num ) ( the other way ) by thinking of " broke " as a verb that can be both transitive and intransitive . 
+^ i.e. give it &num lexical entries , and have &num rules for the 
+^ vp-expansion : 
+^ broke &name [ val3dtrans ] broke &name [ val3ditrans ] 
+^ &name -- ) &char [ val3dtrans ] &name &name -- ) &char [ val3ditrans ] 
+^ &char : which of these ( &num and &num ) is better ? 
+</text_embedded>
+<text_normal> 
+
+^ so far &num ) &name it expresses the fact that the arguments swop , but is there a version of &num ) that does this too ? 
+^ probably doing things without gaps is better if you can ( equally succinctly ) 
+</text_normal>
+<text_embedded> 
+
+^ 2e. . 
+^ &name &name . 
+^ &char ) that &name kissed &name bothers &name . 
+^ here we 're trying to restrict the kind of verb that can occur after a &char [ comp3dthat ] . 
+^ we want it to be verbs of the kind " bothers " , " hurts " , 'maddens " , etc. we mark that these can take a " complement subject sentence " before them by adding an attribute " comsub " in the lexicon . 
+^ bothers &name [ .. val3dtrans .. &name ... ] hurts &name [ .. val3dtrans .. comsub3dyes .. ] sucks &name [ .. val3ditrans .. comsub3dyes .. ] 
+^ but : 
+^ rains &name [ .. comsub3dno .. ] 
+^ rules : 
+^ s: [ comp3dnone ] -- ) &name [ comp3dthat ] &name [ &name ] 
+^ s: [ comp3dthat ] -- ) &name &name [ comp3dnone ] 
+^ s: [ comp3dnone ] -- ) &name &name &name [ &name ] -- ) &name [ &name ] np 
+^ that &name [ ] 
+^ q: is this an acceptable way of doing it ? 
+^ &char ) it bothers &name that &name kissed &name . 
+^ here , we 're trying to say that it 's ok for a sentence to have a " extraposed subject " ( it ) followed by a " that-sentence " only if the verb 
+^ in the first sentence is of a particular type . 
+^ ( to allow " it bothers fido 
+^ that .. " , but not " it rains that .. " . 
+^ bothers &name [ &name ] hurts &name [ &name ] rains &name [ extrasb3dno ] 
+^ it &char [ &name ] 
+^ &char - - ) &name [ &name , val3dtrans ] &char [ comp3dthat ] 
+^ &char [ &name , val3dv ] -- ) &name [ &name ] &name [ val3dv , extrasb3dyes &name [ &name ] -- ) &name [ &name ] &name [ &name ] -- ) &name [ &name ] 
+^ &name &name ? 
+</text_embedded>
+<text_normal> 
+
+^ yes , you might also want to think about how to do this in &name / &name 
+^ - - how cld you exploit the &name feature on verbs ? 
+^ remember the important thing to think is why is &num appr . 
+^ better than another , not which is correct ? 
+^ &name
+</text_normal>
+</message_body>
+</message>

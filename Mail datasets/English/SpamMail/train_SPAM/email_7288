@@ -1,0 +1,24 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name , das is nur f' &char dich ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> mon, 10 mar 2003 02:11:29 +0100 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name ! 
+^ ich kann nicht schlafen und will / kann dich nicht vergessen . 
+^ &name kennst mich nicht , aber ich kenne dich ! 
+^ ich habe mich endlich getraut , mich dir zu erkennen zu geben . 
+^ &name einfach diese &name , die ich extra f' &char dich gebastelt habe : &website dann weisst du auch vielleicht wer ich bin .. 
+^ &name bis bald ! 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<from>
+</from>
+<to> org </to>
+<date> sat, 24 may 2003 20:33:35 +0200 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ fonts control center module improvement 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ hi , changing font settings for &name can get boring , after a while , and being able to load one of a few presets would be nice . 
+^ i have just started to program a small change to the control center module to add the ability to save a " font schema " in a way similar to what is available under the color module . 
+^ so far , i played with the &name , i am going to implement the real stuff soon . 
+^ a snapshot of what the dialog will look like is at 
+^ &website 
+^ i 'd appreciate some feedback . 
+^ thank you , &name kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

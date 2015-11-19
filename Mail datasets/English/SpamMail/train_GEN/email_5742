@@ -1,0 +1,26 @@
+<message>
+<from>
+</from>
+<to> net </to>
+<subject></subject>
+<date> thu, 1 may 2003 22:24:30 -0400 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ je souhaiterai la traduction &name 'sfx &name " en frane7ais . 
+^ que dois-je &name ? 
+^ &name . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ je souhaiterai la traduction &name 'sfx &name " en frane7ais . 
+^ que dois-je &name ? 
+^ &name . 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name prices , get &num - &num percent on your inkjet supplies . 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

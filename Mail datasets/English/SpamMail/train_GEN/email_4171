@@ -1,0 +1,21 @@
+<message>
+<from> ac.uk </from>
+<to> org.uk </to>
+<subject>
+<text_normal> 
+
+^ wired 
+</text_normal>
+</subject>
+<date> thu, 16 jan 2003 21:29:31 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ here 's the " wired " article &name - very interesting ( if a little frightening ! ) . 
+^ speak soon , 
+^ &name 
+^ &website 
+</text_normal>
+</message_body>
+</message>

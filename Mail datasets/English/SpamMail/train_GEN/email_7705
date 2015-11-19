@@ -1,0 +1,34 @@
+<message>
+<date> wed, 22 jan 2003 21:02:47 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : meetings timetable 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ the timetable is at &website 
+^ the place is usually circulated by the contact people on the lsit you saw at the meeting ( which i 'll photocopy in the morning) . 
+^ they are &name &name ( &email ) for &name and safety and &name &name ( amw1&smiley for library . 
+^ &name 
+^ &name &name &email " never give up ! 
+^ * never * surrender ! " 
+^ &name wed , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name &name , 
+^ sorry if you did n't need this reminder but , just to make sure , could you email me the link to the meetings timetable , please ? 
+^ i have lectures when your version says the health and safety meeting is , so if there 's any chance the time 's been changed , i need to check . 
+^ also , i do n't know where the meeting is ... is that on the timetable too ? 
+^ thanks . 
+^ see you , 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

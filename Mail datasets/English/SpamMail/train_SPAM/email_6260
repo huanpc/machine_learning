@@ -1,0 +1,35 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name : &name hit &num year &name &num ... $ # &num 
+</text_normal>
+</subject>
+<date> wed, 26 mar 2003 21:05:38 -1900 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ 
+^ &num &num loans with ' &num ' down and ' &num ' closing available 
+^ fact : interest rates are at their lowest point in &num years ! 
+^ less then perfect credit ? 
+^ ... we can help ! ! ! 
+^ * &name 
+^ * &name &name &name 
+^ * &name &name 
+^ * &name &name 
+^ * auto loans 
+^ * credit cards 
+^ * student loans 
+^ * second mortgage 
+^ * &name &name 
+^ this service is &num free without any obligation . 
+^ stop by at : &website 
+^ drop list : &website 
+^ vmwauuk3g3a4r720gxerjqnd3jzcpfhophxfjpxdi5z14ogzkl3s3vaezwvg1miux0go 
+</text_normal>
+</message_body>
+</message>

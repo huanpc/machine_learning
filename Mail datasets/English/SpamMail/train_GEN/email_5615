@@ -1,0 +1,52 @@
+<message>
+<date> fri, 22 nov 2002 07:12:14 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name christmas meal 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hello everyone , 
+^ after the success of the &name meal , many people have asked me when the next event is likely to be . 
+^ i would like to thank everyone who attended the meal at &name house for making it such an enjoyable evening out . 
+^ i would also like to propose that we arrange another meal for the last day of the michaelmas term , friday the 6th of december . 
+^ ( just after my group has won the syntactic tutorial bottle of wine ) . 
+^ in the true christmas spirit i would also like to extend the invitation to our lecturers and practical demonstrators ( can someone tell me the demonstrators mail addresses ) . 
+^ i was hoping that we could arrange a traditional christmas dinner , at one of the local english restaurants . 
+^ if anyone can recommend such a restaurant please get in touch with me . 
+^ perhaps we could have time for a small sweet sherry , before the meal , and partake in some of the local folk dancing after it . 
+^ ( what would you like to do ? ) . 
+^ if your interested in this festive end of term gastronomical extravaganza , just reply to this email . 
+^ i will require accurate numbers if were going to go to a good class of restaurant . 
+^ regards 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hello everyone , 
+^ after the success of the &name meal , many people have asked me when the next event is likely to be . 
+^ i would like to thank everyone who attended the meal at &name house for making it such an enjoyable evening out . 
+^ i would also like to propose that we arrange another meal for the last day of the michaelmas term , friday the 6th of december . 
+^ ( just after my group has won the syntactic tutorial bottle of wine ) . 
+^ in the true christmas spirit i would also like to extend the invitation to our lecturers and practical demonstrators ( can someone tell me the demonstrators mail addresses ) . 
+^ i was hoping that we could arrange a traditional christmas dinner , at one of the local english restaurants . 
+^ if anyone can recommend such a restaurant please get in touch with me . 
+^ perhaps we could have time for a small sweet sherry , before the meal , and partake in some of the local folk dancing after it . 
+^ ( what would you like to do ? ) . 
+^ if your interested in this festive end of term gastronomical extravaganza , just reply to this email . 
+^ i will require accurate numbers if were going to go to a good class of restaurant . 
+^ regards 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

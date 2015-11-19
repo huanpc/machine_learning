@@ -1,0 +1,29 @@
+<message>
+<date> wed, 26 mar 2003 21:15:22 gmt </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ receive $ &num / day returning phone calls 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ how would you like to receive $ &num , &num to $ &num , &num 
+^ &name every week starting immediately ? 
+^ all you have to do is return phone calls , no selling . 
+^ why are so many joining so quickly ? 
+^ * no matrix to mess with ! 
+^ * no binaries to balance ! 
+^ * no products to pitch ! 
+^ you 've never seen another program like this ! 
+^ please call toll free , i would love to talk to you and share my success with you call me toll free @ &num and leave me your first & last name , what time zone you are in , and the best time to reach you . 
+^ i will personally call you back , and take no more than &num minutes of your time . 
+^ toll free : &num 
+^ thanks , &name 
+</text_normal>
+</message_body>
+</message>

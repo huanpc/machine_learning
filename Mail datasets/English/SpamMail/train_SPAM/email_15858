@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ earn your degree in as little as &num months ! 
+</text_normal>
+</subject>
+<content-type> text/html; </content-type>
+<date> thu, 3 apr 2003 14:52:55 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+^ american intercontinental university has been educating students for over &num years . 
+^ we have over &num students with campuses around the world . 
+^ &name &name 's virtual campus offers degrees with classrooms as close as any internet connected computer . 
+^ at &name online you can earn your degree on the fast track : &name 's degree in business administration &num months concentration in information technology bachelor 's degree in information technology &num months master 's degree in information technology - &num months &name 's degree in business administration &num months concentration in business bachelor 's degree in business administration - &num months master 's degree in business administration ( &name ) - &num months 
+^ all &name , any time ! 
+^ the e-mail address is &website ] 
+^ or reply to this message with the word &quot;unsubscribe&quot; in the subject line . 
+^ if you feel this is unsolicited mail , reply to this message with the word &quot;abuse&quot; in the subject and your reasons in the body of the message . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,31 @@
+<message>
+<to> com </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=utf-8 </content-type>
+<subject>
+<text_normal> 
+
+^ &name is ... ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ 28insert ? 
+^ apt ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ word29 ? 
+</text_normal>
+</subject>
+<date> thu, 19 jul 2001 23:49:48 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ " &name , i am now going to &name . 
+^ i will attempt to communicate with you from the outward place . 
+^ adieu till tuesday . 
+^ &name xx " 
+^ i blinked . 
+^ anyway , i did n't mean that . 
+</text_normal>
+</message_body>
+</message>

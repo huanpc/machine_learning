@@ -1,0 +1,35 @@
+<message>
+<date> wed, 09 apr 2003 13:00:01 -0400 </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name &num / &num &name & &num gifts 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ another &name &name brought to you by : 
+^ you are receiving this email because you subscribed to receive special offers through the humornetwork when you signed up for your jokes . 
+^ if you wish to unsubscribe , please follow the instructions at the bottom of the email . 
+^ &# &num ; &num ( &num &name . ) &name &name ( # 1144hhk ) &name . 
+^ $ &num , now only $ &num - save $ &num 
+^ &# &num ; &num ( &num &name . ) &name &name ( # 628hhk ) &name . 
+^ $ &num , now only $ &num - save $ &num 
+^ &# &num ; &num ( &num &name . ) boneless strips ( # 922hhk ) &name . 
+^ $ &num , now only $ &num - save $ &num 
+^ hurry ! 
+^ click here to order now ! 
+^ this offer expires april &num , &num or while supplies last . 
+^ &name ( and ask for your selection # 's) 
+^ limit of &num of each selection at these exclusive prices . 
+^ free gifts must ship with your order . 
+^ this message has been processed by &name &name . 
+^ if you do n't want to get these letters anymore please send an email to unsubscribe 
+</text_normal>
+</message_body>
+</message>

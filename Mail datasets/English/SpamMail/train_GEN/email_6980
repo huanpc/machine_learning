@@ -1,0 +1,69 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : &name ... 
+</text_normal>
+</subject>
+<date> sun, 18 aug 2002 20:37:16 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi there , it was quite a while since i asked you about integrating &name maker into my archiver . 
+^ there happened things in my life that prevented me from continue developing it . 
+^ but i have released my first english version now . 
+^ it integrates with &name &name . 
+^ you can checkout the website : &website . 
+^ have a nice day ! 
+^ /christian 
+^ from : 'sfx maker " ( &email ) 
+</text_normal>
+<text_embedded> 
+
+^ to : " christian &name " ( &email ) subject : re : &name ... 
+^ &name : &name , &num &name &num &num : &num : &num &num 
+<text_embedded>
+
+<text_embedded>
+
+<text_embedded> 
+
+^ i am developing an archiver and i wonder what &char shall do to to use &name in it as &name and &name does ? 
+</text_embedded>
+
+</text_embedded>
+
+^ the language i am using is c++ ( &name c++ builder &num ) . 
+^ i do n't have an url yet because the archiver is not totaly complete . 
+^ i will contact you when it is . 
+</text_embedded>
+
+^ did i get back to you on this ? 
+^ i ca n't remember . 
+^ sorry if i did n't. 
+^ the easiest thing to do is to use the attached &name module as c++ builder can quite happily use &name modules ( the &name of &name &name is written in c++ builder and has some c++ and some &name modules ) . 
+^ the attached code is exactly the same as is used in &name and &name , so it has been tried and tested . 
+^ simply call run&name when the user selects " create a self-extracting archive " . 
+^ if it returns true , then &name &name has been successfully run and you can leave all the work to &name &name . 
+^ alternatively , if it returns false , you should use your own internal &name creation utility ( if any ) or show a dialog telling the user where they can get &name &name from . 
+^ do n't forget to send me a link and image & banner to link to you from the &name &name website ! 
+^ yours , 
+^ &name &name &name &name author 
+^ &name &name : &name , free & easy for file sharing &website 
+^ - &name &name & fingerprint - &website aaa8 95a1 cc07 ae13 &name &name &name &name 0b16 5d3f 
+^ the following section of this message contains a file attachment prepared for transmission using the &name mime message format . 
+^ if you are using &name mail , or any another mime-compliant system , you should be able to save it or view it from within your mailer . 
+^ if you cannot , please ask your system administrator for assistance . 
+^ - --- file information ----------- &website date : &num &name &num , &num : &num &name : &num bytes . 
+^ type : program-source ( ( &website ) ) 
+</text_embedded>
+<text_normal> 
+
+^ join the world 's largest e-mail service with &name &name . 
+^ &website 
+</text_normal>
+</message_body>
+</message>

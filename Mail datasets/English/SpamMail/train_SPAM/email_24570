@@ -1,0 +1,14 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name &name now with &name , &name , &name , &name &name , shipped to your door 
+</text_normal>
+</subject>
+<date> thu, 10 apr 03 04:16:12 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

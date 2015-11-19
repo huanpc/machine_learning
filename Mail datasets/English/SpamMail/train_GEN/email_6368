@@ -1,0 +1,53 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : &name parade &num / &num / &num 
+</text_normal>
+</subject>
+<to> ac.uk </to>
+<from> police.uk </from>
+<date> mon, 3 feb 2003 14:11:52 +0000 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ the only thing is not to wear any clothing with college markings that would point you out as a student . 
+^ thanks , 
+^ &name 
+^ &name on &num / &num / &num &num : &num : &num 
+^ sent by : &email 
+^ to : &email cc : subject : re : &name parade &num / &num / &num 
+^ that will be fine with me . 
+^ is there any further information i need to know or just turn up at &num ? 
+^ thanks 
+^ &name 
+^ - -on &num january &num &num : &num &num &email wrote : 
+</text_normal>
+<text_embedded> 
+
+^ there is an &name parade at &name police station , &name , which we would like you to attend at : 
+^ &num &num pm on &name 3rd &name &num . 
+^ please e-mail me with your reply . 
+^ &name &name &name &name , &name police station 
+^ &name e-mail is not to be treated as a secure means of communication &name &name monitors all internet e-mail activity and content . 
+^ this communication is confidential and intended for the addressee ( &char ) only . 
+^ please notify the sender if you have received this in error . 
+^ unauthorised use or disclosure of the contents may be unlawful . 
+^ opinions expressed in this document may not be official policy . 
+^ thank you for your cooperation . 
+^ ( &char ) &name &name 
+</text_embedded>
+<text_normal> 
+
+^ &name e-mail is not to be treated as a secure means of communication &name &name monitors all internet e-mail activity and content . 
+^ this communication is confidential and intended for the addressee ( &char ) only . 
+^ please notify the sender if you have received this in error . 
+^ unauthorised use or disclosure of the contents may be unlawful . 
+^ opinions expressed in this document may not be official policy . 
+^ thank you for your cooperation . 
+^ ( &char ) &name &name 
+</text_normal>
+</message_body>
+</message>

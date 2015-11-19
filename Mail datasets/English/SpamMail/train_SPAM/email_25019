@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ status : &name . 
+^ sum : $ &num granted . 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> wed, 9 apr 2003 01:14:07 -0700 (pdt) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &num 
+^ pay to the order of 
+^ click here to transfer your free casino play money into your account now . 
+^ click here for minimum deposit required 
+^ you received this email because you signed up at &num of &name 's websites ( see the ' properties ' listed at &website . 
+^ ( &char ) &num &name , inc. all rights reserved . 
+</text_normal>
+</message_body>
+</message>

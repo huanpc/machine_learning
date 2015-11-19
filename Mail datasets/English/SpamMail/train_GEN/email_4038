@@ -1,0 +1,35 @@
+<message>
+<date> thu, 06 jun 2002 17:26:15 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name coil 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ okey dokey blokey 
+^ we 'll give this guy in the electronics workshop a go ! 
+^ &name x 
+^ &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hear hear ! 
+^ &name &name wrote : 
+<text_embedded> 
+
+^ absolutely . 
+^ we shall not give up . 
+^ we shall fight on . 
+^ we may have lost a battle , but we will win the war ! ! ! ! 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

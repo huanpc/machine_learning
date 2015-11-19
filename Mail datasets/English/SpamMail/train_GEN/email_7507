@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ after i sent in my order for a laptop mouse , i realized that i had forgotten to include the laptop . 
+^ i think a &name &name would be best . 
+^ can you throw this in with no additional shipping charge ? 
+</text_normal>
+</message_body>
+</message>

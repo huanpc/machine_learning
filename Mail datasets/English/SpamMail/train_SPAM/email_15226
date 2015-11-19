@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your computer may be infected 
+</text_normal>
+</subject>
+<date> tue, 1 apr 2003 14:44:44 -0600 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

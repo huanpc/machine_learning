@@ -1,0 +1,30 @@
+<message>
+<from> net.au </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ one of my projects 
+</text_normal>
+</subject>
+<date> tue, 24 dec 2002 12:34:12 +1000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , i am writing a guide which requires &name . 
+^ is it ok if i put &name up on my website ? 
+^ thanks , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi , i am writing a guide which requires &name . 
+^ is it ok if i put &name up on my website ? 
+^ thanks , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

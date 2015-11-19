@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ gift from &name , &num , &num my &name points enclosed 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; class-id=gvglbbbqgrbceqggbcgrgrbvbrbcggcogvgn-6452016 </content-type>
+<date> fri, 28 mar 2003 07:52:45 est </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

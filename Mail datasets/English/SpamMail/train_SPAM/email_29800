@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ get &name &name to your door - no prior &name needed 
+</text_normal>
+</subject>
+<date> sat, 13 apr 02 13:42:26 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

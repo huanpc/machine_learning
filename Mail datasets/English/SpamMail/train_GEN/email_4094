@@ -1,0 +1,49 @@
+<message>
+<date> thu, 23 nov 2000 11:36:10 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ howdy doody . 
+^ i have classes all afternoon until &name , so it probably wo n't be me picking you up from the station . 
+^ it might be &name , it might be &name . 
+^ but do n't worry , there 'll be flowers . 
+^ and ice . 
+^ hope you get enough work done so that you do n't have to panic when you get back ! 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , &name . 
+^ be impressed , 
+^ i am spending over &num hours in transport down to &name . 
+^ &name ! 
+^ i 'll arrive at &num : &num on friday afternoon . 
+^ be there . 
+^ bring a limo . 
+^ or a big , big chocolate bar . 
+^ no , bring both . 
+^ and ice ! 
+^ and there better be flowers . 
+^ and a band . 
+^ &name , 
+^ i 'm looking forward to this now , and will &name friends be there on saturday night , like &name , and &name &name ? 
+^ what type of party will it be ? 
+^ see you then , 
+^ &name &name &name &name &num &num &num 
+^ &name &char , &name &name 's &name , &name 's &name , &name , &name &num 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+</text_embedded>
+</message_body>
+</message>

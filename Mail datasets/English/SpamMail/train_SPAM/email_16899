@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<date> fri, 04 apr 2003 10:02:42 -0700 </date>
+<subject>
+<text_normal> 
+
+^ fwd : get the # &num &name worldwide 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ $ &name $ encodebatchdata 
+^ &name 
+</text_normal>
+</message_body>
+</message>

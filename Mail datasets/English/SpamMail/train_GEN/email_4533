@@ -1,0 +1,24 @@
+<message>
+<date> tue, 4 mar 2003 11:09:42 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : happy birthday ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks &name ! ! 
+^ you got the right day - fantastic ! 
+^ i 've got &num lectures this morning , so i 'm sneaking in a quick email check between the first and second ! 
+^ i 'm also working very hard at the moment . 
+^ &name , must get to my lecture . 
+^ take care , 
+^ &name
+</text_normal>
+</message_body>
+</message>

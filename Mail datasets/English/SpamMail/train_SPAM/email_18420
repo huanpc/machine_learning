@@ -1,0 +1,14 @@
+<message>
+<date> fri, 4 apr 2003 15:30:18 -0700 </date>
+<subject>
+<text_normal> 
+
+^ &name : how much do you spend on &name &name ? 
+</text_normal>
+</subject>
+<from> net </from>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

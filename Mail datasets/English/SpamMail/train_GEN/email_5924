@@ -1,0 +1,37 @@
+<message>
+<date> mon, 26 may 2003 22:04:23 -0500 </date>
+<to> altmuehlnet.de </to>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ [ &name ] problem configuring for debian 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i 'm trying to install &num on a debian ( &name ) system . 
+^ it 's a mixed stable / unstable system ; i have installed gcc3.3 . 
+^ configure failed even though i have libqt3-mt-dev . 
+^ can someone tell me what &website 
+^ - &name &name 
+^ configure : &num : checking for &name configure : &num : /usr / include / qt3 / qstyle.h taking that configure : &num : rm -rf sunws_cache ; g++ &char conftest -o2 -fno-exceptions -fno-check-new &char / usr / include / &name &char / usr / x11r6 / include -dqt_thread_support -d_reentrant &char / usr / lib / &name &char / usr / x11r6 / lib conftest.cc -lnsl -lqt-mt -lpng -lz -lm -ljpeg -ldl -lxext -lx11 &name -lice -lresolv -lpthread &name /tmp / ccuqur3e.o ( &char ) : in function main " : : undefined reference to &name : : null " /tmp / ccuqur3e.o ( &char ) : in function main " : : undefined reference to &name : : null " /tmp / ccuqur3e.o ( &char ) : in function main " : : undefined reference to &name : : create ( &name const & ) " /tmp / ccuqur3e.o ( &char ) : in function main " : : relocation truncated to fit : &name &name : : create ( &name const & ) /tmp / ccuqur3e.o ( &char ) : in function main " : : undefined reference to &name : : &name ( int ) " /tmp / ccuqur3e.o ( &char ) : in function main " : : relocation truncated to fit : &name &name : : &name ( int ) /tmp / ccuqur3e.o ( .text+0x2c ) : in function main " : : undefined reference to qcursor::&name ( void ) " /tmp / ccuqur3e.o ( .text+0x2c ) : in function main " : : relocation truncated to fit : &name &name ( void ) /tmp / ccuqur3e.o ( &char ) : undefined reference to &name : : width ( int ) " /tmp / ccuqur3e.o ( &char ) : undefined reference to &name : : fill ( int ) " /tmp / ccuqur3e.o ( &char ) : undefined reference to &name : : precision ( int ) " /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t. ( void)+0x2e ) : in function &name ( &name ) : : &name ( void ) " : : undefined reference to &name : : shared_null " /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t. ( &char ) : in function &name ( &name ) : : &name ( void ) " : : undefined reference to &name : : shared_null " /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t. ( void)+0x3c ) : in function &name ( &name ) : : &name ( void ) " : : undefined reference to &name : : &name ( void ) " /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t. ( void)+0x3c ) : in function &name ( &name ) : : &name ( void ) " : : relocation truncated to fit : &name &name : : &name ( void ) /tmp / ccuqur3e.o ( &num ) : in function &name ( qstring)::&name ( void ) " : : undefined reference to &name : : shared_null " /tmp / ccuqur3e.o ( &name ) : in function &name ( qstring)::&name ( void ) " : : undefined reference to &name : : shared_null " /tmp / ccuqur3e.o ( &name ) : in function &name ( qstring)::&name ( void ) " : : undefined reference to &name : : &name ( void ) " /tmp / ccuqur3e.o ( &name ) : in function &name ( qstring)::&name ( void ) " : : relocation truncated to fit : &name &name : : &name ( void ) /tmp / ccuqur3e.o ( &name ) : in function &name ( qstring)::&name ( void ) " : : undefined reference to &name : : shared_null " /tmp / ccuqur3e.o ( &name ) : in function &name ( qstring)::&name ( void ) " : : undefined reference to &name : : shared_null " /tmp / ccuqur3e.o ( &name ) : in function &name ( qstring)::&name ( void ) " : : undefined reference to &name : : &name ( void ) " /tmp / ccuqur3e.o ( &name ) : in function &name ( qstring)::&name ( void ) " : : relocation truncated to fit : &name &name : : &name ( void ) /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t.insert ( &name ( &name ) , &name const &)+0x4c ) : in function &name ( &name ) : : insert ( &name ( &name ) , &name const & ) " : : undefined reference to &name : : &name ( &name const & ) " /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t.insert ( &name ( &name ) , &name const &)+0x4c ) : in function &name ( &name ) : : insert ( &name ( &name ) , &name const & ) " : : relocation truncated to fit : &name &name : : &name ( &name const & ) /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t. ( &name ( &name ) const &char ) : in function &name ( &name ) : : &name ( &name ( &name ) const & ) " : : undefined reference to &name : : shared_null " /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t. ( &name ( &name ) const &num ) : in function &name ( &name ) : : &name ( &name ( &name ) const & ) " : : undefined reference to &name : : shared_null " /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t. ( &name ( &name ) const &char ) : in function &name ( &name ) : : &name ( &name ( &name ) const & ) " : : undefined reference to &name : : &name ( void ) " /tmp / ccuqur3e.o ( .qvaluelistprivate ( &name ) : : gnu.linkonce.t. ( &name ( &name ) const &char ) : in function &name ( &name ) : : &name ( &name ( &name ) const & ) " : : relocation truncated to fit : &name &name : : &name ( void ) &name : ld returned &num exit status configure : &num : $ ? 
+^ &num configure : failed program was : # include " confdefs.h " # include ( qglobal.h ) # include ( qapplication.h ) # include ( qcursor.h ) # include ( qstylefactory.h ) # include ( private / qucomextra_p.h ) # if ! 
+^ ( qt_version ) &num ) # error &num # endif 
+^ int main ( ) { ( void ) &name : : create ( &name : : null ) ; &name &char ( &name : : &name ) ; return &num ; configure : &num : error : &name ( ) &name &num ) ( library qt-mt ) not found . 
+^ please check your installation ! 
+^ &website . 
+^ make sure that you have compiled &name with thread support ! 
+</text_normal>
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

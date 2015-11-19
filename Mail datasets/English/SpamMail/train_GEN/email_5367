@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : numbering on test data 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 12 mar 2003 20:00:33 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i will do it and let you know . 
+^ since you answered so late , i will have to create a parallel directory , as some students might have started work on the existing directory . 
+^ i will let you know once it exists . 
+^ good luck with the evaluation ! 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,47 @@
+<message>
+<date> tue, 16 jul 2002 18:41:40 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : schema changes and addendas ... 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i do n't think we ( the box people ) need any of this information . 
+^ as long as you ( the &name people ) store predicate and expression strings with identifiers as : &num : &char : &num : &num : we wo n't be needing tuple descriptors . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ on &name , &num &name &num , &name &name &name wrote : 
+<text_embedded> 
+
+^ couple issues here : 
+^ for the table typefield , we 'd like to remove the attribute " offset " and add an attribute 'size " of type int , since the offset may be inferred from the size . 
+</text_embedded>
+
+^ how so ? 
+^ if the attribute is the third one appearing in the tuple , how could we use its size to determine its offset ? 
+^ we 'd need the sizes of the previous attributes also , no ? 
+</text_embedded>
+
+^ we &name guys do not mind having the offset column in the table . 
+^ however , assume that you are creating a &name as in your spec . 
+^ then , i guess you would visit the compositetype table first and then , scan all the records in the typefield table such that &name &name . 
+^ while doing so , i think you can accumulatively compute the correct offsets for the attirbutes and reflect those in the &name . 
+^ conclusively , if you from time to time need to access the typefield table for individual attributes regardless of tupledescriptors you constructed , i guess we definitely need to have the offset field in the table . 
+^ but , if tupledescriptors are good enough , i am doubtful if we still need the offset column in the table . 
+^ please let me know what you think . 
+^ thanks , 
+^ &name &name . 
+</text_embedded>
+</message_body>
+</message>

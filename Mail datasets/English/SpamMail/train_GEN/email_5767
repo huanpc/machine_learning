@@ -1,0 +1,27 @@
+<message>
+<date> wed, 30 oct 2002 17:55:28 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ " operating systems in distributed , concurrent software " , draft chapters 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_embedded> 
+
+^ from tomorrow in &name we 'll be covering the second section of the course on concurrency , distributed systems and transactions . 
+^ the " concurrent systems " text book is the most relevant one for this part and as i 've mentioned before this is being updated under a new title " operating systems in distributed , concurrent software " . 
+</text_embedded>
+<text_normal> 
+
+^ i 've put draft copies of the relevant chapters on the web ( access is restricted to within the university ) . 
+^ note that these are the initial versions sent to the publishers , before typesetting and proof-reading . 
+^ unfortunately diagrams and figures ca n't be included because those are produced through a different system . 
+^ &website / 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

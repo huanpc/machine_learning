@@ -1,0 +1,40 @@
+<message>
+<date> sat, 30 nov 2002 22:26:19 +0100 </date>
+<subject>
+<text_normal> 
+
+^ &name books request 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear chorus members , 
+^ i 've had an enquiry about borrowing a carol book for &name 19th . 
+^ does anyone have access to a set of &num carols for choirs , or carols for &name &name &num & &num , which they might be able to borrow for use on the day - and with luck next thursday evening as well ? 
+^ i realise that it 's quite an expensive item at this time of the term . 
+^ i also realise that schools and churches may well be using them , if not on that very day then after our concert , and they would not want to run the risk of losing any . 
+^ however if anyone can find a source it would be hugely appreciated by those who have n't managed to secure one yet . 
+^ please let me know asap if you have any news ! 
+^ best wishes , &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name books request dear chorus members , 
+^ i 've had an enquiry about borrowing a carol book for &name 19th . 
+^ does anyone have access to a set of &num carols for choirs , or carols for ch oirs bks &num &amp; &num , which they might be able to borrow for use on the day - and with luck next thursday evening as well ? 
+^ i realise that it 's quite an expensive item at this time of the term . 
+^ &char als i realise that schools and churches may well be using them , if not on that &char ery day then after our concert , and they would not want to run the risk of &char osing any . 
+^ however if anyone can find a source it would be hugely appreciate &char by those who have n't managed to secure one yet . 
+^ please let me know asap if you have any news ! 
+^ best wishes , &name 
+</text_normal>
+</part>
+</message_body>
+</message>

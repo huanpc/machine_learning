@@ -1,0 +1,37 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name is dead ! ! ! ! ! ! 
+</text_normal>
+</subject>
+<date> sat, 15 jul 2000 13:10:53 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ it 's true ! ! ! ! ! ! ! 
+^ reports are coming in of sightings of a lifeless raven , lying below a tree somewhere in &name . 
+^ it seems the raven in question was attempting some form of strange and twisted communication ritual involving bizarre movements of the head . 
+^ the word on the street is that this supposed raven could actually be the one known only as &name , an intergalactic ambassador from the &char &name . 
+^ we now turn to our reporter on the scene . ... 
+^ so , exactly how many reports have we had in. 
+^ reporter : well ... actually not that many . 
+^ how many ? 
+^ reporter : well ... ummm ... not very many at all really . 
+^ how many ? ? ? ? 
+^ reporter : well , actually just the one . 
+^ just the one ! ! ! ? ? ? ? ! ! ! 
+^ who from . 
+^ reporter : the eye-witness was &num &name &name , who appeared to be quite flustered and claimed she had seen the " raven " lying below the tree . 
+^ she also muttered something about being sick and tired of searching for &num . 
+^ we do not believe this had anything to do with her story however . 
+^ folks ! ! ! ! ! 
+^ i am hearing some breaking news . ... what ? ? ? . . ... surely not ! ! ! ! ! . ... folks , i have just heard from reliable sources that the whole story is a hoax - set up by some poor disillusioned girl from &name who lost it somewhere during the search for this remarkable bird . 
+^ the name " &name " has been banded about in relation to the &name incident , and some say that the aforementioned persona has had contact with the raven since the reported 'death " of &name . 
+^ &num lives on ! ! ! ! ! ! 
+</text_normal>
+</message_body>
+</message>

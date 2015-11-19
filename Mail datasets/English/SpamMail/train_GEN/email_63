@@ -1,0 +1,35 @@
+<message>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name : volunteers needed for &name experiment ( native english speakers ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> thu, 17 oct 2002 13:11:48 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ this experiment sounds interesting but i 'm just forwarding the request for &name - please address any questions to her , 
+^ &name 
+^ subject : volunteers needed for &name experiment 
+^ we are a group of researchers at the university of &name who are presently conducting an experimental study of language use . 
+^ as part of this study , we 're looking for people who are willing to take part in an experiment conducted over the &name wide web . 
+^ by taking part in this experiment , you will automatically be entered into our prize draw . 
+^ we will randomly choose &num participants who will each be sent a cheque for &num pounds . 
+^ the &name is open to anyone willing to receive a &name cheque . 
+^ to participate , you need to be a native speaker of english . 
+^ the experimental procedure is simple ; you 'll see a small number of texts in which the order of the sentences is scrambled . 
+^ your task is to arrange the sentences so that they form a coherent text . 
+^ the experiment will take approximately &num minutes to complete . 
+^ to participate , you will need a web browser that supports javascript . 
+^ the experiment is called sentence ordering '' and can be found at the following web site : 
+^ &website / 
+^ thanks in advance for your help ! 
+^ - -------------------------------------------------------------------- &name &name &name &name / school of informatics --- &name of &name &num &name place , &name &name &name , &name -------- &num &email ------ &website / 
+^ - -------------------------------------------------------------------- 
+</text_normal>
+</message_body>
+</message>

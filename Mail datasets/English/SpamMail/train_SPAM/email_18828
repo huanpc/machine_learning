@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<date> 3/18/2003 9:38:08 pm </date>
+<subject>
+<text_normal> 
+
+^ save up to &num on &name &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary='~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~' </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

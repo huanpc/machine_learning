@@ -1,0 +1,21 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ eine &name &name wartet auf dich ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> wed, 26 mar 2003 10:54:41 +0100 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name schickt dir eine &name &name ! 
+^ um sie &name anzusehen , einfach den folgenden link anklicken : &website 
+^ &name &name w' nscht das &name &name &name ! 
+</text_normal>
+</message_body>
+</message>

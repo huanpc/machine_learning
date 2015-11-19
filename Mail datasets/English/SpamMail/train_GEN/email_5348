@@ -1,0 +1,43 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ &name project assignments 
+</text_normal>
+</subject>
+<date> mon, 24 feb 2003 10:39:14 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ dear masters &name , please find below the list of project assignments . 
+^ could those students who have not yet supplied a title to " own project " please do so by &num : &num tuesday 25th &name . 
+^ may i also remind you that we require a work plan to be submitted , including any special resources required and agreed by your supervisor , to be submitted by the end of term ( march 14th ) . 
+^ please drop them off with reception or &name administration labelled " for the attention of &name &name " . 
+^ many thanks , &name 
+^ &name , &name &name domain-specific and non-domain-specific anaphora resolution techniques &name &name 
+^ &name , &name &name text using linguistic features &name &name 
+^ &name , &name detecting sentiment shift for improved automatic sentiment &name &name &name 
+^ &name , &name a web &name and dynamic text filter for &name &name &name &name 
+^ &name , &name &name and predicative &name &name &name 
+^ &name , &name &name conversion in a concatenative unit-based &name &name &name &name ( &name ) / &name &name 
+^ &name , &name &name fractal dimensions in &name &name &name &name 
+^ &name , &name own &name &name &name 
+^ &name , &name &name &name &name &name 
+^ &name , &name &name classification using &name &name &name &name 
+^ &name , &name own project &name &name 
+^ &name , &name own project &name &name 
+^ &name , &name &name as a frontend for speech recognition &name &name 
+^ &name , &name improving the &name system ( named entity recognition and &name ) &name &name 
+^ &name , &name &name text using linguistic &name &name &name 
+^ &name , &name statistical language modelling using a hidden vector state model &name &name 
+^ &name , &name &name &name &name &num &name &name 
+^ &name , &name temporal linear &name &name &name 
+^ &name &name using hybrid static / dynamic grammars to minimise redundancy in name and address recognition . 
+^ &name &name ( &name &name ) / &name &name 
+^ &name , &name techniques for aiding aphasic comprehension &name &name 
+</text_normal>
+</message_body>
+</message>

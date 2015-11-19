@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name &name , just pay shipping 
+</text_normal>
+</subject>
+<date> 28 mar 2003 17:37:59 +0300 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal>
+
+</text_normal>
+</message_body>
+</message>

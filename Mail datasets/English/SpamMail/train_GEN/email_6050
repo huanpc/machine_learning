@@ -1,0 +1,43 @@
+<message>
+<date> sat, 10 may 2003 16:59:41 +0100 </date>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : birthday party 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi 
+^ yeah , i 'd love to come - many happy returns for the 17th ! 
+^ thank you ! 
+^ i look forward to seeing you . 
+^ &name 
+^ on friday &num may &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ my birthday is &num may : i 'll be turning &num . 
+^ i 'd like to have a get-together the day after to celebrate . 
+^ the get-together will be at the &name &name , which is at &num &name yard ( off bridge &name : you turn in by the silver shop ) . 
+^ it 's at &num : &num &name sunday &num may . 
+^ please rsvp so i can give the &name &name an accurate head count . 
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ ++ &name &name , &email 
+^ * * to see an award-winning website with stories , essays , artwork , 
+^ * * games , and a four-dimensional maze , why not visit my home page ? 
+^ * * all of this is waiting for you at &website 
+</text_normal>
+</message_body>
+</message>

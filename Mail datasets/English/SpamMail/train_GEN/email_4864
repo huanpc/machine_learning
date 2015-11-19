@@ -1,0 +1,31 @@
+<message>
+<date> mon, 22 jul 2002 19:35:36 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : your mail 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ i have an account on her machine but i do n't have access to kill her ( or your ) processes . 
+^ sorry , 
+^ &name 
+^ on mon , &num &name &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey &name 
+^ , do you have an account in antonella 's machine ? 
+^ if so can you check the program that is running and try to kill it or whatever . 
+^ this thing has music running but ca n't do much cause the screen in blank . 
+^ i messed up a little bit . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 20:15:36 -0500 </date>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website / hi , i just got a &num year fixed mortgage at &num . 
+^ i found this website where lenders compete for your business . 
+^ i thought you may want to look at it . 
+^ &website / thanks , &name &name remove : &website / 
+</text_normal>
+</message_body>
+</message>

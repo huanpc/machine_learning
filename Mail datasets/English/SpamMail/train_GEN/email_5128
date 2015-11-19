@@ -1,0 +1,28 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<from>
+</from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ confirm 
+</text_normal>
+</subject>
+<date> mon, 19 may 2003 17:33:48 +0200 </date>
+<message_body>
+<text_normal> 
+
+^ mailing list subscription confirmation notice for mailing list lamo4tem 
+^ &name for subscription of your email address , " &email " , to the &email mailing list . 
+^ to confirm that you want to be added to this mailing list , simply reply to this message , keeping the subject : header intact . 
+^ or visit this web page : 
+^ &website 
+^ or include the following line -- and only the following line -- in a message to &email : 
+^ confirm 
+^ note that simply sending a reply " to this message should work from most mail readers , since that usually leaves the subject : line in the right form ( additional " re : " text in the subject : is okay ) . 
+^ if you do not wish to be subscribed from this list , please simply disregard this message . 
+^ if you think you are being maliciously subscribed to the list , or have any other questions , send them to &email . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ visits 
+</text_normal>
+</subject>
+<date> mon, 10 jun 2002 16:36:41 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ we have the following visits coming up and were wondering whether you were available to help ? 
+^ the dates and times are as follows : 
+^ 18th june 10am - &name &name &num helpers required 19th june 10.30am - &name &name &num helpers required - transport to / from &name provided 21st june 11am - 4.30pm corpus &name &num helpers required 24th june 10am - &name &name &num helpers required 26th june 10am - &name &name &name &num helpers required 27th june 10am - &name &name &name &num helpers required 28th june 10.30am - &name &name faculty &num helpers required 
+^ as usual , payment will be &pound; &num for a half day and &pound; &num for a full day . 
+^ if you have not received any payments for visits which you have assisted with up until the 1st june &num , please contact me so i can resolve this before you go home for the summer . 
+^ thanks a lot , &name 
+^ &name &name &name &name &name &name &name &name lodge , tennis &name road , &name &name &name &name : &num &num 
+</text_normal>
+</message_body>
+</message>

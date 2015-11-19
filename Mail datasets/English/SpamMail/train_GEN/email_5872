@@ -1,0 +1,25 @@
+<message>
+<date> thu, 23 jan 2003 17:57:50 +0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] bibliography 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ hi all , 
+^ the &name is up for viewing at : 
+^ &website or &website or &website 
+^ please do not refrain from appending to the list ! 
+^ cheers , &name 
+^ &name &name vice president &name university &name &name and business association ( &name ) &website 
+^ &name college &name &name : &num web : &website 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

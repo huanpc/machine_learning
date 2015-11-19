@@ -1,0 +1,24 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ alternative catering facility 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 17 aug 2001 12:41:04 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ &name college will be available for lunch from &num august . 
+^ &name during the vacation is from &num . 
+^ there is a cash till and you should show your university card at the desk . 
+^ the bar is also open in the evenings from &num and visitors are welcome . 
+^ the college also has a private dining room available for business lunches and dinners for up to &num people during term , or up to &num during vacations . 
+^ please contact their conference manager , miss &name &name , on &num for details . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

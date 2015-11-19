@@ -1,0 +1,20 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ free &name &name download ( &name : &name ) 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<date> sun, 16 mar 2003 23:49:39 -0600 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( html ) ( head ) ( meta http-equiv' content-type ' content' text / html ; charsetiso-8859-1 ' ) ( /head ) ( body bgcolor' # &name ' text' # &num ' link' # &num ' vlink' # &num ' alink' # &num ' ) ( p) ( font color' # &num ' size' &num ' face' impact , verdana' )new &name &name &name ( br ) ( /font) ( font size' &num ' face' verdana' )it &name require a credit card ( /font) ( br ) ( font size' &num ' face' verdana' ) ( a href' &website here for ( strong) ( font color' # &name )free download ( /font) ( /strong) ( /a) ( br ) ( strong ) ( /strong) ( /font) ( /p ) ( p)&nbsp;( /p ) ( p)&nbsp;( /p ) ( p)&nbsp;( /p ) ( p)&nbsp;( /p ) ( p)&nbsp;( /p ) ( p)&nbsp;( /p ) ( p)&nbsp;( /p ) ( p)&nbsp;( /p ) ( p) ( font color' # &num ' size' &num ' face' verdana' )if you want to remove yourself from future offers send a blank email with remove as subject to eccec332 @ &website make sure your subject is not blank . 
+^ please allow us up to &num hours . 
+^ ( /font) ( /p ) ( p) ( font size' &num ' face' verdana' ) ( br ) ( /font ) ( /p ) ( /body ) ( /html ) 
+</text_normal>
+</message_body>
+</message>

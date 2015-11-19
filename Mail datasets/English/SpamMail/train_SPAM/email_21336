@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name ! 
+^ &name &name $ &num free from spinning slots ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> mon, 7 apr 2003 00:49:45 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

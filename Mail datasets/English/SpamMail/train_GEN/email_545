@@ -1,0 +1,26 @@
+<message>
+<content-type> multipart/mixed </content-type>
+<to> com co.uk com </to>
+<from> ac.uk </from>
+<date> tue, 07 aug 2001 19:33:16 +0100 </date>
+<subject>
+<text_normal> 
+
+^ &name flat bills 
+</text_normal>
+</subject>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear flat people ( minus &name ) , 
+^ the enclosed document will tell you how much you owe the flat accounts at its closure . 
+^ ( except for &name , whom the account owes . ) 
+^ well , that is it . 
+^ the flat account is now closed ( expect i 'm still keeping it open really and am going to use it for my own use ) . 
+^ have a nice week . 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

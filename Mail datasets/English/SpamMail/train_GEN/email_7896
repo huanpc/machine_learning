@@ -1,0 +1,48 @@
+<message>
+<from> net </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : your mail 
+</text_normal>
+</subject>
+<date> tue, 26 dec 2000 16:29:47 -0800 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name : 
+^ that was &name 's attempt at e-mail . 
+^ he needs to enhance his typing skills , his fingers are a lot slower than his mouth . 
+^ i phoned you a couple of times yesterday and the lines were busy . 
+^ not sure if it was your phone line or the international lines . 
+^ when &name 's sister &name came over , she said she could not get through to anyone all day , yet i had phoned gran , your dad and &name and had no trouble getting through . 
+^ just as we were sitting down for christmas dinner &name &name &name phoned , so that was good for an hour and the dinner was almost ruined . 
+^ but it was n't too bad even if everything was bunged into the oven when she phoned . 
+^ &name gave me a book for christmas called &name &name 's chocolate recipes , so i 'll have to get started on them . 
+^ gran gave &name a book on &name which even instructs you to try the hair of the dog the next day . 
+^ i wonder if she 's trying to lead him even further astray . 
+^ we still have a ton of snow and it 's freeezing . 
+^ &name arrives from &name tomorrow , so he 'll notice quite the difference in the climate . 
+^ i 'm back at work tomorrow but &name is off till the 3rd of january . 
+^ will definitely get in touch at the weekend . 
+^ ( by the time i get home from work , you are probably fast asleep ) 
+^ &name . . . . . ... &name & &name 
+</text_normal>
+<text_embedded> 
+
+^ &name &name and &name , 
+^ you too . 
+^ see you soon , 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ merry christmas &name . 
+^ uncle &name &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

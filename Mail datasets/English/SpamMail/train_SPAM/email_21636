@@ -1,0 +1,19 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ larger and &name &name ! ! ! ... 
+</text_normal>
+</subject>
+<date> mon, 07 apr 2003 00:40:58 -0500 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ click here 
+^ to be removed - click here 
+</text_normal>
+</message_body>
+</message>

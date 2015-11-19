@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<date> sun, 06 apr 2003 12:40:44 -0700 </date>
+<subject>
+<text_normal> 
+
+^ stop ! 
+^ you can make $ 2k / day 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ $ &name $ encodebatchdata 
+^ &name 
+</text_normal>
+</message_body>
+</message>

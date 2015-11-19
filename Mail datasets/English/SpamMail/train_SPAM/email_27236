@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ important ! ! 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<date> wed, 9 apr 2003 21:31:02 -0300 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,43 @@
+<message>
+<from> com </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name &name 
+</text_normal>
+</subject>
+<date> fri, 12 apr 2002 11:36:40 -0400 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ mr. &name , 
+^ thank you for your interest in &name resources ltd. 
+^ unfortunately we are unable to offer any support at this time , and hope that you achieve the help you are looking for . 
+^ best &name , thank you kindly , 
+^ &name &name &name &name resources ltd. &num &name street , &name &num &name on &name &name ( &num ) &num &name ( &num ) &num &website 
+^ this message and any attachments thereto is intended only for the person or entity to which it is addressed . 
+^ this message may contain information that is privileged , confidential or exempt from disclosure under applicable law . 
+^ if you are not the addressee or an employee or agent responsible for delivering this message to the addressee , please notify us immediately by telephone and return this document to us at the address noted above . 
+^ any dissemination or copying of this message by anyone other than the addressee is strictly prohibited . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ mr. &name , 
+^ thank you for your interest in &name resources ltd. 
+^ unfortunately we are unable to offer any support at this time , and hope that you achieve the help you are looking for . 
+^ best &name , 
+^ thank you kindly , 
+^ &name &name &name &name resources ltd. &num &name street , &name &num &name on &name &name ( &num ) &num &name ( &num ) &num &website 
+^ this message and any attachments thereto is intended only for the person or entity to which it is addressed . 
+^ this message may contain information that is privileged , confidential or exempt from disclosure under applicable law . 
+^ if you are not the addressee or an employee or agent responsible for delivering this message to the addressee , please notify us immediately by telephone and return this document to us at the address noted above . 
+^ any dissemination or copying of this message by anyone other than the addressee is strictly prohibited . 
+</text_normal>
+</part>
+</message_body>
+</message>

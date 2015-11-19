@@ -1,0 +1,31 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : [ autopackage ] set &char in scripts and &name docs 
+</text_normal>
+</subject>
+<from> com </from>
+<to> org </to>
+<content-type> text/plain </content-type>
+<date> 24 may 2003 18:13:06 +0100 </date>
+<message_body>
+<text_embedded>
+
+<text_embedded> 
+
+^ a bit like &name . 
+^ how hard would this be to implement ? 
+</text_embedded>
+
+^ not hard . 
+^ takes maybe a half day or a few hours . 
+</text_embedded>
+<text_normal> 
+
+^ i think we should do this for &num then , otherwise we 'll have to go through and add the hyperlinks afterwards . 
+^ while most &name are not yet documented , it 'd make sense to do such additions earlier . 
+^ &name mailing list &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,46 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ fencing - beginners 
+</text_normal>
+</subject>
+<date> thu, 17 oct 2002 19:46:07 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi , 
+^ i hope you all enjoyed the squash this afternoon . 
+^ after a bit of consultation with prospective beginners at the squash , we 've decided to shift the beginners " session times slightly , so that people with afternoon lectures can still make a session . 
+^ the &num different beginners " sessions will now go from 3-4pm and 4-5pm on fridays . 
+^ the course will be taught from scratch , for absolute beginners , but feel free to attend them if you have a little experience but want to brush up a little before going to the intermediate session ( 4-6pm on sunday ) . 
+^ all equipment is provided - all you need to do is turn up wearing trainers , tracksuit trousers and a &char shirt . 
+^ best wishes , 
+^ &name &name 
+^ &name depending on demand there may also be a more informal beginners " session on sunday afternoons ( either 4-5pm or 5-6pm ) , but this will not be run by our professional coach . 
+^ &name if you want to be taken off the fencing mailing list please e-mail &email . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ clean clean documentemail microsoftinternetexplorer4 
+^ hi , 
+^ i hope you all enjoyed the squash this afternoon . 
+^ after a bit of consultation with prospective beginners at the squash , we 've decided to shift the beginners &num ; session times slightly , so that people with afternoon lectures can still make a session . 
+^ the &num different beginners &num ; sessions will now go from 3-4pm and 4-5pm on fridays . 
+^ the course will be taught from scratch , for absolute beginners , but feel free to attend them if you have a little experience but want to brush up a little before going to the intermediate session ( 4-6pm on sunday ) . 
+^ all equipment is provided  &num ; all you need to do is turn up wearing trainers , tracksuit trousers and a &char shirt . 
+^ best wishes , 
+^ &name &name 
+^ &name &char . 
+^ depending on demand there may also be a more informal beginners &num ; session on sunday afternoons ( either 4-5pm or 5-6pm ) , but this will not be run by our professional coach . 
+^ &name if you want to be taken off the fencing mailing list please e-mail &email . 
+</text_normal>
+</part>
+</message_body>
+</message>

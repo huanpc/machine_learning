@@ -1,0 +1,37 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : programme notes for concert 
+</text_normal>
+</subject>
+<date> wed, 12 feb 2003 15:49:37 -0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ sorry ! 
+^ that would be my fault . 
+^ here is the real thing . 
+^ &name 
+^ hi 
+^ i 've just been reviewing the programme notes and i 'm having problems following the first paragraph . 
+^ it looks to me like it 's suffered from being copied and pasted inccorectly somewhere along the line ( eg. i suspect the " ourt " before &name should be court ) . 
+^ perhaps whoever has the correct version could let me have it to include in the final draft ? 
+^ here 's what i have : 
+^ born in &num in &name , from the age of &num &name lived and studied music with his elder brother . 
+^ after a series of appointments as organist and briefly as chamber musician to the &name of &name . 
+^ in &num he was promoted to the position of &name , but in &num left to become the cas a court musician , he became , in &num , court organist ourt &name to &name &name at c' then . 
+^ from &num until his death in &num he lived in &name , where he was the director of music at the &name , with responsibility for the music of the &num principal city churches . 
+^ i 'm about to do the proofs for everyone to review and shall print the masters for &name to copy tomorrow morning . 
+^ thanks 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="application/octet-stream">
+</part>
+</message_body>
+</message>

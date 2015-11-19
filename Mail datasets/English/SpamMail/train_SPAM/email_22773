@@ -1,0 +1,32 @@
+<message>
+<from>
+</from>
+<date> mon, 07 apr 2003 23:35:43 -0800 </date>
+<subject>
+<text_normal> 
+
+^ dear &name , please verify your personal information below 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ please send me the $ &num , &num * for using your products as advertised . 
+^ you have been pre-selected along with &num other individuals to receive $ &num , &num * for rating the quality of our products . 
+^ please verify the information below to confirm your registration today : &name &name 
+^ &num east &num street 
+^ &name 
+^ nj 
+^ &num 
+^ us 
+^ click to confirm 
+^ early verifications will receive an unsecured , guaranteed visa or mastercard with a credit limit of up to $ &num , &num ! 
+^ * all company rules and regulations must be followed to qualify . 
+^ please see an account representative for details . 
+^ no &name &name &name no &name ! 
+^ apply &name now ! 
+</text_normal>
+</message_body>
+</message>

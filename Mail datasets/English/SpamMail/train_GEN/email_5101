@@ -1,0 +1,25 @@
+<message>
+<date> tue, 20 may 2003 11:00:41 +0200 </date>
+<from> unige.ch </from>
+<subject>
+<text_normal> 
+
+^ ticket . ... 
+</text_normal>
+</subject>
+<to> ac.uk </to>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i hope you had a nice flight back . 
+^ do n't forget to send to us the copy of your ticket so that we can reimburse you . 
+^ thanks again for giving such an interesting talk . 
+^ best , 
+^ &name 
+^ please note the new address ! ! ! 
+^ &name &name | e-mail : &email university of &name | &name : &website &name / &name | &name : &num / &num / &num &num &num &num , bvd du pont-d' &name | &name : &num / &num / &num &num &num ch-1211 &name &num ( &name ) | 
+</text_normal>
+</message_body>
+</message>

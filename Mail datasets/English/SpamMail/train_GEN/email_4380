@@ -1,0 +1,23 @@
+<message>
+<date> sun, 26 jan 2003 18:47:23 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ good morning &name . 
+^ i presume you have arrived in the lab before me . 
+^ i hope you had a wonderful weekend . 
+^ i will , of course , join you shortly for some &name &name action . 
+^ &name det bra , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name - &num 
+</text_normal>
+</subject>
+<date> wed, 5 jun 2002 11:53:35 +0100  </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks for letting me know - i look forward to receiving it . 
+^ could you please confirm your contact details for our records ? 
+^ our postal record lists you as at &name , but you are now presumably at &name ? 
+^ best , &name 
+^ i am sorry for the continued delays , i will get back to you about this by friday , 
+^ &name &name 
+^ &name : this e-mail is confidential and should not be used by anyone who is not the original intended recipient . 
+^ if you have received this e-mail in error please inform the sender and delete it from your mailbox or any other storage mechanism . 
+^ neither &name &name &name nor any of its agents accept liability for any statements made which are clearly the sender 's own and not expressly made on behalf of &name &name &name or &num of its agents . 
+^ please note that neither &name &name &name nor any of its agents accept any responsibility for viruses that may be contained in this e-mail or its attachments and it is your responsibility to scan the email and attachments ( if any ) . 
+^ no contracts may be concluded on behalf of &name &name &name or its agents by means of e-mail communication . 
+^ &name &name &name registered in &name and &name with registered number &num registered office &name road , &name , &name &name 6xs 
+</text_normal>
+</message_body>
+</message>

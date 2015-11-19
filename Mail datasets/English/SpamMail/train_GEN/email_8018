@@ -1,0 +1,97 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : hello . 
+^ &smiley 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain </content-type>
+<date> 22 oct 2002 17:49:25 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ on &name , &num at &num : &num , &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ that 's fine . 
+^ it 's rude to keep people waiting .. &smiley 
+</text_embedded>
+<text_normal> 
+
+^ i know . 
+^ and i am terrible at punctuality . 
+</text_normal>
+<text_embedded> 
+
+^ i 'm fine fine and , yes , we are . 
+^ you do n't need a gown or anything . 
+^ hope yourself . 
+</text_embedded>
+<text_normal> 
+
+^ really ? 
+^ no suit / dj / &name / strings / ceremonial robes with peep-holes ? 
+^ ( yes , i did watch eyes &name shut the other day ... ) 
+</text_normal>
+<text_embedded> 
+
+^ wine will be provided , as far as i recall . 
+^ my form thingy says informal dress , meet at &num : &num in the fellows " drawing room for sherry , dinner at &num : &num in the &name &name room ( the dome 's still out of action) . 
+^ i do n't know where 'd be best for me to meet you . 
+^ just at the plodge ? 
+</text_embedded>
+<text_normal> 
+
+^ &name 's lodge would be fine . 
+^ i think i should be able to find it ... &smiley 
+</text_normal>
+<text_embedded> 
+
+^ quite good at the moment , actually . 
+^ i 'm really quite liking this arrangement of only seeing him at the weekends instead of constantly being in each others " pockets . 
+^ although he does n't like it when i tell him that , ha ha . 
+</text_embedded>
+<text_normal> 
+
+^ strange . 
+^ relationships that spring up in &name so often seem to be between &num person who gets smothered easily and one who craves contact . 
+^ seems daft . 
+</text_normal>
+<text_embedded> 
+
+^ no , we fight much less now that he 's in &name ( see above) . 
+^ but , yes , we do get drunk still . 
+^ mmmmmm. . . 
+</text_embedded>
+<text_normal> 
+
+^ &name ? 
+^ some enjoyable memory to do with drunkenness that i should be aware of ? 
+^ &smiley 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ cheers , 
+^ &name &name 
+</text_embedded>
+
+^ &name 's fine . 
+^ i do n't mind . 
+^ if i do n't want to answer anything , i wo n't . 
+^ &smiley 
+</text_embedded>
+<text_normal> 
+
+^ the " nosey " prefix is a terribly cool post-modern indication that i am fully aware of my own faults , in a vain effort to excuse them , of course . 
+^ &smiley 
+^ see you tomorrow , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,15 @@
+<message>
+<subject>
+<text_normal> 
+
+^ create a new you for &name ! 
+^ &name 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<date> 1 apr 2003 23:33:38 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

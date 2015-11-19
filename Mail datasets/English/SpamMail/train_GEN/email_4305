@@ -1,0 +1,21 @@
+<message>
+<date> fri, 6 dec 2002 12:14:41 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ presentation 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i would like to vote for &name 's group please . 
+^ thanks , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

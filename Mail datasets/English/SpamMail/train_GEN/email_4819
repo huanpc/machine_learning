@@ -1,0 +1,26 @@
+<message>
+<date> fri, 12 jul 2002 12:35:58 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : our table schema specification and other notes ... 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ in writing some pseudocode for the server-side parser , the box group were wondering if some slight modifications could be made to what the &name group writes to the database . 
+^ there are &num changes : 
+^ &num ) instead of having type information stored in the database separately from the predicate / function string , we were wondering if the predicate / function 'modifier " strings contain this information directly . 
+^ in other words , instead of writing " age ) &num " to the database , we would prefer " : &char : &num : &num : ) &num " gets written where &char stands for integer ( &char for float , &char for string etc ) , &num stands for the offset within the tuple string , and &num stands for the size ( number of characters ) of that attribute . 
+^ in this way , we do n't have to read from the database more than once ( just to get the original sting ) which would save time when parsing . 
+^ &num ) if the type of a constant is a float , we were hoping it would be wriiten to the database string with a decimal point . 
+^ thus , if the user wrote " price - &num " it would be written as " : &char : &num : &num : - &num " ( notice the &num added to the &num ) . 
+^ please let us know if these changes are possible . 
+^ thanks , &name 
+</text_normal>
+</message_body>
+</message>

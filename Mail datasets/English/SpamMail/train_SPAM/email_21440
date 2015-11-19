@@ -1,0 +1,14 @@
+<message>
+<subject>
+<text_normal> 
+
+^ does &name &name &name &num 
+</text_normal>
+</subject>
+<from> net </from>
+<date> date: sat, apr 05 09:27:27 2003 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

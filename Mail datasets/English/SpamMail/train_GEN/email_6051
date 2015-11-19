@@ -1,0 +1,36 @@
+<message>
+<from> net </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ birthdays and christmas ! 
+</text_normal>
+</subject>
+<date> thu, 7 nov 2002 18:57:34 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name , 
+^ &name has asked me to pass on her thanks for the booktoken which she will enjoy spending 
+^ she also asked me to ask you about christmas ( yes , i know ! ) as you know &name and &name are having hifi players so you could have an equal size present , but &name suggested that otherwise you might like a normal size present and the balance on the bike paying . 
+^ if you want this option i will tear up your cheque and they will pay me that . 
+^ if ( when ) you have any thoughts on this or other things to tell people ( including me ) let me know . 
+^ mum 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name , 
+^ &name has asked me to pass on her thanks for the booktoken which she will enjoy spending 
+^ she also asked me to ask you about christmas ( yes , i know ! ) as you know &name and &name are having hifi players so you could have an equal size present , but &name suggested that otherwise you might like a normal size present and the balance on the bike paying . 
+^ if you want this option i will tear up your cheque and they will pay me that . 
+^ if ( when ) you have any thoughts on this or other things to tell people ( including me ) let me know . 
+^ mum 
+</text_normal>
+</part>
+</message_body>
+</message>

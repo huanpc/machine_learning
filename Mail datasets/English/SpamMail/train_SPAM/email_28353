@@ -1,0 +1,4 @@
+<message>
+<content-type> multipart/alternative; </content-type>
+<message_body> content-class: urn:content-classes:message subject: this is the easiest thing ever date: thu, 10 apr 2003 21:43:22 -0400 message-id: &email x-ms-has-attach:  x-ms-tnef-correlator:  thread-topic: this is the easiest thing ever thread-index: acl/zbtybjkwjxlotjk60yzvuopxwa== from: "bonita connor" &email to: &email </message_body>
+</message>

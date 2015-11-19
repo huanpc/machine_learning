@@ -1,0 +1,21 @@
+<message>
+<date> wed, 13 nov 2002 14:31:36 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ books 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hello your books are now available and may be collected from the library office . 
+^ please note that we close at 5pm . 
+^ &name &name &name &name 
+^ &name &name &name library engineering department university of &name &name &name &email &name &name &name &name : ( &num ) &num &num &name kingdom &name : ( &num ) &num &num 
+</text_normal>
+</message_body>
+</message>

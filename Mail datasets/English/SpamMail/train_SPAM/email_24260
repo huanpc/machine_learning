@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name 's &name 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 02:51:35 +0200 </date>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &num account &num &num ( &website / ) 
+^ ( &website / ) 
+^ ( &website ) 
+^ take me off this campaign please ( &website ) 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,34 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name , rates have never been better ! 
+</text_normal>
+</subject>
+<date> wed, 2 apr 2003 11:19:48 -0800 </date>
+<content-type> text/html; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ my &name 
+^ dear &name &name , 
+^ we show that you have recently expressed interest in obtaining a refinance for a better rate loan . 
+^ in order to ensure that your financial needs are met , please take a few moments to verify that the following information is correct . 
+^ &name &name ( &num ) &num 
+^ if all of your information is correct , you will be contacted by a loan specialist in the next few days . 
+^ if you would like to be contacted sooner , please click below : 
+^ if you have already completed your loan or are no longer interested , click below : 
+^ we hope you enjoy your experience with my &name 
+^ sincerely , my &name &name service 
+^ &name is not licensed as a mortgage solicitor , mortgage broker or mortgage lender in any state . 
+^ &name provides a free service to consumers interested in obtaining information regarding mortgage , purchase or debt consolidation loans by introducing consumers to financial professionals . 
+^ this e-mail is an advertisement for &name sent to you on &num / &num at &num : &num : &num am and is intended to confirm your information . 
+^ if you would prefer not to receive any additional e-mail information from &name , please click here . 
+^ please allow a reasonable response time not to exceed &num ( &num ) days after which you will be removed from our e-mail database . 
+^ &name is located at &num &name street , 11th floor , &name &name , ca &num . 
+^ &name may be contacted by e-mail at &email . 
+</text_normal>
+</message_body>
+</message>

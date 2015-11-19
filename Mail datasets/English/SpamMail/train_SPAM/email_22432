@@ -1,0 +1,19 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ looking for rates under &num ? 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> 8 apr 2003 02:22:01 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</message_body>
+</message>

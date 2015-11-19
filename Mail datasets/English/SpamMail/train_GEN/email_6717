@@ -1,0 +1,24 @@
+<message>
+<date> sat, 29 jun 2002 17:50:26 +0200 </date>
+<to> com </to>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ fwd : &name , etc. 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ new icon for sfx 's ... little bit cleaned up for &num colors. . 
+^ thanks , 
+^ &name &name &name , inc. 
+^ conexware contact information support : &email sales : &email 
+</text_normal>
+</part>
+</message_body>
+</message>

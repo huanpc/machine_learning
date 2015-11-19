@@ -1,0 +1,21 @@
+<message>
+<date> wed, 7 may 2003 12:13:54 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ is there any reason to keep the 
+^ tags ? 
+^ are they included in the transition data as new line delimiters ? 
+^ &char 
+</text_normal>
+</message_body>
+</message>

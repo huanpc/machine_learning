@@ -1,0 +1,21 @@
+<message>
+<date> tue, 10 dec 2002 10:35:31 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name practical 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ thanks &name , 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

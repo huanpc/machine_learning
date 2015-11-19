@@ -1,0 +1,43 @@
+<message>
+<from>
+</from>
+<to> org </to>
+<date> sun, 25 may 2003 00:23:24 +0200 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ observations on the new &name startup dialog 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ hi , i 've looked the very promising screenshots of &name " work : &website 
+^ very nice . 
+^ some observations and a proposition for an alternative widget : 
+^ for the second pane : 
+^ - it looks to me that embedding the kfiledialog is a bit too much . 
+^ - it would be very nice to be able to toggle between the preview and the informations about the file ( something generally much more useful for a wordprocessor than a preview , even if it has less eye-candy ;- ) ) a search button to be able to launch an embed &name would be great 
+^ for the third pane , the last opened filed should be shown in a list view with the full path ( so you can tell the difference between the document on your hard disk and the bacup on a floppy ) and the date . 
+^ more generally , the ok - quit buttons are not very clear . 
+^ it is not a normal quit button ( meaning quit this dialog ) , here it is exiting &name , so it should be labeled differently something like " quit &name " with the same icon than quit in the file menu . 
+^ at the bottom of the dialog there should be a dynamic line explaining the action for the first pane like " create a new document with template &name " ( ok ) ( quit &name ) 
+^ something i find very counter-intuitive in the kfiledialog is that clicking on the location arrow , you get the last opened documents . 
+^ i really do n't see the logic of it . 
+^ it is very confusing . 
+^ an other proposition : 
+^ i 'm not a developper but i had a different idea for the the startup dialog &name more elegant , which is extending kfiledialog so you can put icons on the left column not only linked to locations but to actions . 
+^ for example , you would get a left column in the startup dialog like that ( &name document ) ( &name from template ) ( last documents ) ( search documents ) ( &name ) ( my documents ) ( &name ) ( &name ) 
+^ clicking on the first icon , would just open &name with an empty document in the standard template ( for people who want to quickly take notes without thinking about choosing now a template ) clicking on the second icon would launch your first pane clicking on the third icon would launch your third pane 
+^ i think the elegance of my solution is that it is extensible and that the user can customize it . 
+^ for example , when we will have search folders in &name ( i hope in the near future ) . 
+^ the user could add a new icon in the column e.g. ( letters from last week ) presenting a list of all the kword files with the letter template in the /home directory and subdirectory sorted by date . 
+^ something that would be great for a secretary . 
+^ maybe my solution is technically much more complicate to code than yours , but it would be a much nicer and powerful &name , i believe . 
+^ cheers , &name 
+^ &name : cross-posting to kde-usability &email 
+^ kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

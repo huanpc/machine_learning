@@ -1,0 +1,23 @@
+<message>
+<date> wed, 21 nov 2001 19:13:12 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ state your location 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name &name , 
+^ &char require to know where you are at this moment . 
+^ &name &name and myself have been trying to contact you all evening . 
+^ please telephone me . 
+^ sincerely , 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

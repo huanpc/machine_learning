@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> fri, 11 apr 2003 02:31:02 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ special promotion . 
+^ you were selected to receive this special offer . 
+^ &num nights of vacation in &name / &name with a cruise , just $ &num per person . 
+^ to be taken off from the database please send email to &email 
+</text_normal>
+</message_body>
+</message>

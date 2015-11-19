@@ -1,0 +1,55 @@
+<message>
+<date> thu, 25 jul 2002 10:31:48 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : tonight 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i figured it out - turns out that since you did the checkout for me in schedfordna , i could n't cvs edit . 
+^ i jsut made a new directory and did a new cvs checkout and things are good . 
+^ thanks , &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ cool . . 
+^ that 's weird about cvs .. did you first do a cvs checkout of the directory ? 
+^ and is &name in your working directory different that the latest version in cvs ? 
+^ ( you can check if its different with " cvs diff &name " ) 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ not much - i am working on it now . 
+^ hopefully i will have it done in an hour or so . 
+^ &num thing though - i ca n't cvs edit any of the files - is there a lock or something ? 
+^ i am getting : cvs edit : cannot change mode of file &name : operation not permitted . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ hey &name , 
+^ just curious to know if there was any progress on &name last night . 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ perfect ... thanks . 
+^ &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

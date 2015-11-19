@@ -1,0 +1,62 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name : &name 's formal halls 
+</text_normal>
+</subject>
+<date> 06 nov 2002 18:59:19 +0000 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ can we have a &name 's formal at &name on the 29th november ? 
+^ i 'll be able to tell you numbers on the &num nov , i hope this gives you enough time to buy tickets . 
+^ thanks a lot 
+^ &name 
+^ ( &name 's rep ) 
+^ on &name &num &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , i 'm sure we can arrange this at &name . 
+^ i 'll proabably need a couple of weeks of advance notice , but i 'm sure it 'll be possible . 
+^ &name 
+^ on tuesday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ hello again , a little plea from &name 's xxx 
+<text_embedded> 
+
+^ do you think you can forward this e-mail on about &name 's formal halls ... 
+^ thanks 
+^ &name 
+^ dear &name , 
+^ i 'm a rep for &name 's international coffee bar ( which you should all know about ! ! ) . 
+^ every week we invite people to come to a different college for formal hall after &name 's ( which incidentally in on a friday &num if anyone wants to come along ) . 
+^ the problem we have this term is that we do n't have many team members that are from colleges which have weekly fhs on a 
+</text_embedded>
+
+^ friday . 
+<text_embedded> 
+
+^ i 'd love it if you could help me out . 
+^ if your college has a formal hall on a friday that you can buy tickets for , and your college is not too far 
+</text_embedded>
+
+^ away 
+<text_embedded> 
+
+^ ( in walking distance ) , and you have no really posh dress code , then please get in touch . 
+^ what i would ask you to do is to get your cu to buy tickets ( we usually want between &num ) and then come along and chat to the internationals . 
+^ thanks so much for your help . 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<date> fri, 17 jan 2003 11:27:29 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : fwd : re : &name &name &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ ( sigh ) &name &name - what a character . 
+^ on &name , &num &name &num , &char &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ from : &name &name ( &email ) to : &char &char &name ( &email ) &name : &name , &num &name &num &num : &num : &num &num 
+^ &name , i think there must be a mistake ... 
+^ &name 's girlfriend is on the list ? ! 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ scripts & new &name 
+</text_normal>
+</subject>
+<date> thu, 30 jan 2003 23:01:17 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ hi 
+^ just to say that the backup script has been updated for the new &name and &char ile layout , and viewcvs ( web-viewable &name ) also now works with it . 
+^ however , the makedocs script which creates &name and &name files is going to take me a bi &char longer , since the &name folder was a flat structure and the new documentati on folder has a number of different levels . 
+^ it 'll probably therefore be saturday rather than tomorrow that i 'll have that finished . 
+^ &name that 's acceptable to everyone . 
+^ see you tomorrow , 
+^ &name 
+^ &name cornish room &name , &name &name &name college , &name &name &name &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_normal>
+</message_body>
+</message>

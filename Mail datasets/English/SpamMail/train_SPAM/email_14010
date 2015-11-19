@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ dreams packaged to go ! 
+^ starting at &num , &num aeroplan &name 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 01:32:14 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

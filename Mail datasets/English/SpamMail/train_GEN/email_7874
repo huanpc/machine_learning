@@ -1,0 +1,31 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : easter holidays 
+</text_normal>
+</subject>
+<date> fri, 4 jan 1980 19:49:06 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ fit like ? 
+^ do you know the dates of your &name holidays yet ? 
+^ i am going to book the hairdresser for when you come home so she can have a shot at putting our hair up . 
+^ let me know as soon as you can . 
+^ &name
+</text_normal>
+<text_embedded> 
+
+^ hello cousin , i ca n't write much &name i 've already wasted too much of my physics time sending pointless emails to people who never reply ( yes , that 's how sad my life is!) . 
+^ but anyway , i am still alive and still supporting &name among all these &name . 
+^ say hiya to the bairns for me ( i suppose &name 's included in that already) . 
+^ see you soon , 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

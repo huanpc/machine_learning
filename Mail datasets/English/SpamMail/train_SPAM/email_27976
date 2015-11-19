@@ -1,0 +1,33 @@
+<message>
+<from> com </from>
+<date> wed, 9 apr 2003 17:03:23 -0700 </date>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ we are happy to inform you that we offer an alternative to bankruptcy . 
+^ this is what we can do for you : 
+^ * terminate your major credit card debt , unsecured loans and medical bills in &num years or less . 
+^ ( we can terminate any unsecured debt ) * stop harassing phone calls ! ! 
+^ * stop debt collectors dead in their tracks ! 
+^ * slash your monthly payment up to &num percent . 
+^ * empower you to take control of your life . 
+^ this is not a new loan , credit card or a debt consolidation program . 
+^ unlike &name , this is completely private ( no public disclosure ) 
+^ bankruptcy will damage your credit for &num years ; our program only affects your credit for &num years . 
+^ you will not lose your home , cars or any other assets ! ! 
+^ we negotiate with your creditors so that you only have to pay 25-50% of what you actually owe . 
+^ there is a &num time enrollment fee of &num and you must have at least &num , &num of debt . 
+^ for additional information go to &website 
+^ if you no longer wish to receive mail from us repond to this email with away in the subject 
+^ [ &name ] 
+</text_normal>
+</message_body>
+</message>

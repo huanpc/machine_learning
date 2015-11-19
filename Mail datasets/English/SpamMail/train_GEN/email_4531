@@ -1,0 +1,24 @@
+<message>
+<date> mon, 3 mar 2003 16:16:57 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : mmm 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_embedded> 
+
+^ only " part of the message " , &name . 
+^ i wonder what was in the rest of it ... 
+</text_embedded>
+<text_normal> 
+
+^ wonder away ! 
+^ &char 
+</text_normal>
+</message_body>
+</message>

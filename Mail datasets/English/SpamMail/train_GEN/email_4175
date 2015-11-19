@@ -1,0 +1,38 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ write ! 
+</text_normal>
+</subject>
+<date> tue, 15 jan 2002 20:34:26 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , come on ! 
+^ &name have some e-mails i am distinctly lacking them at the moment . 
+^ i hear things are not going too well at the moment . 
+^ remember even if there is no one else around &name is always with you ! 
+^ i will keep praying that things will go better soon . 
+^ my term is a little bit better than last ! 
+^ just keep praying , your kid brother &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , come on ! 
+^ &name have some e-mails i am distinctly lacking them at the moment . 
+^ i hear things are not going too well at the moment . 
+^ remember even if there is no one else around &name is always with you ! 
+^ i will keep praying that things will go better soon . 
+^ my term is a little bit better than last ! 
+^ just keep praying , your kid brother &name 
+</text_normal>
+</part>
+</message_body>
+</message>

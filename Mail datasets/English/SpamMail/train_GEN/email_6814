@@ -1,0 +1,56 @@
+<message>
+<from> com </from>
+<to> com ac.uk co.uk ac.uk ac.uk ac.uk co.uk com co.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name meet up 
+</text_normal>
+</subject>
+<date> tue, 16 jul 2002 20:19:44 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear all , 
+^ well , summer is well and truly here now ( or at least , it 's been hot for the last few days and i 'm on holiday ; therefore it 's summer ) so i reckon it 's time to start thinking about going to a prom . 
+^ several people have said they 'd like to go to the one on 22nd july ( that 's next monday ) , so i propose that 's what we do . 
+^ the programme is : &name roman carnival &name &name concerto no &num interval &name l' ascension &name &name &name 
+^ the concert starts at &num and is due to finish at about &num . 
+^ so we have several alternatives , depending on whether people are workng during the day or what they want to do . 
+^ we could &char ) meet at about &num outside the &name &name ( i have no idea how early you have to get there to get promming tickets ) or &char ) meet earlier and go for a meal somewhere - as i do n't know &name at all it might turn in to a trip to &name 's if i organise it ... or &char ) meet even earlier and do something exciting during the day . 
+^ i suggested the science museum or &name modern but any other ideas are very welcome . 
+^ and i 've lost track of which museums are free and which are n't, so maybe we could go to the free &num ? ! 
+^ if we did that we could meet somewhere sort of mid-morning-ish so as not to have to get up too early . 
+^ oh dear , i 'm getting lazy . 
+^ &name , that 's all i can think of at the moment . 
+^ let me know if you want to come and for which bits of the day , and i shall attempt to co-ordinate everyone . 
+^ and do drag lots of other people along - the more the merrier as far as i 'm concerned ! 
+^ take care , love &name xx 
+^ ps several people are away at the moment , so if this works and people are keen to repeat the experiment ( always important if you 're a scientist ! ) we could go to &num in late august or sept too ... 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear all , 
+^ well , summer is well and truly here now ( or at least , it 's been hot for the last few days and i 'm on holiday ; therefore it 's summer ) so i reckon it 's time to start thinking about going to a prom . 
+^ several people have said they 'd like to go to the one on 22nd july ( that 's next monday ) , so i propose that 's what we do . 
+^ the programme is : &name roman carnival &name &name concerto no &num interval &name l' ascension &name &name &name 
+^ the concert starts at &num and is due to finish at about &num . 
+^ so we have several alternatives , depending on whether people are workng during the day or what they want to do . 
+^ we could &char ) meet at about &num outside the &name &name ( i have no idea how early you have to get there to get promming tickets ) or &char ) meet earlier and go for a meal somewhere - as i do n't know &name at all it might turn in to a trip to &name 's if i organise it ... or &char ) meet even earlier and do something exciting during the day . 
+^ i suggested the science museum or &name modern but any other ideas are very welcome . 
+^ and i 've lost track of which museums are free and which are n't, so maybe we could go to the free &num ? ! 
+^ if we did that we could meet somewhere sort of mid-morning-ish so as not to have to get up too early . 
+^ oh dear , i 'm getting lazy . 
+^ &name , that 's all i can think of at the moment . 
+^ let me know if you want to come and for which bits of the day , and i shall attempt to co-ordinate everyone . 
+^ and do drag lots of other people along - the more the merrier as far as i 'm concerned ! 
+^ take care , love &name xx 
+^ ps several people are away at the moment , so if this works and people are keen to repeat the experiment ( always important if you 're a scientist ! ) we could go to &num in late august or sept too ... 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,36 @@
+<message>
+<date> wed, 29 jan 2003 15:51:32 +0000 </date>
+<to> ac.uk </to>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name study 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1"; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i remember you mentioned that you would be interested in participating in the &name study that i am running . 
+^ i am presently looking for volunteers at 
+^ the following times and am wondering whether you could manage any of these : 
+^ tuesday 4th &name : &num : 15am for &num : 30am 
+^ 11: 45am for &num noon 
+^ or 
+^ tuesday 11th &name : &num : 45am for &num : 00am &num : 15am for &num : 30am &num : 45am for &num noon &num : 15pm for &num : 30pm 
+^ i 'd be very grateful if you could let me know either way . 
+^ i ca n't remember but i think i did go through the screening questionnaire with you . 
+^ did i ? 
+^ also , ca n't remember whether i told you that you would receive &pound; &num per hour for scanning , that i 'd ask you to fill in some questionnaires in your own time ( &pound; &num ) and that i 'd ask you to come back to 
+^ the unit about &num weeks later to answer some questions about the pictures . 
+^ also , if you are interested , i will have to get a contact telephone number 
+^ for you , and then will send you a map describing how to get the &name &name &name &name up at &name 's. 
+^ i look forward to hearing from you . 
+^ best wishes , 
+^ &name
+</text_normal>
+</message_body>
+</message>

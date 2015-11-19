@@ -1,0 +1,29 @@
+<message>
+<to> com </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=utf-8 </content-type>
+<subject>
+<text_normal> 
+
+^ a quick note from &name 
+</text_normal>
+</subject>
+<date> fri, 06 jul 2001 22:27:34 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ " &name " ? ! 
+^ hi &name ! 
+^ &name , i 'm getting rather tired of rain , well , not exactly rain . 
+^ we have been living under a thick misty sea fog for the past &num days . 
+^ deliciously cool , but wearing thin , well , i wish it would . 
+^ however , that would mean back to the heat 
+^ i 've heard from both &name and &name today , so i 'm happy ! 
+^ i hope you have a wonderful weekend too . 
+^ i look forward to communicating next week . 
+^ ( that sounds dreadfully dry and technical ! ) 
+^ very best wishes , 
+^ &name
+</text_normal>
+</message_body>
+</message>

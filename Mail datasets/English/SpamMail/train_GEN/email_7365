@@ -1,0 +1,26 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<to> com </to>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ saturday &num &name ? 
+</text_normal>
+</subject>
+<date> 07 oct 2001 20:08:04 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ &name &name , &name you 've had a good first week . 
+^ i had a card from &name &name saying he 'd met you : &name and i were ordained together and met several times in the late 1980's at post-ordination training - it 's a small world ! 
+^ we wondered if we could call in on saturday &num october ; what we 'd envisage is to arrive late morning ( say around 11.30ish ) , take you out to lunch somewhere that you recommend , and then go on to &name in the middle of the afternoon . 
+^ let us know if there 's a problem with the date ; we may be able to find an alternative . 
+^ if you 've got lectures / classes / whatever up till lunchtime let us know and we can adjust timings accordingly ( your mum said &name had the uncivilised habit of &name 
+^ rday morning teaching - &name never used to ! ) . 
+^ it would be helpful also to know where to park - or whether it might be best to use the park & ride . 
+^ anyway , enjoy yourself and we 'll look forward to seeing you . 
+^ cheers , &name ( &name and sent to you using the &name &email ) 
+</text_normal>
+</message_body>
+</message>

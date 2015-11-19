@@ -1,0 +1,43 @@
+<message>
+<date> 8 apr 2003 23:47:46 -0000 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ get &num &name for &num each ( + shipping & processing ) ... membership details inside 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website -- 
+^ get &num &name for &name &num ; each 
+^ &# &name &num ; shipping &# &num ; processing&# &num ; when you join . 
+^ choose from : 
+^ 49&# &num ; 
+^ the &name of the rings : the fellowship of the ring 
+^ 49&# &num ; 
+^ scooby-doo 
+^ 49&# &num ; 
+^ gladiator 
+^ 49&# &num ; 
+^ shrek 
+^ 49&# &num ; 
+^ &name potter 
+^ 49&# &num ; 
+^ the matrix 
+^ 49&# &num ; 
+^ &name 's eleven 
+^ 49&# &num ; 
+^ spider-man 
+^ plus tons of other selections to choose from ! 
+^ click for membership details ! 
+^ questions ? 
+^ comments ? 
+^ email us at : &name 
+^ you are currently subscribed as : unsubscribe visit : 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : your platinum credit card ( $ &num , &num ) 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=boundary_61427.31528_76264993 </content-type>
+<date> fri, 28 mar 2003 00:21:24 -0500 (est) </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

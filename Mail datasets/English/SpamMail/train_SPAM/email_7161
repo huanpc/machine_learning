@@ -1,0 +1,15 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name &name wurde freigeschaltet 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> thu, 27 mar 2003 21:27:50 +0100 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

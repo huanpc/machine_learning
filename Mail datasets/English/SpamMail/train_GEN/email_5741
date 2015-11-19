@@ -1,0 +1,29 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject></subject>
+<date> sun, 27 apr 2003 12:47:10 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , &name you 're well . 
+^ i think we talked about meeting up here at &name on 29th for lunch . 
+^ how does that sound ? 
+^ it 's no problem to rearrange if needed , but if its still ok we 'll meet up for lunch as usual at 1pm . 
+^ &name . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , &name you 're well . 
+^ i think we talked about meeting up here at &name on 29th for lunch . 
+^ how does that sound ? 
+^ it 's no problem to rearrange if needed , but if its still ok we 'll meet up for lunch as usual at 1pm . 
+^ &name . 
+</text_normal>
+</part>
+</message_body>
+</message>

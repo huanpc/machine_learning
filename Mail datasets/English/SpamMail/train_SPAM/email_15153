@@ -1,0 +1,30 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ tell us what you think about the war in &name 
+</text_normal>
+</subject>
+<date> wed, 2 apr 2003 16:57:19 -0700 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &num 
+^ sharing your opinions can be huge ... 
+^ when you have chances to win a &name &name , &name , &name 's and much more ! 
+^ take our short online survey and tell us about yourself . 
+^ with just &num click and a few of your opinions , you could become a winner time and time again . 
+^ &website 
+^ join our panel and help influence the products and services of tomorrow ! 
+^ &website 
+^ make your opinions count today . 
+^ ( ( ( click here to join our panel ) ) ) &website 
+^ please accept our apologies if you received this mail in error . 
+^ if you do not wish to receive future mail , &name here . 
+^ if you have a problem using the removal process , please call current mail at ( &num ) &num 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,39 @@
+<message>
+<date> fri, 04 apr 2003 12:24:35 -0600 </date>
+<subject>
+<text_normal> 
+
+^ &name &name web &name &name : the cost and risk of not filtering e-mail 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ an &name &name web seminar &name 
+^ this e-mail contains new information about an &name &name web seminar . 
+^ you are receiving this invitation because you have registered for previous &name &name web seminars and elected to receive information on upcoming events . 
+^ we hope you will join us for this upcoming free desktop seminar . 
+^ the cost and risk of not filtering e-mail 
+^ tuesday , april 15th 
+^ 11: 00am &name / &num : &name est live from &name &name &name &name &name , &name . 
+^ and via the web 
+^ moderator : &name &name , executive editor , &name &name &name : &name &name , senior vice president , &name &name &name , &name , city of &name 
+^ facts : &name costs companies an average of $ &num million per employee each week e-mail virus attacks cost firms as much as $ &num billion each year 
+^ in this live seminar also presented via the web , we will further examine these risks . 
+^ even though organizations sport the latest security patches ; traffic easily traverses these security measures and costs companies in loss of productivity , wastefulness of resources , and leaves intellectual property at risk . 
+^ &name : telephone and web connection . 
+^ participants will listen to a panel discussion via telephone , while simultaneously viewing a corresponding presentation online . 
+^ participation in this seminar is free . 
+^ registrations are being accepted online at &website on a first-come , first-served basis . 
+^ you will receive participation instructions by email prior to the seminar . 
+^ space is limited ! 
+^ make your reservation today . 
+^ we look forward to your participation , 
+^ &name &name business technology for &name 
+^ to unsubscribe please click here : &website 
+</text_normal>
+</message_body>
+</message>

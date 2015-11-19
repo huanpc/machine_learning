@@ -1,0 +1,20 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ earn $ &num , &num per day - no &name 
+</text_normal>
+</subject>
+<date> wed, 02 apr 2003 07:00:20 -0700 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ $ raigijavtjifwymnhlgikygdvfxuuqidyl $ encodebatchdata 
+^ &name 
+</text_normal>
+</message_body>
+</message>

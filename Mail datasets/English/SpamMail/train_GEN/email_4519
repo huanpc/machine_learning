@@ -1,0 +1,37 @@
+<message>
+<date> sun, 2 mar 2003 09:17:08 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : viclabillfi request the pleasure of &name 's company 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ i cordially accept . 
+^ yours in cordiality , 
+^ &name 
+^ &name sat , &num mar &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name &name , 
+^ would you be able to join us for an evening outing in honour of your birthday tomorrow ? 
+^ please avail yourself to us at &num : 30pm in middle &char , ready to journey by bicycle . 
+^ i do hope you have a helmet and lights . 
+^ miss &name will be travelling in from &name to join us . 
+^ miss &name shall be ascending from below . 
+^ &name &name shall cross from the other side . 
+^ miss &name shall be awaiting you all in the &char fore mentioned place , having just returned from a victorious football match . 
+^ we do hope that this is acceptable to you . 
+^ do not feel the need to dress up . 
+^ regards in anticipation of your birthday , 
+^ viclabillfi 
+</text_embedded>
+</message_body>
+</message>

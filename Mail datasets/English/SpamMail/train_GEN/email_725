@@ -1,0 +1,42 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> tue, 15 oct 2002 12:17:35 +0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ you sayin " i 'm fat ? 
+^ no , but we just had a team breifing with free lunch ... samosas ... sarnies ... pizza , yum , and raspberry and fresh cream roulade . 
+^ mmm . 
+^ shoul i get back to addressing my envelopes . 
+^ the excitement . 
+^ &name
+</text_normal>
+<text_embedded> 
+
+^ from : &char &char &name to : &name &name subject : re : &name : &name , &num &name &num &num : &num : &num &num 
+^ hi &name , 
+^ thanks for your prompt reply . 
+^ i 'm glad you are hoping to come . 
+^ you seem to be eating a lot of chocolate and things these days . 
+^ i 'm in the library again ... dull . 
+^ must try to understand difficult lecture from yesterday before i have the next one this afternoon ... tomorrow i start my project - exciting ! 
+^ flat is fine . 
+^ i think &name can look after herself though . 
+^ hopefully . 
+^ oh well , have an interesting day . 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ chat with friends online , try &name &name : click here 
+</text_normal>
+</message_body>
+</message>

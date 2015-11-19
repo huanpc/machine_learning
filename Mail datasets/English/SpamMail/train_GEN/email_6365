@@ -1,0 +1,38 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<date> mon, 16 dec 2002 12:15:01 -0800 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , somehow or another i seem to have lost the command line switches and i ca n't find it in your documentation . 
+^ your application does support them right ? 
+^ if so can you send me the syntax , a document containing the syntax , or a web address listing it ? 
+^ thanks , christian &name &name web developer &website 
+^ " &name spirits have always encountered violent opposition from mediocre minds . 
+^ the mediocre mind is incapable of understanding the man who refuses to bow blindly to conventional prejudices and chooses to express his opinions courageously and honestly . " 
+^ - &name &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , somehow or another i seem to have lost the command line switches and i ca n't find it in your documentation . 
+^ your application does support them right ? 
+^ if so can you send me the syntax , a document containing the syntax , or a web address listing it ? 
+^ thanks , christian &name &name web developer &website 
+^ " &name spirits have always encountered violent opposition from mediocre minds . 
+^ the mediocre mind is incapable of understanding the man who refuses to bow blindly to conventional prejudices and chooses to express his opinions courageously and honestly . " 
+^ - &name &name 
+</text_normal>
+</part>
+</message_body>
+</message>

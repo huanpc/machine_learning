@@ -1,0 +1,25 @@
+<message>
+<content-type> text/plain; boundary="_----------=_7047841633703603901475" </content-type>
+<date> tue, 1 apr 2003 01:59:30 ut </date>
+<subject>
+<text_normal> 
+
+^ &name &name from &name 
+</text_normal>
+</subject>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website today : &website 
+^ buy homes from $ &num , &num ! 
+^ &website 
+^ you are getting this message as a subscriber to the &name &name network . 
+^ to cancel , see the instructions below . 
+^ remove yourself from this recurring list by sending a blank email to mailto : &email 
+^ or send a postal mail to : customer service &num baseline &name , &name &name # &num boulder , &name &num 
+^ this message was sent to address 
+</text_normal>
+</message_body>
+</message>

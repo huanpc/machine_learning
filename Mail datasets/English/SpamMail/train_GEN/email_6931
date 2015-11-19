@@ -1,0 +1,38 @@
+<message>
+<from>
+</from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ selfview &num - exe rtf 's can bu run under &name &num ? 
+</text_normal>
+</subject>
+<date> sat, 1 sep 2001 17:21:55 +0200 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name &name &name , 
+^ i have downloaded selfview &num and would like to know ( even if i imagine the answer is no ) wether the executable rtf can be run in &name 
+^ &num &num env . 
+^ thanks if i 'll answer ! 
+^ &name &name l' email universale che ti paga : clicca &website / &char 
+^ &name : &name &name &char " pronta a mettere a segno un rialzo stellare ? 
+^ &name , rumors , commenti sui mercati azionari per farti guadagnare . ... &name qui : &website &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name &name , 
+^ i have downloaded selfview &num and would like to know ( even if i imagine the answer is no ) wether the executable rtf can be run in &name &num env . 
+^ thanks if i 'll answer ! 
+^ &name &name l' email universale che ti paga : clicca qui 
+^ &name : &name &name &char " pronta a mettere a segno un rialzo stellare ? 
+^ &name , rumors , commenti sui mercati azionari per farti guadagnare . ... &name qui 
+</text_normal>
+</part>
+</message_body>
+</message>

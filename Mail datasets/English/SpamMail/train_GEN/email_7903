@@ -1,0 +1,21 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ gremlins 
+</text_normal>
+</subject>
+<date> mon, 19 feb 2001 09:49:20 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ ca n't find the mail you said you sent . 
+^ can you retry ? 
+</text_normal>
+</part>
+</message_body>
+</message>

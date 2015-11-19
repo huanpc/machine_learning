@@ -1,0 +1,14 @@
+<message>
+<date> mon, 07 apr 2003 10:33:09 +0000 (gmt) </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name , &name , &name , &name and more ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

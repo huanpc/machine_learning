@@ -1,0 +1,22 @@
+<message>
+<date> sat, 2 feb 2002 23:12:02 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ score 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name 
+^ sorry to pester you ; do you think you could confirm that it 's ok for me to write in the score ? 
+^ i 'd like to get on with it tomorrow , if it 's all right . 
+^ thanks 
+^ &name
+</text_normal>
+</message_body>
+</message>

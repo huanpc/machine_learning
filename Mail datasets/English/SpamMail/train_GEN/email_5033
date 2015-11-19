@@ -1,0 +1,23 @@
+<message>
+<to> uni </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 21 nov 2001 18:59:46 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ i have the booking confirmation for the guest house - if you give me a fax number i can send it to you - you may need it . 
+^ it turns out the guest house is &num pounds a night , the extra &num pounds is the ( high ! ) &name they charged me for doing the booking , but i can cover that , so do n't worry about it . 
+^ cheers , 
+^ &name 
+^ ps if you could at least send me / &name a title for your talk , that 'd be great , then we can advertise it 
+</text_normal>
+</message_body>
+</message>

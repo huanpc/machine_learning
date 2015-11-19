@@ -1,0 +1,60 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : a message from &name ... 
+</text_normal>
+</subject>
+<date> mon, 25 jun 2001 18:42:44 -0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ honey ( monster ) 
+^ i am thinking about sending you a letter to your house addressed to you covered with hearts and stuff for your mother to find ... he he he . 
+^ i might , i might not ... 
+^ i have always said goodbye to you , have n't i ? 
+^ sorry it i haven't ... i guess i am funny sometimes ( in a way that is n't amusing , i mean ) . 
+^ what were your issues with &name ? 
+^ you do n't have to tell me ... sorry , just being nosy . 
+^ it seems funny when you describe your behaviour as emotional ... but do n't worry , i know you are ! 
+^ we- &name and i thought that you should have the apron and teatowels so if you do n't want them , chuck them . 
+^ i have done only a little ... been to church etc. .. food ! 
+^ clean clothes ! 
+^ i hope you are ok ... have a good week and enjoy the peace and quiet ! 
+^ i am only a phone call away ... 
+^ love &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : &name to : &email subject : a message from &name ... &name : sat , &num &name &num &num : &num : &num &num 
+^ dear &name , 
+^ i guess you 're at home now . 
+^ am i good at guessing ? 
+^ i 've just come back from the cathedral tower with &name , &name and &name . 
+^ it was lovely , but very tiring since we climbed the &num steps in less than &num minutes . 
+^ &name and i are going downstairs to have tea with &name at 
+^ 6: &num . 
+^ i 'm really glad you said goodbye , since i was half-worried that you would n't, as you sometimes have done . 
+^ anyway , i hope you had a good journey home and are enjoying being there again . 
+^ thanks ever so much for asking me to come and see you sometime in the holidays ; i would really like that . 
+^ sorry i was n't in too good a mood this morning . 
+^ i was feeling a little depressed and emotional , since &name and i had " issues which we discussed " , for want of a better description . 
+^ oh dear , well , such is life . 
+^ it would be dull if everything was perfect . 
+^ i 'm deluding myself ; it would be wonderful . 
+^ sorry for going on so ! 
+^ i hope you have a lovely week - when do you start your church job ? 
+^ i think i 'm going to be quite bored and lonely next week , here all on my own , so please feel free to telephone me if you want too . 
+^ very best wishes , 
+^ &name 
+^ &name did you mean to leave the apron and tea towels ? 
+</text_embedded>
+<text_normal> 
+
+^ get your private , free e-mail from &name &name at &website . 
+</text_normal>
+</message_body>
+</message>

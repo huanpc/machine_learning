@@ -1,0 +1,36 @@
+<message>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ hi &name ! 
+</text_normal>
+</subject>
+<date> fri, 07 dec 2001 11:20:52 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ hi &name ! 
+^ are you busy working ? 
+^ i am intending to begin today . 
+^ intending being the operative word . 
+^ it is quite cold here in &name , but my parents have kindly said i may put the heating on if i begin to freeze . 
+^ i spend most of yesterday getting all my stuff unpacked - quite a task . 
+^ i 'm having chicken risotto for lunch ; and looking forward to it immensely . 
+^ last night i watched an episode of voyager - a very good one actually . 
+^ i 'm hoping you 're sitting at your desk with &name when you receive this so that you can reply , but perhaps you 're not . 
+^ by the way , whatever you did to &name seems to have worked . 
+^ i do n't have to log in when i start up any more ! 
+^ the new backgrounds are lovely too . 
+^ so , how is everyone in college ? 
+^ how many of you are still left ? 
+^ is it lonely ? 
+^ what do you think of &name more or less without its students ? 
+^ did you go to &name 's house yesterday ? 
+^ hope you have a good day . 
+^ &name
+</text_normal>
+</message_body>
+</message>

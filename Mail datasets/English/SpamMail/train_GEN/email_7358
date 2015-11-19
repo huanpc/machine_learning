@@ -1,0 +1,39 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ &name ? 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<date> fri, 24 jan 2003 16:36:26 +0100 </date>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name &name , 
+^ your order with &name was successful . 
+^ welcome to &name ! 
+^ your customer &name : &num your contract number : &num 
+^ what is happening to your domain ( &char ) right now ? 
+^ immediately after you clicked on the order button , we started the registration process for your domain ( &char ) . 
+^ this will usually take anywhere between &num and &num days to complete . 
+^ once the first domain is successfully registered we will &name your credit / debit card . 
+^ ( for transferred domains the process is different ) . 
+^ please consult the &name ( &website ) . 
+^ to check the status of your domains : 
+^ if you want to check the current status of your domains you may do so in &website . 
+^ &name with your customer &name ( or with an active domain name ) and the password you chose . 
+^ this is the same place where you will be able to configure your e-mail addresses etc. once a domain is active . 
+^ on the first screen in the control panel you will find all your active domain ( &char ) and their status . 
+^ best regards 
+^ &name &name &website 
+</text_normal>
+</part>
+</message_body>
+</message>

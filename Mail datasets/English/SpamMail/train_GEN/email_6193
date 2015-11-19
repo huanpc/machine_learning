@@ -1,0 +1,38 @@
+<message>
+<from> com </from>
+<to> com com com com com com com net com co.uk com com </to>
+<subject>
+<text_normal> 
+
+^ fwd : free beer , even if it is italian 
+</text_normal>
+</subject>
+<date> wed, 18 dec 2002 18:51:13 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ my flatmate sent me this email ( they call me &name ! ) . 
+^ it is n't crap , they really do send you free beer ! ! ! 
+^ it 's actually quite good stuff . 
+^ i thought i 'd share my good fortune with you fine people ! 
+^ from : " &name &name " ( &email ) 
+</text_normal>
+<text_embedded> 
+
+^ to : &email subject : free beer , even if it is italian date : &name , &num &name &num &num : &num : &num &num 
+^ &name &name 
+^ if you fill-in the online form from the link at the bottom they 'll send you a complimentary ( free ) 
+^ &num pack of imported " &name " italian beer - which tastes a bit like &name ! 
+^ i had mine delivered to my house yesterday , but i 'm not sure how long the promotion will last . 
+^ my mate &name works at &name and &name distributes this beer in &name , so it 's a definite freebie . 
+^ the survey takes about &num minutes but needs sound and you have to give an e-mail address but put a false one down because they do n't check up on it . 
+^ happy christmas 
+^ &website / &website / 
+</text_embedded>
+<text_normal> 
+
+^ the new &name &num : smart spam protection and &num months free * &website 
+</text_normal>
+</message_body>
+</message>

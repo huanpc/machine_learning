@@ -1,0 +1,45 @@
+<message>
+<to>
+</to>
+<subject>
+<text_normal> 
+
+^ re : proposed &name for &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> sun, 01 jun 2003 00:16:57 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi all , 
+^ i just thought i ought to outline what i believe are the next steps in the &name definition : 
+^ &char ) the matrixers decide on the inventory of features with which to decorate variables to encode tense , aspect etc 
+^ &char ) the named entity people distribute a preliminary set of the schemata they are extracting . 
+^ i am proposing that we do a rather conversion into &name . 
+^ e.g. the following is an example that &name sent some time ago : 
+^ ne-person : enamex & [ title list-of-strings , given_name list-of-strings , surname list-of-strings , p-position list-of-strings , name-suffix string ] . 
+^ i suggest we rmrsize it as something like : 
+^ ( ep cfrom' &num " cto' 0' ) ( ( /gpred) ( label vid' &name /) ( var sort' &char " vid " &name /) ( /ep ) ( rarg) ( rargname)title ( /rargname) ( label vid' &name /) ( constant)mr ( /constant) ( /rarg 
+</text_normal>
+<text_embedded> 
+
+^ ( rarg) ( ( /rargname) ( label vid' &name /) ( constant)tim ( /constant ) ( /rarg 
+^ ( rarg) ( ( /rargname) ( label vid' &name /) ( ( /constant ) ( /rarg 
+^ etc 
+</text_embedded>
+<text_normal> 
+
+^ as discussed before , this is not going to be identical to the deep grammar representation , but can still , in principle , slot in " to a deep grammar &name . 
+^ we can leave the issue of converting the deep grammar &name to this representation till later ( if indeed we need to do it at all ) . 
+^ &char ) we start on the meta-level sem-i which lists the grammatical " relations 
+^ &char ) &name produces more semantic test suite and he and i check the examples . 
+^ i worry some more about the cases where we have systematic differences between deep and shallow grammars . 
+^ i believe these activities could go on in parallel and that &char ) and &char ) are mostly independent of me , while &char ) is at least partially independent . 
+^ &name and i will work on &char ) , but we do n't think this will affect the &name . 
+^ it 's really &char ) and &char ) which are needed to finalize the &name - &char ) because it directly affects the definition , &char ) because it may suggest problems with the current &name ( e.g. , wrt constant values ) . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

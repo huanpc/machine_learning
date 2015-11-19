@@ -1,0 +1,24 @@
+<message>
+<date> mon, 29 jul 2002 12:05:18 -0400 (edt) </date>
+<from> edu </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ now that the demo is over and that filter and map are done , we were wondering if you were available to help us out on another box : &name . 
+^ this box takes input from a variable number of input streams and puts them together in &num output " fat " stream ( maintaining the input stream ids ) . 
+^ ( professor &name - let us know if i did n't get that right ) 
+^ what i think makes this task non-trivial is that right now the whole project assumes that there is maximum &num inputs to any box . 
+^ this will mean communicating with the &name people to allow the user to enter more than &num input streams , and changing &name to have variable length input streams instead of &name and &name and changing &name etc. to pass these streams correctly to the &name box . 
+^ let me know if you think you will have time to do this , &name 
+</text_normal>
+</message_body>
+</message>

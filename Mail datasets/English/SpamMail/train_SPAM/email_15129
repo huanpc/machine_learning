@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ this week only : receive an &name with &name &name &name purchase 
+</text_normal>
+</subject>
+<date> thursday, april 03, 2003 9:20:04 am </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

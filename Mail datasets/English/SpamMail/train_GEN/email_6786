@@ -1,0 +1,29 @@
+<message>
+<date> mon, 03 mar 2003 01:40:12 +0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ probs &smiley 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ i was running the &name server with a &num digit number : &num after going through the entire process , i got the foll exception : 
+^ attempting to dispatch from pipe &name ( &num ) dispatched from pipe . 
+^ attempting to dispatch from pipe &name ( &num ) dispatched from pipe . 
+^ attempting to dispatch from pipe &name ( &num ) 
+^ * * * * * * * * finished reduction * * * * * * * * * dispatched from pipe . 
+^ this is not allowed , n0 k3 java.lang.arrayindexoutofboundsexception at lima.mathematical.factorisation.quadraticsieve.quadraticsievealg.fact orise ( quadraticsievealg.java : &num ) at &name se ( quadraticsieve.java : &num ) at lima.mathematical.factorisation.factorisationalgorithm.factorise ( &name orisationalgorithm.java : &num ) at lima.mathematical.factorisation.quadraticsieve.quadraticsievealg.fini sh ( quadraticsievealg.java : &num ) at lima.mathematical.factorisation.quadraticsieve.quadraticsievealg.fact orise ( quadraticsievealg.java : &num ) at &name se ( quadraticsieve.java : &num ) at lima.mathematical.factorisation.lima.lima.factorise ( lima.java : &num ) at lima.mathematical.factorisation.factorisationalgorithm.factorise ( &name orisationalgorithm.java : &num ) at &website ( limathread.java : &num &num ) &website ( thread.java : &num ) 
+^ the server was held up in the state saying : 
+^ finding solns to &char 
+^2 &char mod &char 
+^ &name sorted lookup table of combinations of primes ... 
+^ sorry for the bother guys ! 
+^ cheers , &name 
+</text_normal>
+</message_body>
+</message>

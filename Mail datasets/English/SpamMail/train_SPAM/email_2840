@@ -1,0 +1,19 @@
+<message>
+<from> il.co </from>
+<date> mon, 24 mar 2003 16:58:39 +0200 </date>
+<subject>
+<text_normal> 
+
+^ &char ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name 
+^ enter 
+</text_normal>
+</message_body>
+</message>

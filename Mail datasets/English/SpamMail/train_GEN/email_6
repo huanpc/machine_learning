@@ -1,0 +1,25 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name today 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 17 jan 2003 10:18:49 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ &name &name &name 
+^ date : &num january &num time : from &num : &num to &num : &num location : &name &name building 
+^ the annual recruitment fair for the &org 's industrial supporters club has been moved from its traditional &name slot to the beginning of the &name term . 
+^ if you are looking for full time employment or a summer placement , this could be your opportunity to meet locally-based international companies . 
+^ come along and visit their stands , hear about their work and the type of people they employ . 
+^ refreshments available . 
+^ for further details see : &website / 
+^ comments / queries to : &email 
+</text_normal>
+</message_body>
+</message>

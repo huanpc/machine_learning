@@ -1,0 +1,23 @@
+<message>
+<date> sun, 6 apr 2003 01:07:32 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your vacation certificates are waiting 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &name . 
+^ &num issue &num 
+^ &name &name and claim your &num free vacation certificates ! ! 
+^ this &name offer is a $ &num , &num value and includes a certificate reedemable for &num free airline tickets plus a second certificate good for a &num day / &num &name hotel stay ! ! 
+^ &name &name &name - get yours today : &website 
+^ cancel your subscription here : ( img 
+</text_normal>
+</message_body>
+</message>

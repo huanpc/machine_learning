@@ -1,0 +1,33 @@
+<message>
+<from> com </from>
+<to> altmuehlnet.de </to>
+<date> wed, 28 may 2003 16:48:20 -0400 </date>
+<subject>
+<text_normal> 
+
+^ [ &name ] tutorial ? 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ although i have several yeas of experience with &name in its several variants i am an absolute newbie to the world of &name . 
+^ so to get started i am looking for &num things : 
+^ &num a tutorial that will walk me through a typical project . 
+^ &num a feature list that will allow me to see what &name has as compared to the other products available . 
+^ &num a pdf version of the manual . 
+^ &name it is described as being " like quark or &name " but since these products are quite different that is not a sufficient description . 
+^ my first impression is that it is closer to the capabiities of quark . 
+^ &name &name &name &name and &name 
+</text_normal>
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

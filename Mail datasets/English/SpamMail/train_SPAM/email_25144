@@ -1,0 +1,14 @@
+<message>
+<from> com.cn </from>
+<subject>
+<text_normal> 
+
+^ &name : &name version &num final clearance sale ! 
+</text_normal>
+</subject>
+<date> tue, 08 apr 03 18:54:12 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

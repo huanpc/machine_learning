@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ stock alert 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> wed, 2 apr 2003 23:36:47 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ explosive investment opportunities undervalued and underfollowed &name 
+^ &name &name corporation ( symbol : &name exchange : &name ) the leading interlock company in the country has just announced a major roll out with &name &name 's expo design centers ! 
+^ the stock is quietly trading at &num cents a share ... could very well be a screaming buy ! 
+^ this is just &num of many potential &quot;runaway situations&quot; you 'll find only at &website ; 
+^ at microcapheadlines you 'll have the opportunity to get in on the ground floor with up and coming microcap stocks . 
+^ &website is compensated by the companies profiled on the site in the form of a monthly fee and restricted stock , and / or free trading shares . 
+^ &website ' the best kept secrets on &name &name ' click here to view the full company profile for &name &name corporation 
+</text_normal>
+</message_body>
+</message>

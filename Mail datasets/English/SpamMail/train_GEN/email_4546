@@ -1,0 +1,31 @@
+<message>
+<date> wed, 5 mar 2003 14:11:22 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : emails 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name appreciados &name . 
+^ actually , plain text files would be better for me - is that ok ? 
+^ the format you sent me is fine . 
+^ no hurry as far as time goes . 
+^ thanks again , 
+^ &name 
+^ &name wed , &num mar &num , &char &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ actually , i 'll send them to you as word documents , probably later today , maybe tomorrow morning if that 's okay . 
+^ have a good afternoon . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

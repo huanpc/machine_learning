@@ -1,0 +1,64 @@
+<message>
+<to> cnr.it </to>
+<subject>
+<text_normal> 
+
+^ &name : &name &name - &name chairman - paper submission 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 23 nov 2001 19:59:10 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ paper for oral presentation 
+^ &name expressions : linguistic precision and reusability . 
+^ &name &name , university of &name &name &name , university of &name &name &name , university of &name &name &name , &name , &name &name &name , &name , &name university &name &name &name , &name , &name university &name &name , &name , &name university and &name &name 
+^ address of first author : &name &name , university of &name &name &name , &name &name building , &name &name avenue , &name , &name &name , &name 
+^ phone : &num &num &num fax : &num &num &num email : &email &name : &website 
+^ facilities : overhead projector , data projector 
+^ keywords : multiword expressions , lexicons , lexical databases , multilingual &name , grammars 
+^ &name expressions : linguistic precision and reusability . 
+^ this paper discusses the approach to multiword expressions being adopted in a broad-scale bidirectional grammar of english in the &name framework ( the &name english resource grammar ) and its implications for building a reusable lexical resource . 
+^ &name &name ( &name ) are generally acknowledged to be a serious problem for many areas of language technology . 
+^ &name include not only nominal compounds , phrasal verbs , idioms and collocations , but also less easily classified examples : e.g. , by and large " , ad hoc " , in line " , for instance " , such as " , and so on " . 
+^ some &name are completely fixed , such as ad hoc " , but others allow differing amounts of variability . 
+^ this is related to decomposability : i.e. , whether meaning can be assigned to the parts of the &name ( &name et &name , &num ) . 
+^ another factor is productivity : some combinations of verbs and particles are wholly idiosyncratic ( e.g. , look up " in the refer to " sense ) while others are somewhat predictable ( e.g. , eat up " , drink up " ) . 
+^ coverage of &name in existing lexical resources is uneven . 
+^ for instance , the &name &name lexicon and &name have a good coverage of the syntactic properties of phrasal verbs , but do not indicate whether the entries can be regarded as compositional or productively formed . 
+^ neither resource covers idioms , or verbs with fixed adverbs , such as set aside " or go overboard " . 
+^ &name has a large number of &name , but does not describe their variability or handle idioms : &name ( &name discusses some of the problems involved . 
+^ some attempts have been made to develop a standard for encoding &name ( especially within eagles ) , and the &name project is attempting to lay the groundwork for large scale encoding of &name , but so far no general standard exists . 
+^ unfortunately there is no agreement within linguistics about the treatment of most classes of &name . 
+^ in &name , whether an &name entry is required may depend on the depth of processing being undertaken : e.g. , syntactically regular idioms are not very relevant if the system 's output is a syntactic tree . 
+^ it also depends on the grammar : a &name such as in line " could be treated by a rule that allows preposition-noun combinations for all nouns , but at the cost of overgeneration . 
+^ &name this situation with syntax : different theories have very different ways of lexically encoding basic syntactic categories , but there is broad agreement about the classes to be encoded . 
+^ for the syntax and formal / compositional semantics of simple words , the &name &name has a lexical database structure which essentially just encodes a triple : orthography , type , semantic predicate . 
+^ here type " is a single identifier whose may vary from framework to framework or even from grammar to grammar . 
+^ lexeme_id orth type sempred &name " like " v_np_trans like1_rel 
+^ it is therefore possible to develop and test a precise lexicon for &num grammar and to reuse the open-class words it contains with a very different framework : such interconvertability has been practically demonstrated in several projects . 
+^ however , except for the simplest examples , such as ad hoc " , which can be treated as words with spaces , &name require more complex entries , which refer to multiple components of the structure . 
+^ this is a problem even when developing a single grammar , since changes may invalidate the &name lexicon . 
+^ but our goal is the more ambitious one of building a resource which can be used in multiple frameworks . 
+^ we are addressing these issues by developing a typology of &name covering all the major classes , which is formally described and practically implemented . 
+^ our approach is to use the &name english resource grammar both as a tool for empirical investigation of &name and as a consumer ( and therefore validator ) of the resource . 
+^ &char &name is postulated if and only if standard grammar rules and simplex entries do not suffice when we attempt to process some corpus data . 
+^ since the grammar is bidirectional , this prevents us from using shortcuts , such as the preposition-noun combination rule mentioned earlier , which would result in overgeneration . 
+^ naturally , the encodings of &name must be precise . 
+^ however , this does not necessarily mean that we require complex lexical entries , which would limit reusability , because we can generalize over classes of &name . 
+^ to take a relatively simple example , for phrasal verbs , we can produce database entries such as the following : 
+^ lexeme_id baseverb particle type sempred 
+^ &name &name &name v_particle_np lookup_rel 
+^ &name &name &name 
+^ the entry for look up " specifies that the particle position is variable , via the type v_particle_np_le . 
+^ the predicate , lookup_rel , indicates that the semantics is idiosyncratic . 
+^ however , the entry can still access information from the ordinary lexical entry for &name . 
+^ in contrast , &name is relatively compositional , in that the particle up " carries an aspectual meaning , which is also found in gobble up " etc. however , listing is necessary because the possible combinations are not predictable . 
+^ the full paper will explain how the formal &name representation relates to the lexical database . 
+^ it will give many more examples of different classes of &name , including idioms , where problems arise because the number of idiomatic elements is not theoretically bounded and the range of interrelationships between the parts is very large . 
+^ we will show examples of to other frameworks and discuss the role of probabilities in constraining variation . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,42 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ grrrrrrrrrrrr 
+</text_normal>
+</subject>
+<date> mon, 4 feb 2002 23:36:00 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ have you changed some of my settings ? ? 
+^ when i have a message box like when i close a prog and it asks if &char want to save &char normally press &name to get to the no button . 
+^ now when &char press &name it jumps to another programme ! 
+^ i 'm not annoyed - do n't worry ! 
+^ i just want to know how to get it back the way &char like it . 
+^ thanks ! 
+^ &name . 
+^ ps revamping &name bit but do n't understand some of what &name " friend has written . 
+^ shall &char ask &name ? 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ have you changed some of my settings ? ? 
+^ when i have a message box like when i close a prog and it asks if &char want to save &char normally press &name to get to the no button . 
+^ now when &char press &name it jumps to another programme ! 
+^ i 'm not annoyed - do n't worry ! 
+^ i just want to know how to get it back the way &char like it . 
+^ thanks ! 
+^ &name . 
+^ ps revamping &name bit but do n't understand some of what &name " friend has written . 
+^ shall &char ask &name ? 
+</text_normal>
+</part>
+</message_body>
+</message>

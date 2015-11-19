@@ -1,0 +1,27 @@
+<message>
+<date> mon, 28 aug 2000 20:48:24 +0100 </date>
+<to> co.uk </to>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name ? 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ just wondering if you 're ... alive ? 
+^ still sentient ? 
+^ let me know at your convenience . 
+^ thank you , 
+^ &name 
+^ ( we had an absolutely horrendous lightening storm this morning . 
+^ it cut the power here . 
+^ i bet you 're glad you 're not on holiday in &name like &name ! ) 
+</text_normal>
+</message_body>
+</message>

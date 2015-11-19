@@ -1,0 +1,21 @@
+<message>
+<date> wed, 09 may 2001 12:13:52 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ what do you type once logged on to &name to get the usernames ? 
+^ thanks . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

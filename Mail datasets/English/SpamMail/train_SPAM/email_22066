@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name : get an unsecured premier credit card 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=em_boundary_string </content-type>
+<date> mon, 7 apr 2003 18:03:38 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

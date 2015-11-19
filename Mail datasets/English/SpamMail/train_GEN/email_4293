@@ -1,0 +1,21 @@
+<message>
+<date> thu, 14 nov 2002 13:51:42 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ bleeping 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ xset &char &num &num &num 
+^ that 's the command ! 
+^ if you put it in your .profile file it will load every time you log on . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,29 @@
+<message>
+<date> sat, 7 dec 2002 01:42:10 -0800 (pst) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ fwd : &name who ? 
+</text_normal>
+</subject>
+<to> com com edu com com com com com com com com com com com com com com com com com com com com com com co.uk com net com com com com com ac.uk com co.uk com com </to>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name ! 
+^ note : forwarded message attached . 
+^ do you &name ! ? 
+^ &name ! 
+^ mail plus - powerful . 
+^ &name . 
+^ sign up now . 
+^ &website 
+</text_normal>
+</part>
+<part num="2" type="message/rfc822">
+</part>
+</message_body>
+</message>

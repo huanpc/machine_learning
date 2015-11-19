@@ -1,0 +1,24 @@
+<message>
+<date> mon, 5 aug 2002 11:52:44 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ question 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i was in the middle of writing that email to &name that started out as : 
+^ " hi &name , 
+^ i met with &name earlier today to discuss the stream id matter that we were talking about . 
+^ he convinced me they were necessary in order to distiguish input simple streams if the user wants to perform calculations on them directly . 
+^ for example , if a query was to calculate the average heartbeat for every soldier whose data was flowing through the system of schema ( &name , heartbeat ) then without &name , there would be no way to distinguish heartbeats of different soldiers ... " 
+^ but then i remembered that we just said that we would keep around the information that is used to created the &name ( sensor id , sensor type , etc ) so that brings me back the the original question - why ca n't the aggragate boxes group these attributes into an &name rather than do it at the beginning of the system ? 
+^ &name
+</text_normal>
+</message_body>
+</message>

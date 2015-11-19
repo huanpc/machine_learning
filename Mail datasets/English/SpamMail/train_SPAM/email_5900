@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * what can you do in &num minutes ? 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 01:25:53 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ reception for visitors - &num april &num 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 10:57:14 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ reception for visitors - &name &num april &num 
+^ the president & fellows of &name college , &name request the pleasure of the company of you & your spouse / partner at a reception to welcome the new visiting fellows & scholars , press fellows & members of the &name &name . 
+^ thursday &num april &num , &name - 7.30pm in the &name hall 
+^ &name refreshments will be served . 
+^ a reply is not required , but if you wish to dine at &name hall after the reception , you must sign the dinner book before &name on &num april . 
+^ for address change / removal ask ( &email ) please send messages to all members to ( &email ) 
+</text_normal>
+</message_body>
+</message>

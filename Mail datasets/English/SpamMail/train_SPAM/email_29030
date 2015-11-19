@@ -1,0 +1,17 @@
+<message>
+<date> fri, 11 apr 2003 07:45:40 +0000 (gmt) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ [ &name ] ? 
+^ iso-8859-3 ? 
+^ &char ? 
+^ &name ? 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

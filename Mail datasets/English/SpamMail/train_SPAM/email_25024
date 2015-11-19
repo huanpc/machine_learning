@@ -1,0 +1,15 @@
+<message>
+<date> wed,  9 apr 2003 08:11:55 -0800 (pdt) </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ we found $ &num under the last name &name . 
+^ want to claim it ? 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

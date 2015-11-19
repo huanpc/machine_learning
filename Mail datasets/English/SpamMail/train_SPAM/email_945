@@ -1,0 +1,40 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name : &name now with your degree ! 
+</text_normal>
+</subject>
+<date> sun, 23 mar 2003 18:16:36 -1700 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ 
+^ * * * new * * * 
+^ obtain your university &name &name ! 
+^ * * * new * * * 
+^ the highlights : 
+^ * no required tests . 
+^ * no classes . 
+^ * no books . 
+^ * no interviews . 
+^ what are you waiting for ? 
+^ it does n't get any easier ! 
+^ call &name now ! 
+^ &num - &num - &num - &num 
+^ call and pick a diploma . 
+^ * bachelors diplomas 
+^ * masters diplomas 
+^ * &name diplomas 
+^ * &name ( &name ) diplomas 
+^ no one is turned down , &name assured . 
+^ pick up your phone now , and your diploma will be at your doorstep within &num hours in most cases ! ! 
+^ &num - &num - &num - &num 
+^ call &num hours a day , &num days a week , including sundays and holidays . 
+^ for removal mailto : &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name , &name , &name , and wheezing 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<date> sat, 29 mar 2003 06:34:32 -0500 (est) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ allergies & asthma newsletter 
+</text_normal>
+</message_body>
+</message>

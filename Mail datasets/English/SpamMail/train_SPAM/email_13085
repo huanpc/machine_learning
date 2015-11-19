@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ video1.jpg video5.jpg video9.mpg ( &name : &name ) 
+</text_normal>
+</subject>
+<date> mon, 31 mar 2003 07:29:27 +0200 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

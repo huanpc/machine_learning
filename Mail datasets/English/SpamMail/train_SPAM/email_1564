@@ -1,0 +1,14 @@
+<message>
+<from> com.tw </from>
+<subject>
+<text_normal> 
+
+^ &name &num 03's &char 
+</text_normal>
+</subject>
+<date> mon, 24 mar 03 11:10:12 taipei standard time </date>
+<content-type> multipart/mixed; boundary= "----=_nextpart_000_0048_ded12e45.456193e2" </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

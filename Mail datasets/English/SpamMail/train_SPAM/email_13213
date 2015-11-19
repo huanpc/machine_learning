@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name 's theory of relativity has just been proven obsolete ! 
+</text_normal>
+</subject>
+<content-type> text/html; </content-type>
+<date> thu, 27 mar 2003 07:38:30 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name theory of relativity has just been proven obsolete ! 
+^ reference # &num . 
+^ if you wish to unsubscribe from this list , please click here . 
+^ if you have previously unsubscribed and are still receiving this message , you may email our abuse control center , or write us at : &name , &num &name dr # &num , &name , &name , 33319&quot;. 
+^ new theory that explains every known mystery in science -- physics - &name - &name - &name &name &name , the vortex theory , vortex theory , theory of everything , unified theory , physics , chemistry , math , proof , mathematical , mathematical proof 
+</text_normal>
+</message_body>
+</message>

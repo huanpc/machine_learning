@@ -1,0 +1,14 @@
+<message>
+<from> web </from>
+<subject>
+<text_normal> 
+
+^ &name 's, biker 's, &name 's &name &name 
+</text_normal>
+</subject>
+<date> fri, 21 mar 2003 08:24:03 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

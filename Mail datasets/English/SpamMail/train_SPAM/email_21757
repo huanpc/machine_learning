@@ -1,0 +1,37 @@
+<message>
+<from> or.jp </from>
+<date> tue, 08 apr 2003 04:07:45 +0900 </date>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-2022-jp ? 
+^ &char ? 
+^ &char ? 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &char ) &char 
+^ a' &char ] &email &char { [ a' &char &char &char 'm p' &char [ a' &char x' &char 
+^ &num s' &num 2' &char c' &char &name [ } k' &char &char 
+^ tel&email fax&email @ @ 
+^ &char 'm &char g' &char m' &char &char 
+^ [ &name &num ~ &char &num ~ v' &char 
+^ @ @ @ o' &char [ w' &num @ 10' &char &char z10 ~ a' &num ~ m' &char 
+^ &char 
+^ o' &char y' &char e' &char o' &char y' &char @ @ @ @ @ @ 
+^ e' &char &char @ l' t q' &char n' &char n' &char 
+^ @ @ @ @ @ @ @ @ @ 
+^ &website 
+^ r' &char i' &char _' &char c' &char e' &char l' &char &char u' &char d' &char e' &char d' &char t' &char e' &char _' &char o' &char &char @ a' _ g' a @ 
+^ e' &char &char @ l' t q' &char n' &char n' &char 
+^ @ @ @ @ @ @ @ @ @ 
+^ &website / 
+^ ( to unsubscribe , send ' unsubscribe sql.el ' to &email ) 
+</text_normal>
+</message_body>
+</message>

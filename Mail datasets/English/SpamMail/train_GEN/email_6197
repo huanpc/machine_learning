@@ -1,0 +1,29 @@
+<message>
+<from>
+</from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ french version 
+</text_normal>
+</subject>
+<date> wed, 7 may 2003 17:41:21 +0200 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name , when a french version of sfxmaker ? 
+^ &name , 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name , when a french version of sfxmaker ? 
+^ &name , 
+</text_normal>
+</part>
+</message_body>
+</message>

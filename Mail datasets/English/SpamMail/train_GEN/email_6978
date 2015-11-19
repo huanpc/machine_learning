@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name en francais 
+</text_normal>
+</subject>
+<date> tue, 12 nov 2002 17:47:48 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ j' aimerais savoir si sfxmaker existe en francais et si oui &name le trouvez , si non si il est pre9vue &char ele traduire 
+</text_normal>
+</part>
+</message_body>
+</message>

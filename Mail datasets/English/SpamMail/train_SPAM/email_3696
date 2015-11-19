@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ [ ] ! 
+^ lg &num &num , &name &num ! 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 16:16:21 +0900 </date>
+<content-type> text/html; charset="euc-kr" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled &name 
+^ : . ( 50-20% ) , , , , 
+^ , , . 
+^ st-501 cb-301 , &num &name &num , &num &num , &num , &num &num . 
+^ 50-20% &num . 
+^ &website 
+^ : &num ) &num 
+^ ( &website ) &name . 
+^ ( &num ) &num , , &name . 
+^ , . 
+^ if you do n't want to receive this mail , please click this button . 
+</text_normal>
+</message_body>
+</message>

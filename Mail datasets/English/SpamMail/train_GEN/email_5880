@@ -1,0 +1,25 @@
+<message>
+<date> sun, 9 feb 2003 14:58:54 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] distribution now passes tests | questions about &name 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ i 've just checked in a working version of the distribution system , &name . 
+^ it passes the tests i wrote , and there is thus no more to do on it until we can break it . 
+^ what is the status of lima.m.f.quadraticsieve. * ? 
+^ the version &name showed me yesterday was working , but the current version does n't compile . 
+^ i am down to sort out the gaussian elimination side of things , but i ca n't find the code that is doing it . 
+^ we should meet in the intel lab after monday 's lectures and and get everything ready for tuesday 's hand-in deadline . 
+^ &name " nothing would please me more than being able to hire &num programmers and deluge the hobby market with good software . " - &name &name &num 
+^ lima-committee mailing list &email 
+</text_normal>
+</message_body>
+</message>

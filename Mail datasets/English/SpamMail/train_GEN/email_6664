@@ -1,0 +1,31 @@
+<message>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ notice of an election 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> tue, 26 nov 2002 20:55:48 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ notice of an election of student &name of faculty boards - &name science syndicate 
+^ the following nominations have been received : 
+^ undergraduate students : &name &name , part &name , &name college &name &name , part &name , &name college 
+^ graduate students : &name &name , &name , &name " college 
+^ the position of graduate representative being uncontested , &name &name is duely elected to serve on the computer science syndicate for &num year from &num january &num . 
+^ there will be an election for the undergraduate representative , the candidates being ( in alphabetical order ) : 
+^ akhund , &name &name , &name 
+^ &name will take place on tuesday &num december &num at &name administration reception between &num - &num and &num - &num . 
+^ ballot papers will be provided and the names of the voters checked against an electoral roll provided by the &name schools . 
+^ the electoral roll will be displayed on the noticeboard outside &name administration . 
+^ regulations make provision for amendment of the electoral roll by the registrary on my recommendation as returning officer , at any time before the time fixed for the start of voting . 
+^ the results of the election will be published on wednesday &num december &num by electronic mail and on the student administration noticeboard . 
+^ &name &name secretary , computer science syndicate 
+^ &num november &num 
+</text_normal>
+</message_body>
+</message>

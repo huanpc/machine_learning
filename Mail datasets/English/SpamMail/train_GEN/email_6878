@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ reply . 
+</text_normal>
+</subject>
+<date> sat, 14 sep 2002 19:57:47 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , &nbs &char ; thank-you for the letter . 
+^ our church social is on the 28th september it would be really good if you can come . 
+^ tickets are &pound; &num and there will be a meal a barn dance and an auction . 
+^ &name . 
+</text_normal>
+</part>
+</message_body>
+</message>

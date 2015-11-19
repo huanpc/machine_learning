@@ -1,0 +1,34 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ alert : mortgage rates on the &name .. act now ! 
+^ &% $ @22442 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 19:17:52 -1900 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ lowest rates in &num years , soon to increase 
+^ fact : interest rates are at their lowest point in &num years ! 
+^ &name &name &name 
+^ * &name 
+^ * &name &name &name 
+^ * &name &name 
+^ * &name &name 
+^ * auto loans 
+^ * credit cards 
+^ * student loans 
+^ * second mortgage 
+^ * &name &name 
+^ this service is &num free without any obligation . 
+^ stop by at : &website 
+^ drop list : &website 
+^ wo7oa1c1mhy4dt7hspferz6yyq0wnyxcreqdskuho0uslnvo7fbpum1cg0sdvhhbbb5u 
+</text_normal>
+</message_body>
+</message>

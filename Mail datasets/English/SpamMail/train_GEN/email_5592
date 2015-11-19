@@ -1,0 +1,33 @@
+<message>
+<date> wed, 13 nov 2002 15:40:02 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ " &num days " and &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ apologies for the lack of details on the " &num days " e-mail ... 
+^ " &num days to &name " is the &name club 's lateshow this week 
+^ it is on at the &name theatre , park street . 
+^ &name wednesday to saturday . 
+^ tickets on the door from 10.30pm . 
+^ &name booking &num &num &num 
+^ clubnight tonight 
+^ from 9pm 
+^ discounted drinks , all your favourite faces , 
+^ see you there 
+^ &namexx 
+^ this is the &name university amateur dramatic club 's mailing list . 
+^ club webpages : &website 
+^ messages on this list will give details of events open to both members and non-members . 
+^ please direct any comments and queries to ( &email ) 
+^ to be removed from this list , email ( &email ) 
+</text_normal>
+</message_body>
+</message>

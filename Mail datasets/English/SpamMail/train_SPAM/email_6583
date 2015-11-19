@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ vocea ? 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> fri, 28 mar 2003 18:18:15 -0300 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name pagina &num 
+</text_normal>
+</message_body>
+</message>

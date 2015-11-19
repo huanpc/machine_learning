@@ -1,0 +1,28 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ re : supervisions tomorrow in eh12 
+</text_normal>
+</subject>
+<date> mon, 27 jan 2003 10:26:27 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ &name has just told me that &name cannot make &num p.m. but can make &num : &num p.m. so let 's make a minor modification : 
+</text_normal>
+<text_embedded> 
+
+^ 
+^ 3: &num p.m. part &name students - probability 
+^ 4: &num p.m. part &name students - &name & &name 
+</text_embedded>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,34 @@
+<message>
+<date> mon, 29 jul 2002 19:38:48 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : tumble pseudocode 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hey &name , 
+^ sorry we missed each other . 
+^ i figured that i could do the write-up &name asked me to do from home so i took the train . 
+^ thanks for the pseudo-code - let 's go over it together tomorrow morning . 
+^ thanks , &name 
+^ on mon , &num &name &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey &name , 
+^ i guess i missed you . 
+^ i had gone to the mailroom . 
+^ i pretty much have the pseudocode all done . 
+^ i will go over it sometime in the evening to look for errors and inconsistencies . 
+^ i have attached a copy in case you decide to look at it . 
+^ otherwise , i will hear from you tomorrow . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

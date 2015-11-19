@@ -1,0 +1,15 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ receive $ &num , &num daily returning phone calls . 
+</text_normal>
+</subject>
+<date> thu, 27 mar 2003 12:25:15 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

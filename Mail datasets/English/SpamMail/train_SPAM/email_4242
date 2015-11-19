@@ -1,0 +1,20 @@
+<message>
+<date> 27 mar 2003 10:10:23 -0000 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ free help ! 
+^ free quote - &name &name ! 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( html) ( &char aligncenter) ( font face' times ' size' &num ' color' # &name )save up to ( font color' # &name )70% ( /font ) on your term life insurance! ( /font) ( br ) ( font face' times ' size' &num ' color' # &name ) ( i)receive a free quote from top insurance companies around the country. ( /i) ( /font) ( br) ( br) ( font face' arial ' size' &num ' color' # 7084d6' ) ( b) ( &char aligncenter)in our life and times , it 's important to plan for your family 's future , while ( br)being comfortable financially . 
+^ choose the right life insurance policy today. ( /font ) ( p) ( font face' arial ' size' &num ' color' # &name ) ( i) ( &char aligncenter)click the link below to receive a ( &name color# ff0000)free ( /font)and ( br)no &name quote of the lowest rates and ( br)save up to ( /i) ( /font) ( font color' # &name )70%! ( /font) ( &num ( &num ( &num ) ( &num ) ( a href' &website ) 
+</text_normal>
+</message_body>
+</message>

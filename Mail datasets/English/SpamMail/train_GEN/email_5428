@@ -1,0 +1,24 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ lecture appraisal forms 
+</text_normal>
+</subject>
+<date> mon, 19 may 2003 10:58:09 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ please could you fill out a lecture appraisal form at the end of your lectures this week . 
+^ your lecturers should give them out to you at the beginning of your lecture . 
+^ please can you hand it back to them or to &name administration . 
+^ much appreciated 
+^ &name 
+^ &org student administration &name &name building &name &name &name &name avenue &name , &name &name &name telephone : &num ( &num ) &num &name : &num ( &num ) &num email : &email 
+</text_normal>
+</message_body>
+</message>

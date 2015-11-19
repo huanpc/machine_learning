@@ -19,8 +19,8 @@ import java.util.logging.Logger;
  */
 public class Conn {
 
-    String usn = "root";
-    String pwd = "";
+    String usn = "huanpc";
+    String pwd = "12345678";
 
     //1. Creat a connection to database
 
@@ -63,7 +63,7 @@ public class Conn {
         Statement stm = this.getStatement(dbname, tbname);
         String query = "select distinct * from ";
         query += tbname;
-        query += " where word=\"";
+        query += " where words=\"";
         query += word;
         query += "\"";
         try {

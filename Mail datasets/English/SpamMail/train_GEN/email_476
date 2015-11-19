@@ -1,0 +1,52 @@
+<message>
+<date> fri, 04 may 2001 14:48:32 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ quite good , especially since &name seems to be taken in by it . 
+^ how are you ? 
+^ i 'm at home , having curious problems . 
+^ &name 
+^ " &name &name " wrote : 
+</text_normal>
+<text_embedded> 
+
+^ no , &name , this is my idea of an amusing prank . 
+^ what do you think ? 
+^ &name wrote : 
+<text_embedded> 
+
+^ really ? 
+^ &name 
+^ " &name &name " wrote : 
+<text_embedded> 
+
+^ actually , we have &num in &num days . 
+^ is n't that just lovely ? 
+^ &name wrote : 
+<text_embedded> 
+
+^ &name , 
+^ should we leave it till after exams ? 
+^ i think the girls have &num in the first &num days - maybe we could do it after that ? 
+^ what do you think ? 
+^ &name 
+^ " &name &name " wrote : 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

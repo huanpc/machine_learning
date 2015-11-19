@@ -1,0 +1,15 @@
+<message>
+<from> bizz </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * * * want to stop the &name &name &name in their tracks? * * * * 
+</text_normal>
+</subject>
+<date> sun, 08 dec 2002 21:52:11 +1000 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

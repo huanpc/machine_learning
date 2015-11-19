@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name , &name , krups & &name up to &num off 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> tue, 8 apr 2003 18:41:12 -0700 (pdt) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ due to limited quantities of merchandise , extremely popular items mentioned in this newsletter may sell out . 
+^ featured items were available at the time of this writing . 
+^ we apologize in advance for any inconvenience . 
+^ &name &copy; &num smartbargains&reg;. 
+^ all rights reserved . 
+^ you received this email because you signed up at &num of &name 's websites ( see the ' properties ' listed at &website . 
+^ ( &char ) &num &name , inc. all rights reserved . 
+</text_normal>
+</message_body>
+</message>

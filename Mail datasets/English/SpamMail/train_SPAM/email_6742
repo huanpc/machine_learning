@@ -1,0 +1,44 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * &name : $ &num &name in a flash ! 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 04:59:00 -0500 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hi the following message was sent to you as a subscriber to &name through &name a third party marketing partner . 
+^ you will continue to receive offers unless you unsubscribe . 
+^ if you wish to unsubscribe , simply click here : or send an email to mailto : &email . 
+^ you will be removed at no cost . 
+^ rent due ? 
+^ &name disconnected ? 
+^ medical expenses ? 
+^ &name to pay ? 
+^ &name can help ! 
+^ &name &name ? ? 
+^ no credit ? ? 
+^ no &name ! ! 
+^ all types of credit accepted ! 
+^ it 's fast ! ! 
+^ it 's easy ! ! 
+^ it 's hassle free ! ! 
+^ get up to $ &num in &num minutes or less ! 
+^ apply today ! 
+^ click here : privacy policy is available at &website . 
+^ all questions about the advertised product should be directed toward the advertiser . 
+^ to unsubscribe , simply reply to this email or go to copy and paste the &name into your web browser . 
+^ third-party offers contained in this email are the sole responsibility of the offer originator . 
+^ all questions about the offer featured in this and other emails should be directed toward the advertiser and / or the offer originator . 
+^ please do not reply to the email address in the from or to line in this mailing . 
+^ all customer support issues should be directed toward &email . 
+^ this message has been brought to you by : &name &num east 149th street 3rd floor &name , ny &num &website 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,26 @@
+<message>
+<content-type> text/plain; boundary="_----------=_8257169351814735122585" </content-type>
+<date> tue, 1 apr 2003 21:52:45 ut </date>
+<subject>
+<text_normal> 
+
+^ dear you 've won ! 
+</text_normal>
+</subject>
+<from> com </from>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+^ you 've won ! 
+^ click here to see what it is : &website 
+^ thanks , &name 
+^ we respect your privacy . 
+^ you have opted in to receive updates on special offers while visiting one of our partner sites . 
+^ remove yourself from this recurring list by sending a blank email to mailto : &email 
+^ or sending a postal mail to customer service &num &name road , # &num , &name , &name &num 
+^ this message was sent to address 
+</text_normal>
+</message_body>
+</message>

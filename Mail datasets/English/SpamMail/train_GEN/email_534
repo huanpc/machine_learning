@@ -1,0 +1,36 @@
+<message>
+<to> com </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=utf-8 </content-type>
+<subject>
+<text_normal> 
+
+^ a message from &name 
+</text_normal>
+</subject>
+<date> thu, 05 jul 2001 23:09:12 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ thank you very much for replying to my text messages ! 
+^ i like having a mobile phone ! 
+^ anyway , i hope you 're managing to cope a little better with the heat . 
+^ if not , then put your head in a freezer for a while . 
+^ or , think of poor &name and &name going off to &name , where it is doubtless hotter still . 
+^ today i worked in the morning and finished tidying away my &name stuff in the afternoon . 
+^ then i helped my dad in the garden for a while . 
+^ &name , i hope you enjoy your weekend in &name . 
+^ will you see anyone there whom i know ? 
+^ by the way , i was wondering if you 'd heard from &name this holiday . 
+^ he has n't e-mailed me at all . 
+^ neither has &name . 
+^ well , i think i shall go to bed now . 
+^ my parents had to buy black-out curtains for me to stop the light waking me in the mornings ! 
+^ the sun was getting me up at &num : 45am . 
+^ i hope you have a lovely day tomorrow . 
+^ see you soon . 
+^ &name
+</text_normal>
+</message_body>
+</message>

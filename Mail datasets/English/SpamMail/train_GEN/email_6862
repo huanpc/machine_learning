@@ -1,0 +1,34 @@
+<message>
+<date> tue, 11 feb 2003 16:16:08 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : recording &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ that 's great , thanks- and yes , i do mean pm &smiley just thought &char ought to check ! 
+^ &name finishes around &num , so if you could be there as soon after &num as poss , that would be fab &smiley thanks for doing this , see you saturday ! 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ on tuesday &num &name &num &num : &num pm , t.d. &name wrote : 
+<text_embedded> 
+
+^ i believe &name &name is the man for you .. the current plan is minidisc and a litle tie-clip microphone which i need to go and buy uhmm ! 
+^ wo n't take more than 5mins i would n't have thought , but check with &name 
+</text_embedded>
+
+^ no more than &num minutes , surely , and 'some point between 7.15ish and &num " is just fine , so long as you mean pm . 
+^ &smiley 
+^ - &name 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,32 @@
+<message>
+<from> net </from>
+<to> altmuehlnet.de </to>
+<date> mon, 26 may 2003 22:32:25 +0200 </date>
+<subject>
+<text_normal> 
+
+^ [ &name ] &name getting color management working 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear all , 
+^ how can i get the color management working in &name &num on &name &num ? 
+^ i 've been following all the advices in the documentation , &name and &name are installed properly and working , and i found " &name " after compilation . 
+^ i have installed the lcms with 'make install " , and have run ldconfig afterwards . 
+^ lprof-1.09 itself is runnig fine . 
+^ do you have any hints ? 
+^ thanks , &name &name 
+</text_normal>
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

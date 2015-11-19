@@ -1,0 +1,21 @@
+<message>
+<date> wed, 26 mar 2003 10:40:30 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ cite 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , i just noticed a citation of your muc-6 work in a paper i 'm currently reading ! 
+^ the paper is on ne recognition , and apparently you reported that using gazetteers did not make much difference to performance ! 
+^ good work , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

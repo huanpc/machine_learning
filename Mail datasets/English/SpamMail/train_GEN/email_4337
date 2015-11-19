@@ -1,0 +1,44 @@
+<message>
+<date> sun, 22 dec 2002 15:42:55 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ ok , &name ! 
+^ looking forward to seeing you in the new year . 
+^ enjoy that black bread while you can ! 
+^ all the best , 
+^ &name 
+^ on &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ thanks for mailing . 
+^ it does n't matter , if the letter did not arrive yet . 
+^ it cannot be too important then . 
+^ i will pay ntl when i am back in january , that should be fine . 
+^ thanks a lot for your help and have a blessed christmas with your family , 
+^ &name &name 
+^ on &name &num &num , &name &name wrote : 
+<text_embedded> 
+
+^ &name &name , 
+^ the letter has not arrived , and i am leaving today ( &name ) . 
+^ if it is very important , the only thing i can think of is to get college to identify the letter and forward it to me at home , and then i can try and get it to a bank from there . 
+^ the only problem is that the banks are all closed for quite a bit of time around christmas , so i 'm not sure i 'll be able to get it done before the 26th or so . 
+^ let me know what you want to do , 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

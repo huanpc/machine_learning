@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ a question ... 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 23:21:05 +0100 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ vendes por correo ? 
+^ si es as &name en contacto conmigo ... 
+^ &name bien ... 
+^ do you sell by mail ? 
+^ if it is you contact this way me ... i pay well ... 
+</text_normal>
+</message_body>
+</message>

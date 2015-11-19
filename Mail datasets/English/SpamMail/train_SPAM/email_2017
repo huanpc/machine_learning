@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name quotes today and save up to &num ! 
+^ dvn 
+</text_normal>
+</subject>
+<date> sat, 22 mar 03 14:51:01 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

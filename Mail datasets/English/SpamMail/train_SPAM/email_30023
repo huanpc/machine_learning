@@ -1,0 +1,37 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ bids on your next mortgage &name 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 20:30:59 -1800 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &num seconds now could save you &num ! 
+^ need to refi that 1st , to take advantage of the lowest interest rates in &num years ? 
+^ how about a home equity loan to fix up that kitchen ? 
+^ trouble getting a low rate on your mortgage just because you missed a payment or &num on a retail store credit card ? 
+^ just visit the &name center at : 
+^ &website 
+^ take advantage of one of our many programs to : 
+^ - get a second mortgage 
+^ - &name a 1st or 2nd mortgage to a lower rate 
+^ - refi a 1st or 2nd , with a cash out option 
+^ - take care of your investment with a &name &name &name 
+^ - &name &name : save hundreds every month , and reduce your taxes ! 
+^ - we have programs available for all types of credit ratings ! 
+^ just fill out the short form , and we will match your needs to the best lenders we can find in your area ! 
+^ absolutely no obligation at all ! 
+^ visit the &name center at : 
+^ &website 
+^ you 'll be glad you did . 
+^ thank you ! 
+^ to stop all future communications , please visit : &website please allow up to &num week to be removed . 
+</text_normal>
+</message_body>
+</message>

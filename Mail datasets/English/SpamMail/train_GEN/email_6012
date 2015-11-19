@@ -1,0 +1,24 @@
+<message>
+<from> org.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : bag 
+</text_normal>
+</subject>
+<date> fri, 6 dec 2002 16:23:54 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ oh &name 
+^ it is a bit late now i am afraid 
+^ &name 
+^ hi &name 
+^ i left my bag at your place last night . 
+^ any chance i could get it today ? 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

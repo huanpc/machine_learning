@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ productreturn # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ i will return the article of the order ( 39483) . 
+^ would you kindly reimburse me for the cost of this to my credit card ? 
+</text_normal>
+</message_body>
+</message>

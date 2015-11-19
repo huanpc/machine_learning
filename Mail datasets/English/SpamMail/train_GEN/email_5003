@@ -1,0 +1,52 @@
+<message>
+<date> thu, 14 nov 2002 21:51:30 -0500 (est) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : help with &name documents 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ sorry for the delay in email . 
+^ things are a ltitle crazy here &smiley 
+^ what &name documents are you talking about ? 
+^ from what i can recall , we never made any . 
+^ but i could just be forgetting . 
+^ i did find an early version of the grammar which i am attaching with this email . 
+^ but do n't just forward that on to christian because some of it was changed when we implemented it . 
+^ the best thing to do would be to open up &name and see how the structure of the code differs from the document i sent you and update the document . 
+^ it should be fairly logical how the code translates to the grammar if you look through it , even if you have n't taken &name yet . 
+^ i hope all is well - good luck with your presentation at the &name meeting tomorrow &smiley 
+^ &name 
+^ on &name , &num &name &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hey &name 
+^ how 's it going there ? 
+^ things are tough here . ... as always . 
+^ i have join about to be coded . 
+^ i will present it on friday and hope &name will like it . 
+^ other than that , everything else is driving me crazy . 
+^ ok ... here is where i need help . 
+^ christian was documents on &name . 
+^ the storage manager i think is planning to use &name for connection points . 
+^ i looked around for the docs , but ca n't find anything besides the pseudocodes that i wrote . 
+^ since you did most of the big stuff , i am assuming you have those saved somewhere . 
+^ i checked the little laptop for your files but could not find them . 
+^ so i would be very grateful if you could send those files to me - of course if you have them . 
+^ otherwise , i will try to write up something to give to christian . 
+^ thanks 
+^ cheers ! ! ! ! ! ! 
+^ &name 
+</text_embedded>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,25 @@
+<message>
+<date> thu, 13 feb 2003 16:43:41 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name language practical - empty rmrs 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ the questions with empty rmrs structures are : 
+^ &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num , &num . 
+^ so there 's no point including these &num questions in your tests . 
+^ if anyone wants to check these numbers and confirm then that 'd be great . 
+^ it 's fun , trust me ... &smiley 
+^ see yous , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,19 @@
+<message>
+<subject>
+<text_normal> 
+
+^ claim a free $ &num &name 's &name &name warehouse gift card 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<date> sat, 22 mar 2003 00:56:58 -0800 (pst) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name cancellation : you may 
+^ &num 
+</text_normal>
+</message_body>
+</message>

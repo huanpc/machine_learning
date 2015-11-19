@@ -1,0 +1,14 @@
+<message>
+<content-type> multipart/alternative </content-type>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ hey &name , its &name 's &name &name game ( details enclosed ) 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 18:13:55 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

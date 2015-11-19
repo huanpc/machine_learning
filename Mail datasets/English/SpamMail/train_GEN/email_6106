@@ -1,0 +1,28 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ change of time 
+</text_normal>
+</subject>
+<date> mon, 27 jan 2003 14:41:19 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ sorry if this is gonna cause a problem , but we 're gonna say &num for the talk , so people with &name can get to lectures etc. .. hope that 's ok ! 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ sorry if this is gonna cause a problem , but we 're gonna say &num for the talk , so people with &name can get to lectures etc. .. hope that 's ok ! 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

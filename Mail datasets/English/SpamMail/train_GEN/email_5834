@@ -1,0 +1,121 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : [ autopackage ] libprefix - all the way 
+</text_normal>
+</subject>
+<from> com </from>
+<to> org </to>
+<content-type> text/plain </content-type>
+<date> 02 may 2003 15:55:41 +0100 </date>
+<message_body>
+<text_embedded>
+
+<text_embedded> 
+
+^ unless you use a database , you have to get your bearings from somewhere . 
+^ i think we both agree that a database is less than optimal , so using the binaries / libraries seems like the next best thing . 
+</text_embedded>
+
+^ except those do n't tell you anything concrete . 
+^ if there 's no database entry , then it would be acceptable , because you have nothing else to go on . 
+^ the database definitely needs to be an option , tho . 
+</text_embedded>
+<text_normal> 
+
+^ i do n't understand why you think that 's not concrete . 
+^ most people never change the defaults , that rules holds true even for computer programmers . 
+^ i do n't know many people to change prefix and bindir on an app specific level like you do - &name , getting locations from the binary would break on your setup unless you simply symlinked things from the bin dir ( btw , autopackage can already do this automatically , but &char no longer use that functionality , should test it really ) . 
+</text_normal>
+<text_embedded> 
+
+^ &name . 
+^ but this is why libprefix would n't be able to guess which variation there-of is being used based just on binary location ; sure , you could search a couple different relative paths , but then there 's no guarantee the file you found is the one that user wants ( lots of people have the same app installed several times , from either ignorance or laziness or need ) . 
+</text_embedded>
+<text_normal> 
+
+^ i do n't understand . 
+^ if i install an app to prefix &char , then presumably any other installation will be overwritten . 
+^ if there are &num versions , in prefixes &char and &char , then using binary relative paths wo n't allow them to interfere . 
+</text_normal>
+<text_embedded> 
+
+^ it could be in /usr / local / appname / share - this is actually how i do my installs , since lumping all the data / files for an app together with other apps is a big huge mistake of &name . 
+^ &smiley of course , i put the binaries in /usr / local / bin because of the $ path issues . 
+</text_embedded>
+<text_normal> 
+
+^ well , &name , but that 's just wierd &smiley anyway , you could still do this just by making the prefix /usr / local / foo and then symlinking in bin . 
+</text_normal>
+<text_embedded> 
+
+^ certain other apps need more special options , since systems like gnome or &name must have certain files in certain prefixes , even if you do n't want the app in that prefix ( this is a failing of gnome / &name ) . 
+</text_embedded>
+<text_normal> 
+
+^ &name these days gnome at any rate has environment variables for everything , but settings those for every single app directory is a total pita , which is &num thing in favour of using as few prefixes as possible . 
+</text_normal>
+<text_embedded> 
+
+^ &name could even automatically detect when it needs to put in an override file and when not . 
+^ ~, 
+^ 
+</text_embedded>
+<text_normal> 
+
+^ i 'm not sure what algorithm we 'd use here . 
+</text_normal>
+<text_embedded> 
+
+^ i 've seen the debate both ways ; one of the more compelling i 've seen for having app dirs visible is backups . 
+^ a lot of users want to backup settings from an app to a &name or &name disk or something , and it needs to be visible for them to do so . 
+</text_embedded>
+<text_normal> 
+
+^ i 'd counter that : 
+^ &char ) this does n't apply to program files as user data is always stored in $ home 
+^ &char ) users screw things up far more often by playing with the contents of application install locations in my experience ( or often by deleting them because the uninstaller broke or it took less effort or whatever ) . 
+^ &char ) we need a better system for backups than spamming the users home directory with lots of visible data files . 
+^ this is &num thing that pisses me off about evolution , when i asked dobey about it he said it was so people could more easily make backups . 
+^ some kind of system backup service ? 
+^ have a list of applications with check boxes and a " backup state " button that produces a " littlegreen on the 2nd may 2003.backup " file ( really just an archive with system settings / data dirs in ) . 
+^ that would work better than exposing the mechanism behind the software magic to users . 
+^ i good little project for somebody , along with some work at &website , very nice . 
+</text_normal>
+<text_embedded> 
+
+^ i 'm also coming from a desktop perspective , so ~/apps would n't even be " visible " to a user unless they 're advanced enough to open a terminal and do work - and i can tell you now maybe &num of the ~100 employees here could do that with any success . 
+^ 
+^, 
+^ 
+</text_embedded>
+<text_normal> 
+
+^ i ca n't say i like the idea of magic directories that appear from the terminal but not nautilus / file picker . 
+^ that approach is doomed to bizarre leaks and inconsistancy . 
+^ &name already has a decent semantic for hidden files in the form of the dot prefix , no need to special case &name for this , ~ /.usr would do just as well . 
+</text_normal>
+<text_embedded> 
+
+^ &name . 
+^ i 'm a bit &name to volunteer ; everytime i do that i end up not having the time . 
+^ ~, 
+^ i might play around with this with some of my projects tho , and if not provide code at least provide some details . 
+^ i have both &name and &name systems ( and soon &name &char if i 'm lucky ) so i 'll be able to play with disparate environments . 
+^ 
+^, 
+^ 
+</text_embedded>
+<text_normal> 
+
+^ ok . 
+^ &name is n't a major concern for me , although it 'd be nice for libprefix to support whatever the layout of /proc is there , and macos i does n't concern me in the slightest , indeed , i probably would n't especially want support in there , the code bloat would n't be worth it . 
+^ any information / code snippets you can provide would be useful though . 
+^ the job is pretty trivial , but my &char skills are n't solid enough yet for me to do it quickly ( will be improving soon though ) . 
+^ thanks -mike 
+^ &name &name ( &email ) &name - &name technology center 
+^ &name mailing list &email 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,35 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<subject>
+<text_normal> 
+
+^ &name job opportunity in &name 
+</text_normal>
+</subject>
+<date> tue, 29 apr 2003 13:28:54 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ if any of you are looking for a summer job , this unsolicited request arrived today . 
+^ i know nothing about the company and am just passing the message on . 
+</text_normal>
+<text_embedded> 
+
+^ from their website , i see that they are based in &name at the &name &name 's &name park . 
+</text_embedded>
+<text_normal> 
+
+^ dear sir 
+^ we are looking to take on a computer undergraduate during the summer vacation to help out in a number of projects . 
+^ we use a number of programming languages but mainly c++ and visual basic . 
+^ the work would be supervised but we do expect the student to be able to program code unaided . 
+^ a lot of what we do is with cameras , lenses and focussing systems so it would suit somebody who has an interest in this area . 
+^ the work will involve developing auto focus algorithms for cameras being developed for the next generation of mobile phones . 
+^ if anyone in your college is interested please ask them to e-mail their cv to me for consideration . 
+^ regards 
+^ dr &name &name ( &email ) &name group manager 
+</text_normal>
+</message_body>
+</message>

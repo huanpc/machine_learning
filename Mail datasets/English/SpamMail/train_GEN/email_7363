@@ -1,0 +1,19 @@
+<message>
+<from> net </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ uncle &name 
+</text_normal>
+</subject>
+<date> thu, 18 oct 2001 23:29:20 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ i take it that uncle &name has contacted you about seeing you on sat &num october . 
+^ dad 
+</text_normal>
+</message_body>
+</message>

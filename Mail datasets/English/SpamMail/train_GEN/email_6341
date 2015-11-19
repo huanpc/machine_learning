@@ -1,0 +1,23 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<date> tue, 3 dec 2002 14:35:07 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ sure thing &name , here are the details : 
+^ we will go for the &num : &num to &name arriving at &num : &num 
+^ we can meet at the train station , the citi &num bus leaves the &name street bus stop at &num : &num to get to the station at &num : &num . 
+^ so we could meet to get that . 
+^ i 'll be there , 
+^ &name
+</text_normal>
+</message_body>
+</message>

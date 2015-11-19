@@ -1,0 +1,30 @@
+<message>
+<date> sat, 5 apr 2003 05:05:47 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * over &num , &num free scholarships available 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ 
+^ * * subscriber details are included at the bottom. * * 
+^ college &name : find free college money ! 
+^ &website 
+^ here 's your chance to use the &name 's largest free college scholarship search . 
+^ find thousands of schoarship opportunities available right now ! 
+^ &website 
+^ it 's free , easy and more than &num , &num guidance counselors and financial aid officers recommend it ! 
+^ simply complete a short search profile and you will instantly receive information on every scholarship for which you may qualify , including award value and deadlines . 
+^ &website 
+^ start your free search now ! 
+^ to cancel your subscription just follow this : ( img 
+</text_normal>
+</message_body>
+</message>

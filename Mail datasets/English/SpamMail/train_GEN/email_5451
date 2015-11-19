@@ -1,0 +1,21 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name night 
+</text_normal>
+</subject>
+<date> 27 may 2003 15:33:36 +0100 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ hi ! 
+^ has anyone got a spare ticket for grad guest night tonight ? 
+^ if you would like to sell yours please call &num &num &num &num or email 
+^ thanks , &name &name &name &name &name 
+</text_normal>
+</message_body>
+</message>

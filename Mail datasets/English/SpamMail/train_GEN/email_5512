@@ -1,0 +1,39 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ trip programme 
+</text_normal>
+</subject>
+<date> tue, 22 oct 2002 13:04:25 +0100 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ here are the details of all club trips up to the start of &name term ( including the new year trip ) . 
+^ do put the dates in your diaries ! 
+^ 25-27th october - grasmere , lake district there are still places available on this trip . 
+^ it should be an excellent weekend - the bunkhouse is fantastically situated for walks on &name , &name and &name raise . 
+^ please email me as soon as possible ( and before the end of wednesday ) if you are interested . 
+^ cost is &pound; &num and we will leave early friday evening . 
+^ &name sheets will be circulated to those who have already signed up by the end of today . 
+^ 8-10th november - &name beacons this trip is to a very attractive and under-rated area of &name &name . 
+^ walking possibilities include &name ( 886m ) and a day in the &name mountains . 
+^ &name accommodation is in a caving club cottage in the small village of &name . 
+^ 22-24th november - &name staying in a large bunkhouse in &name &name , nearby walks include the ever popular &name , &name and &name massifs . 
+^ this is the final club trip of &num and should be a lot of fun . 
+^ 5-9th january - seathwaite , lake district escape to the lake district for up to &num days before returning to &name for the start of term . 
+^ this bunkhouse , popular with club members , provides an excellent base for a great range of walks , many of which can be done from the door . 
+^ no official club transport is provided for this trip , but we will try to help advise on public transport and lift sharing . 
+^ this is a great opportunity for anyone who finds it hard to get away in term time due to other commitments . 
+^ &name hiking , and do n't forget to let me know if you wish to join us on this weekend 's trip ! 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="application/ms-tnef">
+</part>
+</message_body>
+</message>

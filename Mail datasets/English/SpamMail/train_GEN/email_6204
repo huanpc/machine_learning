@@ -1,0 +1,24 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name visit &num may 
+</text_normal>
+</subject>
+<date> fri, 2 may 2003 14:31:27 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ hope you are all well ! 
+^ i am looking for &num volunteers to help out on a geema visit from &name on wednesday &num &name being held a &name . 
+^ &pound; &num paid and a free lunch . 
+^ please contact me asap if you can help . 
+^ have a good &name &name weekend 
+^ &name
+</text_normal>
+</message_body>
+</message>

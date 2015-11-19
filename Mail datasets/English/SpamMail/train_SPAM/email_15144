@@ -1,0 +1,19 @@
+<message>
+<date> thu, 3 apr 2003 09:00:01 -0600 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ become a fedex / &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name or see below to unsubscribe . 
+^ &website as : unsubscribe 
+</text_normal>
+</message_body>
+</message>

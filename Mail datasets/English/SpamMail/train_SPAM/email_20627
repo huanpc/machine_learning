@@ -1,0 +1,24 @@
+<message>
+<date> 6 apr 2003 23:04:44 -0000 </date>
+<from> email </from>
+<subject>
+<text_normal> 
+
+^ do you have heartburn ? 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ the following message was sent to you as an opt-in subscriber to &name &name . 
+^ we will continue to bring you valuable offers on the products and services that interest you most . 
+^ if you wish to unsubscribe please click here : 
+^ to unsubscribe by postal mail , please send your request to : 
+^ &num &name road , &name &num 
+^ &name &name , &name &num 
+^ &name : &name department 
+</text_normal>
+</message_body>
+</message>

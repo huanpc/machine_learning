@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name : free info - quit smoking in &num days or less 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=em_boundary_string </content-type>
+<date> fri, 28 mar 2003 14:49:55 -0600 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

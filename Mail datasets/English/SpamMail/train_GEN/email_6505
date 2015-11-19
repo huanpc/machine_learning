@@ -1,0 +1,23 @@
+<message>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ &name group project 
+</text_normal>
+</subject>
+<date> wed, 5 mar 2003 09:27:42 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ please have a look at the attached . 
+^ thank you . 
+^ &name &name ( on behalf of &name group ) 
+^ &org student administration &name &name building &name &name &name &name avenue &name , &name &name &name telephone : &num ( &num ) &num &name : &num ( &num ) &num email : &email 
+</text_normal>
+</part>
+</message_body>
+</message>

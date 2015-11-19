@@ -1,0 +1,33 @@
+<message>
+<from> info </from>
+<subject>
+<text_normal> 
+
+^ &name , it does n't have to be that way 
+</text_normal>
+</subject>
+<content-type> text/html; charset="us-ascii" </content-type>
+<date> wed,  9 apr 2003 13:31:58 -0400 (edt) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ it does n't have to be that way 
+^ dear &name , 
+^ are you like most of us , carrying around several credit cards in your wallet ? 
+^ oh , you got the department store card because they offered a discount on the tv you bought if you would apply for a credit card at the same time . 
+^ you got that super-duper visa card because they were offering a great ' introductory rate ' . 
+^ of course , you learned later that the 'real rate ' was n't any better than your previous card . 
+^ you look back and you have somehow managed to end up with a lot of high interest debt . 
+^ if you can manage to pay the minimum you may have it paid off in , oh , let 's say &num years . 
+^ how did it all go so wrong ? 
+^ if you 're like so many others , you 're carrying this heavy load on your back everyday . 
+^ but it does n't have to be that way . 
+^ it will take some effort , but you can start your own home-based business today and start making additional income to pay down that debt . 
+^ click here learn more . 
+^ sincerely , 
+^ &name &name 
+^ click below to be automatically removed from this list &website 
+</text_normal>
+</message_body>
+</message>

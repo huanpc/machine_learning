@@ -1,0 +1,28 @@
+<message>
+<date> thu, 20 feb 2003 11:06:53 +0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hello all , 
+^ it is d-5 today . 
+^ we need to get together and get the whole system up and running they way we are going to submit it on tuesday . 
+^ i am calling a group meeting tomorrow ( friday ) afternoon straight after lectures . 
+^ attendance is mandatory . 
+^ objective of the meeting : 
+^ - work together in the lab and get it into a final shape by the end of the day . 
+^ serious objections - &name immediately . 
+^ &name . 
+^ &name &name vice president &name university &name &name and business association ( &name ) &website 
+^ &name college &name &name : &num web : &website 
+</text_normal>
+</message_body>
+</message>

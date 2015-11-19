@@ -1,0 +1,39 @@
+<message>
+<date> tue, 4 mar 2003 13:37:35 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name birthday 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi there &name ! 
+</text_normal>
+<text_embedded> 
+
+^ fancy - &num / &num ... ! 
+</text_embedded>
+<text_normal> 
+
+^ yeah , crazy is n't it ! 
+^ probably not going to happen again in my lifetime ! 
+</text_normal>
+<text_embedded> 
+
+^ how 's it feel to be &num ? 
+</text_embedded>
+<text_normal> 
+
+^ i wo n't spoil the surprise . 
+^ i 've had a good birthday thanks &name , although i have n't spent too much time celebrating as i 've got a heck of a lot of work to do at the moment . 
+^ &name son of &name the terrible - did n't he used to work at the &name &name in &name ? 
+^ take care matey , 
+^ &name
+</text_normal>
+</message_body>
+</message>

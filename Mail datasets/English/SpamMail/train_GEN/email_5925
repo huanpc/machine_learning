@@ -1,0 +1,22 @@
+<message>
+<date> tue, 27 may 2003 10:43:57 +0200 </date>
+<from> net </from>
+<to> altmuehlnet.de </to>
+<subject>
+<text_normal> 
+
+^ re : [ &name ] problem configuring for debian 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="multipart/signed">
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

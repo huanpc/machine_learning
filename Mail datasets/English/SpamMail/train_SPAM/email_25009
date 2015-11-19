@@ -1,0 +1,22 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ pizza for &name 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 06:18:43 est </date>
+<content-type> text/html; charset=us-ascii; class-id=9hkibzhyki2ij7nd7nk-128025 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you have received this email because you have signed up to receive offers from &name media and / or through one of our affiliate partners . 
+^ our privacy policy can be found here . 
+^ click here to be removed from future mailings : we apologize for any inconvenience . 
+^ &name &name &num 
+^ &name : 
+</text_normal>
+</message_body>
+</message>

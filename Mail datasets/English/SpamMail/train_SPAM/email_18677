@@ -1,0 +1,15 @@
+<message>
+<date> sat, 05 apr 2003 10:35:07 -0500 (est) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * $ &num cosmetic collection for only $ &num from &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

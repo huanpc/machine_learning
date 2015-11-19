@@ -1,0 +1,14 @@
+<message>
+<date> thu,  3 apr 2003 23:01:27 -0800 (pst) </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name , make $ &num , &num in &num hours 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

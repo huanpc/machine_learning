@@ -1,0 +1,130 @@
+<message>
+<date> tue, 14 jan 2003 15:00:28 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : stuck 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ as a point of interest ( ? ) you can actually write the first reading in &num ways : 
+^ &num ) every ( &char , &name ( &char ) , believe ( &char , some ( &char , cat ( &char ) , sleep ( &char ) ) ) ) 
+^ &num ) every ( &char , &name ( &char ) , some ( &char , cat ( &char ) , believe ( &char , sleep ( &char ) ) ) ) 
+^ these &num are equivalent . 
+^ now , you ca n't do the same thing for the other reading : 
+^ &num ) some ( &char , cat ( &char ) , every ( &char , &name ( &char ) , believe ( &char , sleep ( &char ) ) ) ) 
+^ &num ) some ( &char , cat ( &char ) , believe ( &char , every ( &char , &name ( &char ) , sleep ( &char ) ) ) ) 
+^ &num is invalid because you ca n't use &char in " believe " before it has been bound 
+^ in " every " . 
+^ now , to avoid our underspecification allowing &num , perhaps we should really 
+^ have h5 &num l6 rather than h5 qeq h6 . 
+^ this would exclude both &num and &num , but 
+^ since &num is equivalent to &num anyway , perhaps this is ok . 
+^ however , because of 
+^ compositionality , i thought we were avoiding &num 's, so perhaps there is a 
+^ problem here - i ca n't see how you can exclude &num , using only qeq 's. 
+^ &char 
+^ on &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ no this is fine 
+^ thanks ! 
+^ &name 
+^ on &name &num &num , &name &name wrote : 
+<text_embedded>
+
+<text_embedded> 
+
+^ every ( &char , &name ( &char ) , believe ( &char , some ( &char , cat ( &char ) , sleep ( &char ) ) ) ) 
+^ - - i guess is the general reading ? ? 
+^ how do i get the specific one ? 
+^ that all dogs believe a specific cat sleeps . 
+^ how about : 
+^ some ( &char , cat ( &char ) , every ( &char , &name ( &char ) , believe ( &char , sleep ( &char ) ) ) ) 
+^ &name : some ( &char , h1 , h2 ) &name : cat ( &char ) &name : every ( &char , h3 , h4 ) &name : &name ( &char ) &name : believe ( &char , h5 ) &name : sleep ( &char ) h1 qeq &name h3 qeq &name h5 qeq l6 
+^ hopefully this underspecification allows you to put back the other reading as well ( with &char and &char switched over though ! ) . 
+^ is that an answer to the question , or have i misunderstood ? 
+^ &name 
+^ on &num &name &num , &name &name wrote : 
+^ &name , 
+^ i was trying to experiment with believe' ( &char , h1 ) and check what it &name and could out scope . 
+^ if we take every dog believes that some cat sleeps . 
+^ every ( &char , &name ( &char ) , believe ( &char , some ( &char , cat ( &char ) , sleep ( &char ) ) ) ) 
+^ - - i guess is the general reading ? ? 
+^ how do i get the specific one ? 
+^ that all dogs believe a specific cat sleeps . 
+^ then believe ( every ( &char , &name ( x) 
+^some ( &char , cat ( &char ) , sleep ( &char ) ) ) ) ? ? 
+^ &name : every ( &char , h2 , h3 ) &name : &name ( &char ) &name qeq h2 &name : some ( &char , h6 , h7 ) &name : cat ( &char ) h6 qeq &name &name : believe ( &char , h10 ) ? ? 
+^ &name : sleep ( &char ) 
+^ i guess the believing is done by &char -- ) believe ( &char , h1 ) and h1 has to have a truth value ? ? 
+^ cat sleeping ? 
+^ cat ( &char ) , sleep ( &char ) 
+^ the handout ( &name : &num : &num - summary ) says that the 'some cat " can outscop &char both " probably " ( not used above ) and " believe " of the sentence " every 
+^ dog probably believes some cat sleeps " 
+^ am trying to do an example that need event variables ? 
+^ could you help ? 
+^ regards &name . 
+^ on &name &num &num , &name &name wrote : 
+<text_embedded> 
+
+^ &name , 
+^ to be honest , i have n't even tried to learn the &name training stuff . 
+^ i 'm relying on answering the other question if that comes up ! 
+^ perhaps we could spend some time going over it after the exams .. ? 
+^ sorry i ca n't be of any help on this one ! 
+^ see you soon , 
+^ &name 
+^ thanks &name 
+^ the fog is clearing a bit ... 
+^ i have a dial up connection so i check my mail infrequently . 
+^ thanks - still stuck with hain . 
+^ how are you ? 
+^ &name hains stuff i think i am quite confused and the &char may make the qns confusing - sorry . 
+^ ( applys to the prev mail as well . ) 
+^ i was going through the &name training 
+^ first &name are the state sequences initialized with equal data ( transition probs etc ) and then trained 
+^ the way i see it if we are using &name training 
+^ the sequence goes as follows : 
+^ &num use all the training data ( including all utterences ) get the most likely state sequence . 
+^ &name algo 
+^ &num estimate the transition probs using this sequence 
+^ &num use re-estimation formula 
+^ &num repeat 
+^ now i am cofused by the fwd &name &name &name 
+^ at what point is the beta variable calculated ? 
+^ we need alphas to initialize it right ? 
+^ so do we use the fwd algo as &num . 
+^ above and then &name and then the transitions ? 
+^ and then re-estimate . ? 
+^ what is termination in the &name estimate does n't it come to the current node and stop ? 
+^ among the b&w reest . 
+^ fomulae there is &name &num &name r &name &name / ( ... ) &char hat is it ? 
+^ is there a special calculation needed for the last transitio &char ? 
+^ &name i 'm not troubling you too much . 
+^ regards 
+^ &name . 
+^ on &name &num &num , &name &name wrote : 
+^ as 
+^ se 
+^ se 2e 
+^ &char 
+^ ope &char &char ave on 
+^ &char ) &char us h3 ) tc by 
+^ &char re 
+^ &char &char 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

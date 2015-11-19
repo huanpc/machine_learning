@@ -1,0 +1,50 @@
+<message>
+<date> tue, 15 oct 2002 23:22:34 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : match on monday 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ sorry , i wo n't be able to make it as i 've got lectures / practicals all day monday . 
+^ i 'll pass on the message to &name if i see him , but i do n't live with him anymore . 
+^ i think his email address is : &email 
+^ my phone number is : &num 
+^ all the best , 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name boys 
+^ our first match is this monday against &name seconds . 
+^ we are playing at &name astro at 1pm , which means that we should meet in the plodge at 
+^ &num &num . 
+^ basically , catz astro is a bit of a journey , which means that everyone 's gonna need a bike . 
+^ &name however gets to go in a taxi with his goalie kit , with me and &name coz we 're clearly too old for all that cycling . 
+^ &name / &name , will either of you be able to take the freshers to the pitch ? 
+^ if anyone would prefer to go straight there let me know and i 'll give you directions . 
+^ new kits should arrive soon , but in the meantime i do n't have any to give to the freshers , so could you guys please wear white shirts . 
+^ for everyone else please wear last years shirt until our sexy new kit arrives . 
+^ we have to provide an umpire for the match following ours which starts at &num . 
+^ everyone will have to umpire &num match during the course of the season , so if anyone would like to get theirs out of the way let me know . 
+^ what i need all of you to do now is to confirm whether you are able to play in the match , and whether you want to meet in the plodge or straight at the ground . 
+^ please let me know asap , so i can avoid rushing around chasing people up . 
+^ everyone who wants to play will definitely get a game , at least &num minutes . 
+^ &name , could you ask &name if he can make it as i dont have his email address yet . 
+^ if i dont have your phone number yet , could you please include that in your reply as well . 
+^ if anyone has any questions just email me or reach me on &num . 
+^ cheers 
+^ &name 
+^ p.s. highly recommend the formal hall , we 'll all get blind drunk , go to &name 's and puke in mysterious places . 
+^ &name wait . . ... 
+</text_embedded>
+</message_body>
+</message>

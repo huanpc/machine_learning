@@ -1,0 +1,25 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name wieder da ! ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> tue, 4 feb 2003 14:09:25 +0100 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled document 
+^ hi 
+^ &name ist fertig ! 
+^ ( &name wirst staunen ) 
+^ &name 
+^ &name . : benutze bitte den &name ... 
+^ &name gleich ... 
+</text_normal>
+</message_body>
+</message>

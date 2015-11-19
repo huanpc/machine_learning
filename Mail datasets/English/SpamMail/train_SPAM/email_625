@@ -1,0 +1,47 @@
+<message>
+<from> com.tw </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ &name ? 
+^ &char ? 
+^ &name ? 
+^ ! ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> mon, 24 mar 2003 05:14:21 +0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ | k' &char &char | adsl' &char &char | cable' &char &char | d' &char | w' &char | 
+^ | { &char | ] &char | &pound; &char | [ j' &char | a | 
+^ &pound; f' &char a' 3000' k o' &char a' &char ~ 
+^ w' &char 
+^ k' &char { a' &char &char &char @ g449-1000 
+^ n' &char g449-1010 
+^ b' &name 
+^ k' &char &name 
+^ u' &char &char 
+^ &num q' &char 
+^ &num &char 
+^ u' &char w' &char &char { a' &char 
+^ &char 
+^ p' a k' &char a' &char s' &char ! ! 
+^ ( ( w' &char ) ) 
+^ y' &char &char ] &char 
+^ &pound; &char 
+^ ( ( ) ) 
+^ &char [ j' &char 
+^ p' &char &char ] q' &char 
+^ &char | &char 
+^ &char | &char 's 
+^ &char 'm { 
+^ &char | 
+^ ( ( w' &char &char ) ) 
+^ &name &char &char 
+</text_normal>
+</message_body>
+</message>

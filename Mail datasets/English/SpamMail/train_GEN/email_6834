@@ -1,0 +1,32 @@
+<message>
+<date> sat, 09 nov 2002 13:23:59 -0800 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ question 
+</text_normal>
+</subject>
+<to> com </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i downloaded a printer driver from epson ( stylus &num &num ) which uses your sfx software the problem i am having it will not extract the file . 
+^ i recieve a message saying '' setup cannot allocate working memory " i have &num ram my &char -mem set at &num / &num also i tried no paging file i also tried to run program in safe mode , disabled all startup , services with msconfig . ... i recieved the same message . 
+^ i concated epson about &num times they were no help also found a post on the internet with this problem , i included the link below i am running winxp any advice would be greatly appreciated &name &name &email 
+^ &website 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ i downloaded a printer driver from epson ( stylus &num &num ) which uses your sfx software the problem i am having it will not extract the file . 
+^ i recieve a message saying '' setup cannot allocate working memory " i have &num ram my &char -mem set at &num / &num also i tried no paging file i also tried to run program in safe mode , disabled all startup , services with msconfig . ... i recieved the same message . 
+^ i concated epson about &num times they were no help also found a post on the internet with this problem , i included the link below i am running winxp any advice would be greatly appreciated &name &name &email 
+^ &website 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ increase &name &name by up to &num now ! 
+^ ppf izr &char 
+</text_normal>
+</subject>
+<date> wed, 26 mar 03 22:05:10 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,102 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name for &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> thu, 3 apr 2003 09:45:10 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ new ! 
+^ &name pack width' &num ' height' &num ' ) 
+^ improve the quality of your video and audio with directshow plug-ins . 
+^ lead recently released a suite of directshow plug-ins called the leadtools pack . 
+^ due to outstanding demand , lead is already adding more new to the suite . 
+^ &name &name &name &name - smooth edges and remove the blocky artifacts present in movies using highly compressed mjpeg or &name . 
+^ the &name &name be extremely useful for improving movies created by digital cameras that can take highly compressed , small video clips . 
+^ zooming in or resizing these videos make the blocky patterns more evident . 
+^ the video will greatly improve the quality of any movie that shows blocky compression artifacts . 
+^ &name &name &name - when the dimensions of a small movie are increased ( even with bicubic interpolation ) , the image sometimes becomes &quot;washed out&quot;. 
+^ in this case , apply the edge enhance for better quality . 
+^ the lead &name &name &name is similar to &name &name mask but much faster . 
+^ &name &name mask - powerful algorithm for edge enhancing . 
+^ apply this to washed out movies ( can be a of resizing the movie ) . 
+^ the video unsharp mask produces than &name &name &name . 
+^ also included in the leadtools your choice of standard or proprietary encoding . 
+^ offers the power to compress tv quality video at &num frames per second in real-time . 
+^ new release &name ! 
+^ now more than &num times faster ! 
+^ plays &name video at 30fps ( saves standard &name streams ) . 
+^ use it when interoperability is &char must . 
+^ the converter software allows for the selection and use of various codecs to create and save smaller video files . 
+^ the converter can be used by anyone , there 's no need for extra video software ! 
+^ &website 
+^ video class' normal ' ) still image &name - use directshow to read any file format supported by leadtools . 
+^ ( for example , open &name or tiff files in &name &name . ) registers the following extensions with &name : pict , pct , &name , dib , gif , cmp , png , jpg , jff , jpe , jtf , fjif , tiff , tif , pcd , but can be customized to register any other ( &num ) file formats supported by leadtools . 
+^ &website ) . 
+^ &name &name &name text onto any movie . 
+^ &name include the text font , brush and much more . 
+^ in addition , the video text overlay can read &name data to display different text on different video frames ( useful for subtitles ) . 
+^ &name add - can be used for enhancing night vision or dropping more light on dark sources to clarify objects . 
+^ &name &name - an that will call a method on a user callback interface each time it receives a frame . 
+^ the &name &name can be used to manipulate the image data . 
+^ &name &name - a to change color attributes of streaming video . 
+^ the video color can change the brightness , contrast , &name , and saturation , in addition to an invert colors option . 
+^ &name &name - used to extract areas from a source movie . 
+^ &char graphical &name is provided to show and modify the desired rectangle position and size . 
+^ &name &name - converts interlaced video to make it a progressive scan video . 
+^ &name , interlaced video is what devices like &name , laserdiscs , and game consoles output . 
+^ &name &name - embosses a video stream , providing different parameters to control the effect . 
+^ &name &name &name - performs gamma correction to a video stream . 
+^ &name &name &name - &name &name &name to a video stream . 
+^ &name can be done for a single channel ; &name , &name , or &name , or for all channels , master . 
+^ &name &name &name - draws the running histogram of a video stream in its property page . 
+^ &name mosaic - transforms any image into something that looks as though it were created by positioning a number of tiling elements , each of an average color and the same size . 
+^ this applies the mosaic effect to a video stream using a mosaic square size specified by the user . 
+^ &name &name - used to change the dimensions of a source movie with &num types of resizing : &name , bicubic interpolation , and normal . 
+^ &name &name &name - &name color space converter that supports conversion between different &name formats . 
+^ &name &name - rotates a video stream in standard angles : &num , &num , &num , and &num in addition to &name and reverse options . 
+^ &name &name &name - accepts a variety of &name formats and converts them to &name . 
+^ &name &name replacement - replaces a color with another color over the video stream . 
+^ &name &name - smooth edges and remove the blocky artifacts present in movies using highly compressed mjpeg or &name . 
+^ the video can be extremely useful for improving movies created by digital cameras that can take highly compressed , small video clips . 
+^ zooming in or resizing these videos make the blocky patterns more evident . 
+^ the video will greatly improve the quality of any movie that shows blocky compression artifacts . 
+^ &name &name &name - when the dimensions of a small movie are increased ( even with bicubic interpolation ) , the image sometimes becomes &quot;washed out&quot;. 
+^ in this case , apply the edge enhance for better quality . 
+^ the lead &name &name &name is similar to &name &name mask but much faster . 
+^ width' &num ' height' &name )video unsharp mask - powerful algorithm for edge enhancing . 
+^ apply this to washed out movies ( can be a of resizing the movie ) . 
+^ the video unsharp mask produces than &name &name &name . 
+^ the are included in the product in an evaluation form . 
+^ &name read and write dicom files without having to invest in an expensive dicom viewer . 
+^ these allow any directx-enabled application such as &name &name &name to view ( cine ) single or dicom files for any modality . 
+^ dicom &name - can automatically play ( cine ) dicom files using any directshow-enabled player . 
+^ dicom writer - can stream into a dicom file . 
+^ &name &name - adds a chorus effect . 
+^ the chorus effect makes &num instrument sound like many instruments are being played . 
+^ it adds some thickness to the sound . 
+^ &name &name - adds an echo effect . 
+^ the echo effect reflects a sound wave back to its source with sufficient strength and time lag to be separately distinguished . 
+^ &name &name - adds a flange effect . 
+^ &name has a characteristic sound often described as a &quot;whooshing&quot; sound , similar to the sound of a jet plane flying overhead . 
+^ &name &name - adds the distinctive phaser sound . 
+^ this distinctive sound is obtained by creating &num or more notches in the frequency domain that eliminate sounds at the notch frequencies . 
+^ &name &name - allows the user to change the volume of sound samples . 
+^ &name &name &name - adds a &name meter to an audio stream . 
+^ the &name meter allows the user to retrieve left and right channel audio power levels . 
+^ can be used to monitor the output level of placed before it in the stream . 
+^ $ &num includes : suite of lead &name / &name codec lead &name &name &name lead &name &name lead converter dicom directshow $ &num $ &num $ &num free ! 
+^ upgrade your &name &name codec to v2 for just $ &num 
+^ leadtools new product email list . 
+^ this message was brought to you based on your expressed interest in lead products . 
+^ if you do not wish to receive future information from lead on products and services , it is easy to unsubscribe from future mailings . 
+^ you may also use this page to subscribe someone as well . 
+</text_normal>
+</message_body>
+</message>

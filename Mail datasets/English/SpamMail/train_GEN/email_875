@@ -1,0 +1,23 @@
+<message>
+<from> ac.uk </from>
+<to> co.uk </to>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<date> tue, 04 sep 2001 19:05:53 +0100 </date>
+<subject>
+<text_normal> 
+
+^ re : &name in &name 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ dear assorted wonderful people , 
+^ after reading many e-mails ( &num ) about a marvellous-sounding proposed weekend in &name , i regret to inform you that i will be unable to attend . 
+^ &name , &num cannot get off work that weekend . 
+^ therefore i wish you all a most enjoyable weekend and i hope to see you &num weeks later in &name &name . 
+^ with deepest regrets at missing such a fun-sounding time , 
+^ &name
+</text_normal>
+</message_body>
+</message>

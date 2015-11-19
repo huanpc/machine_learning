@@ -1,0 +1,28 @@
+<message>
+<date> tue, 13 aug 2002 18:19:17 +0100 </date>
+<from> ac.uk </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ hi 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hey &name ! 
+^ was good to see you for a few days . 
+^ hope you got hope by 6pm . 
+^ did you go to football training ? 
+^ i 've had a good day at work . 
+^ anyway , i wondred if you could tell be how to do that thing in &name that i was wanting help with ... basically i want it to calculate the balanc column for me . 
+^ anything you can do would be appreciated . 
+^ have a good week . 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

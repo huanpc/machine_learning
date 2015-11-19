@@ -1,0 +1,29 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ the site move is complete 
+</text_normal>
+</subject>
+<date> wed, 23 oct 2002 15:54:54 +0100 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ 
+^ - ----begin &name signed message----- hash : sha1 
+^ hi again , i 've had a couple of positive comments , and no bug reports / feature requests , so here we go . 
+^ the old system has been turned off and the new system has been made fully live . 
+^ from now on the &name is &website at &website / 
+^ the old &name ( &website &name . 
+^ ( as does the old submit a problem &name , just in case anyone has that bookmarked . ) 
+^ if there are any problems do n't hesitate to get in touch . 
+^ thanks , &name 
+^ - ----begin &name signature----- version : &name &name ( &name / &name ) 
+^ id8dbqe9trheqgzz2ibipzsragubaj4jchtaxdcimtmmhwqycdznugqkngcghslj 7thhw7f4w7jcuh+eulfyhpw &name 
+^ - ----end &name signature----- 
+</text_normal>
+</message_body>
+</message>

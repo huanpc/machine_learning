@@ -1,0 +1,57 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &website flight ticket confirmed - &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<date> 3 feb 2003 10:30:06 -0800 </date>
+<message_body>
+<text_normal> 
+
+^ &website . 
+^ you can view your itinerary online at &website 
+^ your tickets will be delivered within &num business days from the date of purchase ( excluding weekends and holidays ) to the address below : &name &name &num &name &name road &name , &name 8az 
+^ flight summary ticket confirmed &website itinerary name : &name , &name &website itinerary number : &num expedia booking &name : 2rsuvs 
+^ return &name : &name &name 
+^ flight : from &name ( &name ) to &name , &name ( &name ) &name : 12-apr-03 at &num : &num &name : 12-apr-03 at &num : &num 
+^ &name : &name ( &name ) , 12-apr-03 at &num : &num terminal &char &name : &name ( &name ) , 12-apr-03 at &num : &num terminal &num flight : &name hungarian airlines &num aircraft : &name &name meal service : &name &name : &name &name distance : &num mi ( &num km ) &name / coach class 
+^ flight : from &name , &name ( &name ) to &name ( &name ) &name : 18-apr-03 at &num : &num &name : 18-apr-03 at &num : &num 
+^ &name : &name ( &name ) , 18-apr-03 at &num : &num terminal &num &name : &name ( &name ) , 18-apr-03 at &num : &num terminal &char flight : &name hungarian airlines &num aircraft : &name &name meal service : lunch duration : &name &name distance : &num mi ( &num km ) &name / coach class 
+^ cost summary &num adult &pound; &num taxes : &pound; &num total cost : &pound; &num 
+^ additional information about your flight 
+^ airlines require photo identification upon check in , such as a driving licence or passport . 
+^ for questions concerning this requirement please contact the airline . 
+^ please read important information governing airline liability limitations : &website 
+^ &name : flight terminals may change . 
+^ please confirm the terminal with the airline before leaving for the airport . 
+^ international itineraries are reviewed by a rate specialist for best possible airfare . 
+^ ticket changes may incur penalties and / or increased fares . 
+^ tickets are . 
+^ other penalties may apply . 
+^ see an overview of all the rules and restrictions applicable for this fare : &website 
+^ &name the complete penalty rules for changes and cancellations associated with this fare : &website 
+^ how else can we help you ? 
+^ search for lodging . 
+^ &website 
+^ search for cars . 
+^ &website 
+^ international travel proof of citizenship is required for international travel . 
+^ most countries require a valid passport , though some require only a birth certificate and photo &name . 
+^ some countries also require visas . 
+^ be sure you know what documentation you need before you book your trip . 
+^ to obtain this , and other vital information about your destination , visit the expedia passport , and visa information page : &website customer support if you have questions about your reservation , fill out our itinerary assistance form . 
+^ we 'll respond within &num hours : &website 
+^ itinerary number : &num 
+^ for immediate assistance , call our customer support centre at ( &num ) &num &num . 
+^ &website everything for travel . 
+^ have you arranged your hotel ? 
+^ book an expedia &name &name hotel now and save up to &num on over &num , &num hotels in over &num cities around the world . 
+^ &website 
+^ &name &name &name &website 
+</text_normal>
+</message_body>
+</message>

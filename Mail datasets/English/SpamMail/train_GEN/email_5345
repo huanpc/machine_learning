@@ -1,0 +1,46 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ annual dinner &num 
+</text_normal>
+</subject>
+<date> wed, 19 feb 2003 08:58:30 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hey everyone , just to let you about annual dinner this year . 
+^ there are now only &num spaces available so book your tickets now by replying to this e-mail and sending a cheque to &name &name in trinity college . 
+^ also here are the coach times : 
+^ when : saturday 22nd feb meet at &name at silver street &name stop ( opposite queens ) and buses leave at &name . 
+^ where : &name village &name , &name cost : &pound; &num members , &pound; &num non-members . 
+^ this includes coach travel . 
+^ if you wish to drive , the cost is &num pounds less . 
+^ dress code : national / &name tie / smart 
+^ see you there 
+^ the &name &name committee 
+^ " in order for a committee to get something accomplished , it should consist of no more than &num persons , &num of whom are absent . " 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hey everyone , just to let you about annual dinner this year . 
+^ there are now only &num spaces available so book your tickets now by replying to this e-mail and sending a cheque to &name &name in trinity college . 
+^ also here are the coach times : 
+^ when : saturday 22nd feb meet at &name at silver street &name stop ( opposite queens ) and buses leave at &name . 
+^ where : &name village &name , &name cost : &pound; &num members , &pound; &num non-members . 
+^ this includes coach travel . 
+^ if you wish to drive , the cost is &num pounds less . 
+^ dress code : national / &name tie / smart 
+^ see you there 
+^ the &name &name committee 
+^ - --------------------------------------------------------------' in order for a committee to get something accomplished , it should consist of no more than &num persons , &num of whom are absent . " 
+</text_normal>
+</part>
+</message_body>
+</message>

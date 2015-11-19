@@ -1,0 +1,16 @@
+<message>
+<from> com </from>
+<date> mon, 7 apr 2003 14:33:04 -0600 </date>
+<subject>
+<text_normal> 
+
+^ 
+^ - : - hey &name ! 
+^ reminder from &name : - : mlk7mdh3jkgqf8tsaa 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

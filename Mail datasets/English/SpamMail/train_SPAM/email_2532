@@ -1,0 +1,21 @@
+<message>
+<subject>
+<text_normal> 
+
+^ today is the time &name 
+</text_normal>
+</subject>
+<from>
+</from>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> sat, 23 mar 2002 16:18:44 -0700 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ book reviewing 
+^ get &name for &name &name ! 
+^ lets get &name ! 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,24 @@
+<message>
+<date> wed, 15 jan 2003 12:45:05 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ ahoy 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , you noncommunicative son of an irishman ! ! 
+^ how are you old boy ? 
+^ do you want to come over to my house for dinner on saturday ? 
+^ i 'm ( maybe ) having a couple of girls round ( you do n't know them ) aswell . 
+^ i 've got &num exams today - &num down &num to go ! ! 
+^ see you soon then , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,30 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ urgent message for ! ! ! 
+</text_normal>
+</subject>
+<content-type> text/plain </content-type>
+<date> thu, 10 apr 2003 15:21:03 -0500 (cdt) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ this is not spam . 
+^ you receive this mail because you was member of ' &name ' or ' boys ' site . 
+^ we have news . 
+^ &name please : 
+^ we present to you new great &name site ! ! 
+^ they all are listed in our portal at : 
+^ &website 
+^ at &website youll find : and much more . ... 
+^ check it now : &website 
+^ &name we open this new sites for you only for limited time . 
+^ &name and enjoy . 
+^ best regards . 
+^ &name &name . 
+</text_normal>
+</message_body>
+</message>

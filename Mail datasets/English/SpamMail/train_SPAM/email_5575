@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<date> wed, 26 mar 2003 15:28:05 -0600 </date>
+<subject>
+<text_normal> 
+
+^ new message waiting for you 
+</text_normal>
+</subject>
+<content-type> multipart/related </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

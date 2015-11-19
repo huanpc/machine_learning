@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ stock market players : &name &name $ &num , &num contract . . . . . . ... qypcd 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> wed, 9 apr 2003 03:19:04 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name &name play : &name 
+^ &name group signs $ &num , &num contract with vertical traffic ... new &name ( business wire)----shelron group inc. ( &name ) announces the signing of &char ' cost-per-action&quot; contract with vertical traffic ( &name ) valued at over $ &num , &num . 
+^ shelron will supply &name with a system for acquiring new customers through sophisticated email marketing . 
+^ to find out more go to live from the wire . 
+^ if you no longer want to receive information from us just go to &email . 
+^ jfvtoprtiiugyovdnimtjyvxcuwcmqsdoiddj 
+</text_normal>
+</message_body>
+</message>

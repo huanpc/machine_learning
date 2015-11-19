@@ -1,0 +1,44 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : [ &name ] &name getting color management working 
+</text_normal>
+</subject>
+<from> com </from>
+<to> altmuehlnet.de </to>
+<date> 26 may 2003 23:09:43 -0400 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ on mon , &num at &num : &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ dear all , 
+^ how can i get the color management working in &name &num on &name &num ? 
+^ i 've been following all the advices in the documentation , &name and &name are installed properly and working , and i found " &name " after compilation . 
+^ i have installed the lcms with 'make install " , and have run ldconfig afterwards . 
+^ lprof-1.09 itself is runnig fine . 
+^ do you have any hints ? 
+</text_embedded>
+<text_normal> 
+
+^ after installing lcms you need icc profiles in the profiles directory . 
+^ on my system , which is the scribus default : /usr / local / lib / scribus / profiles is where i have installed my profiles ( as root ) 
+^ you should have at minimum , an &name profile for you monitor , an &name profile for conversion and a &name profile for a printer . 
+^ i highly recommend installing these : &website as a base set of profiles for using color management . 
+^ with this set of profiles , this should enable &name in &name - otherwise this preferences will not appear . 
+^ &name this helps , &name &name &name ( &email ) 
+</text_normal>
+</part>
+<part num="2" type="text/plain">
+<text_normal> 
+
+^ &name mailing list &email 
+</text_normal>
+</part>
+</message_body>
+</message>

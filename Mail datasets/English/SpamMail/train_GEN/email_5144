@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name images 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> fri, 09 may 2003 18:15:22 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ &name &name , i have n't been able to push the change to the other machines . 
+^ we have a master copy of the things in opt , and it is periodically distributed to all the relevant machines . 
+^ so i need to change the master copy first - but i ca n't because &name has it locked and he has n't responded to my request to unlock it . 
+^ thus the changes i made on tweety will be overwritten with the old files when the master copy is next distributed . 
+^ i 'll have to chase him on monday &smiley 
+^ &name
+</text_normal>
+</message_body>
+</message>

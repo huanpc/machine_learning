@@ -1,0 +1,27 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ policies , standard software , etc. 
+</text_normal>
+</subject>
+<date> thu, 10 oct 2002 15:44:09 +0100 </date>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ 
+^ - ----begin &name signed message----- hash : sha1 
+^ just wondered if we should ( for instance ) have a policy on which software we installed , or recommended , etc. obviously this might be somewhat dependant on individual circumstances , but in general , do you think we should be recommending specific software e.g. &name , properly installed &name , &name , &name and &name &name , &name , blackice . 
+^ secondly , should we be offering to help set up ( via poster in pighole room / fliers in pigholes ) such software on the computers of users who do n't have any specific problems , on the grounds that it 's easier to prevent problems than to cure them ? 
+^ there 's plenty of us , and once we get it figured out , it might not take too long to do . 
+^ this would be aimed at people who were n't even confident enough to follow the instructions available for such things . 
+^ &name 
+^ - ----begin &name signature----- version : &name v1.0.6-2 ( mingw32 ) comment : using &name with &name - &website 
+^ ieyearecaayfaj2lkkaacgkqkmnj0r5ycforoqcg8ube54vvldgvaacscfff1cqb qhcan2nx4vnmgjilqy4rstfrp8 / kf1j6 doz4 
+^ - ----end &name signature----- 
+</text_normal>
+</message_body>
+</message>

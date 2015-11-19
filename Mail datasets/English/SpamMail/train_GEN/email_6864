@@ -1,0 +1,24 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name &name with sfx maker 
+</text_normal>
+</subject>
+<date> thu, 29 aug 2002 17:56:41 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ &char quick question for you ( i made a lot of tests before contacting you ) . 
+^ what would be the best way to register a &name at the end of extraction ? 
+^ for example i tried using regsvr32 or &name but both return same errors . 
+^ &website " it raises an error box and then registers it . 
+^ thanks , &name 
+^ &name &name is the easiest way to share and print your photos : &website 
+</text_normal>
+</message_body>
+</message>

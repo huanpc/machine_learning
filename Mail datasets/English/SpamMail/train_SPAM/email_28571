@@ -1,0 +1,25 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/html;	charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ artprice searchbar &name - &name &name 
+^ &name &name ( &num ) september &num , 2003-november &num , &num , &name museum , &name &name &name &name : prints and &name july &num , 2003-october &num , &num , the &name museum , &name 
+^ join the &num , &num artprice customers artprice pure play ( unlimited access ) : us $ &num per month 
+^ the world leader in &name market information 
+^ &name &name ( &num ) &num septembre &num novembre &num , &name museum , &name &name &name &name : prints and &name &num juillet &num octobre &num , the &name museum , &name 
+^ &name les &num &num clients artprice acc&egrave;s illimit&eacute; : pure play * sur &name : &num , &num &name / &name par mois 
+^ * &num internet 
+^ leader mondial de l' information sur le marche de l' &name 
+^ to remove your email : click below : pour d'sinscrire votre email : ci-dessous : 
+</text_normal>
+</message_body>
+</message>

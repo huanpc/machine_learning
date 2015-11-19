@@ -1,0 +1,32 @@
+<message>
+<date> fri, 15 nov 2002 13:52:03 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name on tuesday 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i 'm sorry to hear that -and i hope your hand gets better soon . 
+^ we 'll miss you ! 
+^ ( but i 'm glad you 're sensible and give your hand a rest ) . 
+^ see you around , 
+^ &name
+</text_normal>
+<text_embedded> 
+
+^ hi &name , 
+^ i 'm afraid i wo n't be able to play in any practices or matches for a few weeks . 
+^ i need to rest my hand otherwise it will never get better . 
+^ i hope you get enough people for a team on tuesday . 
+^ &name , and good luck ! 
+^ see you around , &name xx 
+</text_embedded>
+</message_body>
+</message>

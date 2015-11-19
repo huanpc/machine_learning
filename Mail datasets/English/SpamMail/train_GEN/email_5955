@@ -1,0 +1,36 @@
+<message>
+<from> org.uk </from>
+<to> ac.uk ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ aahhhhhh . ... computer trauma 
+</text_normal>
+</subject>
+<date> wed, 23 apr 2003 16:17:49 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi guys , 
+^ if you have responded to my last email , please could you respond again . 
+^ my computer just downloaded &num messages which then vanished into thin air ... hmmmm . 
+^ anyway , please do respond again . 
+^ thanks guys 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi guys , 
+^ if you have responded to my last email , please could you respond again . 
+^ my computer just downloaded &num messages which then vanished into thin air ... hmmmm . 
+^ anyway , please do respond again . 
+^ thanks guys 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

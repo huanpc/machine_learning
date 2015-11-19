@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name & &name here &num 
+</text_normal>
+</subject>
+<date> wed, 16 jan 2002 11:31:08 -0800 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name cost 
+^ affordable 
+^ &name approved 
+^ &name 
+^ prescribed online and shipped 
+^ to your door 
+^ overnight 
+^ enter store here . 
+^ unlist now . 
+</text_normal>
+</message_body>
+</message>

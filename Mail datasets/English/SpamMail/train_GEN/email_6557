@@ -1,0 +1,26 @@
+<message>
+<date> fri, 21 jun 2002 20:36:51 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : meeting 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ are you able to meet &name and i and maybe some others at about &num at magdelene bridge ? 
+^ &name invite anyone else who wants to come 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ it 'd be really good to meet up before i go down on saturday afternoon . 
+^ i 've got grandparents coming up tomorrow , but are you free at any time on saturday ? 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

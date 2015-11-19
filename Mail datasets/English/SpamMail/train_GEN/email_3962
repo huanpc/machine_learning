@@ -1,0 +1,39 @@
+<message>
+<from> com </from>
+<to> com co.uk com com com com com com com com com co.uk com </to>
+<subject>
+<text_normal> 
+
+^ re : scandal ! 
+</text_normal>
+</subject>
+<date> thu, 13 dec 2001 21:23:38 +0000 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ ladies and gentlemen : 
+^ i would like to state , as a neutral observer , that &name is indeed generally very good at replying to emails . 
+^ i would not go so far as to say he is " great " ( to quote himself - again ) , but he is indeed well above average . 
+^ he suggests we put him to the test . 
+^ that could be amusing . 
+^ it is true , however , to say he is generally hopeless at replying to text messages - a far more serious crime . 
+^ also , 'regards and all " is no way to end an email . 
+^ &name
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name " ( &email ) to : &email subject : re : scandal ! 
+^ &name : &name , &num &name &num &num : &num : &num &num 
+</text_embedded>
+<text_normal> 
+
+^ join the world 's largest e-mail service with &name &name . 
+^ &website 
+</text_normal>
+</part>
+<part num="2" type="message/rfc822">
+</part>
+</message_body>
+</message>

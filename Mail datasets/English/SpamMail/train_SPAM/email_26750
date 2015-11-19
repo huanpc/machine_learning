@@ -1,0 +1,24 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name ! 
+</text_normal>
+</subject>
+<date> thu, 10 apr 2003 11:01:53 -0700 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you been invited to our new site , for members only . 
+^ &website / 
+^ &website 
+^ or you can go here &website would n't like check out cool gifts ? 
+^ &name &name 
+^ to unsubscribe from this mailing list : email us : &email 
+</text_normal>
+</message_body>
+</message>

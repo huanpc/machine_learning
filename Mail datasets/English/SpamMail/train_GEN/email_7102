@@ -1,0 +1,75 @@
+<message>
+<date> sun, 2 feb 2003 03:44:11 +0000 </date>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : support / other category / 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name 
+^ thank you very much for your mail dated &name &num , &num 
+^ you can forward the domain to a &name using the redirection settings in the config menu under domain management at &website however if you need a &name repoint then unfortunately we will cease to be the registrar of the domain if you need the &name record changed to point to any server that is not a &name &name . 
+^ this means that the domain needs to be transfered out of our servers to a different host . 
+^ to cancel a domain name form your account either to remove it or to transfer is to another registrar then you can do this by logging into your account at the following location : &website 
+</text_normal>
+<text_embedded> 
+
+^ from here you can also cancel your package . 
+</text_embedded>
+<text_normal> 
+
+^ if you would like the &name changed for any of your domains as a temporary measure untill a full transfer of registrar has completed then please send an email to &email with the domains to change and the &name information . 
+^ this is possible for the following : .com .net .org .biz .info 
+^ for .uk domains you are able to change the &name tag of the domain name using the online system and the new registrar will then change the &name for you . 
+^ cancelling a domain name means that we will not renew the domain name and as such you need to perform a transfer of registrar before the expiry date or you will loose the domain name . 
+^ we do not renew a domain name after it is cancelled / dns change and as such you will loose the domain name unless you transfer to another registrar before the expiry date . 
+^ if you feel we may be of any further assistance , or have any other questions or queries relating to our products or services , then please do not hesitate to contact us . 
+^ thank you 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ could you explain what exactly you mean by an " &char " record an " &char " record is the record in the &name server which points a domain to a particular &name address . 
+^ see for more information ( a simple explanation ! ) : &website 
+^ the reasons behind it . 
+^ &website and wish to point my domain at it with virtual hosting which will return the actual document with an &name request rather than web forwarding which returns an &name document with the target document in an &name frame , which is no good for retrieving a &name &name class file , for example . 
+</text_embedded>
+
+^ many thanks . 
+^ regards , 
+^ &name 
+^ on thursday &num &name &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ dear &name 
+^ thank you very much for your mail dated &name &num , &num 
+^ could you explain what exactly you mean by an " &char " record and the reasons behind it . 
+^ &name . 
+<text_embedded> 
+
+^ operating system : &name &num / &num &name : &name &name explorer &num or later &name : instant domain registration ( &num ) customer number : &num &website name : &name &name &name &name : &num 
+^ &name &name &name &name &name &website mailtypeflagend 
+^ &website pointing to &website . 
+^ thank you . 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+<text_normal> 
+
+^ &name regards 
+^ &name &name &name &name &name &name ltd. telephone &num &num &num &name 8am - 8pm 
+^ were you satisfied with our service ? 
+^ please let us know ! 
+^ &website 
+</text_normal>
+</message_body>
+</message>

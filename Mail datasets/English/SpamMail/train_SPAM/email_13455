@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name ! 
+^ you just cash the checks ! 
+</text_normal>
+</subject>
+<date> fri, 14 feb 2003 01:06:34 -0600 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

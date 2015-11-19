@@ -1,0 +1,23 @@
+<message>
+<date> mon, 5 aug 2002 12:46:29 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i met with &name earlier today to discuss the stream id matter that we were talking about . 
+^ i think that we agreed that we could probably implement the system without stream ids , but the complexity that moving restream into the aggregate boxes ( and hence having these aggregate boxes perform &num different othogonal grouping operations ) would be large and users might have trouble thinking about queries in terms of these complex operators . 
+^ it seems difficult to compare the benefits from removing stream ids with the negatives of increasing the complexity of these aggregate boxes but it seems that the negatives outweigh the positives . 
+^ what do you think ? 
+^ &name
+</text_normal>
+</message_body>
+</message>

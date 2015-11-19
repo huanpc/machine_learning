@@ -1,0 +1,13 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ buy realestate with our money 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

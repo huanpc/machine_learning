@@ -1,0 +1,36 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ cancelled ! 
+</text_normal>
+</subject>
+<date> tue, 15 oct 2002 14:32:41 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi everyone 
+^ i 've just had a phone call from the soton captain and it appears that their driver is ill and they will not be able to make the match , so the match has been postponed to 4th december . 
+^ this means that the first match of the season will be vs. &name away on wednesday 23rd october , probably our hardest fixture in the league this season . 
+^ the team i would like to field is : 
+^ sabre 
+^ &name o' &name &name &name &name &name 
+^ foil 
+^ &name most &name &name &name &name 
+^ &name 
+^ &name &name &name &name &name &name 
+^ the match time is as yet unconfirmed , and we will be travelling down by train . 
+^ i apologise to those of you who were selected for the team this wednesday , and i promise you that you will get your chance later in the season . 
+^ as it is we have the large gym free from &num this wednesday so it would be good to have a large turnout of 1st and 2nd team hopefuls ! 
+^ see you soon 
+^ &name 
+^ join the world 's largest e-mail service with &name &name . 
+^ &website 
+^ to be removed from the &name university &name club mailing-list , please email &email . 
+^ visit the website at &website 
+</text_normal>
+</message_body>
+</message>

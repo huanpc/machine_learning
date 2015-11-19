@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk com ac.uk ac.uk ac.uk ac.uk ac.uk co.uk com ac.uk ac.uk ac.uk co.uk </to>
+<subject>
+<text_normal> 
+
+^ ave atque vale 
+</text_normal>
+</subject>
+<date> mon, 14 apr 2003 09:00:13 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear all , 
+^ well , i am going home very shortly , and so thought i 'd take this opportunity to wish everybody a good vacation and a happy &name . 
+^ i 'm sorry not to have seen all of you lately , but i 'm sure we 'd all agree it 's been a fun term for lots of reasons ... anyhow , i look forward to seeing you all again in april . 
+^ have fun and keep smiling ! 
+^ best wishes 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear all , 
+^ well , i am going home very shortly , and so thought i 'd take this opportunity to wish everybody a good vacation and a happy &name . 
+^ i 'm sorry not to have seen all of you lately , but i 'm sure we 'd all agree it 's been a fun term for lots of reasons ... anyhow , i look forward to seeing you all again in april . 
+^ have fun and keep smiling ! 
+^ best wishes 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

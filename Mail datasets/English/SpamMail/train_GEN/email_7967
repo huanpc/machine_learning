@@ -1,0 +1,29 @@
+<message>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name ! ! ! ! 
+</text_normal>
+</subject>
+<date> tue, 26 mar 2002 12:24:04 -0500 (est) </date>
+<from>
+</from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ 
+^ - ---- forwarded message from &email ----- date : &name , &num mar &num &num : &num : &num &num ( est ) from : &email &name : &email subject : &name to play &char in the park &num to : &email 
+^ hey &name 
+^ &name have confirmed that they will be playing at &char in the park this year . 
+^ they will headline on the saturday night ( 13th july) . 
+^ the only previous time &name played &char in the park was back in july &num . 
+^ on that occasion they arrived at the festival site [ then ] near &name by commuter train from &name along with other festival goers who helped to carry their instruments . 
+^ ( the bands usual mode of transport , their &name bus , had been re-fuelled with petrol instead of diesel . ) 
+^ " hindu &name " the band 's new single will be released on 15th april . 
+^ more news soon 
+^ the &char lady 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,47 @@
+<message>
+<from> net.tw </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name into traditional chinese 
+</text_normal>
+</subject>
+<date> thu, 8 aug 2002 18:11:22 +0800 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &website ; since the readme file &website to you to make &char &website , i attached the file in this mail . 
+^ &name the output can be available soon ... 
+^ besides , translation of the main program is almost completed . 
+^ however , the testing output does n't seem good : most characters are too small and cannot be clearly seen ! 
+^ because &name characters ( including simplified / traditional chinese , japanese , korean ) are too complex to be fit in &name font , software developed in these regions uses 9pt font to display messages . 
+^ in contrast , western alphabets are simple , so software from these region commonly uses 8pt font , including your program . 
+^ now i translated the messages from english to &name , but the font size is not big enough to display the messages clearly . 
+^ i 'm sure that simplified chinese / japanese / korean translators ( in the future ? 
+^ : &char ) will also meet this problem . 
+^ on user 's and translator 's view , i suggest you to make a 9pt font version program ( including the &website ) for us to translate : our language needs more space to display ! 
+^ at last , your maillist service on &name 's site had already been shut down a long time ago ... did n't you notice it ? 
+^ &smiley 
+^ best regards , 
+^ &name &name 
+</text_normal>
+<text_embedded> 
+
+^ i 'm really sorry for not getting back to you . 
+^ my personal circumstances have somewhat changed and i am too busy at the moment to work on &name &name , especially so during may and june . 
+^ i intend to look at &name maker in july and decide on the future direction of it and how to handle bug fixes , updates and translations . 
+^ after doing that ( august ? ) i shall e-mail the mailing list with more information on that . 
+^ in the meantime , if you wish to work on something for yourself , friends , family or colleagues ( and run the risk that any work you do will be made obsolete by future releases of &name &name ) , then feel free &website ( also attached ) to make the changes . 
+^ note that &name &name must not be running when you &website . 
+^ sorry about this , and unfortunate fact of freeware is that it depends so much on the time availability of the author . 
+^ yours , 
+^ &name &name &name &name &name 
+</text_embedded>
+</part>
+<part num="2" type="application/x-zip-compressed">
+</part>
+</message_body>
+</message>

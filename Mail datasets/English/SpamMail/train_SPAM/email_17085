@@ -1,0 +1,14 @@
+<message>
+<date> fri, 4 apr 2003 14:45:31 -0500 (est) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name : &name / av-alert newsletter from &name &name , version &num april &num , &num - important message 
+</text_normal>
+</subject>
+<content-type> multipart/related </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,30 @@
+<message>
+<date> tue, 9 jul 2002 15:58:11 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i should add - the attached file was just a proposal for the &name - not the final version . 
+^ i 'm sure tomorrow 's discussion will generate many more issues . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi , 
+^ attached with this email is a file with &name code &name and pseudocode implentation . 
+^ the &name and pseudocode is separated into server side ( c++ ) code for box execution and client side ( &name ) code for what the &name calls when boxes , predicates , and functions are created . 
+^ for the meeting at &num : &num tomorrow , the &name group will go over the first part of the document ( design issues ) and the client side &name and pseudocode . 
+^ if you can , please print out and briefly look over the attached file before tomorrow 's meeting so that it will be easier to discuss as a group . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

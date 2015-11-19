@@ -1,0 +1,40 @@
+<message>
+<from>
+</from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name : &name errors with foreign characters 
+</text_normal>
+</subject>
+<date> mon, 10 feb 2003 12:09:08 +0100 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name and &name maker support , 
+^ greetings from &name 
+^ i found a serious error in the &name &num &name builder software . 
+^ after using &name &num for years with no problems , last week i bought &name &num . 
+^ to my surprise the self-extracting exe-files generated with pa2002-sfx are giving errors and bad file / directory names if the zipped content includes file / directory names using extended ascii-characters , for example the german characters " ' , " ' and " ' . 
+^ with &name this never has been a problem . 
+^ for further diagnostics &num downloaded the latest &name maker standalone from &website . 
+^ i found that this version works nicely with names including foreign characters , so the problem probably comes from &name . 
+^ ( however the latest &name standalone has a small problem too , as the " open with &name " button does not work with &name anymore , only with pa2000 ) . 
+^ for demonstration and testing i attach a demo zip file including &num files : 
+^ &website 
+^ - shows how some test files are nicely handled with pa2000 
+^ &website 
+^ - shows how some test files are nicely handled with &name 
+^ &website 
+^ - shows how some test files are giving errors with pa2002 
+^ thanks for help 
+^ &name &name 
+^ &name , &name 
+^ &name &num ( &name ) 
+</text_normal>
+</part>
+</message_body>
+</message>

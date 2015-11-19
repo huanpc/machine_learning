@@ -1,0 +1,61 @@
+<message>
+<date> thu, 13 mar 2003 18:31:15 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name speech prax problem 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ looks about right . 
+^ i added an important line in the last for loop that adds in the right exit prob . 
+^ if you still have troubles you can email me , but i wont be able to respond until after &num ! 
+^ good luck . 
+^ &name
+</text_normal>
+<text_embedded> 
+
+^ void &name : : &name ( int &char ) {//3 using max [ &char ] a global 
+</text_embedded>
+<text_normal> 
+
+^ yes 
+</text_normal>
+<text_embedded> 
+
+^ for ( int x0;x ( numphones;x++){ //add insertion penalty insts [ &char ].tok [ insts [ &char ].numstates ].prob + &name ; 
+</text_embedded>
+<text_normal> 
+
+^ yes 
+</text_normal>
+<text_embedded> 
+
+^ //adjust time in token insts [ &char ].tok [ insts [ &char ].numstates ].stframe t+1 ; 
+</text_embedded>
+<text_normal> 
+
+^ i added an extra ] the other side of max [ &char ] 
+</text_normal>
+<text_embedded> 
+
+^ //add the &name probability insts [ &char ].tok [ insts [ &char ].numstates ].prob + gamma1 * bidata [ max [ x]] [ &char ].lmprob ; 
+</text_embedded>
+<text_normal> 
+
+^ you also need to add in the output prob from the previous model , which i added below . 
+^ check that it is right , of course . 
+^ but it should be using the exit prob from the right model . 
+</text_normal>
+<text_embedded> 
+
+^ //copy to all start states -- propagate for ( int i0 ; &char ( &name ; i++){ insts [ &char ].tok [ &num ] insts [ &char ].tok [ insts [ &char ].numstates ] ; insts [ &char ].tok [ &num ].prob + insts [ max [ &char ] ].tok [ insts [ &char ].numstates ].prob ; 
+</text_embedded>
+</message_body>
+</message>

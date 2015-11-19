@@ -1,0 +1,27 @@
+<message>
+<date> thu, 25 jul 2002 10:58:44 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : map works ! ! 
+^ .. what 's next ? 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi guys , 
+^ i was wondering if someone at &name could make me a &name example using the gui so that i can test my code . 
+^ it is difficult to use the gui remotely , and we ca n't seem to get the &name working locally at &name . 
+^ thanks , &name 
+^ &name wed , &num &name &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ congratulations ! ! 
+</text_embedded>
+</message_body>
+</message>

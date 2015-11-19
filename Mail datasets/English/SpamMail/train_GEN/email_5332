@@ -1,0 +1,36 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name notification 
+</text_normal>
+</subject>
+<date> wed, 12 feb 2003 09:54:40 -0000 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i have learnt that one of you , and perhaps all of you , have received incorrect information about the exams at the beginning of next term . 
+^ the examinations are &num hours each , not &num hour . 
+^ if the information you have received differs from the schedule below please let me know whether the information has come from your college office or the board of exams . 
+^ the schedule is as follows : 
+^ the &name &name module examinations will take place on 22nd and 23rd april &num in the &name theatre &num of the &org . 
+^ there will be &num 1.5-hour papers : 
+^ tuesday 22nd april 
+^ &num &num speech processing &num 
+^ &num &num &name &name 
+^ wednesday 23rd april 
+^ &num &num language processing &num 
+^ &num &num - &num dialogue systems 
+^ the full-time students will take all &num papers . 
+^ the &num year &num part-time candidates from &num will take language &num and dialog systems . 
+^ the &num year &num part-time students will take speech &num and &name &name . 
+^ many thanks , &name &name 
+^ &org student administration &name &name building &name &name &name &name avenue &name &name &name , &name &name &name telephone : &num ( &num ) &num &name : &num ( &num ) &num email : &email 
+^ &website / 
+</text_normal>
+</message_body>
+</message>

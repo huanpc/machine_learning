@@ -1,0 +1,29 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name with creating self extraction exe file 
+</text_normal>
+</subject>
+<to> net </to>
+<from> com </from>
+<date> thu, 22 aug 2002 13:31:20 -0400 </date>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ i have created an self extracting &name file and after extraction it has to run a special command which i have defined in the &name extraction option . 
+^ the problem i am having is it works in windows &num &name and when i try to run same software it does n't run on &name &num and &name &name . 
+^ the error message was " could not able to open file " . 
+^ well i think i know the problem . 
+^ while making &name file with &name , i had selected as %temp% as my default archive extraction folder . 
+^ in &name &num it works because we have c : windowstemp folder but in &name we do n't have that folder and on &name &name also it does n't work even though we have this folder . 
+^ so my question is can we create our own folder using &name software so that we can extract the software and run the application from there and delete later on ? 
+^ if yes can you please provide me the steps to do this . 
+^ any help would be appreciated . 
+^ best &name 
+^ &name &name &email 
+</text_normal>
+</message_body>
+</message>

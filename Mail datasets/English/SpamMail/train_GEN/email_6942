@@ -1,0 +1,49 @@
+<message>
+<from> com </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ &name function ? ? 
+</text_normal>
+</subject>
+<date> mon, 19 may 2003 03:47:41 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ dear , 
+^ i 'm a business database provider . 
+^ is there a function in &name which requiring the recipient to acknowledge an agreement before opening and accessing the file? ( just like software agreements that one needs to agree to before installation ) 
+^ or do you know if there 's other sources ? 
+^ &name advise . 
+^ thank you so much . 
+^ &name 
+^ add photos to your messages with &name &num . 
+^ get &num months free * . 
+^ &website 
+^ &website " ( &name ) wed &name &num &num : &num : &num &num &name : ( &email ) &name : &email received : ( qmail &num invoked by uid &num ) ; &num &name &num &num : &num : &num &num &website by uid &num with qmail-scanner-1.15 ( uvscan : &name / v4230 . 
+^ spamassassin : &num . 
+^ &name : &name : &num ( &num / &num ) : . 
+^ processed in &num secs ) ; &num &name &num &num : &num : &num &num &name : no , hits2.8 required4.3 &website ) by &num with &name ; &num &name &num &num : &num : &num &num &website ] ( helomxng15.kundenserver.de ) by moutng.kundenserver.de with esmtp ( &name &num # &num ) id 18iv23-0008kd-00 for &email ; wed , &num &name &num &num : &num : &num &num &website ) by mxng15.kundenserver.de with smtp ( &name &num # &num ) id 18iv1t-0004nq-00 for &email ; wed , &num &name &num &num : &num : &num &num received : ( qmail &num invoked by uid &num ) ; &num &name &num &num : &num : &num &num &name : &email received : ( qmail &num invoked by uid &num ) ; &num &name &num &num : &num : &num &num &website by uid &num with qmail-scanner-1.15 ( uvscan : &name / v4230 . 
+^ spamassassin : &num . 
+^ &name : &name : &num ( &num / &num ) : . 
+^ processed in &num secs ) ; &num &name &num &num : &num : &num &num &website ) by &num with &name ; &num &name &num &num : &num : &num &num &website ) ; wed , &num &name &num &num : &num : &num &num &name : ( 000901c2d289 $ 838243a0 $ &email ) &website " ( &name ) to : ( &email ) subject : sfx maker ( language ) &name : wed , &num &name &num &num : &num : &num &num &name : &num &name : multipart / mixed ; boundary' ----_nextpart_000_0005_01c2d291.c39e0840 " &name : &num &name : normal &name : &name &name &name &num &name : produced by &name &name &name status : &name &name : &char &name : &name : &name : 
+^ this is a multi-part message in mime format . 
+^ - -----_nextpart_000_0005_01c2d291.c39e0840 content-type : multipart / alternative ; boundary' ----_nextpart_001_0006_01c2d291.c39e0840 " 
+^ - -----_nextpart_001_0006_01c2d291.c39e0840 content-type : text / plain ; charset' iso-8859-1 " &name : quoted-printable 
+^ dear sirs 
+^ look to appendix . 
+^ thank you . 
+^ &name &name 
+^ outgoing mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num 
+^ - -----_nextpart_001_0006_01c2d291.c39e0840 content-type : text / html ; charset' iso-8859-1 " &name : quoted-printable 
+^ ( ! 
+^ &name &name public " -//w3c//dtd &name &num &name " ) ( html) ( head ) ( meta http-equiv3dcontent-type &name text / html ; charset3diso-8859-1 " ) ( meta content3d'mshtml &num " name3dgenerator ) ( style) ( &num ) ( &num ) ( body &name ffffff ) ( div) ( &name &name &name sans &name " size3d2)dear sirs ( &num ( &num ) ( div) ( &name &name &name sans &name " size3d2) ( /font)&nbsp;( &num ) ( div) ( &name &name &name sans &name " size3d2)look to appendix. ( &num ( &num ) ( div) ( &name &name &name sans &name " size3d2)&nbsp;( &num ( &num ) ( div) ( &name &name &name sans &name " size3d2) ( /font)&nbsp;( &num ) ( div) ( &name &name &name sans &name " &name thank you.&nbsp;&nbsp;&nbsp; ( &num ( &num ) ( div) ( &name &name &name sans &name " &name p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp ;&nbsp;&nbsp;&nbsp;&nbsp; &name &name ( &num ( &num ) ( div) ( &name &name &name sans &name " size3d2) ( /font)&nbsp;( &num ) ( div)&nbsp;( &num ) ( div) ( &name &name &name sans &name " size3d2) ( /font)&nbsp;( &num ) ( div)&nbsp;( &num ) ( div) ( &name &name &name sans &name " size3d2) ( br)--- ( br)outgoing mail is certified virus free. ( br)checked by &name anti-virus system ( ( &char &name &website : &website / &name &name : &num - &name &name : &num ( &num ( &num ( &num ( &num ) 
+^ - -----_nextpart_001_0006_01c2d291.c39e0840-- 
+^ - -----_nextpart_000_0005_01c2d291.c39e0840 content-type : application / msword ; name' e-mail &name &name vert .. &name " &name : &name &name : attachment ; filename' e-mail &name &name vert .. &name " 
+</text_normal>
+</message_body>
+</message>

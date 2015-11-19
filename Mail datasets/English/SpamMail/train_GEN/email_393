@@ -1,0 +1,60 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hi &name 
+</text_normal>
+</subject>
+<date> mon, 11 dec 2000 18:37:43 -0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ dearest sweetiepie , i prefer to assume you are intutive . 
+^ there must be &num member of the male species who is . 
+^ airplane is a good film there are more in that genre . 
+^ we will rent them next term . 
+^ my family liked the idea of my x/mas presents , and my dad found the whole tim-giving-us-photos-hed-taken-himslef thing quite amusing . 
+^ my dada can relate to that . 
+^ bored , watching lots of trashy tv . 
+^ what you up to ? 
+^ do n't do anything i would n't do ... 
+^ love &name 
+</text_normal>
+<text_embedded> 
+
+^ from : &name ( &email ) to : &email subject : hi &name &name : &name , &num &name &num &num : &num : &num &num 
+^ dear &name , 
+^ thank you so much for your little note . 
+^ it was really nice . 
+^ &name , i am not so intuitive as you may have assumed ! 
+^ &name told me you liked that kind of thing . 
+^ however , i am glad i asked her advice , as i have now found a shop in &name that i really like - unfortunately they do n't take switch . 
+^ at least i think i like it , and i shall be going back there later this afternoon to search for christmas presents to give to my family . 
+^ i do n't understand why you apologised for saying " thanks for being so sweet " ! 
+^ i do n't mind . 
+^ i will e-mail you a lot , and i hope you do too . 
+^ however , when i look over some of the e-mails i sent you last summer i can scarcely believe i actually sent them ! 
+^ anyway , this is not a very amusing e-mail . 
+^ &name shall surely follow . 
+^ also , i have an idea for an interesting piece of photo-art which i may well conjure up over the holidays . 
+^ ( it does not - unless you want it to - contain your picture , but it may well be quite amusing for anyone who knows &name . ) 
+^ well , i hope you 're enjoying being at home and do n't miss &name too much . 
+^ i know i probably will . 
+^ see you next term . 
+^ &name 
+^ &name i have just watched " airplane " ! 
+^ it 's absolutely ridiculous ! ! ! 
+^ yes , some of it was extremely amusing , hilarious infact . 
+^ other parts were not as interesting . 
+^ however , thanks awfully for leaving it for me to watch. ( ! ) 
+</text_embedded>
+<text_normal> 
+
+^ get more from the web . 
+^ free &name explorer download : &website 
+</text_normal>
+</message_body>
+</message>

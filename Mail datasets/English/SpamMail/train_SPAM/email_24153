@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name : free bottle , read this ... 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=06986e0e1e196312e032afbc </content-type>
+<date> tue, 8 apr 2003 10:15:45 -0400 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

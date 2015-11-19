@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ instructions enclosed for &num dollar transfer 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=jnmvniaogcdgxmfqknok </content-type>
+<date> sat, 5 apr 2003 20:35:32 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

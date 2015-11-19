@@ -1,0 +1,15 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name loans with ' &num ' down and ' &num ' closing available ! ! ! 
+^ &char 
+</text_normal>
+</subject>
+<date> mon, 07 apr 03 14:39:47 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

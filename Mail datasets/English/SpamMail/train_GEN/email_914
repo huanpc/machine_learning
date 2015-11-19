@@ -1,0 +1,23 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> mon, 4 mar 2002 18:19:34 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ boys , i am loving the &name . 
+^ it is on now , and somewhat distracting me from my work ! 
+^ but hey , if i was n't listening to it i 'd be a man of constant sorrow . 
+^ so , to use a rather cheesy cliche ... thanks for being such great friends ! 
+^ see you soon , 
+^ &name
+</text_normal>
+</message_body>
+</message>

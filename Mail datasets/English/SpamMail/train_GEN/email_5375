@@ -1,0 +1,29 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> tue, 18 mar 2003 19:38:26 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ thanks a lot &name ! 
+^ &name 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name " ( &email ) to : ( &email ) &name : &name , &num mar &num &num : &num : &num &num ( &name ) 
+^ ( ( &website ) ) 
+</text_embedded>
+<text_normal> 
+
+^ overloaded with spam ? 
+^ with &name &num , you can filter it out &website 
+</text_normal>
+</message_body>
+</message>

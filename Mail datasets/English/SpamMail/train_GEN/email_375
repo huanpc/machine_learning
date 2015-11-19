@@ -1,0 +1,34 @@
+<message>
+<date> fri, 29 nov 2002 12:38:51 +0000 </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : pesky me again 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ sorry , but it is a set menu and ca n't be changed . 
+^ it would cost much much more if everyone got to choose whatever they wanted to eat . 
+^ if you like you can pay me &num or &num pounds less . 
+^ &name 
+^ &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name , 
+^ hate to be a pest , but i have just remembered that &name said banoffi pie is on the menu . 
+^ i really do n't like it ... is there any chance we get to choose something else ( chocolate cake or &name for example ? 
+^ &smiley ) on the night or is it a set menu ? 
+^ should have mentioned this earlier , but as i just remembered i thought i 'd mention it as it 's an expensive meal and i want to be able to eat all i 've paid for &smiley 
+^ do n't worry if we ca n't do anything now . 
+^ take care &name and see you and lovely &name soon , r &smiley 
+^ stop more &name with the new &name &num and get &num months free * &website 
+</text_embedded>
+</message_body>
+</message>

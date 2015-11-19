@@ -1,0 +1,37 @@
+<message>
+<from> com </from>
+<to> org </to>
+<content-type> text/plain </content-type>
+<subject>
+<text_normal> 
+
+^ [ autopackage ] looking forward 
+</text_normal>
+</subject>
+<date> 08 may 2003 08:41:57 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ ok , so for those who are n't aware , version &num was released last night . 
+^ there 's more info about it on the website and release announcement . 
+^ suffice it to say that we got a lot done , but it took too long . 
+^ so anyway , what next ? 
+^ well , i 'm going to be taking a break for a few days , perhaps doing some work on the packaging spec which i 've been neglecting lately . 
+^ i 've put the next batch of work on the &name list so those who are curious can take a look , it 's intentionally quite short with the only major piece of work being implementing the split versioning schemes as discussed a few weeks ago on &name . 
+^ &char brief description for those who were n't there : split versioning is where we separate the concept of package version from interface version completely . 
+^ rather than have the skeleton files try and report the version of the package in use , it reports a libtool style version code , like &num , &num and so on , and this is what the packages use to ensure dependancy integrity . 
+^ it 's also used to resolve dependancies . 
+^ currently versioning is * still * a bit scrappy . 
+^ a few other things we might want to do include some &name cleanups , especially in extraction , and improve the documentation . 
+^ after the split versioning i suspect the way you make packages will be fairly stable for some time , as most of the new code will be " behind the scenes " as it were , things like guis and network resolvers should n't impact the &name much . 
+^ getting to the &name work seems to be taking ages , but i believe it 's important to get a strong foundation before working on what are , essentially , optional features . 
+^ &char quick reminder of the roadmap : 
+^ &num &num - split versioning , api cleanups , bugfixes , better docs 
+^ &num &num - first &name work , improved user interaction &name 
+^ &num &num - automatic download code ( for autopackage itself , not packages ) 
+^ . . ... after this point &char suspect we 'll have a long list of issues we want to sort out for &num , the rest you can see on the schedule . 
+^ thanks -mike 
+^ &name mailing list &email 
+</text_normal>
+</message_body>
+</message>

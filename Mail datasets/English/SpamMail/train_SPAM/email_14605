@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name personal solutions : march &num &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative; boundary=30178728.1001924521444.javamail.spocdev@app21 </content-type>
+<date> thu,  3 apr 2003 00:30:58 -0500 (est) </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

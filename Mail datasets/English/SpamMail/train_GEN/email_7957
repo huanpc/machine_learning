@@ -1,0 +1,34 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ hiya again ! 
+</text_normal>
+</subject>
+<date> mon, 04 mar 2002 10:23:46 +0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name 
+^ oh my &name , i 'm replying quick ! ! 
+^ your way of replying is sort of logic , but it 's just not what i 'm used to ! ! 
+^ &name said that it takes a while to get used to , but she has started replying to some of hers like that too . 
+^ the course i am doing next year is computing with &name and &name . 
+^ last year i did programming in visual basic for applications ( procedural ) and this year i am doing &name ( event driven ) and c++ ( abstract data structures) . 
+^ i really like delphi , its more user friendly and c++ has taken me a while to get to grips with , but its cool enough , although it has reduced me to tears on a number of occasions ! ! 
+^ next year , at &name , it will be &name that is i will be doing , so i get a chance to try my hands at a few languages . 
+^ what about yourself , what languages have you done ? 
+^ i dont have a clue what &char want to do , theres no &num job that &char really want to do , but going to college then uni is sort of better than dossing about or working full time at the fish . 
+^ but &char really dont have a clue what &char want to do , i would n't mind going travelling around european cities - basically trying to avoid work for as long as i can ! ! 
+^ the thing is , &name and &name both know exactly what they want to do , so their lives are pretty much mapped out , but then i 'm absolutely clueless ! ! 
+^ &name seemed like the " sensible " thing to do , &char never even did computing at school ! ! 
+^ so we shall see ... 
+^ &name , better go and do some of my project ( it 's making an accounts and registry system for &name dance classes - it started off really small , but has just sort of got a lot bigger ) &char only have &num weeeks left to finish my course ( i have &num weeks off for &name though ) so its a bit of panic stations here ! ! 
+^ speak to you soon &name xx 
+^ chat with friends online , try &name &name : &website 
+</text_normal>
+</message_body>
+</message>

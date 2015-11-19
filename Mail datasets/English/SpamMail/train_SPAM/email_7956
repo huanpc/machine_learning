@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ open &name ! 
+^ &name &name today ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> fri, 28 mar 2003 13:34:25 -0500 (est) </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

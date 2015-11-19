@@ -1,0 +1,48 @@
+<message>
+<date> thu, 06 feb 2003 14:01:14 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ group meeting 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ dear all , 
+^ we had only &num attendance today - at one of the most crucial meetings over the course of this project . 
+</text_normal>
+<text_embedded> 
+
+^ from now on , please could i request all of you to follow the courtesy of informing me of your absence in advance . 
+</text_embedded>
+<text_normal> 
+
+^ we have a few very important issues to settle , and deadlines to meet . 
+^ &name for tuesday &num noon : 
+^ &num &name report report by project manager ( writing ) 
+^ &num module implementation codes ( online ) 
+^ &num module test harnesses ( online ) 
+^ &num &name results ( online ) 
+^ what we need to do ( listed in priortised ordering ) : 
+^ &num &char &name harness for the distribution server - this is a very important task at the moment - i would be right to call it a potential bottleneck . 
+^ all progress on the distribution side has been kerbed as &name is not certain of the integrity of the code he has generated . 
+^ &name and david , please could you get cracking on this . 
+^ * * * * * * * * * * * * * * deadline - &name &num hrs. * * * * * * * * * * * * * * * * * * * * * * &name shall be sending an email to you explaining certain issues . 
+^ &num &name harnesses for factorisation modules - deadline - saturday &num hrs . 
+^ &name would send you an email about this . 
+^ he has talked to tara about it already . 
+^ &num . 
+^ * * * * * * * * * * * there is a task force meeting on saturday @ &num hrs @ cockroft 
+^ &num compulsory attendance for : &name , &name , &name , &name , &name * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+^ &num website design - deadline - saturday evening . 
+^ &num other issues related to the programming unit have been explained to them separately and shall be deliverd in my next email . 
+^ thanks . 
+^ plese get back to me with objections ( if any ) my &name no. is &num . 
+^ cheers , &name 
+</text_normal>
+</message_body>
+</message>

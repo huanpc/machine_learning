@@ -1,0 +1,22 @@
+<message>
+<from> net.tw com </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ iso-8859-1 ? 
+^ &char ? 
+^ &char ? 
+</text_normal>
+</subject>
+<date> tue, 1 apr 2003 00:43:16 +1200 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &char , l' &name 
+^ i' &char i' &char 
+</text_normal>
+</message_body>
+</message>

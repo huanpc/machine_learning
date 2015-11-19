@@ -1,0 +1,49 @@
+<message>
+<from> com </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ need your help ! 
+</text_normal>
+</subject>
+<date> tue, 20 aug 2002 11:27:13 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ i 've tried unsuccessfully to remove the program . 
+^ now i get this message : " &website . 
+^ to locate the file yourself , cli ck &name . " 
+^ can you please help me completely delete this program ? 
+^ it has been months of having to wait a long period of time for the comput &name to display the installation screen ... even after installing the program , this initial display screen would n't go away . 
+^ now the display screen &char &char longer is displayed ... instead i get the message above . 
+^ i just want to &char emove everything . 
+^ thank you . 
+^ please call ( &num ) &num . 
+^ i am at my computer waiting for your respons &char . 
+^ &name
+^ get more from the web . 
+^ free &name explorer download : &website &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &website . 
+^ to locate the file yourself , cl ick &name . " 
+^ can you please help me complete &name delete this program ? 
+^ it has been &name nths of having to wait a long period of time for the computer to dis play the installation screen ... even after installing the program , this in itial display screen would n't go away . 
+^ now the display screen no &name nger is displayed ... instead i get the message above . 
+^ i just want to remov &char everything . 
+^ thank you . 
+^ please call ( &num ) &num . 
+^ i am at my computer wai ting for your response . 
+^ &name 
+^ get more from the web . 
+^ free &name explorer download : &website 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,15 @@
+<message>
+<from> info </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * &name , &name join us for our special bingo night ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> tue, 8 apr 2003 13:22:00 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

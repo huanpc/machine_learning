@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * free new booklet reveals the hidden secrets 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> mon, 31 mar 2003 15:09:15 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+^ if &name , &name , &name , and &name use it safely and effectively , why ca n't you ? 
+^ well you can ... if you know the secrets ! 
+^ legal , ethical , and responsible bulk e-mail can make you rich ! 
+^ it will flood your bank account with money ! 
+^ but you have to know how , or it can lead you into big trouble ! 
+^ that 's why you need to get our free new booklet ' the untold secrets to wealth on the web ' today ! 
+^ do n't wait ! 
+^ learn the secrets of ' fishing ' for prospects on the ' net ' from ' the &name fisher ' . 
+^ they are secrets that the professionals do n't want you to know , and that you ca n't afford to be without if you hope to make money on the web . 
+^ for your free copy , just send a blank email to : ' &email ' with 'secrets ' in the subject line . 
+^ best regards , &name &name 
+^ click here for more information : 'mailto : &email ' 
+^ for easy &name &email ' subjectremove-me 
+</text_normal>
+</message_body>
+</message>

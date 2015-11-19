@@ -1,0 +1,21 @@
+<message>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : &name - &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 19 jun 2002 17:27:34 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ thanks , that 's good . 
+^ just &num thing i ought to mention - it 's probably a good idea to email me ( at this email address ) before sending proofs to &name , since i spend quite a lot of time in the &name and my post is n't automatically forwarded . 
+^ best , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

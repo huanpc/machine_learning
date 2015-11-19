@@ -1,0 +1,149 @@
+<message>
+<subject>
+<text_normal> 
+
+^ re : [ autopackage ] libprefix - all the way 
+</text_normal>
+</subject>
+<from> com </from>
+<to> org </to>
+<content-type> text/plain </content-type>
+<date> 02 may 2003 16:53:22 +0100 </date>
+<message_body>
+<text_embedded> 
+
+^ i have tons of apps from third parties with similarly odd directory structures . 
+^ i 've used many distros that had weird layouts . 
+^ my own habits came from suggestions from many other people . 
+^ the common case might just use ./configure , but then , if everyone was the common case , libprefix would n't be needed . 
+^ 
+^, 
+^ 
+</text_embedded>
+<text_normal> 
+
+^ &name , but we ca n't accomodate every case , and there 's no obligation to use libprefix anyway - apps are free to roll their own way to look things up ( and indeed , most games i 've played on linux do this already ) . 
+</text_normal>
+<text_embedded> 
+
+^ &name . 
+^ but say i install the same app twice , because i 'm a clueless newbie , so i install version &num in /usr / local / and version &num in /usr / local / app-1.1 , and the binary for version &num gets put in /usr / local / bin . 
+</text_embedded>
+<text_normal> 
+
+^ it would n't though , it 'd be in /usr / local / app-1.1 / bin perhaps with a symlink in /usr / local / bin . 
+^ the only time this situation could occur is if the user manually tweaked configure arguments , which clueless newbies do n't do . 
+</text_normal>
+<text_embedded>
+
+<text_embedded> 
+
+^ well , &name , but that 's just wierd &smiley anyway , you could still do this just by making the prefix /usr / local / foo and then symlinking in bin . 
+</text_embedded>
+
+^ this is actually common &name practice . 
+^ &name got lazy and started putting all apps in &num prefix , versus their own , and now most &name do this . 
+^ we ca n't just up and change to what we should have kept doing because we do n't have libprefix . 
+^ ~, 
+^ which was the point of me starting this discussion ; that we have such a lib , it should be complete , and solve the problem completely , and not just the small part of the problem we want to look at . 
+^ 
+^, 
+^ 
+</text_embedded>
+<text_normal> 
+
+^ so , the issue here seems to be that you think the complete problem is needing some generic path location service for any part of a program , so the apps directory layout can be rearranged at will , at runtime , whereas all i am interested in is being able to install an app to different prefixes . 
+^ does that sound right ? 
+</text_normal>
+<text_embedded> 
+
+^ i still also think autopackage could be tremendously useful to &name , and most of those have proper &name system hierarchies - things get a lot more complicated there ... ( my first time &char / &name was rather enlightening , just seeing where they opted to put the various pieces of something like gnome ) 
+</text_embedded>
+<text_normal> 
+
+^ perhaps , but supporting other forms of &name brings in all kinds of stuff i do n't really want to think about right now , it 's hard enough supporting different forms of &name as it is . 
+</text_normal>
+<text_embedded> 
+
+^ &name . 
+^ unfortunately , even major distros do n't do this . 
+^ several put things in /opt / gnome , but then you have gtk and such in /usr , and source-installed apps in /usr / local or /opt / blah , and then you have stuff in $ home , etc. it 's nice to have &num prefix at most . 
+^ in reality , we have _way_ too many ... &smiley 
+</text_embedded>
+<text_normal> 
+
+^ the only one i know of which does this is &name ? 
+</text_normal>
+<text_embedded> 
+
+^ those desktop environments need fixing for it , tho - there needs to be a much easier way of using all those multiple prefixes . 
+^ but that 's a different problem . 
+</text_embedded>
+<text_normal> 
+
+^ i think it 'd be nicer if wildcard expansion worked in paths , so : 
+^ export orbit_dir' /opt/ * /share / orbit " 
+^ or whatever . 
+^ on the other hand , there 's a reason datadir is called 'share " by default - having things in the same prefix by default makes relying on other packages * much * easier ( otherwise you start having to call libprefix for your dependancies as well , no guarantees that works and things go boom ) . 
+</text_normal>
+<text_embedded> 
+
+^ well , if you 're installing into a common prefix like /usr or /usr / local , no need to over-ride anything . 
+^ if the user specifies binaries in /usr / bin , data in /usr / apps / appname , and libraries in /usr / lib / appname ( yes , a contrived example ) , autopacakge could see the default relative paths wo n't work , and write out the over-ride file . 
+</text_embedded>
+<text_normal> 
+
+^ this is easy enough that i expect it 'll get implemented . 
+^ just a matter of code . 
+^ i 'm still sceptical about how useful that is , but supporting it is so easy there 's little reason not to . 
+</text_normal>
+<text_embedded> 
+
+^ &name . 
+^ but average users need to be able to see the data to back it up . 
+^ &name in accounting or whatever is n't going to know about " ~ /.usr / blah " this is going to ask how to backup or transfer something to her laptop or home machine , and &char want to be able to give her discussions 
+</text_embedded>
+<text_normal> 
+
+^ but &name would n't * want * to backup anything in ~ /.usr because that is like /usr - it 's only for read-only application binaries / libs / data , not anything users would ever change . 
+^ users only care about backing things up in $ home . 
+</text_normal>
+<text_embedded> 
+
+^ &name . 
+^ the problem has several points . 
+^ arguing about the pros / cons of it probably does n't belong here tho . 
+^ &char nice backup app would be killer tho ... 
+</text_embedded>
+<text_normal> 
+
+^ yeah . 
+^ next time i have a chance to recruit somebody i 'll mention it &smiley 
+</text_normal>
+<text_embedded> 
+
+^ well , the code should be very easily portable . 
+^ the /proc stuff , no , but then , i 've already stated how i see that as a " if it 's possible , use it , but do n't ever dare depend on it " situation . 
+^ ~, 
+^ 
+</text_embedded>
+<text_normal> 
+
+^ 
+^ * shrug * most other platforms have their own packaging system anyway ( bsd ports , fink , solaris pkgs and so on ) , and need the binaries recompiling . 
+^ what 's more , no other form of &name other than &name is really going to be used by our target audience of ultra-n00bs , i expect your average &name user would rather use the sun provided tools than have autopackage go poking around in their system . 
+^ so , although i guess i could be convinced on this one , portability to other forms of &name is pretty much at the bottom of my priorities list . 
+</text_normal>
+<text_embedded> 
+
+^ i 'm also a huge portability freak , so i ca n't help but think of multi-platform functionality . 
+^ i _hate_ vendor lockin ... &smiley 
+</text_embedded>
+<text_normal> 
+
+^ so do i , but i do n't consider &name to be a vendor ( or any other free platform for that matter ) . 
+^ &name &name ( &email ) &name - &name technology center 
+^ &name mailing list &email 
+</text_normal>
+</message_body>
+</message>

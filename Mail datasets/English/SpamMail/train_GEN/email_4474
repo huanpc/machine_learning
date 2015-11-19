@@ -1,0 +1,45 @@
+<message>
+<date> thu, 20 feb 2003 13:46:44 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : video 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i 'm doing hockey at &num : &num on saturday , but lunch after that would be good . 
+^ what time does the &name close ? 
+^ i should be able to get there for around &num . 
+^ &char 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ what ho , am &char sorry but i ca n't do &name . ... i have n't seen you for ages though . 
+^ can you do lunch on saturday ? 
+^ we could brave the beauteous &name . 
+^ &name &name 
+^ &name wed , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ sorry &name , no can do , but i 'm curious , what are you going to film for your friend 's birthday ? 
+<text_embedded> 
+
+^ &name , 
+^ &num things : 
+^ - do any of you know anyone who has a camcorder , as i want to record a video for a friend 's birthday to send up to &name . 
+^ - do you want to come round here for dinner on friday , before &name and i are let loose on the cu cafe ? 
+^ love &name 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

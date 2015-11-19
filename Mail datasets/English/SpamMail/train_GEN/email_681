@@ -1,0 +1,26 @@
+<message>
+<date> sat, 09 mar 2002 16:42:40 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ why &name ? ... 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ here is the web-page you requested . 
+^ it contains the names of all the &name central computer and file servers ... 
+^ &website 
+^ some of the names seem very strange . 
+^ you may also find this web-page interesting ... 
+^ &website 
+^ hope you had a good weekend in &name . 
+^ love &name 
+</text_normal>
+</message_body>
+</message>

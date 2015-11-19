@@ -1,0 +1,47 @@
+<message>
+<date> sun, 09 mar 2003 17:06:30 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name supervisions 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ ok cheers , i 'll write to dr &char and tell him . 
+^ thanks , last week of term always seems to spiral out of control for some reason ... 
+^ em 
+^ - -on &num march &num &num : &num &num &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded> 
+
+^ np 
+^ cheers 
+^ &name 
+^ on sunday &num mar &num &num : &num , you wrote : 
+<text_embedded> 
+
+^ &name is it ok if we do this next term ? 
+^ i have already got a fair few supervisions on next week and its a bit of a nightmare ... 
+^ your first supervision could be next week , on thursday or friday , or it could be next term . 
+^ which would you like , and do you have any preference on pairings ? 
+^ if so , let me know , otherwise i will arbitrarily pair &name and dan+ed . 
+^ please let me know your prefered pairings ( if not the &num suggested ) and whether each pair would like their first supervision to be next week or next term . 
+^ the work for the first supervision is &num warmup questions and parts of &num exam questions . 
+^ before you complain that i 've set &num exam questions for &num supervision , note that the parts i 've chosen only amount to &num marks , so it 's really not much more than &num questions . 
+^ warmup questions ( a short paragraph each ) : &num / &num and &num / &num ( in the notes ) 
+^ exam questions : &website ) &website 
+^ the last &num of these are also available in the notes as questions &num / &num , &num / &num , and &num / &num . 
+^ for the last one please can you answer the question for all &num co-ordinate systems , do n't just pick &num . 
+^ &name 
+^ &name &name , &name &name &email university of &name &name laboratory &num &num &num 
+</text_embedded>
+
+^ &name &name &name college , &name &name &name &name &name : room &name , &name &name e-mail &name : &email &name &name : &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,33 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : out of stock ? 
+</text_normal>
+</subject>
+<date> fri, 25 apr 2003 00:45:31 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi 
+^ thank you for your email . 
+^ these are currently out of stock we do not yet have a date on these discs . 
+^ regards 
+^ &name 
+^ &name &name &name &num &name road industrial estate &name &name &name 
+^ email : &email web : &website 
+^ * * please include this email in your reply * * 
+</text_normal>
+<text_embedded> 
+
+^ the &num items i 'm interested in ordering ( &name &num and &name &num ) do n't have a button to click to add to the basket . 
+^ are they simply out of stock at the moment ? 
+^ will you be getting more in ? 
+^ thanks 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

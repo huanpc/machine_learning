@@ -1,0 +1,20 @@
+<message>
+<date> sat, 3 may 2003 11:40:07 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ scripts 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ check for existing directory ... 
+^ if ( ! 
+^ &char $ dir ) mkdir $ dir 
+</text_normal>
+</message_body>
+</message>

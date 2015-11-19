@@ -1,0 +1,59 @@
+<message>
+<from> com </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<date> thu, 21 mar 2002 20:48:18 +0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ hey &name ... it 's really nice to hear from you ! 
+^ &char ahve sent you an email about &name , so &char wont " bore you twice , suffice to say it was great and just what &char needed ! 
+^ i am quite stressing about the exams , especially because of the amount of work i have to do beforehand , but that 's just my way . 
+^ i have n't heard from &name , but then &char only left &name this morning , so i 'm not expecting to ! 
+^ i 'll email him after this . 
+^ i am seeing &name tomorrow ( yay ! ) as she is home for a bit , which will be just lovely , but other than my dentist 's appt . 
+^ on thursday , i have nothing planned but work . 
+^ ! 
+^ nice . 
+^ hope you are well ... love &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name " to : " &name , &name " date : &name , &num mar &num &num : &num : &num &num 
+^ hey &name ! 
+^ i thought i would write you a short e-mail to say hello . 
+^ so ; 
+^ &name ! 
+^ how 's your holiday going ? 
+^ is n't it great not to have the silly dissertation looming over you anymore ? 
+^ is n't it wonderful ! 
+^ i 'm kind of starting to worry about my exams , but i hope you ar n't. 
+^ i remember last year you really put a lot of emotion into the exam period , and i hope that you are a not stressing now . 
+^ did n't you think &name 's party was really nice and chilled ? 
+^ i very much enjoyed it . 
+^ and i loved it at your 's and &name , when &name got up and sang . 
+^ i was going . ... that 's my best friend there ! 
+^ that 's my best friend ! 
+^ have you heard much from the &name ? 
+^ i 've seen quite a lot of him this term , but not heard much this holiday . 
+^ i think he is bored already . 
+^ what a guy ! 
+^ i 'm really pleased that he 's living with &name &char next year . 
+^ i think that he will fit in very well ! 
+^ gotta go now , 
+^ lots of love , &name 
+^ do you &name ! ? 
+^ get your &name address at &website 
+</text_embedded>
+<text_normal> 
+
+^ chat with friends online , try &name &name : click here 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,56 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ windows-1251 ? 
+^ &char ? 
+^ &num / &name ? 
+</text_normal>
+</subject>
+<date> sat, 05 apr 2003 12:51:26 +0000 </date>
+<content-type> text/plain; charset=windows-1251 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ' . 
+^ &num ' 
+^ &num , &num 
+^ &num . 
+^ ( ) . 
+^ , ; , , , ; 
+^ &num . 
+^ : , , , . 
+^ , . 
+^ &num . 
+^ : , , , &num ) ; &num ) ; &num ) ( ) ; &num ) ( ) ( ) ; &num ) ; &num ) , 
+^ &num ) ; &smiley ( ) ; &num ) , ( , ) , , , &num ) , . 
+^ . ; &num ) ; &num ) ; &num ) , : &num ) ( ) &num ) ; &num ) ; &num ) ; &name , , , ; &num ) , &num ) ; &num ) , &num ) ; &num ) , 
+^ , . 
+^ &num . 
+^ &num . 
+^ , . 
+^ . 
+^ , , , - 
+^ &num . 
+^ , 
+^ &num . 
+^ , ; , &website ; ; . 
+^ . 
+^ &num . 
+^ . 
+^ &num ( . 
+^ ) , &num . 
+^ &num &num . , . 
+^ - , . 
+^ , . 
+^ . 
+^ . , , ' ' , ' ' , ' ' , ' : ' , ' : ' , ' ' 
+^ &num , &num 
+^ hsgnugvvbrp 
+</text_normal>
+</message_body>
+</message>

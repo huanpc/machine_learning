@@ -1,0 +1,14 @@
+<message>
+<subject>
+<text_normal> 
+
+^ keep your &name from &name &name 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<date> 7 apr 2003 22:04:48 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

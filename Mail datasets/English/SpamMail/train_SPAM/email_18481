@@ -1,0 +1,14 @@
+<message>
+<subject>
+<text_normal> 
+
+^ the next giant thing for &name &name &num 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> multipart/alternative </content-type>
+<date> 4 apr 2003 10:59:48 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

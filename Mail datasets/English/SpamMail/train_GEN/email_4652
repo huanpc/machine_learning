@@ -1,0 +1,21 @@
+<message>
+<date> sun, 4 may 2003 17:50:02 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ project 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ please can i meet up with you briefly &name this morning ( monday ) to discuss a couple of issues . 
+^ thanks , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

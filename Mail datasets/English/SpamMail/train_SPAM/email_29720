@@ -1,0 +1,15 @@
+<message>
+<from> co.uk </from>
+<subject>
+<text_normal> 
+
+^ warning - this may offend ! 
+^ &name 
+</text_normal>
+</subject>
+<date> fri, 11 apr 2003 13:16:28 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

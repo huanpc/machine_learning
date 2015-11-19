@@ -1,0 +1,45 @@
+<message>
+<date> mon, 12 may 2003 11:23:30 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : language modelling 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name . 
+^ we 'll talk then . 
+^ on mon , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ no , but my dad is interested for his life 's work ( he 's a translator and thinks he 's invented a new translation tool / dictionaray method thingy . 
+^ &char want to explore the area a bit for him ) 
+<text_embedded> 
+
+^ sounds good . 
+^ is it related to your project ? ? ? 
+^ seems unlikely ... 
+^ on mon , &num may &num , &name &name wrote : 
+<text_embedded> 
+
+^ at some convenient occasion when normal conversation runs out and there would otherwise be awkward silence , &char must tranfuse some of your knowledge of the area to myself . 
+<text_embedded> 
+
+^ i know a reasonable amount about it &name . 
+^ &char 
+^ on mon , &num may &num , &name &name wrote : 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

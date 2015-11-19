@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ rape of &name - &name &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> fri, 11 apr 2003 14:31:01 -0700 (pst) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ let : &num &num 
+</text_normal>
+</message_body>
+</message>

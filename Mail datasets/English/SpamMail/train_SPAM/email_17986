@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ get on the &name track to &name - with &name university 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> fri, 28 mar 2003 18:27:48 -0500 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

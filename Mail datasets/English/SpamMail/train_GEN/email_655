@@ -1,0 +1,21 @@
+<message>
+<date> mon, 18 feb 2002 22:41:21 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ 21st birthday party 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i would like to come to your party . 
+^ where is the &name club ? 
+^ love &name 
+</text_normal>
+</message_body>
+</message>

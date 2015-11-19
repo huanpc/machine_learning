@@ -1,0 +1,27 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ ( ) . 
+</text_normal>
+</subject>
+<date> wed, 26 mar 2003 15:44:43 +0900 </date>
+<content-type> text/html; charset="euc-kr" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( tape + tape + ) 
+^ &num 
+^ &num 
+^ &num : &num &name 
+^ &num &pound; &name &pound; 
+^ ~ ( * ) 
+^ / / 
+^ , &name . 
+^ [ ] , . 
+^ if you do n't want to receive this mail anymore , write your mail blank and click there ( &name mail ) 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,34 @@
+<message>
+<date> sat, 4 mar 2000 19:42:11 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i like the picture a lot ... really professional ! 
+^ tell me more about the band ! 
+^ and where the picture is taken . 
+^ it looks amazing . 
+^ we shall be victorious , loads to tell you about the old guys who 've come for the game and things . 
+^ see you soon , 
+^ &name 
+^ &name sat , &num mar &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ look at this site - my picture is the main &num . 
+^ cool , eh ? 
+^ &website 
+^ best wishes for tomorrow at &num 
+^ &name em &name 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

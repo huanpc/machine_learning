@@ -1,0 +1,29 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<date> sun, 17 nov 2002 22:25 +0000 (gmt standard time) </date>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ &name &name &name &name : wizard discussion 
+</text_normal>
+</subject>
+<to> ac.uk ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ dear all , 
+^ this tuesday at the &name &name society we will be holding a discussion entitled 'did the wizards do more harm than good ? " . 
+^ incompetent meddlers or saviours of middle-earth ? 
+^ you decide ! 
+^ come along and argue your position or just enjoy the debate . 
+^ the time : &name the place : &name , &name 's college ( see directions below ) the date : tuesday 19th november 
+^ i hope to see some of you there ! 
+^ &name &name &name &name &name 's through the front gate . 
+^ follow the path down to the river ( it 's quite a long way ! ) and about &num metres before you reach the bridge , turn left into &name 's court . 
+^ &char staircase is in the middle of the range opposite the river , and room &num is on the first floor . 
+^ this is the mailing list for people interested in joining the &name &name &name to move to the main mailing list , please join ! 
+^ see the society web pages at : &website / and the newsgroup at : news : ucam.societies.tolkien 
+</text_normal>
+</message_body>
+</message>

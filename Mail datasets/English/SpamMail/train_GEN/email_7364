@@ -1,0 +1,28 @@
+<message>
+<from> net </from>
+<to> com </to>
+<subject></subject>
+<date> sun, 7 oct 2001 16:12:53 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi ! 
+^ dad called me today and let me have your email address - he says that things are going ok with you and that you are settling in. that 's great ... 
+^ life here in a very wet and soggy &name ( after today 's gales ) is busy as ever - i ca n't quite believe that i 'm in my 11th year at my school . 
+^ any way hope that you are still surviving and making the most of this time - looking back i think i 'd have done things differently if i was to have my time at college again - so enjoy it ! ! 
+^ lots of love &name and &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi ! 
+^ dad called me today and let me have your email address - he says that things are going ok with you and that you are settling in. that 's great ... life here in a very wet and soggy &name ( after today 's gales ) is busy as ever - i ca n't quite believe that i 'm in my 11th year at my school . 
+^ any way hope that you are still surviving and making the most of this time - looking back i think i 'd have done things differently if i was to have my time at college again - so enjoy it ! ! 
+^ lots of love &name and &name 
+</text_normal>
+</part>
+</message_body>
+</message>

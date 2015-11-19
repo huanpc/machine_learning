@@ -1,0 +1,19 @@
+<message>
+<date> mon, 29 jul 2002 10:44:44 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i was wondering if you wanted to meet at all today to talk about state storage in the aggregate boxes and to make a plan of action for this week about the storage manager with &name . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

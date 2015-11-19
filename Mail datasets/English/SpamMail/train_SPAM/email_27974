@@ -1,0 +1,13 @@
+<message>
+<date> thu, 10 apr 2003 18:22:52 -0400 (edt) </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ returned mail : &name send message within &num day 
+</text_normal>
+</subject>
+<content-type> multipart/report; report-type=delivery-status; </content-type>
+<message_body> auto-submitted: auto-generated (failure) x-mailer: unknown (no version) to: &email </message_body>
+</message>

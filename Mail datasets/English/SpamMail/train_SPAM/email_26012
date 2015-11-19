@@ -1,0 +1,30 @@
+<message>
+<date> wed, 9 apr 2003 15:43:30 -0400 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ bank &num customer satisfaction survey 
+</text_normal>
+</subject>
+<content-type> text/plain; charset = "iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ dear &name &num customer , 
+^ in an effort to find ways to improve the service that &name one provides to its online customers , &name &num has asked the &name &name online to conduct a customer satisfaction study . 
+^ since you are a valued customer , we 'd like to invite you to participate in this study . 
+^ it should take about &num minutes to complete and your responses will be kept strictly confidential . 
+^ to participate , please proceed to : &website 
+^ why did i get this email ? 
+^ you have received this invitation from the &name &name online because your email address was selected at random from the bank &num online 's registry of members . 
+^ how can i unsubscribe ? 
+^ bank one respects your online time and privacy . 
+^ if you no longer wish to receive email requests to complete surveys from &name &num , please reply to : &email and write ' &name ' in the subject line . 
+^ survey comments or concerns ? 
+^ contact &name &name or &name &name at the &name &name : &website 
+^ this email was intended for 
+</text_normal>
+</message_body>
+</message>

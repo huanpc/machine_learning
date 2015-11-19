@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ shortest &name form here / takes &num secs 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 03:06:30 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

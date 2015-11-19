@@ -1,0 +1,21 @@
+<message>
+<date> sun, 18 may 2003 18:12:39 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name email 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ have you heard the latest story about &name beckham ? 
+^ he 's got the most ridiculous haircut , and so has his son &name ! 
+^ laters , 
+^ &char 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<date> mon, 07 apr 2003 22:38:24 -0500 </date>
+<from> optin </from>
+<subject>
+<text_normal> 
+
+^ tired of &name &name &name 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

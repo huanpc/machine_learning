@@ -1,0 +1,19 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &char &char &char &char &char &char &char &char &char 1.jpg 2.jpg 3.jpg 
+</text_normal>
+</subject>
+<from> com </from>
+<content-type> text/html </content-type>
+<date> fri, 11 apr 2003 13:23:04 -0500 (cdt) </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled-1 
+^ &name qkmn nlx1go0hzmro nlx1go0hzmro nlx1go0hzmro 
+</text_normal>
+</message_body>
+</message>

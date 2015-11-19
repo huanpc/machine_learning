@@ -1,0 +1,44 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ belated thanks ! 
+</text_normal>
+</subject>
+<date> wed, 5 mar 2003 14:33:06 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ dear &name and &name - 
+^ i feel dreadful that it has taken me so long to write , but i was enormously touched by your card and the wonderful box of biscuits that you left for me . 
+^ they are now in the organ loft at &name 's and consumed on a daily basis ! 
+^ i 'm so glad that the &name &name was all round such a great success . 
+^ that 's nearly all down to your hard work behind the scenes - a very demanding and thankless job for you both . 
+^ i was glad to be involved in the whole project , and i hope that it made a lot of people think . 
+^ i hope your term has been going well - enjoy the &name break if i do n't see you before . 
+^ best wishes , and thanks again . 
+^ &name 
+^ &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ dear &name and &name - 
+^ i feel dreadful that it has taken me so long to write , but i was enormously touched by your card and the wonderful box of biscuits that you left for me . 
+^ they are now in the organ loft at &name 's and consumed on a daily basis ! 
+^ i 'm so glad that the &name &name was all round such a great success . 
+^ that 's nearly all down to your hard work behind the scenes - a very demanding and thankless job for you both . 
+^ i was glad to be involved in the whole project , and i hope that it made a lot of people think . 
+^ i hope your term has been going well - enjoy the &name break if i do n't see you before . 
+^ best wishes , and thanks again . 
+^ &name 
+^ - ----------------------------------------------------------- --------------------------- &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+</message_body>
+</message>

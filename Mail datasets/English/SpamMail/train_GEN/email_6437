@@ -1,0 +1,16 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name in &name 
+</text_normal>
+</subject>
+<date> mon, 1 jul 2002 10:04:51 +0100 </date>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+</message_body>
+</message>

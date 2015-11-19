@@ -1,0 +1,24 @@
+<message>
+<date> mon, 2 dec 2002 14:16:00 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ christmas dinner ! ! ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name ! ! ! 
+^ the cuex christmas social is on thursday the 5th december , at the bun shop . 
+^ it 'll be about &num pounds a head , plus drinks . 
+^ come along and meet your fantastic committee ( ! ? ) and talk to lots of interesting people ! 
+^ if you want a seat , email &name ( &email ) asap to reserve your space . 
+^ &name to see l;ots of you there ! 
+^ from your cuex committee . 
+</text_normal>
+</message_body>
+</message>

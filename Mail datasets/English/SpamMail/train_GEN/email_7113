@@ -1,0 +1,30 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ testing 
+</text_normal>
+</subject>
+<date> sat, 1 feb 2003 19:31:47 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ are you getting these emails ? 
+^ you never seem to be online at the moment ! 
+^ mum 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ are you getting these emails ? 
+^ you never seem to be online at the moment ! 
+^ mum 
+</text_normal>
+</part>
+</message_body>
+</message>

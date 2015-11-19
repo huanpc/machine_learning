@@ -1,0 +1,14 @@
+<message>
+<date> sun,  6 apr 2003 15:59:13 -0800 (pdt) </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ this last name has $ &num in unclaimed funds - &name 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

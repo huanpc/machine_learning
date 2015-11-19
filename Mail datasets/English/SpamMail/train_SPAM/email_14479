@@ -1,0 +1,30 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name offers rebates up to $ &num on new color products 
+</text_normal>
+</subject>
+<date> wed, 2 apr 2003 19:07:42 -0500 </date>
+<from> com </from>
+<content-type> text/html;charset="utf-8" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ subject : this message was not sent unsolicited . 
+^ &website for opt in promotions . 
+^ full-spectrum savings on &name color products for state & local government customers . 
+^ &name makes it easy to stand out in a black-and-white world . 
+^ for a limited time , we 're offering big savings on &name 's signature color products . 
+^ you get fast , vibrant color , ease-of-use , and legendary &name reliability . 
+^ if you 're going to color it , color it now' offer ends april &num , &num . 
+^ hp is committed to respecting your privacy . 
+^ &name occasionally works with opt-in 3rd party subscriptions to share information about &name products and services with new audiences . 
+^ it is &name 's intent to work only with reputable opt-in partners and send messages only with your permission . 
+^ to opt out with the 3rd party sender , please follow the instructions provided . 
+^ note : this email was sent to you because you have been verified and agreed to opt in to receive promotional material . 
+^ if you wish to unsubscribe please click here , or simply reply to this email with ' &name ' in the subject . 
+</text_normal>
+</message_body>
+</message>

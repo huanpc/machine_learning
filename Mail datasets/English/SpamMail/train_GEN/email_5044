@@ -1,0 +1,19 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 28 oct 2002 12:43:01 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ i am afraid i will not be able to attend the meeting 
+^ &name &name 
+</text_normal>
+</message_body>
+</message>

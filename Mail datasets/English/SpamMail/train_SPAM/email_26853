@@ -1,0 +1,21 @@
+<message>
+<date> wed, 9 apr 2003 18:09:38 gmt </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ you 've won ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you 've won ! 
+^ click here to see what it is : &website 
+^ to unsubscribe , go send a blank message 
+</text_normal>
+</message_body>
+</message>

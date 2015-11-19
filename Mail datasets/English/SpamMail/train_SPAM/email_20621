@@ -1,0 +1,26 @@
+<message>
+<date> sun, 06 apr 2003 15:05:19 -0400 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ earn money for stuffing envelopes at &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ earn up to $ &num stuffing envelopes at &name 
+^ you assemble and the companies will do the selling ! 
+^ that 's right . ... companies provide all the materials and simple instructions ... just complete your work abd you 're making the extra money that you deserve . 
+^ the marketing group is proud to inform you of this unique opportunity to work from the comfort of your home , around your schedule , and earn as much as you like . 
+^ here is an example of your awesome potential earnings ... 
+^ &name &num envelopes . ... receive $ &num stuff &num envelopes . ... receive $ &num stuff &num envelopes . ... receive $ &num 
+^ click here to start making &name 
+^ you are receiving this email because you signed up as a member of &name . 
+^ if you wish to unsubscribe , please click the link below : mailto : &email 
+</text_normal>
+</message_body>
+</message>

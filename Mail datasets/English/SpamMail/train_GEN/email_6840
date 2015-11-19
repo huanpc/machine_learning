@@ -1,0 +1,41 @@
+<message>
+<date> mon, 10 feb 2003 13:13:27 -0000 </date>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : question 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ important ! 
+^ this message has been blind-carbon-copied to you . 
+^ do not reply-to-all or forward it without the author 's permission . 
+^ correction : my room 's &name &num , not &num &smiley and if you do know your way around &name ( it 's not really a maze ! ) , it 's 3rd floor ( &name ) , go straight ahead when you get to the top of the stairs , and it 's on the end of the corridor- there are only &num rooms on that corridor and mine has my name on it , so it should n't be too hard to find ... &smiley love &name 
+^ - -on &num &name &num &num : &num &num &name &name ( &email ) wrote : 
+</text_normal>
+<text_embedded>
+
+<text_embedded>
+
+<text_embedded> 
+
+^ the next one will be thursday &name - 6pm in &name if you 're interested . 
+</text_embedded>
+
+^ could you please let me know where exactly this will be &name as then i can tell the exec as well in case any of them are free at this time and would like to come . 
+</text_embedded>
+
+^ it 'll be room &num in &name ( &name 's room ) , but unless you know your way around the maze that is &name , that does n't help a great deal . 
+^ i can make sure there is someone at the p' lodge for anyone who 'd like to come along . 
+^ cheers 
+^ &name 
+^ &name &name &name , &name college , &name &name &name &num co-organiser 
+^ &name : # &num / &name : &email 
+</text_embedded>
+</message_body>
+</message>

@@ -1,0 +1,41 @@
+<message>
+<date> mon, 29 oct 2001 12:56:13 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : [ fwd : re : ( no subject ) ] 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ &name , could you send me the rough copy of what you 've done so far for the poster just so i can check it over for dates , times etc ? 
+^ thanx babe . 
+^ &name xx 
+^ &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ dear &name , 
+^ what is this for ? 
+^ do you want it to go on the poster ? 
+^ i assume it is godspell stuff . 
+^ hope you had a good weekend . 
+^ &name 
+^ " &name &name " wrote : 
+<text_embedded> 
+
+^ here you go ... 
+^ &name &name &name 
+^ st. &name 's college 
+^ &num &name &name &name dh1 &name 
+^ department of geological sciences university of &name 
+^ [ image ] 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

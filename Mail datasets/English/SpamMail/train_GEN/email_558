@@ -1,0 +1,43 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : truffles again 
+</text_normal>
+</subject>
+<date> thu, 27 sep 2001 20:19:14 +0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ hi babe , ca n't stya have to put the cats to bed . 
+^ thanks for the email , hope to see you soon , on sun if you want or mon if you want to come round . 
+^ &name atn 
+</text_normal>
+<text_embedded> 
+
+^ from : &name to : &email subject : truffles again &name : wed , &num &name &num &num : &num : &num &num 
+^ dear &name , 
+^ " &name are &num things " 
+^ - i prefer the chocolate kind , although i have little acquaintance with either . 
+^ " they scruff their snouts along the ground trying to find them , it 's called truffling . " 
+^ - you seem to be rather an authority on pigs . 
+^ " i will come visit you , whenever i get my first invite ! " 
+^ - you 're most welcome to come and see me anytime . 
+^ i will be very pleased to see you , and you do n't need an invite ! 
+^ but if you 're not busy on tuesday sometime then you have an invite . 
+^ only &num more days of work left . 
+^ marvellous ! 
+^ i wonder what i shall do this evening . 
+^ &name , perhaps i 'll begin getting my belongings together for going back to &name . 
+^ really looking forward to seeing you again . 
+^ love &name 
+</text_embedded>
+<text_normal> 
+
+^ get your free download of &name explorer at &website 
+</text_normal>
+</message_body>
+</message>

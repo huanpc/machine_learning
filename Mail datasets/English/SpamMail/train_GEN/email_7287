@@ -1,0 +1,25 @@
+<message>
+<from>
+</from>
+<to> com com </to>
+<subject>
+<text_normal> 
+
+^ vonet.exe 
+</text_normal>
+</subject>
+<date> tue, 4 mar 2003 11:10:17 -0800  </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ hopefully , you have not received a ton of these emails . 
+^ &website , but &name reports viruses contained in this archive . 
+^ &website ; &name reports the file is in use . 
+^ any suggestions ? 
+^ thanks , 
+^ &name 
+</text_normal>
+</message_body>
+</message>

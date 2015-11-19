@@ -1,0 +1,46 @@
+<message>
+<from> co.uk </from>
+<to> net org.uk org.uk org.uk com org.uk com.au com com org.uk co.uk </to>
+<subject>
+<text_normal> 
+
+^ viruses 
+</text_normal>
+</subject>
+<date> wed, 18 sep 2002 00:28:38 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ guys , 
+^ &name news i 'm afraid . 
+^ i have been a victim of goodness knows what types of viruses but also and rather annoyingly , i have been a victim of an email worm type thing . 
+^ basically , if you do n't know , a virus type thing has been sending itself to everyone in my address book and obviously i got it from someone who had me in their address book and so forth . 
+^ anyway , i 've been trying to fix this for about &num days or so and have finally now managed . 
+^ the answer is pretty simple - go get the most up to date antivirus program available . 
+^ so if you 've had problems with your computer and you were unprepared ( like me ) then i would recommend &name &name &num as it 's done the job for me . 
+^ alternatively you could try downloading a free evaluate version from the web , i tried but it ( not surprisingly ) did n't work ... 
+^ anyway , apologise again and i hope it was sifted out by your email providers . 
+^ otherwise , i hope you 're all well ! 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ guys , 
+^ &name news i 'm afraid . 
+^ i have been a victim of goodness knows what types of viruses but also and rather annoyingly , i have been a victim of an email worm type thing . 
+^ basically , if you do n't know , a virus type thing has been sending itself to everyone in my address book and obviously i got it from someone who had me in their address book and so forth . 
+^ anyway , i 've been trying to fix this for about &num days or so and have finally now managed . 
+^ the answer is pretty simple - go get the most up to date antivirus program available . 
+^ so if you 've had problems with your computer and you were unprepared ( like me ) then i would recommend &name &name &num as it 's done the job for me . 
+^ alternatively you could try downloading a free evaluate version from the web , i tried but it ( not surprisingly ) did n't work ... 
+^ anyway , apologise again and i hope it was sifted out by your email providers . 
+^ otherwise , i hope you 're all well ! 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

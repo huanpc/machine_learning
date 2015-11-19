@@ -1,0 +1,24 @@
+<message>
+<date> wed, 02 apr 2003 09:16:34 -0800 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * important message for &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you received this e-mail because you signed up at &num of &name 's websites or you signed up with a party that has contracted with &name and opted-in to register with &name . 
+^ to unsubscribe from the &name list , see instructions at the end of this mail . 
+^ the products and / or services advertised in this e-mail are the sole responsibility of the advertiser , and questions about this offer should be directed to the advertiser . 
+^ &website . 
+^ all rights reserved . 
+^ &name &name &name &name &name &name &name &name &name &name to unsubscribe from these mailings . 
+</text_normal>
+</message_body>
+</message>

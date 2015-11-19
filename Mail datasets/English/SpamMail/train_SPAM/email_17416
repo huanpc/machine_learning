@@ -1,0 +1,16 @@
+<message>
+<date> fri, 04 apr 2003 14:58:20 -0800 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * vacation free ! 
+^ &num day , &num &name hotel stay - &name , &name , and &name ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

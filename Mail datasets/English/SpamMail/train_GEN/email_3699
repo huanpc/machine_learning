@@ -1,0 +1,21 @@
+<message>
+<from> co.uk </from>
+<to> co.uk </to>
+<subject></subject>
+<date> mon, 14 oct 2002 20:06:43 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ gh 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ gh 
+</text_normal>
+</part>
+</message_body>
+</message>

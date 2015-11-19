@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<date> tue, 08 apr 2003 05:57:40 -0500 </date>
+<subject>
+<text_normal> 
+
+^ cello 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ have you been to the &name , &name , &name , &name , or on a cruise ? 
+^ now you can go to all these places for ( &num ) nights for just $ &num per traveler . ... 
+^ to be taken off from the database please send email to &email 
+</text_normal>
+</message_body>
+</message>

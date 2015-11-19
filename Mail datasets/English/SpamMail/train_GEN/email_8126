@@ -1,0 +1,23 @@
+<message>
+<subject>
+<text_normal> 
+
+^ start of year meeting for &name part &num students 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> tue, 25 sep 2001 17:28:34 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ would you like to come along to my start of year pep-talk for my part &num students ? 
+^ it will be in &name house room &num at &num p.m. on tuesday 2nd october . 
+^ you are most welcome to join &name , &name and &name to listen to me ramble about the ways you can make the most of part &num and what you should and should not do about your project . 
+^ &name &name 
+^ &name &name , &name &name &email university of &name &name laboratory &num &num &num 
+</text_normal>
+</message_body>
+</message>

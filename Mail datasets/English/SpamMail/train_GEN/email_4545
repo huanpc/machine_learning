@@ -1,0 +1,16 @@
+<message>
+<date> wed, 5 mar 2003 11:45:23 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ do you think the attached is a reasonable format to receive non-spam emails for the data set in ? 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,149 @@
+<message>
+<date> mon, 2 sep 2002 14:43:55 +0100 </date>
+<to> com </to>
+<from> org.uk </from>
+<subject>
+<text_normal> 
+
+^ re : request for lifetime &name e-mail address 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ thank you for asking for a bcsnet mail forwarding account . 
+^ please accept my apologies for any delay in getting the details to you . 
+^ your user id is : &name your password is : suey18 
+^ the instructions and subscriber terms follow : 
+^ bcsnet.lite user guide 
+^ vn3 - april &num 
+^ this guide provides the basic information you will need to use the bcsnet.lite services . 
+^ &num introduction . 
+^ bcsnet.lite is a simple but effective mail forwarding package . 
+^ if you already have an &name account , it provides you with a personalised &name email address and the ability to have any mail sent to this address forwarded to your &name account . 
+^ this service is provided for british informatics society limited by &name &name &name and it utilises &name &name resources . 
+^ your contract is with &name and the terms and conditions under which &name provide these services to you are set out in the accompanying subscriber terms . 
+^ please read these carefully . 
+^ &num * * * important * * * your account details 
+^ your user id has been given to you above . 
+^ it is also part of your current email address , e.g. &email 
+^ your password is also detailed above . 
+^ * * * please ensure that you keep these details securely - they are required 
+^ * * * before any changes can be made in the future - but should not be 
+^ * * * divulged to anyone . 
+^ &num creating an &name and mail re-direction ( forwarding ) 
+^ with the bcsnet.lite service , there are &num facilities : 
+^ * setting up an alias so that people can email you at a more convenient &website ) ; 
+^ * forwarding email to another &name address . 
+^ to take advantage of these facilities , simply send an email to 
+^ &email 
+^ using the following example method : 
+^ begin user ab12 ( enter * your * user id here instead of the example ab12 ) pass abcd12 ( enter * your * password here instead of the example ab12 ) &name youralias ( enter your chosen name - e.g. , fbloggs instead of youralias - here . 
+^ do not enter&email after it ) forward &email ( enter the full internet address to which you wish your mail to be delivered here ) &name 
+^ ( there is no need for a subject line in the mail . 
+^ anything before the " begin " line and anything after the " end " line will be ignored . 
+^ each " command " should be on a new line . 
+^ the variables ( e.g. , ab12 ) are given as examples and should be replaced by your own details - such as user id , password , etc. the text in ( brackets ) is for guidance only and should not be included . 
+^ to change forwarding from &num address to another , send another message with the new forwarding address on the " forward " line . 
+^ leave out the " alias " line except when initially requesting your alias or wishing to change your alias - otherwise the request will fail when the system finds that your existing alias is " already in use " . 
+^ to cancel forwarding , send a message as above , but insert your user id only , - e.g. ab12 - as the forwarding address . 
+^ ( do not enter @&website when cancelling forwarding ) 
+^ it is important that emails take the form as above as they are read by the server and not a human . 
+^ this email will be confirmed by return but will not be operational for up to &num hours . 
+^ ( changes are currently made at 10.00am ) 
+^ &num support 
+^ telephone help is not provided as part of the bcsnet.lite service . 
+^ all support for this service should initially be via the &name net administrator - &email alternatively , you can fax details of problems with the service on &num &num . 
+^ please note , however , that this is only for urgent situations , such as when a working service has ceased to work . 
+^ most 'setup " problems are due to an incorrect reading or typing of either the userid or password . 
+^ if you are getting failures at this stage , double check both - if it still fails , email netadmin with the details ( including a copy of the message you sent to the server and the response you received back . 
+^ please make sure that you make it clear in any email or fax that you are referring to the bcsnet lite / mailforwarding service . 
+^ requests for new bcsnet &name accounts should be made to " &email " 
+^ &name 
+^ &name mail forwarding account - subscriber terms version &num - september &num 
+^ these are the terms on which british informatics &name &name ( " &name " ) will provide the bcsnet email address and email forwarding service to you ( " bscnet " ) . 
+^ if you apply for a password to use bcsnet under clause &num below &name will understand that you accept the terms set out below and will proceed on that basis . 
+^ &num bcsnet consists of an account providing an email address of the form ( &email ) , where " your name " is an alpha-numeric string chosen by you ( &char " personal identifier " or " alias " ) . 
+^ you may use certain other characters which the demon network and systems and &name standards allow . 
+^ typically , these could include an underscore or a full stop . 
+^ the permitted length of the " personal identifier " string will also be subject to demon rules and &name standards . 
+^ subject to clause &num below your " personal identifier " will be made available to you unless it is reserved for use by another member of the british computer society , the british computer society itself , or other bcsnet system administrative needs . 
+^ &num bcsnet consists of : 
+^ &website ) . 
+^ &num &num the automated email redirection to an existing third party &name address of your choice . 
+^ &num unless otherwise agreed by &name , your right to use bcsnet is not transferable . 
+^ each bcsnet account can only be used by a single user . 
+^ a member will have only &num bcsnet address 
+^ &num you are responsible for and must provide and pay for any other &name subscription and / or telephone services necessary to take advantage of your bcsnet address . 
+^ the bcsnet mailforwarding service does not offer access to the &name or any other online service in itself . 
+^ to use your bcsnet email address , you will need to make arrangements with a third party &name or online service provider . 
+^ &num " personal identifier " restrictions : 
+^ &num &num &name / &name has neither the resources nor the legal obligation to screen the name which you request as your " personal identifier " in order to determine whether you are entitled to use it . 
+^ as a condition of your choosing your personal identifier in accordance with clause &num above and using the bcsnet service you warrant to &name that:- 
+^ &num &num you have the right to use your " personal identifier " and neither the registration nor use of your " personal identifier " will infringe the right of any third party in any jurisdiction including but not limited to a trade mark , service mark , trade name , or any similar or analogous right ; and 
+^ &num &num no third party is entitled to bring an action to prevent you from registering or using your " personal identifier " including , but not limited to bringing an action for passing off or unfair competition . 
+^ &num &num &name shall have the right to withdraw or to suspend the use of your " personal identifier " [ on &num days ] written notice if &name has reasonable grounds to believe that you may be in breach of any of the warranties stated in clause &num above , and &name may in its absolute discretion permit you to chose another " personal identifier " , in which case the terms set out in this &name shall apply to the replacement " personal identifier " . 
+^ &num when accepting a bcsnet email address and when using it via a third party service provider , you agree that you will : 
+^ &num &num comply with the british computer society 's code of conduct and with any instructions or directions issued by &name , the british computer society or demon from time to time concerning the use of bcsnet or access to the &name ; 
+^ &num &num conform to the protocols and standards defined in &name &name documents and any other similar protocols or standards published on the &name from time to time and adopted by the majority of &name users ; 
+^ &num &num indemnify and save harmless &name , the british computer society and demon against any liability resulting from your choice of " personal identifier " or from your use of bcsnet ; 
+^ &num &num keep any bcsnet password secure and confidential and take any steps necessary to ensure that it does not become known to others . 
+^ if your bcsnet password does become known to any other person , then you must immediately inform the bcsnet administrator , who will issue you with a new password ; 
+^ &num &num not state or imply that your commercial or other activities ( including any business operated by you or in which you are involved ) has the sponsorship or approval of the british computer society or &name . 
+^ ( this does not include any true statement that you are a member or fellow of the british computer society , or that you are a member of one of its specialist groups , or that you hold any qualification awarded by the british computer society ) . 
+^ prohibited uses of &name 
+^ &num you agree that you will : 
+^ &num &num not use bcsnet or any network connected to bcsnet for any unlawful purpose or in breach of english law or any other law applicable to the use of bcsnet or the &name . 
+^ these prohibited uses include , but are not limited to : 
+^ &num &num civil and criminal offences of copyright and trade mark infringement ; or 
+^ &num &num transmission or display or posting to a bulletin board of obscene , indecent , threatening or pornographic material ; or 
+^ &num &num commission of any criminal offence ( including deliberate transmission of computer viruses ) under the computer misuse act &num or similar legislation in any country ; or 
+^ &num &num any transmission or display or posting to a person / persons , newsgroup , website or bulletin board of any material which is of an offensive , abusive , or menacing character or which causes annoyance , inconvenience or needless anxiety to any other user of bcsnet or any other person ; or 
+^ &num &num transmission or display or posting to a bulletin board of any material in breach of the data protection act &num or similar legislation in any other country or of any material which is confidential or is a trade secret or which affects national security ; or 
+^ &num &num use of bcsnet in any manner which is a violation or infringement of the rights of any person , firm or company within the &name kingdom or elsewhere . 
+^ &num &num not use bcsnet or any &name connection offered by demon in any way that makes excessive use of network or computing resources of demon to the detriment of &name , the british computer society , &name , or other bcsnet users . 
+^ any use of bcsnet which make excessive demands on network or computing resources across bcsnet or the demon network is prohibited . 
+^ &num except as expressly permitted by law , you agree that you will not reproduce , redistribute , retransmit , unfairly extract , publish , transfer or commercially exploit any information , computer program or other item which you may receive through bcsnet . 
+^ term of agreement 
+^ &num the minimum term of this &name is &num year . 
+^ after that time , this &name continues from year to year unless terminated in accordance with this clause &num . 
+^ &num &num either &name or you can terminate this &name on &num months notice , to expire at the end of the first year of this &name or at any time afterwards . 
+^ &num &num &name may , at its sole option , either suspend your access to bcsnet under this &name until you give suitable undertakings or terminate this &name immediately if : 
+^ &num &num you breach any term of this &name ; or 
+^ &num &num any fee or charge remains unpaid by you for more than &num days after it is due ; or you cease to be a member of the british computer society ; or 
+^ &num &num being an individual you do anything or fail to do anything which would entitle a receiver to take possession of any of your assets or commit an available act of bankruptcy , or enter into an arrangement with your creditors ( or do any act which is preparatory to any of the above ) ; or 
+^ &num &num being a company : 
+^ &num &num you have a receiver or an administrative receiver or administrator appointed of the whole or any part of your undertaking or assets ( or do any act which is preparatory to any of the above ) ; or 
+^ &num &num an order is made or a resolution passed for your winding up or administration ( or any act is done which is preparatory to the same ) unless such order or resolution is part of a scheme of solvent reconstruction . 
+^ limitation of liability 
+^ &num you expressly agree that use of bcsnet is at your sole risk . 
+^ neither &name nor the british computer society or &name ( including any of their respective information providers , licensors , employees or agents ) warrant : 
+^ &num &num that your use of bcsnet will be uninterrupted or error-free ; 
+^ &num &num the accuracy , completeness or freedom from transmission or processing errors of any information or results , including &name party &name , obtained from the use of bcsnet . 
+^ &num bcsnet is made available on an " as is " basis without warranties of any kind , either express or implied , including but not limited to any implied terms or warranties of satisfactory quality , merchantability or fitness for a particular purpose , other than those terms or warranties which are implied by the laws applicable to this &name and which cannot be lawfully excluded , restricted or modified by it . 
+^ &num neither &name , the british computer society or demon nor anyone else involved in creating , producing or delivering bcsnet or any information made available to you via bcsnet will be liable for any direct , indirect , special or consequential loss arising out of : 
+^ &num &num the use of bcsnet ; or 
+^ &num &num your inability to use bcsnet ; or 
+^ &num &num out of any breach of any express or implied term of this &name to the extent that this liability can be lawfully excluded . 
+^ you expressly acknowledge that the provisions of this clause also apply to the contents of any messages sent to or from a third party . 
+^ &num &name will administer bcsnet through its bcsnet desk address : &name , british computer society , &num &name street , &name &name , telephone : &num , &name : &num &num email : &email 
+^ &num this &name and any rules or operating policy published by &name or the british computer society from time to time is the entire agreement between &name and you . 
+^ no provision or condition of any purchase order , voucher or email message sent by you can modify , add to , alter or exclude any provision of this &name . 
+^ if any provision of this &name is determined to be invalid or illegal then it will be severed from these terms and all other provisions of this &name will remain in full force and effect . 
+^ &num these terms are governed by and construed in accordance with the laws of &name and you submit to the jurisdiction of the english courts . 
+^ &num you can accept these bcsnet subscriber terms and apply for a bcsnet password , either by : 
+^ &num &num completing an application form available from the british computer society and sending it to &name at : &name , british computer society , &num &name street , &name &name &name ; or 
+^ &num &num sending an email message to the bcsnet desk on : &email ; or 
+^ &num &num using the bcsnet service . 
+^ &num any notices to be given under this &name can be given by letter , facsimile or email to : &name , at : &name , british computer society , &num &name street , &name &name &name ; &name : &num ( attention : &name ) ; email : &email 
+^ you , at the address nominated by you from time to time or , at &name 's option , at your personal email &name allocated to you for bcsnet by &name . 
+^ &num notices given by letter , facsimile or email will be deemed to be given and received as follows : 
+^ &num &num letter : &num days after the date of posting ; 
+^ &num &num facsimile : on receipt of a message , indicating uninterrupted transmission of the facsimile , by the facsimile machine transmitting the message ; 
+^ &num &num email : &num hours after transmission of the email message to the correct email address . 
+^ ends 
+^ &name &name head of is development , &name &name : &num &num ; fax : &num &num &website 
+</text_normal>
+</message_body>
+</message>

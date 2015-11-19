@@ -1,0 +1,18 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name and &name as never seen 
+</text_normal>
+</subject>
+<from> com </from>
+<date> sun, 6 apr 2003 05:22 -0500 </date>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &char src' &website ' ) 
+</text_normal>
+</message_body>
+</message>

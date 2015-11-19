@@ -1,0 +1,26 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<date> tue, 18 mar 2003 16:02:38 +0000 </date>
+<subject>
+<text_normal> 
+
+^ re : reminder - &name college teaching and &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ thanks for the info on &name . 
+^ dr &name 's email is &email 
+^ &name &name &name &name 
+^ this email is confidential and privileged . 
+^ if you are not the intended recipient please accept our apologies ; please do not disclose , copy , or distribute information in this email nor take any action in reliance on its contents : to do so is strictly prohibited and may be unlawful . 
+^ please inform us that this message has gone astray before deleting it . 
+^ thank you for your co-operation . 
+^ &name college , &name , &name 3ap 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,38 @@
+<message>
+<date> tue, 14 jan 2003 16:11:14 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : a new chapel clerking term ! 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , there 's an impressive-sounding organ recital by &name &name at kings 
+^ - 6.30pm on saturday - i 've got the program and i 'll try to get it to you ... 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ &name all ! 
+^ &name new year ! 
+^ i hope you had an enjoyable and restful christmas . 
+^ many thanks for all your hard work with the chapel last term , it really is very much appreciated ! 
+^ i have prepared a blank chapel clerking rota for this term , which i have placed in my pigeonhole ( the chapel looks rather out of bounds at the moment with the heating work which is going on ! ) . 
+^ it would be great if you could have a look at this when you are passing , and sign down if you have a preference as to which services you would like to clerk for . 
+^ if everyone signs down for about &num of each type of service to begin with , this should more or less cover all of them . 
+^ again , with a bit of luck , this will mean less service-swapping later on in term ! 
+^ also - what better way to celebrate the start of a new term and year than a chapel clerks " formal hall ? 
+^ if you can come along on sunday evening , then book in at the &name machine . 
+^ thanks again ! 
+^ see you soon , 
+^ &name 
+^ &name &name chapel &name &name , &name college &name , &name mailto : &email 
+</text_embedded>
+</message_body>
+</message>

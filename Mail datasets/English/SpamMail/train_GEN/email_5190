@@ -1,0 +1,22 @@
+<message>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ re : travel 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 02 jun 2003 15:49:48 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ flight confirmation is fairly bogus these days . 
+^ you used to have to phone a human and tell them you were really going , but all the airlines i know dropped that &num years ago . 
+^ there 's an automated flight arrivals / departures info service if you want to check the times ( cute because it does speech recognition ) but i 'm afraid i do n't have the number . 
+^ times are &char unlikely to have changed anyway . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

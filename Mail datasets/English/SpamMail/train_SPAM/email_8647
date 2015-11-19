@@ -1,0 +1,38 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ confidential &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> sat, 1 mar 2003 19:48:25 </date>
+<to> org </to>
+<message_body>
+<text_embedded> 
+
+^ from the desk of : chief &name &name . 
+^ &name &name ( &name ) &name &name , &name department of minerals and energy , &name , south africa . 
+</text_embedded>
+<text_normal> 
+
+^ sir , it is my great pleasure to write you this letter on behalf of my colleagues.your information was given to me by a member of the south african &name &name council ( &name ) who was with the government delegation on a trip to your country for a bilateral conference talk to encourage foreign investors . 
+^ i have decided to seek a confidential co-operation with you in the execution of the deal hereunder for the benefit of all parties and hope you will keep it confidential because of the nature of this business . 
+^ within the department of minerals & energy where i work as a director of audit and project implementation and with the co-operation of &num other top officials , we have in our possession an overdue payment in us funds . 
+^ the said funds represent certain percentage of the total contract value executed on behalf of my department by a foreign contracting firm which we the officials over-invoiced to the amount of us $ &num , &num , &num ( &num &num million &num hundred thousand us dollars ) . 
+^ though the actual contract cost has been paid to the original contractor , leaving the excess balance unclaimed . 
+^ since the present elected government is determined to pay foreign contractors all debts owed , so as to maintain good relationship with foreign governments and non- government agencies , we included our bills for approvals with the department of finance and the &name bank of &name &name ( &name ) . 
+^ we are seeking your assistance to front as beneficiary of the unclaimed funds , since we are not allowed to operate foreign accounts . 
+^ details and change of beneficiary information upon application for claim to reflect payment and approvals will be secured on behalf of you / your company . 
+^ i have the authority of my partners involved to propose that should you be willing to assist us in this transaction your share as compensation will be &num &num percent ( &num ) , while my colleagues and i receive &num &num percent ( &num ) and the balance of &num percent ( &num ) for taxation and miscellaneous expenses incurred . 
+^ the business is completely safe and secure , provided you treat it with utmost confidentiality . 
+^ it does not matter whether you / your company does contract projects as a transfer of powers will be secured in favour of you / your company . 
+^ also , your area of specialization is not a hindrance to the successful execution of this transaction . 
+^ i have reposed my confidence in you and hope that you will not disappoint us . 
+^ kindly notify me via email , for further details upon your acceptance of this proposal . 
+^ thanks for your co-operation . 
+^ regards , chief &name &name . 
+</text_normal>
+</message_body>
+</message>

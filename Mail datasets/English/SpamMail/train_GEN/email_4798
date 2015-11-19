@@ -1,0 +1,37 @@
+<message>
+<date> tue, 22 apr 2003 14:49:22 -0400 (edt) </date>
+<from> edu </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ re : guests books scare me 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ tomorrow night is the eighth day of &name so i wo n't be breaking bread ( do you do &num days ? ) 
+^ i should warn you that i will be quite drained by tomorrow night as these exams are taking a lot out of me . 
+^ &name , back to studying ... first day of exams went ok today . 
+^ &name 
+^ on &name , &num &name &num &email wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi hi , 
+^ i just quickly signed on email from &name 's comp last night so i did n't get your email till today . 
+^ but &name , i do n't think i would want to come back to &name with you on the &num because &char leave on the 28th . 
+^ it 's been finalized . 
+^ my ticket is for &name april 28th ! ! ! 
+^ but , i 'm thinking that i will come tomorrow night and break the &name with you . 
+^ that 's still ok , right ? 
+^ &name does n't need me on the 24th . 
+^ i told her today that i would see and maybe just come for part of her auditions . 
+^ i 've gotta run cause i 'm late but i just wanted to give you a heads up . 
+^ alrighties i 've give you a hollar tonight and sort stuff out . 
+^ &name 
+</text_embedded>
+</message_body>
+</message>

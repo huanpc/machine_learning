@@ -1,0 +1,23 @@
+<message>
+<date> wed, 9 apr 2003 07:39:13 gmt </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ receive $ &num , &num daily returning phone calls . 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ to : would you like to receive $ &num , &num to $ &num , &num cash every week starting immediately ? 
+^ all you have to do is return calls from home - to people who have asked to be called -no selling . 
+^ please call &num 
+^ i will personally call you back , and take no more than &num minutes of your time . 
+^ to be un-subscribed from future mailings , send to &email . 
+^ do not use the toll free number , or you will not be taken off . 
+</text_normal>
+</message_body>
+</message>

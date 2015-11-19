@@ -1,0 +1,20 @@
+<message>
+<from> co.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ joke 
+</text_normal>
+</subject>
+<date> tue, 21 jan 2003 08:32:18 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ did you know there are &num types of people in the country - those who understand the binary system and those who do n't? 
+</text_normal>
+</part>
+</message_body>
+</message>

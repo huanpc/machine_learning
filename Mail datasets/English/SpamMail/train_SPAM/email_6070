@@ -1,0 +1,19 @@
+<message>
+<date> thu, 27 mar 2003 02:58:49 -0500 (est) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name high speed dialup $ &num 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &website $ &num limited time &name &name ! 
+^ to unsubscribe from this mailing list : click 
+</text_normal>
+</message_body>
+</message>

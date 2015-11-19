@@ -1,0 +1,15 @@
+<message>
+<date> thu, 10 apr 2003 13:56:43 -0600 (mdt) </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name : &name has failed 
+</text_normal>
+</subject>
+<content-type> multipart/report; report-type=delivery-status </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

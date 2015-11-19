@@ -1,0 +1,32 @@
+<message>
+<from> co.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> sat, 15 mar 2003 11:00:10 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ make it &name i reckon . 
+^ no copyright . 
+^ thanks , 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ make it &name i reckon . 
+^ no copyright . 
+^ thanks , 
+^ &name 
+</text_normal>
+</part>
+</message_body>
+</message>

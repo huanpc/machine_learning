@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ open me ! 
+^ &char &char rbjv 
+</text_normal>
+</subject>
+<date> sun, 30 mar 03 08:42:03 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

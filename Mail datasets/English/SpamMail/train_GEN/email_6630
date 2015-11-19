@@ -1,0 +1,18 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ my 22nd birthday party march &num friday 
+</text_normal>
+</subject>
+<date> mon, 24 feb 2003 23:12:52 -0000 </date>
+<content-type> multipart/related; type="multipart/alternative" </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="image/jpeg">
+</part>
+</message_body>
+</message>

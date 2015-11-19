@@ -1,0 +1,26 @@
+<message>
+<date> tue, 19 nov 2002 16:51:21 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name exists 
+</text_normal>
+</subject>
+<content-type> multipart/mixed </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi 
+^ this is a very rough first draught ( however you spell that ) . 
+^ any suggestions for improved clarity , spelling etc , as well as any gibberish or nonsense pointed out would be good . 
+^ i will be working some more on this , as i have n't been very ordered or organised in my mind on this issue . 
+^ &name &name &name 
+</text_normal>
+</part>
+<part num="2" type="application/msword">
+</part>
+</message_body>
+</message>

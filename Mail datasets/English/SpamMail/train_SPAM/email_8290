@@ -1,0 +1,22 @@
+<message>
+<from> new </from>
+<subject>
+<text_normal> 
+
+^ ? 
+^ &name ? 
+^ &char ? 
+^ 1tc5+snmzvhn+lu2063e+rztw8s ? 
+</text_normal>
+</subject>
+<content-type> text/html;charset="gb2312" </content-type>
+<date> sun, 30 mar 2003 10:19:26 +0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &email 
+^ 5cm 
+</text_normal>
+</message_body>
+</message>

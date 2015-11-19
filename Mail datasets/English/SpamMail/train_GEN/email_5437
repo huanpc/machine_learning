@@ -1,0 +1,22 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ reminder : talk tonight 
+</text_normal>
+</subject>
+<date> 20 may 2003 13:52:53 +0100 </date>
+<content-type> text/plain; format=flowed; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ dear all , 
+^ a reminder that all are welcome to tonight 's talk and guided meditation given by reverend &name , a &name &name monk from the &name buddhist &name . 
+^ this will begin at 6pm in the &name room , &name college ( above the bar ) 
+^ for more announcements and information about the cu buddhist society and its activities , visit our web-site at &website / if you 'd like to be removed from this list , please e-mail us at &email . 
+^ thank you ! 
+</text_normal>
+</message_body>
+</message>

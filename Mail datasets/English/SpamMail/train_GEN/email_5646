@@ -1,0 +1,26 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name , &name and research students - &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<date> tue, 26 nov 2002 17:30:09 -0000 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk </to>
+<message_body>
+<text_normal> 
+
+^ dear &name , &name and research students , 
+^ the diploma , &name and &name students were given exemption from attendance at the safety course held at the beginning of term . 
+^ some first year research students arrived too late for the course . 
+^ if you fall into any of these categories please arrange to collect the special safety pack from &name &name in &name administration in &name from 
+^ 09: &num tomorrow onwards . 
+^ the safety officers will be trying to arrange &name safety courses later in the year that may be particularly useful to research students . 
+^ thanks , &name 
+^ &org student administration &name &name building &name &name &name &name avenue &name &name &name , &name &name &name telephone : &num ( &num ) &num &name : &num ( &num ) &num email : &email 
+^ &website / 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,28 @@
+<message>
+<date> sun, 6 apr 2003 06:42:56 -0500 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * &name &name - finance your future today ! 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ 
+^ * * subscriber details below. * * 
+^ need a home loan ? 
+^ apply in &num seconds . 
+^ &website 
+^ this has been sent by &name &name . 
+^ you were subscribed to this free service through one of our partner sites . 
+^ if you believe this email has reached you in error or if you no longer wish to receive these updates , please , * * do not * * reply to this e-mail . 
+^ instead , follow the link below to unsubscribe . 
+^ &name ( or paste ) this link to unsubscribe : ( img 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,33 @@
+<message>
+<to> com edu ac.uk </to>
+<subject>
+<text_normal> 
+
+^ important : &name for &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> wed, 25 apr 2001 18:08:48 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ &name form has to be done - i believe we 're all supposed to sign really - &name , would you sign it please and fax to me on &num &num &num - you might also bung a copy in the mail to me at 
+^ university of &name &name &name , &name &name &name &name &name &name &name &name &name 
+^ i 'll then sign and forward to &name 
+^ as i remember it , &name is going to look after doing the final printing and sending - as far as i know , she has a version that i 'm happy with , but &name &name might have some comments so we may as well wait ( i suppose &name might have comments too ! ) 
+^ please let me know if i 'm supposed to be doing anything else wrt this paper , 
+^ cheers , 
+^ &name 
+^ - ------ forwarded message 
+^ return-path : ( &email ) &name : &email &name : wed , &num &name &num &num : &num : &num &num &website ] ) &website # &num ) id 14srmy-000122-00 for &email ; wed , &num &name &num &num : &num : &num &num &website-sb.de ( localhost [ &num ] ) &website-sb.de ( &num / 8.8.&smiley with &name id &name for ( &email ) ; wed , &num &name &num &num : &num : &num &num ( &name &name ) organization : &name &name &name , &char &num &name &website ] ) &website-sb.de ( &num / 8.8.&smiley with &name id &name ; wed , &num &name &num &num : &num : &num &num ( &name &name ) &name : ( &email ) to : &email subject : &name &num : &name form now online and slight changes in the format date : wed , &num &name &num &num : &num : &num &num from : &name &num submission account ( &email ) 
+^ dear all , 
+^ the copyright form is now available at &website do not forget to send a properly filled in and signed form with your paper ! 
+^ please note also that the formatting instructions / styles were changed slightly to be as compatible and general as possible . 
+^ if you downloaded the style files before monday , 23rd , please get the new version . 
+^ sorry for any inconveniences this may cause . 
+^ regards , &name and &name 
+^ - ------ end of forwarded message 
+</text_normal>
+</message_body>
+</message>

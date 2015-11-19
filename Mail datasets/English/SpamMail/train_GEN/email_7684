@@ -1,0 +1,17 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ productreturn # &num 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ the merchandise i recently received from you is not really what i had in mind . 
+^ am i stuck with it ? 
+</text_normal>
+</message_body>
+</message>

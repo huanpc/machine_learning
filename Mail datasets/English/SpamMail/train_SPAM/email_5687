@@ -1,0 +1,20 @@
+<message>
+<date> thu, 27 mar 2003 00:56:05 -0800 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name , available for the first time 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) ( &website ) 
+^ to unsubscribe from this mailing list : click or send a blank message 
+^ ( &website ) 
+</text_normal>
+</message_body>
+</message>

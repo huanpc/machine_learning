@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : thursday may 1st 
+</text_normal>
+</subject>
+<date> tue, 29 apr 2003 17:50:00 +0100 </date>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<message_body>
+<text_normal> 
+
+^ i know that the &name now have a new " fasttrack " service , but even so i doubt that this timetable is realistic . 
+^ i doubt that i will be there before &name and i doubt that they can manage a single main course in &num mins . 
+^ leaving at 2.15pm is just about feasible . 
+^ &name 
+</text_normal>
+<text_embedded> 
+
+^ dear &name and &name , 
+^ as requested , i have booked a table for &num at the &name restaurant for &num : &num . 
+^ i will pick &name and prof. &name up from the lab at &num : &num if &name would n't mind meeting you there . 
+^ a taxi will collect you at &num : &num from the university &name . 
+^ the table is booked under &name 's name . 
+^ thanks , &name 
+^ &name &name &name &name &name laboratory student administration &name &name building &name &name avenue &name &name &name 
+^ &name : &num ( &num ) &num &num &num &name : &num ( &num ) &num &num email : &email 
+</text_embedded>
+</message_body>
+</message>

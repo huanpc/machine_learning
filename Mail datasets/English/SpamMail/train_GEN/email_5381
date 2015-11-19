@@ -1,0 +1,37 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ lecture notes 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 23:15:15 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , 
+^ enjoying the holidays ? 
+^ thanks for popping the lecture notes into my pigeon hole . 
+^ anyway , you would n't happen to have a spare speech &num lecture &num notes would you ? 
+^ regards , 
+^ - &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ clean clean documentemail microsoftinternetexplorer4 
+^ hi &name , 
+^ enjoying the holidays ? 
+^ thanks for popping the lecture notes into my pigeon hole . 
+^ anyway , you wouldn 't happen to have a spare speech &num lecture &num notes would you ? 
+^ regards , 
+^ - 3dvarian3d- 
+</text_normal>
+</part>
+</message_body>
+</message>

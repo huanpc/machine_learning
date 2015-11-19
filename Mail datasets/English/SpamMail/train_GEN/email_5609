@@ -1,0 +1,26 @@
+<message>
+<date> wed, 20 nov 2002 13:03:30 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ talk by &name &name 21st nov 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i thought some of you might be interested in going to this ... 
+^ as part of the linguistics society , &name &name is doing a talk on thursday ( tomorrow ) entitled : 
+^ the semi-generative lexicon : towards a formalism of semi-productivity . 
+^ the talk will take place at 5pm ( tea and biscuits from &num : 30pm ) in the &name library at &name college . 
+^ for more info , see &website there does n't appear to be an abstract , though . 
+^ i 'll be going . 
+^ i do n't suppose it 's important for our course but i thought it might be interesting . 
+^ cheers , &name 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,26 @@
+<message>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> wed, 23 may 2001 14:55:25 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ yes , &name 's at 6pm . 
+^ sorry if i was being silly about the virus thing . 
+^ okay , i shall admit defeat . 
+^ i think i already have anyway . 
+^ shame &name 's not going to let you use &name this evening . 
+^ if you really were wanting to revise then you 're more than welcome to use my computer . 
+^ see you later , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<from> uni </from>
+<subject>
+<text_normal> 
+
+^ help &name disease with &name calcium 
+</text_normal>
+</subject>
+<date> mon, 31 mar 2003 20:25:04 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

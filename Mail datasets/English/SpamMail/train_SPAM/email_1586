@@ -1,0 +1,28 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &num &name ... 
+</text_normal>
+</subject>
+<content-type> text/html; charset="ks_c_5601-1987" </content-type>
+<date> mon, 24 mar 2003 22:17:27 +0900 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &char &pound; &num [ ] . 
+^ &char e-mail , . 
+^ &pound; ! 
+^ - - 
+^ &num - ldap . 
+^ &pound; &num 
+^ &num cgi 
+^ ) click ! 
+^ - ------------------------ ------------------------------------------------------------------------------------- &char . 
+^ &char . 
+^ &char if you dont want this type of information or e-mail , please click the refuse button . 
+</text_normal>
+</message_body>
+</message>

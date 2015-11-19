@@ -1,0 +1,34 @@
+<message>
+<date> tue, 27 nov 2001 11:53:58 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ this seems like useful input . 
+^ &name the meeting goes well . 
+^ &name &name ( &name contact details ) &name &name &name &name : institute of public health ( &num ) &num university &name &name &name : &name &name ( &num ) &num &name &name 2sr 
+^ new e-mail &email 
+^ on &name , &num &name &num , &name &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ brilliant ! 
+^ thanks dad . 
+^ hopefully i 'm meeting with a guy called &name &name today to talk about graphic design . 
+^ he 's a cranmerite ( i 'm finding them very useful and interesting this year ... ) and used to work for the biggest &name companies . 
+^ should be interesting . 
+^ &name &name &name &name 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+</text_embedded>
+</message_body>
+</message>

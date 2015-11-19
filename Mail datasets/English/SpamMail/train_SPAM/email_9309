@@ -1,0 +1,22 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ &name &name ! ! ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ untitled document 
+^ lieber 
+^ sie &name eine &name bekommen . 
+^ um diese &name abholen zu k&ouml;nnen , 
+^ best&auml;tige bitte folgenden link : 
+^ &website 
+</text_normal>
+</message_body>
+</message>

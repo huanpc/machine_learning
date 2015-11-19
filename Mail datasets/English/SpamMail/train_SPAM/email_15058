@@ -1,0 +1,14 @@
+<message>
+<date> wed, 02 apr 2003 22:53:11 -0800 </date>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ want to calculate your &name ? 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,24 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ urgent ! ! ! 
+</text_normal>
+</subject>
+<date> mon, 24 jun 2002 10:46:01 +0100 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ we desperately need a couple of volunteers for a visit which is taking place today at &name college between 11am - 4.30pm . 
+^ please contact me &name if you are interested / available . 
+^ we also need some helpers for a geema visit tomorrow which will be in &name &name lecture room &num from 10.30am - 3.30pm . 
+^ please contact either me or manish ( &email ) if you can help . 
+^ thanks a lot , &name 
+^ &name &name &name &name &name &name &name &name lodge , tennis &name road , &name &name &name &name : &num &num 
+</text_normal>
+</message_body>
+</message>

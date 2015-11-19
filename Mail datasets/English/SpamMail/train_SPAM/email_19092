@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ grow your &name &num inches in &num days ! 
+</text_normal>
+</subject>
+<date> fri, 04 apr 2003 16:00:07 +0900 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,14 @@
+<message>
+<date> mon, 7 apr 2003 17:43:19 -0400 (edt) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name : &name : &name / av-alert newsletter from &name &name version &num april &num , &num - new signatures released 
+</text_normal>
+</subject>
+<content-type> multipart/related </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

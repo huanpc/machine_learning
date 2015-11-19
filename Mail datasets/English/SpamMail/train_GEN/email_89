@@ -1,0 +1,48 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ animal of the week 
+</text_normal>
+</subject>
+<date> mon, 28 oct 2002 14:26:29 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name award for last week goes to &name &name of &name for his excellent performance at the &name relays on sunday . 
+^ not only did he get the fastest time of the day ( well - joint fastest with some other part-timer ) he also led his team to a highly convincing victory . 
+^ mention must also go to everyone who ran at the wind-swept race yesterday - good work . 
+^ sorry if i 've blantantly missed any other animalistic performances . . . . ... 
+^ see you around 
+^ &name 
+^ &name &name , &name college , &name , &name &name . 
+^ new mobile number : &num &num 
+^ &name address : 
+^ &name &name , moor lane , &name , &name , &name &name , &name &name . 
+^ mobile : &num &num &name &name : ( &num ) &num 
+^ " you can take a man out of &name but you can never take the &name out of a man " . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name award for last week goes to &name &name of &name for his excellent performance at the &name relays on sunday . 
+^ not only did he get the fastest time of the day ( well - joint fastest with some other part-timer ) he also led his team to a highly convincing victory . 
+^ mention must also go to everyone who ran at the wind-swept race yesterday - good work . 
+^ sorry if i 've blantantly missed any other animalistic performances . . . . ... 
+^ see you around 
+^ &name 
+^ &name &name , &name college , &name , &name &name . 
+^ new mobile number : &num &num 
+^ &name address : 
+^ &name &name , moor lane , &name , &name , &name &name , &name &name . 
+^ mobile : &num &num &name &name : ( &num ) &num 
+^ " you can take a man out of &name but you can never take the &name out of a man " . 
+</text_normal>
+</part>
+</message_body>
+</message>

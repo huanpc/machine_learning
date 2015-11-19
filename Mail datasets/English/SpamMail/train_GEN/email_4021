@@ -1,0 +1,66 @@
+<message>
+<from> net </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name ! 
+</text_normal>
+</subject>
+<date> thu, 11 jul 2002 01:02:23 -0400 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ &name &name 
+^ the following message wa sent to you by &name last week . ... at least she thought she sent it to you . ... but instead of simply clicking on the reply button on the computer , she typed in your address . ... incorrectly . ... and the e-mail was returned - so i am resending it . . ... about a week behind it 's original intended timing . . . ... 
+^ &name all is well 
+^ cheers 
+^ &name &name &name ! 
+^ we 've just been going through a real heat wave here- felt much better this morning when i walked &name , thank goodness ! 
+^ hope you and &name have a super trip together- know you 'll have lots of great adventures , put your camera to good use and meet all sorts of interesting people- wish i could tag along ! ! ! 
+^ good luck with the job search- extra prayers are on their way ! 
+^ we took &name down to &name &name , near &name last night for &name church leadership &name &name . 
+^ it 's &num weeks long . 
+^ know it will be a great experience for her though she found it extremely difficult last night . 
+^ she has not been a camping person and she does n't know any of the other kids although she does know a couple of the leaders well ( they 're from our church and are wonderful caring folk ) . 
+^ they 'll be really busy as they spend time at &num different united church camps , go on a &num day canoe trip to &name park and come to &name to do a youth service at our church . 
+^ no time to be homesick , right ! ? ! ? 
+^ i 'm really proud of her for making the stretch- i could never have done at her age- though wish i could ! 
+^ &name and i are off to the cottage tomorrow for a week . 
+^ he 's taking a week long ( &num / &num days ) &name &name &name course which will be lots of fun . 
+^ lots of painting and odd jobs to be done at the cottage but hope i 'll get in some lazy reading time and some creative card making time . 
+^ it 's always a treat to be there ! ! ! ! ! ! ! 
+^ &name hugs of love to all your family ! 
+^ &name
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name &name 
+^ the following message wa sent to you by &name last week . ... at least she thought she sent it to you . ... but instead of simply clicking on the reply button on the computer , she typed in your address . ... incorrectly . ... and the e-mail was returned - so i am resending it . . ... about a week behind it 's original intended timing . . . ... 
+^ &name all is well 
+^ cheers 
+^ &name &name &name ! 
+^ we 've just been going through a real heat wave here- felt much better this morning when i walked &name , thank goodness ! 
+^ hope you and &name have a super trip together- know you 'll have lots of great adventures , put your camera to good use and meet all sorts of interesting people- wish i could tag along ! ! ! 
+^ good luck with the job search- extra prayers are on their way ! 
+^ we took &name down to &name &name , near &name last night for &name church leadership &name &name . 
+^ it 's &num weeks long . 
+^ know it will be a great experience for her though she found it extremely difficult last night . 
+^ she has not been a camping person and she does n't know any of the other kids although she does know a couple of the leaders well ( they 're from our church and are wonderful caring folk ) . 
+^ they 'll be really busy as they spend time at &num different united church camps , go on a &num day canoe trip to &name park and come to &name to do a youth service at our church . 
+^ no time to be homesick , right ! ? ! ? 
+^ i 'm really proud of her for making the stretch- i could never have done at her age- though wish i could ! 
+^ &name and i are off to the cottage tomorrow for a week . 
+^ he 's taking a week long ( &num / &num days ) &name &name &name course which will be lots of fun . 
+^ lots of painting and odd jobs to be done at the cottage but hope i 'll get in some lazy reading time and some creative card making time . 
+^ it 's always a treat to be there ! ! ! ! ! ! ! 
+^ &name hugs of love to all your family ! 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,28 @@
+<message>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name plans ! 
+</text_normal>
+</subject>
+<date> sat, 15 feb 2003 00:18:47 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name &name all is well . 
+^ i heard from &name something along the lines of you wanting to throw a party because you 're no longer going out for a curry ? 
+^ i got the impression from &name on thurs at the prayer meeting that the curry was pretty much sorted ? 
+^ anyway , that aside , &num things ... 
+^ &num ) will someone be at &name to give an update please ? 
+^ ( at 4pm ) &num ) can you let me know what needs to be said at &name ( i.e. ticket sales stuff ... ) on that note , how are we doing ? 
+^ thanks very much , looking forward to it ... 
+^ love &name 
+^ &name &name 
+^ &name college &name &name &name 
+^ room telephone : &num &num mobile telephone : &num &num e-mail : &email visit me : room &name , &name court 
+</text_normal>
+</message_body>
+</message>

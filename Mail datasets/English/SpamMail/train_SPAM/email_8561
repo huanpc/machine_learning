@@ -1,0 +1,28 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ re : &name delivered 
+</text_normal>
+</subject>
+<date> thu, 10 jan 2002 08:42:12 -0800 </date>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ r 
+^ &char 
+^ &website &num &name &name &name 
+^ no prior prescription required no fees private , &name , &name &name &char &char &char &char &char &char &char &char 
+^ &char &char &char &char 
+^ &name : &num 
+^ drug : &name , diet pills , &name , &name 
+^ &name : as needed 
+^ fill your prescriptions here 
+^ &name 's signature : licensed doctor 
+^ unlist now . 
+</text_normal>
+</message_body>
+</message>

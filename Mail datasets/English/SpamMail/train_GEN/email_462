@@ -1,0 +1,23 @@
+<message>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> mon, 07 may 2001 11:00:09 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ dear &name ( & &name ) , 
+^ just a short e-mail to ask if you wanted me to bring the apples ( hard , very hard - you know , they do n't seem to like people who bash apples together in &name , funny that ... ) , biscuits and crisps for the picnic lunch ? 
+^ please let me know either way by texting &name or telephoning the flat . 
+^ ( i wo n't be online again " till later . ) thanks awfully . 
+^ &name 
+^ &name i shall endeavor to construct an appropriate top &num sometime this afternoon &name 
+</text_normal>
+</message_body>
+</message>

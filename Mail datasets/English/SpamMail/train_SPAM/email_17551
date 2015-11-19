@@ -1,0 +1,51 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * from &char $ &num : &name deals 
+</text_normal>
+</subject>
+<date> thu, 3 apr 2003 23:45:25 -0500 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ spring has arrived in &name ... the trees and flowers are blooming , the birds are singing , and the sun is shining ! 
+^ it 's a perfect time to enjoy the many wonders of this beautiful city , from the natural ( &name park , the &name &name and the &name &name mountains , to name a few ) to the man-made ( &name , elegant architecture , top-notch restaurants , and so much more ) . 
+^ our &name store is the first stop on the road to your perfect trip -- whether you want an air / hotel vacation package , or you just want a hotel room for a weekend getaway . 
+^ we 've even got great rental car deals if you do n't want to put the extra kilometres on your car . 
+^ plan your trip today , and celebrate the season ! 
+^ &name store : &website 
+^ deals 
+^ save up to &num on &name &name hotels before april &num , &num . 
+^ &website rr-3183 
+^ save on hotels across &name . 
+^ &name prices from &char $ &num / night &website 
+^ see the theme parks in &name &name , packages from &char $ &num / pp &website 
+^ announcement air &name announced april &num , &num that it has filed for protection under the &name ' &name arrangement act ( &name ) in order to facilitate its operational , commercial , financial and corporate restructuring . 
+^ though the company has filed for creditor protection , it will continue normal operations while it tries to reorganize its finances . 
+^ for more information click here : &website 
+^ thank you for travelling with &name . 
+^ &name travel &name now we 're getting somewhere . 
+^ ( &name ) &name 
+^ all prices are quoted in canadian dollars ; prices are subject to change without notice . 
+^ questions ? 
+^ visit the &name &name support &name . 
+^ &website 
+^ unsubscribe about this mailing : you are receiving this e-mail because you provided your consent to receive promotional information from &name . 
+^ if you do not wish to receive any further travel &name e-mails from us , please click here : &website ng4105&rfrr-3183 
+^ or simply reply to this mail with ' unsubscribe ' in the subject line . 
+^ if you 've experienced any difficulty in being removed from this list , click here for personalized help : &website 
+^ if you 'd like to give us feedback , please click here . 
+^ https://&website 
+^ ( &char ) &num expedia , inc. all rights reserved . 
+^ this mail was sent to : mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num 
+</text_normal>
+</message_body>
+</message>

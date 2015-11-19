@@ -1,0 +1,31 @@
+<message>
+<from> hist.no </from>
+<to> org </to>
+<content-type> text/plain </content-type>
+<date> 23 may 2003 18:27:35 +0200 </date>
+<subject>
+<text_normal> 
+
+^ re : k this and &char that 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ fre , &num kl . 
+^ &num skrev &name &name : 
+</text_normal>
+<text_embedded> 
+
+^ please guys , this has been gone over and over many times , look it up in the archives if you want the flames . 
+</text_embedded>
+<text_normal> 
+
+^ &name sorry , i was n't aware that the subject had been discussed earlier ( i did try searching the archive before posting ) . 
+^ starting a flame war was n't my intention , i merely wanted to hear some opinions on the matter . 
+^ guess i 'll try the archive again then . 
+^ &name strand &name ( &email ) 
+^ kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

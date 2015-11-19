@@ -1,0 +1,21 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your computer may be infected 
+</text_normal>
+</subject>
+<date> tue, 1 apr 2003 14:43:51 cst </date>
+<content-type> text/html; charset=us-ascii; class-id=8lwyhsu9wtsslho78ts-853021 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ spyware &name 
+^ this message was sent to the address 
+^ &website , inc. all rights reserved . 
+^ &name : 
+</text_normal>
+</message_body>
+</message>

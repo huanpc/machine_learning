@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ new site for telecommuting ( &name : &name ) 
+</text_normal>
+</subject>
+<content-type> text/html; charset=iso-8859-1 </content-type>
+<date> mon, 7 apr 2003 05:01:14 -0800 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name , 
+^ do you want to have a remote employee who would work instead of you . 
+^ we 've got a solution for you . 
+^ we 'll help you to create your own virtual office with qualified professional employees . 
+^ more info 
+^ with &name &name , &name &name &name manager unsubscribe 
+</text_normal>
+</message_body>
+</message>

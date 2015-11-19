@@ -1,0 +1,19 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ pastdue account # &num 
+</text_normal>
+</subject>
+<date> sat, 12 apr 2003 01:47:09 -0400 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website ) deceincallsaloarimera 
+</text_normal>
+</message_body>
+</message>

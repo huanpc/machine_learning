@@ -1,0 +1,15 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ want a bigger &num &char ? 
+^ xx 
+</text_normal>
+</subject>
+<date> fri, 11 apr 03 02:39:04 gmt </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

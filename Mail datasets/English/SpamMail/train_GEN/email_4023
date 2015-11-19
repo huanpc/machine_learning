@@ -1,0 +1,39 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : sunday the 11th 
+</text_normal>
+</subject>
+<date> sun, 04 nov 2001 12:10:46 +0000 </date>
+<content-type> text/html </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i am sorry i failed to show at church this morning . 
+^ i hope someone else introduced you to &name . 
+^ i had a disagreement with my digestive system yesterday and thought it was only fair to keep my bugs to myself . 
+^ i ca n't remember if i told you what the reading was for next week - i have the world 's worst memory . 
+^ mail me if i did n't so i can let you know . 
+^ see you next sunday , 
+^ &name
+</text_normal>
+<text_embedded> 
+
+^ from : " &name &name &name " to : &name &name subject : re : sunday the 11th date : &name , &num &name &num &num : &num : &num &num 
+^ as i do n't have easy access to a phone , i 'll 'drop you the line . " yes i am willing to help with the childrens " talks , although i have not done them before . 
+^ still i 'm willing to give it a good try ! 
+^ &name &name &name &name 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+</text_embedded>
+<text_normal> 
+
+^ get your free download of &name explorer at &website 
+</text_normal>
+</message_body>
+</message>

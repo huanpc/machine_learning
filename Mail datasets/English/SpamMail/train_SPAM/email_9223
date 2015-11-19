@@ -1,0 +1,28 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ ( ) ! 
+</text_normal>
+</subject>
+<date> mon, 31 mar 2003 18:04:38 +0900 </date>
+<content-type> text/html; charset="euc-kr" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ to . 
+^ &website 
+^ &website 
+^ * , . 
+^ * : &num [ &num ] 
+^ * &pound; : &num 
+^ copyright &num by all rights reserved 
+^ &website 
+^ [ ] . 
+^ [ &name ] . 
+^ if you do n't want to receive this mail anymore , click here [ &name ] 
+</text_normal>
+</message_body>
+</message>

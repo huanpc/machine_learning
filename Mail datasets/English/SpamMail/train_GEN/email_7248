@@ -1,0 +1,46 @@
+<message>
+<from> co.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name &name 
+</text_normal>
+</subject>
+<date> wed, 9 apr 2003 08:52:50 +0100 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ the upgrade from your version of rollcall to rollcall &num is &pound; &num plus &pound; &num p+p . 
+^ these prices include &name . 
+^ sincerely 
+^ data developments 
+^ dear sir or madam , 
+^ we ( &name &name 's church office , &name ) currently have &name for windows installed on our windows &num system , but having just bought a new computer with &name &name on it , have found that it does n't work on &name ( divide by &num error ) . 
+^ i assume we need to upgrade to the latest version , rollcall &num . 
+^ could you please confirm this and let us know how we do this and how much this will cost . 
+^ many thanks , 
+^ &name &name 
+^ on behalf of &name &name 's church office 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ the upgrade from your version of rollcall to rollcall &num is &pound; &num plus &pound; &num p+p . 
+^ these prices include &name . 
+^ sincerely 
+^ data developments 
+^ dear sir or madam , 
+^ we ( &name &name 's church office , &name ) currently have &name for windows installed on our windows &num system , but having just bought a new computer with &name &name on it , have found that it does n't work on &name ( divide by &num error ) . 
+^ i assume we need to upgrade to the latest version , rollcall &num . 
+^ could you please confirm this and let us know how we do this and how much this will cost . 
+^ many thanks , 
+^ &name &name 
+^ on behalf of &name &name 's church office 
+</text_normal>
+</part>
+</message_body>
+</message>

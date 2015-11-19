@@ -1,0 +1,28 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ new pc 
+</text_normal>
+</subject>
+<date> sat, 15 mar 2003 18:44:29 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ your computer is arriving on tuesday - do n't makle arangements to be out of the house then as mum will be out . 
+^ dad 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ your computer is arriving on tuesday - do n't makle arangements to be out of the house then as mum will be out . 
+^ dad 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,23 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain </content-type>
+<date> 31 oct 2002 11:46:14 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ &name , &name you had fun last night . 
+^ i had a good time . 
+^ paying for it now , of course . 
+^ &smiley i doubt i 'll be around tonight . 
+^ i need to get some work finished by tomorrow , so i 'll probably try to get an early night . 
+^ cheers , &name 
+</text_normal>
+</message_body>
+</message>

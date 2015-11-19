@@ -1,0 +1,57 @@
+<message>
+<date> mon, 15 jul 2002 10:03:41 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ re : our table schema specification and other notes ... 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i do n't think this is a problem . 
+^ if price needs to be float , then the &name people will have already figured that out and will have put : &char : &num : &num into the database . 
+^ the evaluate method of the operator will cast the int into a float without any problem . 
+^ however , &name 's original question is a little more troublesome . 
+^ i think the best solution is to add fractions into the grammer so that &num and &num / &num will both be recognized as a float . 
+^ &name adding the " / " fraction to the grammer make it not &name ? 
+^ &name 
+^ on mon , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ this is a good point . 
+^ what should these guys be doing when what needs to be coerced is an attribute ( rather than a constant ) . 
+^ i.e. , price needs to be coerced from int to float ... 
+<text_embedded> 
+
+^ as for the second suggestion , i wonder if just having constants as users specify would be good enough . 
+^ for example , when you are given " price-4 / &num " , what do you think is the ultimate form for the expression ? 
+^ do you want to have " : &num : &char : &num : &num : - &num " ? 
+^ if you like to have that thing , i should evaluate ( optimize ) sub-expressions whenever they are evaluatable ( e.g. , &num / &num - ) &num - ) &num ) . 
+^ if you do n't want it , &num and &num must be still regarded as integers for the result to be &num rather than &num . ... 
+^ let me know what you like to have . 
+^ thanks , 
+^ &name . 
+^ on &name , &num &name &num , &name &name wrote : 
+<text_embedded> 
+
+^ in writing some pseudocode for the server-side parser , the box group were wondering if some slight modifications could be made to what the &name group writes to the database . 
+^ there are &num changes : 
+^ &num ) instead of having type information stored in the database separately from the predicate / function string , we were wondering if the predicate / function 'modifier " strings contain this information directly . 
+^ in other words , instead of writing " age ) &num " to the database , we would prefer " : &char : &num : &num : ) &num " gets written where &char stands for integer ( &char for float , &char for string etc ) , &num stands for the offset within the tuple string , and &num stands for the size ( number of characters ) of that attribute . 
+^ in this way , we do n't have to read from the database more than once ( just to get the original sting ) which would save time when parsing . 
+^ &num ) if the type of a constant is a float , we were hoping it would be wriiten to the database string with a decimal point . 
+^ thus , if the user wrote " price - &num " it would be written as " : &char : &num : &num : - &num " ( notice the &num added to the &num ) . 
+^ please let us know if these changes are possible . 
+^ thanks , &name 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

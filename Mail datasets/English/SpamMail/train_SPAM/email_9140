@@ -1,0 +1,20 @@
+<message>
+<from> net </from>
+<subject>
+<text_normal> 
+
+^ re : &name notice 
+</text_normal>
+</subject>
+<date> sun, 30 mar 2003 00:15:20 +0200 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( &website / ) 
+^ if you would like to unsub scribe your e-m ail addr ess from our new sletter we will do this for you at any time . 
+^ please &name ( &website re and sub mit your em ail addre ss on the form given to you . 
+</text_normal>
+</message_body>
+</message>

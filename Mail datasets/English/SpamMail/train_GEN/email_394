@@ -1,0 +1,31 @@
+<message>
+<from> com </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : hi 
+</text_normal>
+</subject>
+<date> mon, 11 dec 2000 19:26:29 -0000 </date>
+<content-type> text/plain; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ yes do you want to chat in a chatroom ? 
+^ that would be fun &name xx 
+</text_normal>
+<text_embedded> 
+
+^ from : &name ( &email ) to : &email subject : hi &name : mon , &num &name &num &num : &num : &num &num 
+^ hi &name , 
+^ are you still online ? ? ? 
+^ &name 
+</text_embedded>
+<text_normal> 
+
+^ get more from the web . 
+^ free &name explorer download : &website 
+</text_normal>
+</message_body>
+</message>

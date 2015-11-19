@@ -1,0 +1,31 @@
+<message>
+<date> tue, 18 feb 2003 16:47:17 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ speech2 practical 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi &name , 
+^ i have a question about the practical that the demonstrator could n't help me with . 
+^ i 'm getting the following error message when 'mixing-up " my &name 's: 
+^ ( going from &num components to &num ) : 
+^ warning [ &num ] &name : mix &num in &char has v.small &name [ &num ] in &name 
+^ ( going from &num components to &num ) : 
+^ warning [ &num ] &name : mix &num in &char has v.small &name [ &num ] in &name 
+^ ( going from &num components to &num ) : 
+^ warning [ &num ] &name : mix &num in &char has v.small &name [ &num ] in &name 
+^ ( going from &num components to &num ) : 
+^ warning [ &num ] &name : mix &num in &char has v.small &name [ &num ] in &name 
+^ if you could explain what these error messages mean ( & also what the &name value refers to ) that would be great . 
+^ regards , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,31 @@
+<message>
+<date> fri, 23 may 2003 02:24:41 +0200 </date>
+<from> org </from>
+<to> org </to>
+<content-type> text/plain; charset=us-ascii </content-type>
+<subject>
+<text_normal> 
+
+^ re : k this and &char that 
+</text_normal>
+</subject>
+<message_body>
+<text_normal> 
+
+^ on &name , may &num , &num at &num : &num : 49am &num , &name strand &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i hope all this does n't sound like flaming or shit throwing , it is really meant to be constructive criticism . 
+^ i like the &name desktop a lot , but it could be even better without most of the &name also , my apologies if this issue has been discussed earlier . 
+</text_embedded>
+<text_normal> 
+
+^ its easy enough to switch the kmenu to use the application description only . 
+^ maybe this is nice enough ? 
+^ the &char prefixes etc helps me for one feel part of the kde community . 
+^ frankly it would suck if i did not have that feeling . 
+^ mvg , &name kde-usability mailing list &email 
+</text_normal>
+</message_body>
+</message>

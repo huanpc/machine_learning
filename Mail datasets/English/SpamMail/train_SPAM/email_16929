@@ -1,0 +1,24 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ free &name &name 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> fri, 4 apr 2003 12:07:03 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name 
+^ brought to you by &name , the world 's leading self-assessment company 
+^ you are not receiving this email directly from &name . 
+^ you are receiving this email because you have subscribed to a third-party newsletter list . 
+^ if you believe you received this email in error , please reply directly to this email to unsubscribe . 
+^ to be deleted from our member database , please click here 
+</text_normal>
+</message_body>
+</message>

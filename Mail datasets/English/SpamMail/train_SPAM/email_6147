@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ chance to &name &name &name &name ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> 26 mar 2003 17:43:09 -0800 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,22 @@
+<message>
+<date> mon, 15 jul 2002 12:47:52 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ pseudocode 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ the pseudocode for the grammar will be complete by about &num : &num . 
+^ some issues have come up that might need discussion : 
+^ &num ) lexical analysis of timestamps &num ) when to cast to integers / floats &num ) &name of idents 
+^ would you like to meet today to go over the pseudocode and discuss the above issues , or would you rather i just begin coding at &num : &num and i can send you the code and discuss the issues over email ( or in a meeting tomorrow ) ? 
+^ &name
+</text_normal>
+</message_body>
+</message>

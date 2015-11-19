@@ -1,0 +1,27 @@
+<message>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ instructions for doing streaming 
+</text_normal>
+</subject>
+<date> sun, 9 mar 2003 16:28:10 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ &num ) ssh in to your machine with the following command line arguments : &website 
+^ &num ) run the streamer ( this is on your machine &smiley &num 
+^ &num ) open mozilla mozilla 
+^ &num ) point it at localhost : &num 
+^ &num ) select the songs you want to listen to and tell it to open with xmms . 
+^ &num ) &name 
+^ &num ) do n't forget to log out of your machine when you 're finished . 
+^ &smiley kiss &name for setting it all up &smiley 
+^ &name 
+^ &name
+</text_normal>
+</message_body>
+</message>

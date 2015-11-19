@@ -1,0 +1,50 @@
+<message>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name : &name ! 
+</text_normal>
+</subject>
+<date> thu, 20 feb 2003 08:35:55 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name - 
+^ here 's an e-mail i sent to &name . . . ... 
+^ cheers 
+^ &name 
+^ &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+^ hi &name - 
+^ i really need some expenses cheques , for &pound; &num each made payable to : 
+^ &num ) &name &name &num ) &name &name 
+^ is it easier if i write these and &name then reimburse me - i 'm still awaiting party receipts too , so i do n't know the amount on that yet . 
+^ thanks once again for your help ! 
+^ best wishes 
+^ &name 
+^ &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name - 
+^ here 's an e-mail i sent to &name . . . ... 
+^ cheers 
+^ &name 
+^ - --------------------------------------------------------------- ----------------------- &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+^ hi &name - 
+^ i really need some expenses cheques , for &pound; &num each made payable to : 
+^ &num ) &name &name &num ) &name &name 
+^ is it easier if i write these and &name then reimburse me - i 'm still awaiting party receipts too , so i do n't know the amount on that yet . 
+^ thanks once again for your help ! 
+^ best wishes 
+^ &name 
+^ - ----------------------------------------------------------- --------------------------- &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+</message_body>
+</message>

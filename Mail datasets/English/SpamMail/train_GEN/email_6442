@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ &name war possibility 
+</text_normal>
+</subject>
+<date> fri, 25 oct 2002 19:02:42 +0100 </date>
+<content-type> multipart/related; type="multipart/alternative" </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="image/jpeg">
+</part>
+</message_body>
+</message>

@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<to> net </to>
+<subject>
+<text_normal> 
+
+^ &name &num 
+</text_normal>
+</subject>
+<date> tue, 15 oct 2002 07:10:28 +0200 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &website and a blanck space that is the first file in the list . 
+^ &name send me this &num files . 
+^ i realy need it . 
+^ hope you 
+</text_normal>
+</part>
+</message_body>
+</message>

@@ -1,0 +1,37 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<to> com </to>
+<from> ac.uk </from>
+<date> mon, 24 sep 2001 17:33:22 +0100 </date>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ hello . 
+^ you may have wondered why i have been so silent for the past week , then again you may not . 
+^ well , the reason is because dear old &name was very ill . 
+^ she contracted a nasty computer virus last wednesday . 
+^ this malicious program did not allow her to open any applications , like word , &name explorer , etc. anyway , after downloading a little program from our anti-virus company 's web-site and injecting &name with it she is now back to her old cheerful self . 
+^ her first encounter with a computer virus - quite interesting . 
+^ i saw your bridesmaid-to-be yesterday when he arrived in &name &name . 
+^ i must say i ca n't picture him as a bridesmaid . 
+^ it will be a very odd wedding . 
+^ i have only &num more days of work left ! ! ! 
+^ o joy ! 
+^ then i will be going back to lovely &name on monday . 
+^ so what have you done this week ? 
+^ are you all prepared for next term yet ? 
+^ ( i certainly am not anyway . ) are you still going to post those photos , or would you rather give them to me at &name ? 
+^ hope you are well and having a good time . 
+^ it would be nice to chat sometime soon if you like . 
+^ have a good evening , 
+^ &name
+</text_normal>
+</message_body>
+</message>

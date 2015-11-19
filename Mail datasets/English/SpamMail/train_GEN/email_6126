@@ -1,0 +1,59 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name &name &name 
+</text_normal>
+</subject>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<content-type> text/plain </content-type>
+<date> 04 mar 2003 10:17:50 +0000 </date>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ hi , i 'm &name &name , current &name computer secretary . 
+^ &name &name has asked me to email you to ask whether you could serve as the &name computing secretary for the next year . 
+^ to let you know what 's involved , here 's what i 've done for the last year : 
+^ + updating the website . 
+^ each term , update termcard . 
+^ beginning of year update contact details . 
+^ and then any other updates that need to happen . 
+^ &website - &name ! 
+^ &smiley 
+^ + managing the email lists . 
+^ &name has over &num email lists . 
+^ along with the database secretary i manage them all . 
+^ most are * not * directly our control since they are college group email lists and reps sort them out . 
+^ we sort out the &name central &num . 
+^ we tend to average about &num mailer-error a day ( ! ) mainly because of full inboxes ! 
+^ all managing done through &name obviously . 
+^ + &name event website . 
+^ this was an * extra * this year and not necessarily the job of the &name secretary . 
+^ depends who the &name ask to do it 
+^ - obviously whoever they ask will need access to the webserver though . 
+^ + &website domain . 
+^ our domain name provider is &name ( &website . 
+^ also control of subdomains , email forwarding etc. 
+^ + recently i 've started work on a members sections for the website . 
+^ this is so we can publish things that we might not want complete public access to , e.g. talk downloads , prayer points etc. i 'm not going to finish it this term but will probably continue writing it over the vac . 
+^ i 'm currently working in &name and probably &name . 
+^ + the webserver for the website is currently , as i expect you know , the &name . 
+^ i see you have an account already so that makes things a little easier if you decide to take the job on . 
+^ it sounds like a lot of work but it 's not really that bad . 
+^ the termcard each term is quite a big job but it 's only &num page of html editing . 
+^ all in all an enjoyable job , if you like computing ! 
+^ and you have the power to change the lovely green colour on the &name website ! 
+^ i think i 've got quite used to it . 
+^ . 
+^ . 
+^ have a think and pray about whether you 'd like to do it and let me know if you have any further questions and your response . 
+^ cheers , &name 
+^ &name &name &name &name &name 1rd 
+^ e: &email 
+^ p: &num &num 
+^ w: &website icq : &num msn : &email yahoo : cmt29uk 
+</text_normal>
+</message_body>
+</message>

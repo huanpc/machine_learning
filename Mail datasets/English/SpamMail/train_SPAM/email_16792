@@ -1,0 +1,14 @@
+<message>
+<from> org </from>
+<subject>
+<text_normal> 
+
+^ get a approved in &num minutes 
+</text_normal>
+</subject>
+<date> mon, 31 mar 2003 04:57:34 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,21 @@
+<message>
+<from> ac.uk </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ making changes to source code 
+</text_normal>
+</subject>
+<date> mon, 17 feb 2003 14:47:44 -0000 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<message_body>
+<text_normal> 
+
+^ a small but really important point : 
+^ please could everyone remember , when making changes to someone else 's source code , please to annotate the changes with at least your initials and the date that the change was made , so that the primary author is able to determine when and what was changed . 
+^ cheers 
+^ &name 
+</text_normal>
+</message_body>
+</message>

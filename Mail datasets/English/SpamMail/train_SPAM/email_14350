@@ -1,0 +1,25 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ shop for the best mortgage rate the &name way 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ let lenders do the work for you . 
+^ * &num &num &name &name &name &name ! 
+^ interest rates are at their lowest point in &num years . 
+^ we help you find the best rate for your situation by matching your needs with a suitable lender . 
+^ &name &name , &name , second mortgage , &name &name &name , and &name . 
+^ even with less than perfect credit 
+^ lock in your &name fixed rate today 
+^ * there is no out of pocket cost 
+^ * all credit grades accepted 
+</text_normal>
+</message_body>
+</message>

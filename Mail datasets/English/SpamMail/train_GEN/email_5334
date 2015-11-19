@@ -1,0 +1,22 @@
+<message>
+<subject>
+<text_normal> 
+
+^ &name &name &name &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii" </content-type>
+<date> wed, 12 feb 2003 14:23:23 -0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ &name &name &name &name , the graduate association of the &org , invites you to : 
+^ thursday 20th &name &num 
+^ 16: &num 
+^ &name trends in &name &name &name &name building , &name theatre &num 
+^ speaker : professor &name &name 
+^ to reserve a place , please email &email 
+</text_normal>
+</message_body>
+</message>

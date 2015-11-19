@@ -1,0 +1,31 @@
+<message>
+<date> thu, 06 feb 2003 18:46:09 +0000 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ re : sub-group meeting 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="us-ascii"; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ hi - we 've got a meeting at &num : &num pm in cockcroft on sat . 
+^ i really need to talk to you about testing as soon as possible , speak to &char soon , &name 
+^ at &num : &num &num / &num / &num &num , you wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi 
+^ am just trying to sort out my diary for the next few days ( and need a minimum of &num hours per day ! ) . 
+^ do you want to meet up on saturday ( say around &num noon ) ? 
+^ &name sat i 'm meeting someone else at 10am which should only be around an hour , but leave &num just in case and then i 'm busy from &name onwards . 
+^ tomorrow is busy , friday i may or may not be free in the evening - i 'm waiting to hear back from someone else on that . 
+^ otherwise we 're into next week . 
+^ &name 
+^ &name &name &name college , &name &name &name &name &name : room &name , &name &name &name &name : &email &name &name : &name : # &num | &name : &email &name : &num &name &name &name &name &name &name &name &name &num 
+</text_embedded>
+</message_body>
+</message>

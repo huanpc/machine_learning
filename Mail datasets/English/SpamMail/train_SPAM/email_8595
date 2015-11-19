@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ turn a $ &num , &num investment into $ &num , &num 
+</text_normal>
+</subject>
+<date> sat, 29 mar 2003 17:36:41 -0100 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

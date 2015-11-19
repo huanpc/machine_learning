@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name : protect your information and your computer ! 
+</text_normal>
+</subject>
+<date> mon, 31 mar 2003 12:34:08 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

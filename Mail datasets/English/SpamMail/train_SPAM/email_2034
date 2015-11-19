@@ -1,0 +1,49 @@
+<message>
+<date> mon, 24 feb 2003 13:30:48 +0900 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ ( &name ) &name &name &name &name &name &name xxxx@ 
+</text_normal>
+</subject>
+<content-type> text/html; charset=ks_c_5601-1987 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &pound; ? 
+^ &num 
+^ . 
+^ . 
+^ &num . 
+^ . 
+^ &num . 
+^ . 
+^ . 
+^ : k0394 
+^ ' ? 
+^ ? 
+^ &num &num &pound; ? 
+^ &num 
+^ &num 
+^ .. ? 
+^ ? 
+^ &num &num &pound; &num .. 
+^ . 
+^ ! ! 
+^ ( &num ) &num 
+^ &pound; . ' 
+^ . 
+^ &num 
+^ . 
+^ . 
+^ [ ! ] : k0394 
+^ &website . 
+^ . 
+^ &website / man / man1 / &name , &name . 
+^ [ ] , . 
+^ _______________________________________________ procps-list mailing 
+</text_normal>
+</message_body>
+</message>

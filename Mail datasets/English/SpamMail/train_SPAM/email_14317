@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ free bottle of wine + &name , &name & more 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<date> wed, 2 apr 2003 01:28:43 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ to be deleted from our member database , please click here 
+</text_normal>
+</message_body>
+</message>

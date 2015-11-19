@@ -1,0 +1,26 @@
+<message>
+<date> fri, 28 feb 2003 09:20:25 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name &name club - presentation reminder 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ the third speech &name club presentation will take place on monday at &num : &num . 
+^ the presentation will be on language modelling . 
+^ all people taking the &name &name club are required to attend all the presentations ( it is important that you let me know if you have to miss one of the presentations ) . 
+^ if you are not doing the &name &name club you are welcome to attend any of the presentations . 
+^ the dates for all the remaining presentations are ( all presentations start at &num : &num ) 
+^ language modelling : monday 3rd march speaker &name : monday 10th march 
+^ &name 
+^ &name &name , &name &name group &name : ( &num ) &num &num &name university engineering dept. &name : ( &num ) &num &num &name street , &name , &name &name . 
+^ email : &email 
+</text_normal>
+</message_body>
+</message>

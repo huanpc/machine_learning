@@ -1,0 +1,21 @@
+<message>
+<date> tue, 16 jul 2002 18:38:24 -0400 (edt) </date>
+<from> edu </from>
+<to> edu </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ hi professor &name , 
+^ &name and i have successfully integrated and tested the parser and predicate / expression objects . 
+^ we are ready for integration with &name and the rest of &name . 
+^ &name and &name 
+</text_normal>
+</message_body>
+</message>

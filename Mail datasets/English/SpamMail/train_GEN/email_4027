@@ -1,0 +1,35 @@
+<message>
+<date> tue, 23 apr 2002 14:58:57 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : supper 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i 'm working bar on wednesday and away friday but feel free ... 
+^ &name 
+^ " t.s. &name " wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi &name + &name 
+^ having accepted your invitation for supper on thursday , i realise i was too swift to have done so , as that is the night of &name &name birthday party , which duty , strongly influenced by pleasure , insists that i must attend . 
+^ sorry guys . 
+^ perhaps another night ? 
+^ wednesday ? 
+^ friday ? 
+^ ( oh i am cheeky ! ) 
+^ &name &name &name &name 
+^ st. &name 's college 
+^ &num &name &name &name &name &name 
+^ department of geological sciences university of &name 
+^ mobile ( vodafone ) &num &num &num &num 
+</text_embedded>
+</message_body>
+</message>

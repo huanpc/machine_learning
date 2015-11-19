@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<date> tue, 29 oct 2002 17:30:58 est </date>
+<subject>
+<text_normal> 
+
+^ &name get the &name maker to work ... 
+</text_normal>
+</subject>
+<to> com </to>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ how can i get this program to work ? 
+^ i like the concept , but have not been able to get it to clear my computer as promised . 
+^ it just wants to repeatedly reload the program , and not to perform the duties . 
+^ &name &name &email 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ how can i get this program to work ? 
+^ i like the concept , but have not been able to get it to clear my computer as promised . 
+^ it just wants to repeatedly reload the program , and not to perform the duties . 
+^ &name &name &email 
+</text_normal>
+</part>
+</message_body>
+</message>

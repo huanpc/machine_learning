@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ ( ) &num 
+</text_normal>
+</subject>
+<date> thu, 3 apr 2003 22:31:55 +0900 </date>
+<content-type> text/html; charset="euc-kr" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &num 
+</text_normal>
+</message_body>
+</message>

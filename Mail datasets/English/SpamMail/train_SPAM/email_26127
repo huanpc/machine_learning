@@ -1,0 +1,15 @@
+<message>
+<date> wed, 9 apr 2003 02:02:23 +0000 </date>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ we can send out &num million emails in just &num hours 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

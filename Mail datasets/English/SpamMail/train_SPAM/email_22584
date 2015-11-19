@@ -1,0 +1,14 @@
+<message>
+<date> mon, 7 apr 2003 08:27:21 -0700 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name &name &name - &name &name , under $ &num bucks 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

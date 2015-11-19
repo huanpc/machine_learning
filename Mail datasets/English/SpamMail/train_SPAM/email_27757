@@ -1,0 +1,27 @@
+<message>
+<date> thu, 10 apr 2003 12:15:45 -0400 (edt) </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * 4-hour sale : today only ! 
+</text_normal>
+</subject>
+<content-type> text/html; charset=us-ascii </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ 4-hour sale : today only ! 
+^ - i would like to this &name was sent to : 
+^ &website inc. &num . 
+^ all rights reserved . 
+^ free shipping offer : * get free shipping on qualified items for a limited time only ! 
+^ valid on qualified items that are identified on product information pages with this free shipping icon . 
+^ free shipping offer is limited to ' in &name ' items only . 
+^ free shipping offer may not include handling charge . 
+^ see site for full details . 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,23 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ response to your posting 
+</text_normal>
+</subject>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<date> sat, 12 apr 2003 04:51:50 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ hi , &char saw your posting on the internet and thought you might be interested in quality &name movies at very low prices with free shipping . 
+^ pls email me at &email for the complete listing and prices . 
+^ thank you 
+^ kindly reply with ' remove ' in the subject line if you no longer wish to receive this email again . 
+^ thanks 
+^ regards &name 
+</text_normal>
+</message_body>
+</message>

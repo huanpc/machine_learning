@@ -1,0 +1,23 @@
+<message>
+<from>
+</from>
+<subject>
+<text_normal> 
+
+^ &name &name es auch ? 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> thu, 13 mar 2003 04:50:09 +0100 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ mail 
+^ ich bin die &name , ich bin &num &name , und ich bin so einsam &name auch ? 
+^ ich brauche jetzt etwas &name auch ? 
+^ ich bin voller &name &name auch ? 
+^ wenn &name eine frage mit &name face' arial , &name , size' &num ' color' # &name ' ) : schau 
+</text_normal>
+</message_body>
+</message>

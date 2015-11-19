@@ -1,0 +1,25 @@
+<message>
+<date> fri, 9 may 2003 18:20:52 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &char 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ i love &name ! ! ! ! 
+^ on &name , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ i 'd forgotten how satisfying it can be to see your bits of code working . 
+^ &name , i have power over this computer . 
+^ &name &name &num paradise street , &name , &name &name ntl ) &num &num orange ) &num &num &email 
+</text_embedded>
+</message_body>
+</message>

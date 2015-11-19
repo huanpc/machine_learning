@@ -1,0 +1,14 @@
+<message>
+<from> com com </from>
+<subject>
+<text_normal> 
+
+^ your order is ready to ship ! 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<date> tue, 8 apr 2003 17:40:39 -0700 </date>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

@@ -1,0 +1,48 @@
+<message>
+<date> sat, 9 nov 2002 16:47:28 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> co.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name tomorrow ? 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ sounds good - &num : &num &name . 
+^ &name 
+^ on &name , &num &name &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ tuesday sounds fine . 
+^ how about meeting at &name on market square at 
+^ 7: &num ? 
+^ i ca n't be sure i 'll be able to make it earlier because of work . 
+^ &name 
+<text_embedded> 
+
+^ hi &name , 
+^ would love to meet up , but i am already booked up tomorrow evening ! 
+^ in fact , this weekend is looking pretty hectic . 
+^ how about tuesday at around 
+^ 6: &num ? 
+^ &name 
+<text_embedded> 
+
+^ hi &name would you like to meet up tomorrow evening for a drink ? 
+^ maybe you have another suggestion ; i do n't know whether there are any college events we could go to . 
+^ if you are free then &num o' clock is a good time for me . 
+^ i find that by the time i get home and eat supper it 's quite late already ; the week just flies by ! 
+^ see you soon , &name 
+^ the making of brazillian football 
+</text_embedded>
+
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

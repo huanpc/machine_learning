@@ -1,0 +1,21 @@
+<message>
+<date> fri, 14 feb 2003 21:38:07 -0000 </date>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ ticket sales 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ i think these are the sales so far : - 
+^ adult - &num [ projected no. : &num ] concession - &num [ projected no. : &num ] student - &num soloists - &num ( not including &num for the leader ! ! ) total - &num 
+^ therefore , we need to sell &num concession / adult tickets tomorrow night to break even . 
+^ gem &char &name &name &name college &name &num &num 
+</text_normal>
+</message_body>
+</message>

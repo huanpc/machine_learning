@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<date> tue, 11 mar 2003 05:29:43 -0500 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ &name
+^ &name , i have looked at your software and it is very good . 
+^ i like your &name software as well . 
+^ i have a comment on the selfview software that i would like to see in a new version . 
+^ can you make it work work with &name files . 
+^ that would be really great , because most of our customers do n't use msword so it would be nice to send them an exe file of our document . 
+^ &name
+</text_normal>
+</part>
+</message_body>
+</message>

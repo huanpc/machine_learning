@@ -1,0 +1,44 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ important - &name &name notice 
+</text_normal>
+</subject>
+<date> thu, 03 apr 2003 22:02:01 -0500 </date>
+<content-type> text/plain; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ this is your final notice regarding your free subscription to &name , the net 's most widely read webmaster newsletter 
+^ to receive &name , do nothing . 
+^ if you do not wish to receive &name , please follow the unsubscribe instructions at the bottom of this message . 
+^ you are receiving this notice because your web site has been &website . 
+^ in appreciation of your submission , you have received a free subscription to &name , a newsletter from the folks at exactseek . 
+^ as per our privacy statement and the confirmation message you received at the time of your site submission , exactseek reserves the right to contact those who post a site listing to our search engine . 
+^ if you would like to know more about &name 's privacy policy and how it applies to you , please visit : 
+^ &website 
+^ your first issue of &name should arrive on or around april 7th and will include links to webmaster apps and resource sites , submission and promotion tools , free ebooks and weekly tips as well as expert advice on webmaster-related subjects such as : 
+^ * website design 
+^ * &name &name 
+^ * search engine trends 
+^ * search engine positioning 
+^ * &name programs 
+^ * marketing and &name 
+^ for a preview , please visit : &website 
+^ sincerely , 
+^ the &name &name 
+^ you are currently subscribed as : unsubscribe , use &num of the &num simple methods listed below : 
+^ &num click the reply button in your email program and send this message back to us . 
+^ &num click the email unsubscribe link below and send : 
+^ mailto : &email 
+^ raise your site ranking for free put your web site in the &name &num to &num search results ! 
+^ boost your site ranking simply by adding an exactseek search form to your web pages . 
+^ the more searches your site generates , the higher your site ranking goes . 
+^ it 's that simple . 
+^ ( &website ) 
+</text_normal>
+</message_body>
+</message>

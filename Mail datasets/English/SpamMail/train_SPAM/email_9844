@@ -1,0 +1,14 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ do you suffer from &name , bipolar or mood swings 
+</text_normal>
+</subject>
+<date> fri, 28 mar 2003 16:22:49 -0700 </date>
+<content-type> multipart/alternative </content-type>
+<to> org </to>
+<message_body>
+</message_body>
+</message>

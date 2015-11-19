@@ -1,0 +1,36 @@
+<message>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ front cover final version &num 
+</text_normal>
+</subject>
+<date> thu, 24 jan 2002 15:19:26 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name ! 
+^ did you get the thing that my dad sent ? 
+^ how did he send it to you ? 
+^ to be view on acrobat or as an image file ? 
+^ what do you think of it ? 
+^ &name . 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name ! 
+^ did you get the thing that my dad sent ? 
+^ how did he send it to you ? 
+^ to be view on acrobat or as an image file ? 
+^ what do you think of it ? 
+^ &name . 
+</text_normal>
+</part>
+</message_body>
+</message>

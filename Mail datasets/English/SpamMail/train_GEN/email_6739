@@ -1,0 +1,18 @@
+<message>
+<from> net </from>
+<to> org </to>
+<subject>
+<text_normal> 
+
+^ pray for &name - march &num 
+</text_normal>
+</subject>
+<date> mon, 10 mar 2003 14:31:22 +0700 </date>
+<content-type> multipart/related; type="multipart/alternative" </content-type>
+<message_body>
+<part num="1" type="multipart/alternative">
+</part>
+<part num="2" type="image/jpeg">
+</part>
+</message_body>
+</message>

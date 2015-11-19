@@ -1,0 +1,20 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> fri, 11 apr 2003 02:27:25 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ the best deal under the sun . 
+^ &name &name is offering &num night vacation package to &name / &name / &name / &name with a cruise for $ &num per guest . 
+^ if you would like to be deleted please email to following address , &email 
+</text_normal>
+</message_body>
+</message>

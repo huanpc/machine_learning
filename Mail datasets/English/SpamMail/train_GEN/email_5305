@@ -1,0 +1,24 @@
+<message>
+<date> mon, 27 jan 2003 12:17:53 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ error in &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii; format=flowed </content-type>
+<message_body>
+<text_normal> 
+
+^ there is an error in the version of &name that you currently have . 
+^ could you copy the version from my home directory at &website
+^ ( the only difference is line &num should read vit.setinsertpen ( &num ) ; 
+^ the htkbook is in my home-space at &website
+^ rather than in the docs area . 
+^ &name &name &name , &name &name group &name : ( &num ) &num &num &name university engineering dept. &name : ( &num ) &num &num &name street , &name , &name &name . 
+^ email : &email 
+</text_normal>
+</message_body>
+</message>

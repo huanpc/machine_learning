@@ -1,0 +1,39 @@
+<message>
+<date> tue, 25 mar 2003 15:36:53 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : weekend at &name 's house 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ pretty darn great weather here in &name actually too ! 
+^ &name photos . 
+^ i did n't realise &name had moved onto the street ! 
+^ &name cardboard box though - must keep him warm in those cold winter months . 
+^ i 've started revision , and to my disappointment i 've found that i still dislike it as much as i did the last time i did any ! 
+^ keep it real &name - baby . 
+^ &name 
+^ on &name , &num mar &num , &char &char &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ ho ho ho ... 
+^ &name . 
+^ splendid weather here in &name . 
+^ just got some photo 's back and thought you may wish to see some ... 
+^ &name 
+^ &name &name wrote : 
+<text_embedded> 
+
+^ are n't i a good little boy ... 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

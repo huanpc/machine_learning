@@ -1,0 +1,35 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name new product ... 
+</text_normal>
+</subject>
+<date> sun, 6 apr 2003 02:29:32 -0400 </date>
+<content-type> text/plain; charset="windows-1252" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ the &name &name digital camera has arrived ! ! ! 
+^ &name + digital still camera + digital video camera 
+^ &name enough to fit on a keychain ... big enough to take high-quality digital photo 's & act as a full-motion webcam 
+^ special limited web offer ... 
+^ &website 
+^ includes : 
+^ - &name &name 
+^ - &num &name battery ... yes , battery included ! 
+^ - cd-rom with drivers & image editing software 
+^ - &name connecting cable 
+^ - keychain for instant portability ! 
+^ while quantities last ! ! 
+^ only $ &num ! ! ! ! 
+^ ( $ &num value ) click here : &website 
+^ remove &website 
+^ incoming mail is certified virus free . 
+^ checked by &name anti-virus system ( &website ) . 
+^ &website / &name &name : &num - &name &name : &num / &num / &num 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,35 @@
+<message>
+<date> tue, 28 jan 2003 10:02:33 -0000 </date>
+<from> ac.uk </from>
+<to> org </to>
+<content-type> multipart/mixed </content-type>
+<subject>
+<text_normal> 
+
+^ [ &name ] review meeting &num 
+</text_normal>
+</subject>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ the review meeting tomorrow with &name &name is at 3pm in &name . 
+^ we need to hand in all deliverables before &num today . 
+^ the meeting today will be held in &name and we should go over how to present our ideas to &name and issues we want to disucss with him . 
+^ &name 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ agenda &name &name &num &num 2003-01-28t10 : &num : &name 2003-01-28t09 : &num : &name 2003-01-28t10 : &num : &name &num university of &name &num &num &num 
+^ agenda 
+^ for 28th january &num 
+^ 12pm in &name 
+^ &name should be handed in before &name . 
+^ discuss how to present our ideas to dr &name tomorrow . 
+^ raise issues and questions we would like to discuss with dr &name . 
+</text_normal>
+</part>
+</message_body>
+</message>

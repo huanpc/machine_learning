@@ -1,0 +1,31 @@
+<message>
+<to> ac.uk ac.uk ac.uk </to>
+<subject>
+<text_normal> 
+
+^ booking.xsl 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 16 dec 2002 21:02:50 +0000 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ hi , 
+^ i noticed that you did not use the &name engine as given in the handout , but relied on netscape 's built in &name processor ( via the &name pi) . 
+^ your solutions were fine , and you got the tick . 
+^ however , when i processed your &website files through &name , it came up with interesting syntax errors . 
+^ thought this might interest you , as netscape 's xslt processor could obviously deal with them . 
+^ &website ; &name &num ; &website.transform.transformerconfigurationexception ) : &website.transform.transformerexcept ion : " .. [ predicate ] " or " . [ predicate ] " is illegal syntax . 
+^ use " self : : node ( ) [ predicate ] " instead . 
+^ &website ; &name &num ; &website.transform.transformerconfigurationexception ) : &website.transform.transformerexcept ion : " .. [ predicate ] " or " . [ predicate ] " is illegal syntax . 
+^ use " self : : node ( ) [ predicate ] " instead . 
+^ &website ; &name &num ; &website.transform.transformerconfigurationexception ) : &website.transform.transformerexcept ion : " .. [ predicate ] " or " . [ predicate ] " is illegal syntax . 
+^ use " self : : node ( ) [ predicate ] " instead . 
+^ far as i read , .. [ predicate ] is not illegal syntax , cf. professional &name , but should check this in &name reference -- this just goes to show that &name syntax is only as illegal or legal as applications such as &name processors implement it . 
+^ &name &name . 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,32 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ your credit has been approved! * 
+</text_normal>
+</subject>
+<date> wed, 26 mar 2003 08:49:10 cst </date>
+<content-type> text/plain; charset=us-ascii; class-id=4hiisdqsmucim4bsqkbsq-246023 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ you have received this email because you subscribed to receive valuable email offers from &name or one of our marketing partners . 
+^ you may withdraw from future offers by following the unsubscribe link at the bottom of this message . 
+^ if you can yes to the following questions ... 
+^ - live in the united states ? 
+^ - have a social security number ? 
+^ - &num years of age or &name ? 
+^ - have a valid checking or savings account ? 
+^ - have income of at least $ &num / month ? 
+^ - have a &name &name &name ? 
+^ - no pending bankruptcy ? 
+^ - no current delinquencies in past &num days ? 
+^ .. then you are already approved ! 
+^ &name &name below to claim your card : 
+^ &website 
+^ use below link to be permanently withdrawn from all future mailings 
+</text_normal>
+</message_body>
+</message>

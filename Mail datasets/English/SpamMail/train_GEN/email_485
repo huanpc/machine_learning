@@ -1,0 +1,21 @@
+<message>
+<date> sat, 12 may 2001 11:17:55 +0100 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ click on this link ... 
+^ &website 
+^ &name 
+</text_normal>
+</message_body>
+</message>

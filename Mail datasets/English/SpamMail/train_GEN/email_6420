@@ -1,0 +1,38 @@
+<message>
+<from> ac.uk </from>
+<to> com </to>
+<subject>
+<text_normal> 
+
+^ interval ? 
+</text_normal>
+</subject>
+<date> sun, 9 feb 2003 18:07:58 -0000 </date>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi guys 
+^ just to confirm - there is no official interval is there ? 
+^ there 'll be breathinig spaces between the sections , but we 're not going to get all the audience to go out are we ? 
+^ just checking . . . . . ... 
+^ cheers 
+^ &name 
+^ &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi guys 
+^ just to confirm - there is no official interval is there ? 
+^ there 'll be breathinig spaces between the sections , but we 're not going to get all the audience to go out are we ? 
+^ just checking . . . . . ... 
+^ cheers 
+^ &name 
+^ - ----------------------------------------------------------- --------------------------- &name &name &name &name &num &name 's college , &name &name : ( &num ) &num mob : ( &num ) &num 
+</text_normal>
+</part>
+</message_body>
+</message>

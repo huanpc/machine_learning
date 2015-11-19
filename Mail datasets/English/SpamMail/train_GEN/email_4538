@@ -1,0 +1,27 @@
+<message>
+<date> tue, 4 mar 2003 14:06:35 +0000 (gmt) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : language practicals -- evaluation 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_embedded> 
+
+^ 
+^ &num for evaluation , please exclude questions that are not parsed . 
+</text_embedded>
+<text_normal> 
+
+^ &name , does this mean that the system should provide no output for these questions , i.e : 
+^ &num &num &num &num &num &num &num &num 
+^ if question &num does not have a parse structure . 
+^ thanks , 
+^ &name
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,80 @@
+<message>
+<date> sun, 16 feb 2003 13:53:14 +0000 </date>
+<to> ac.uk </to>
+<from> ac.uk </from>
+<subject>
+<text_normal> 
+
+^ testing 
+</text_normal>
+</subject>
+<content-type> multipart/alternative </content-type>
+<message_body>
+<part num="1" type="text/plain">
+<text_normal> 
+
+^ hi &name , i 've copied the code i 've written so far - the other mycomposite class was a mess . 
+^ i hope this is readable i can send it again as an attachment if you want . 
+^ after lectures on mon is a good time to meet . 
+^ see you tomorrow , &name 
+^ package test ; 
+^ import java.math.biginteger ; import java.math. * ; 
+^ * &email &name &name 
+^ * generating mycomposite objects which hold a composite number and its " prime factors . 
+^ * the argument passed to &name when it runs is how many mycomposites that are generated . 
+^ public class &name { 
+^ &name [ ] [ ] primes new &name [ &name [ &num ] ; / / number of test composites 
+^ public static void main ( string [ ] args ) &name &char new &name ( ) ; p. generatematrix ( ) ; &name ( 'matrix generated " ) ; p. &name ( ) ; &name ( " primes printed " ) ; / * int &char ( int) ( math.random ( ) * &num ) ; int &char ( int) ( math.random ( ) * &num ) ; &name ( " the random number is " + &char ) ; p. &name ( &char , &char ) ; int a &name ( args [ &num ] ) ; 
+^ &name ( " argument for number of composites is taken " ) ; / / create lists of composites and primes in mycomposite objects &name [ ] &name new mycomposite [ &char ] ; int &char &name ( args [ &num ] ) ; / / &char is the size of the to be composite number &name ( 'size of tobe composite is " &char ) ; p. createcomposites ( &char , &char ) ; &name ( " composites and their prime factors are created " ) ; p. printcomposites ( ) ; / / &name &name ( " finished " ) ; 
+^ } / / end main method 
+^ public void generatematrix ( ) 
+^ &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; &name [ ] &name { new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &num " ) , new &name ( " &name )} ; 
+^ / / initialises the matrix of primes for ( int &char &num ; &char ( &num ; i++ ) primes [ &name [ &char ] &name ; primes [ &name [ &char ] p10 [ &char ] ; primes [ &name [ &char ] p20 [ &char ] ; primes [ &name [ &char ] p30 [ &char ] ; primes [ &name [ &char ] p40 [ &char ] ; primes [ &name [ &char ] p50 [ &char ] ; primes [ &name [ &char ] p60 [ &char ] ; primes [ &name [ &char ] p70 [ &char ] ; primes [ &name [ &char ] p80 [ &char ] ; primes [ &name [ &char ] p90 [ &char ] ; primes [ &name [ &char ] p100 [ &char ] ; 
+^ } / / end method generatematrix 
+^ / / creates an array of random mycomposites public mycomposite [ ] &name ( int &char , int numberdigits ) / / &char is the sixe of mycomposite array &name ( " createcomposite methd has started " ) ; &name [ ] &name new mycomposite [ &char ] ; &name ( 'mycomposite array mca has been created " ) ; for ( int i0 ; &char ( l-1 ; i++ ) &name ( " entered for loop for &name at " + &char +'mycomposite " ) ; mycomposite mc new mycomposite ( ) ; &name ( " instance of mycomposite created " ) ; / / int numberdigits ( int) ( math.random ( ) * &num ) ; int index &num ; &name ( " numberdigits " + &name ) ; int remainingdigits numberdigits ; int &char mc.getlength ( ) ; 
+^ &name ( " jumping to &name ( ) method in mycomposite object " ) ; &name ( " value of &name ( ) sent to primes.java is " + &char ) ; while ( &char ( &name ) &website.print ( " entered while loop " ) ; 
+^ int &char ( int) ( math.random ( ) * &num ) ; int &char ( int) ( math.random ( ) * &num ) ; &name rp &name ( &char , &char ) ; &name ( " rp " + rp ) ; int &name &name ( rp ) ; &name ( " &name " + &name ) ; if ( &name ( &name ) &name ( &name - &name ) ; mc.setprimefactors ( rp , index ) ; mc.setcomposite ( ) ; index + &num ; &char mc.getlength ( ) ; mc.setcomposite ( ) ; &name [ &char ] mc ; 
+^ return &name ; 
+^ public int getlength ( &name digits ) int length digits.tostring ( ).length ( ) ; return length ; } / / end method getlength 
+^ public void printcomposites ( ) 
+^ public void &name ( ) for ( int &char &num ; &char ( &num ; k++ ) for ( int j0;j ( &num ; j++ ) &name ( primes [ k] [ &char ].tostring ( ) ) ; 
+^ } / / end &name 
+^ public &name &name ( int &char , int &char ) &name &name primes [ x] [ &char ] ; &name ( " the random prime is " + &name ) ; return &name ; } / / end &name 
+^ } / / end class primes 
+</text_normal>
+</part>
+<part num="2" type="text/html">
+<text_normal> 
+
+^ hi &name , i 've copied the code i 've written so far - the other mycomposite class was a mess . 
+^ i hope this is readable i can send it again as an attachment if you want . 
+^ after lectures on mon is a good time to meet . 
+^ see you tomorrow , &name 
+^ package test ; 
+^ import java.math.biginteger ; import java.math. * ; 
+^ * &email &name &name 
+^ * generating mycomposite objects which hold a composite number and its " prime factors . 
+^ * the argument passed to &name when it runs is how many mycomposites that are generated . 
+^ public class &name { 
+^ &name [ ] [ ] primes &num new &name [ &name [ &num ] ; / / number of test composites 
+^ public static void main ( string [ ] args ) &name &char &num new &name ( ) ; p. generatematrix ( ) ; &name ( &quot;matrix generated&quot;) ; p. &name ( ) ; &name ( &quot;primes printed&quot;) ; / * int &char &num ( int) ( math.random ( ) * &num ) ; int &char &num ( int) ( math.random ( ) * &num ) ; &name ( &quot;the random number is &quot; + &char ) ; p. &name ( &char , &char ) ; int a &num &name ( args [ &num ] ) ; 
+^ &name ( &quot;argument for number of composites is taken&quot;) ; / / create lists of composites and primes in mycomposite objects &name [ ] &name &num new mycomposite [ &char ] ; int &char &num &name ( args [ &num ] ) ; / / &char is the size of the to be composite number &name ( &quot;size of tobe composite is &quot; &char ) ; p. createcomposites ( &char , &char ) ; &name ( &quot;composites and their prime factors are created&quot;) ; p. printcomposites ( ) ; / / &name &name ( &quot;finished&quot;) ; 
+^ } / / end main method 
+^ public void generatematrix ( ) 
+^ &name [ ] p10 &num { new &name ( &quot;5915587277&quot;) , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name ; &name [ ] p20 &num { new &name ( &quot;48112959837082048697&quot;) , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name ; &name [ ] p30 &num { new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name ; &name [ ] p40 &num { new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &name , new &name ( &quot;5991810554633396517767024967580894321153&quot;) , new &name ( &name , new &name ( &name , new &name ( &name ; &name [ ] p50 &num { new &name ( &name &name , new &name ( &name &name , new &name ( &name quot ; ) , new &name ( &name quot ; ) , new &name ( &name quot ; ) , new &name ( &name quot ; ) , new &name ( &name quot ; ) , new &name ( &name &name , new &name ( &name &name , new &name ( &name quot;)} ; &name [ ] p60 &num { new &name ( &name 055290461&quot;) , new &name ( &name 547171387&quot;) , new &name ( &name 629001851&quot;) , new &name ( &name 952484113&quot;) , new &name ( &name &name , new &name ( &name 237944587&quot;) , new &name ( &name 634086219&quot;) , new &name ( &name 016651289&quot;) , new &name ( &name 778834807&quot;) , new &name ( &name &name ; &name [ ] p70 &num { new &name ( &name &name , new &name ( &name &name , new &name ( &name 6376269177305066867&quot;) , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name 6702222280384917551&quot;) , new &name ( &name &name ; &name [ ] p80 &num { new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name ; &name [ ] p90 &num { new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name 852546715913135688434614731717844868261&quot;) , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name ; &name [ ] p100 &num { new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name , new &name ( &name &name ; 
+^ / / initialises the matrix of primes for ( int &char &num &num ; &char ( &num ; i++ ) primes [ &name [ &char ] &num &name ; primes [ &name [ &char ] &num p10 [ &char ] ; primes [ &name [ &char ] &num p20 [ &char ] ; primes [ &name [ &char ] &num p30 [ &char ] ; primes [ &name [ &char ] &num p40 [ &char ] ; primes [ &name [ &char ] &num p50 [ &char ] ; primes [ &name [ &char ] &num p60 [ &char ] ; primes [ &name [ &char ] &num p70 [ &char ] ; primes [ &name [ &char ] &num p80 [ &char ] ; primes [ &name [ &char ] &num p90 [ &char ] ; primes [ &name [ &char ] &num p100 [ &char ] ; 
+^ } / / end method generatematrix 
+^ / / creates an array of random mycomposites public mycomposite [ ] &name ( int &char , int numberdigits ) / / &char is the sixe of mycomposite array &name ( &quot;createcomposite methd has started&quot;) ; &name [ ] &name &num new mycomposite [ &char ] ; &name ( &quot;mycomposite array mca has been created&quot;) ; for ( int i3d0 ; &char ( l-1 ; i++ ) &name ( &quot;entered for loop for &name at &quot; + &char +&quot;mycomposite&quot;) ; mycomposite mc &num new mycomposite ( ) ; &name ( &quot;instance of mycomposite created&quot;) ; / / int numberdigits &num ( int) ( math.random ( ) * &num ) ; int index &num &num ; &name ( &quot;numberdigits &num &quot; + &name ) ; int remainingdigits &num numberdigits ; int &char &num mc.getlength ( ) ; 
+^ &name ( &quot;jumping to &name ( ) method in &name object&quot;) ; &name ( &quot;value of &name ( ) sent to primes.java is &num &quot; + &char ) ; while ( &char ( &name ) &website.print ( &q uot;entered while loop&quot;) ; 
+^ int &char &num ( int) ( math.random ( ) * &num ) ; int &char &num ( int) ( math.random ( ) * &num ) ; &name rp &num &name ( &char , &char ) ; &name ( &quot;rp &num &quot; + rp ) ; int rpl &num &name ( rp ) ; &name ( &quot;rpl &num &quot; + &name ) ; if ( &name ( &name ) &name &num ( &name - &name ) ; mc.setprimefactors ( rp , index ) ; mc.setcomposite ( ) ; index &num &num ; &char &num mc.getlength ( ) ; mc.setcomposite ( ) ; &name [ &char ] &num mc ; 
+^ return &name ; 
+^ public int getlength ( &name digits ) int length &num digits.tostring ( ).length ( ) ; return length ; } / / end method getlength 
+^ public void printcomposites ( ) 
+^ public void &name ( ) for ( int &char 3d0 ; &char ( &num ; k++ ) for ( int j3d0;j ( &num ; j++ ) &name ( primes [ k] [ &char ].tostring ( ) ) ; 
+^ } / / end &name 
+^ public &name &name ( int &char , int &char ) &name &name &num primes [ x] [ &char ] ; &name ( &quot;the random prime is &quot; + &name ) ; return &name ; } / / end &name 
+^ } / / end class primes 
+</text_normal>
+</part>
+</message_body>
+</message>

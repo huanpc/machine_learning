@@ -1,0 +1,37 @@
+<message>
+<date> sat, 05 apr 2003 18:30:00 +0900 </date>
+<from> co.kr </from>
+<subject>
+<text_normal> 
+
+^ ( &name ) &name &name &name 
+</text_normal>
+</subject>
+<content-type> text/html; charset=ks_c_5601-1987 </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ ( ) . 
+^ &pound; . 
+^ . 
+^ ! ! 
+^ &pound; . 
+^ &name - &num - &num 
+^ &num &name ? ( &name &name &name &name ) 
+^ ( ) &name &pound; 
+^ &num , &num &name 
+^ &num &name : &name &num &num 
+^ &pound; . 
+^ &pound; 
+^ &name . 
+^ &num . 
+^ &name : &name &num ( &name up ) 
+^ , , &num 
+^ , &name &name 
+^ . 
+^ , 
+^ ( &char mailing 
+</text_normal>
+</message_body>
+</message>

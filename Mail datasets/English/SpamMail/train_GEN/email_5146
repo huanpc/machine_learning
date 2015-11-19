@@ -1,0 +1,28 @@
+<message>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : copies of &name and schuetze in library 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<date> mon, 12 may 2003 09:06:10 +0100 </date>
+<from> ac.uk </from>
+<message_body>
+<text_normal> 
+
+^ there are &num copies of that book in the library . 
+^ &num i can account for . 
+^ both are due back today . 
+^ no student to my knowledge has asked me to reserve a copy . 
+^ these books of course can be renewed if no one else requests them . 
+^ as to a reference copy , i 'm afraid that is not possible under the present circumstances . 
+^ where would i keep it ? 
+^ there is supposedly a reference section in the library , but those books go out of the library when i am not here . 
+^ if i kept a reference copy locked in my office space , then no one could use it if i were not here . 
+^ i am happy to order another copy if you think there is a need . 
+^ &name 
+</text_normal>
+</message_body>
+</message>

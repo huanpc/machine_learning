@@ -1,0 +1,47 @@
+<message>
+<date> fri, 23 may 2003 12:54:58 +0100 (bst) </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : &name 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=us-ascii </content-type>
+<message_body>
+<text_normal> 
+
+^ just built a unigram spam &name from 6m words ! 
+^ plenty more where that came from ... 
+^ &char 
+^ on &name , &num may &num , &name &name wrote : 
+</text_normal>
+<text_embedded> 
+
+^ hi , 
+^ re your &name question - how to get the probability out of a &name built using &name . 
+^ there appears to be a &char function around - though i have n't even seen it . 
+^ my estimates are that a class based &name of around &num mil words on a &name &name will take around half an hour to build and a tool called ladapt can be used to adapt it . 
+^ seems ok for your purpose except the c as opposed to &name for the function 
+^ later , &char 
+^ on &name , &num may &num , &name &name wrote : 
+<text_embedded> 
+
+^ hey &name , 
+<text_embedded> 
+
+^ any plans to watch matrix ? 
+</text_embedded>
+
+^ i have promised a friend from college that i 'll wait until she 's finished exams in a week 's time . 
+^ ca n't wait ! 
+^ &name .. &name . 
+^ we have just been playing &name , and i 'm pleased to say that it was another win for england ! ! ! 
+^ laters , 
+^ &char 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

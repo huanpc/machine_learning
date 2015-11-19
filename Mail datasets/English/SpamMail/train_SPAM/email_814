@@ -1,0 +1,26 @@
+<message>
+<date> mon, 24 mar 2003 02:16:54 -0600 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ 
+^ * * &name * * see your credit report for free 
+</text_normal>
+</subject>
+<content-type> text/html </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ see your credit report for free ! 
+^ click here you have received this message as a member of &name . 
+^ to unsubscribe , follow the links below . 
+^ please accept our apologies if you received this mail in error . 
+^ if you do not wish to receive future mail , &name here . 
+^ if you have a problem using the removal process , please call current mail at ( &num ) &num or submit your request to : 
+^ current mail , inc. &num &name &name . 
+^ highway &num &name &num &name , &name &num &name 
+</text_normal>
+</message_body>
+</message>

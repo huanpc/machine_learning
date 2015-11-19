@@ -1,0 +1,26 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ &name i found you ! 
+^ &num 
+</text_normal>
+</subject>
+<date> fri, 4 apr 2003 15:45:35 +0200  </date>
+<content-type> text/plain </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ we have been hired to contact you 
+^ because someone you know is interested in you . 
+^ please follow the link below to find out who it is . 
+^ ( &website &num ) who is it ? 
+^ ghhg 
+^ ( &website ) this message is not meant for residents in the state of wa , &name , ca & va . 
+^ screening of addresses has been done to the best of our technical ability . 
+^ you are currently subscribed to receive our special-offers to stop receiving our newsletter follow this link 
+</text_normal>
+</message_body>
+</message>

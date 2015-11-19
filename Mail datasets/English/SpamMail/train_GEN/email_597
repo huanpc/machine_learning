@@ -1,0 +1,48 @@
+<message>
+<date> tue, 06 nov 2001 18:56:10 +0000 </date>
+<from> ac.uk </from>
+<to> ac.uk </to>
+<subject>
+<text_normal> 
+
+^ re : payment for meal last friday 
+</text_normal>
+</subject>
+<content-type> text/plain; charset=iso-8859-1 </content-type>
+<message_body>
+<text_normal> 
+
+^ dear &name , 
+^ i assume the " of " is meant to be " to " ... 
+^ " i am not sacred to either &name or time " ? 
+^ this raises interesting questions . 
+^ if you do n't want to pay , fine . 
+^ i do n't mind . 
+^ let your ( ahem ) conscience deal with it . 
+^ &name 
+^ " &name &name " wrote : 
+</text_normal>
+<text_embedded> 
+
+^ unfortunately i am not sacred of either &name or time ( they are wimps ) and so will never be paying . 
+^ your ever . 
+^ &name x 
+^ &name wrote : 
+<text_embedded> 
+
+^ dear all , 
+^ thank you for coming last friday evening . 
+^ i hope you all had an enjoyable time . 
+^ the total cost of the meal was &pound; &num , and that is to be divided between &num . 
+^ therefore everyone oews me &pound; &num . 
+^ cheques should be made payable to &char &char &name . 
+^ i do not take switch as yet ; unfortunately . 
+^ &name is also perfectly acceptable . 
+^ do not feel required to settle this account until the end of the summer term , when i shall come knocking on your door with &num large bodyguards ( &name and &name ) . 
+^ anyway , i think that 's all . 
+^ &name 
+</text_embedded>
+
+</text_embedded>
+</message_body>
+</message>

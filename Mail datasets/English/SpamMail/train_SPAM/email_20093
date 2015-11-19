@@ -1,0 +1,18 @@
+<message>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ stop smoking now and save &num 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<date> sun, 6 apr 2003 01:19:21 -0500 </date>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ to be removed reply to this with remove in the subject line 
+</text_normal>
+</message_body>
+</message>

@@ -1,0 +1,24 @@
+<message>
+<date> wed, 09 apr 2003 00:35:35 -0400 </date>
+<from> com </from>
+<subject>
+<text_normal> 
+
+^ my schedule - 
+</text_normal>
+</subject>
+<content-type> text/html; charset="iso-8859-1" </content-type>
+<to> org </to>
+<message_body>
+<text_normal> 
+
+^ &name &name morning , 
+^ just wanted to let you know that i will be out of the office from wednesday , april 9th through wednesday april 16th . 
+^ if you need to reach me in the meantime , you can find me . 
+^ - &name 
+^ no &name policy : you are receiving this because you have subscribed to receive information on new trial offers and special deals . 
+^ we abide by &char ' no &name ' policy . 
+^ unsubscribe instructions : if you no longer wish to receive this newsletter , please unsubscribe by clicking on the following link : ( &char 
+</text_normal>
+</message_body>
+</message>
