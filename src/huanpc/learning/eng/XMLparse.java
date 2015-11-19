@@ -21,35 +21,36 @@ import java.io.File;
 
 public class XMLparse {
 	public static boolean need_stadardlize_xml = true;
-	public static void main(String[] args) {
-	    try {
-
-		File file = new File("./Code Project/Mail datasets/English/SpamMail/test_SPAM/email_5");
-
-		DocumentBuilder dBuilder = DocumentBuilderFactory.newInstance()
-	                             .newDocumentBuilder();
-		
-		Document doc = dBuilder.parse(preprocessXml(file));
-		doc.getDocumentElement().normalize();
-		System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
-
-		if (doc.hasChildNodes()) {
-			NodeList nList  = doc.getElementsByTagName("message_body");
-			for (int temp = 0; temp < nList.getLength(); temp++) {
-				Node nNode = nList.item(temp);															
-				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
-					Element eElement = (Element) nNode;
-//					Element e = (Element)eElement.getElementsByTagName("text_normal");					
-					System.out.println(eElement.getElementsByTagName("text_normal").item(0).getTextContent());
-				}
-			}
-		}
-
-	    } catch (Exception e) {
-		System.out.println(e.getMessage());
-	    }
-
-	  }
+	
+//	public static void main(String[] args) {
+//	    try {
+//
+//		File file = new File("./Code Project/Mail datasets/English/SpamMail/test_SPAM/email_5");
+//
+//		DocumentBuilder dBuilder = DocumentBuilderFactory.newInstance()
+//	                             .newDocumentBuilder();
+//		
+//		Document doc = dBuilder.parse(preprocessXml(file));
+//		doc.getDocumentElement().normalize();
+//		System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
+//
+//		if (doc.hasChildNodes()) {
+//			NodeList nList  = doc.getElementsByTagName("message_body");
+//			for (int temp = 0; temp < nList.getLength(); temp++) {
+//				Node nNode = nList.item(temp);															
+//				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
+//					Element eElement = (Element) nNode;
+////					Element e = (Element)eElement.getElementsByTagName("text_normal");					
+//					System.out.println(eElement.getElementsByTagName("text_normal").item(0).getTextContent());
+//				}
+//			}
+//		}
+//
+//	    } catch (Exception e) {
+//		System.out.println(e.getMessage());
+//	    }
+//
+//	  }
 	public String getTextBody(File file){
 		String text = "";
 		try {
@@ -82,7 +83,8 @@ public class XMLparse {
 			}
 
 		    } catch (Exception e) {
-			System.out.println(e.getMessage());
+			System.out.println(e.getMessage()+"----------------------");
+			return "";
 		    }
 		return text;
 	}
@@ -103,7 +105,7 @@ public class XMLparse {
 //				}
 				tm = tm.replaceAll("&[A-Za-z]", " ");
 				tm = tm.replaceAll("!", " ");
-				tm = tm.replaceAll("^", " ");
+//				tm = tm.replaceAll("^", " ");
 				bw.append(tm);
 			}
 			br.close();

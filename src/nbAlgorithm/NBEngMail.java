@@ -112,39 +112,48 @@ public class NBEngMail {
 		LearningWord learningWord = new LearningWord(NEAD_REMOVED_HEADER,table,new String []{spamDir,hamDir});
 		String condition = this.condition;
 		keyWords = learningWord.getKeyWordsFromDB(table, condition);
-//		keyWords = new KeyWords(LearningWord.listSpamWord.size());
 		int i = 0;
-//		for(WordObject wO : LearningWord.listSpamWord){
-//			 keyWords.setData(i, wO.word, wO.spam_mail, wO.ham_mail, wO.spam_frequent, wO.ham_frequent);
-//			 i++;
-//			 sumHamFre += wO.ham_frequent;
-//			 sumSpamFre += wO.spam_frequent;
-//		}		
 		// test spam
 		File dir = new File(spamDir);
 		File[] subFile = dir.listFiles();
 //		int size = subFile.length;
-		int size = 10;
+		int size = 200;
 		double numSpam = 0;
 		XMLparse parse = new XMLparse();
 		parse.need_stadardlize_xml = true;
-		for (int j=0;j<size;j++) {
-			if (nbEng2(LearningWord.getTokens(LearningWord.processMail(parse.getTextBody(subFile[j])), true)) == true)
-				numSpam++;
-			System.out.println(numSpam);
+		int j = 0;
+		int n = 0;
+		while(n<size){
+			ArrayList<WordObject> list = LearningWord.getTokens(LearningWord.processMail(parse.getTextBody(subFile[j])), true);
+			if(list!=null&&list.size()>5){
+				if (nbEng2(list) == true)
+					numSpam++;
+				n++;
+				System.out.println(n);
+			}			
+			j++;
+			
 		}
 		double a = numSpam / size;
 		// test ham
 		dir = new File(hamDir);
 		subFile = dir.listFiles();
 		double numHam = 0;
-//		size = subFile.length;
-		size = 10;
-		int j=0;
-		for (j=0;j<size;j++) {
-			if (nbEng2(LearningWord.getTokens(LearningWord.processMail(parse.getTextBody(subFile[j])), false)) == false)
+//		size = subFile.length;		
+		j = 0;
+		n = 0;
+		while(n<size){
+			ArrayList<WordObject> list = LearningWord.getTokens(LearningWord.processMail(parse.getTextBody(subFile[j])), false);
+			if(list!=null&&list.size()>5){
+				if (nbEng2(list) == false)
+					numHam++;
+				n++;
+				System.out.println(n);
+			}else if(list!=null&&list.size()<5){
 				numHam++;
-			System.out.println(numHam);
+				n++;
+			}			
+			j++;			
 		}
 		double b = numHam / size;
 		System.out.println("\n Spam:" + String.valueOf(a) + " Ham:"
@@ -251,21 +260,23 @@ public class NBEngMail {
 				 }
 //				pSpam = (spamFre + 1) / (sumSpamFre + keyWords.getLenght());
 //				pHam = (hamFre + 1) / (sumHamFre + keyWords.getLenght());
-				spam = spam + Math.log(pSpam);
-				ham = ham + Math.log(pHam);
-			}else{
-				pHam = 1/(double)keyWords.getLenght();
-				pSpam = 1/(double)keyWords.getLenght();
+				
 				spam = spam + Math.log(pSpam);
 				ham = ham + Math.log(pHam);
 			}
+//			else{
+//				pHam = 1/(double)keyWords.getLenght();
+//				pSpam = 1/(double)keyWords.getLenght();
+//				spam = spam + Math.log(pSpam);
+//				ham = ham + Math.log(pHam);
+//			}
 		}
 		Double s = new Double(spam);
 		Double h = new Double(ham);
 		System.out.println("xac suat hau nghiem spam: " + s.toString());
 		System.out.println("xac suat hau nghiem ham: " + h.toString());
 		n++;
-		if (s.compareTo(h) > 0) {
+		if (s.compareTo(h+3) > 0) {
 //			if (n >= 360) {
 //				alpha += s.doubleValue() - h.doubleValue();
 //				beta++;

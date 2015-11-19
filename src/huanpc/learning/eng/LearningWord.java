@@ -428,6 +428,8 @@ public class LearningWord {
 	 */
 	public static ArrayList<WordObject> getTokens(ArrayList<String> listWord,
 			boolean isSpam) {
+		if(listWord==null)
+			return null;
 		ArrayList<WordObject> tokens = new ArrayList<WordObject>();
 		ArrayList<String> words = new ArrayList<String>();
 		ArrayList<Integer> frequents = new ArrayList<Integer>();
@@ -514,6 +516,8 @@ public class LearningWord {
 	 * @return
 	 */
 	public static ArrayList<String> processMail(String textInput) {
+		if(textInput == "")
+			return null;
 		String text = Jsoup.parse(textInput).text();
 		text = text.replaceAll("[^A-Za-z ]", "");
 		ArrayList<String> listWord = new ArrayList<String>();
