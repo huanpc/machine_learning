@@ -14,8 +14,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Hashtable;
 
-import javafx.scene.control.Tab;
-
 import org.jsoup.Jsoup;
 
 import com.mysql.jdbc.Connection;
@@ -38,11 +36,6 @@ public class LearningWord {
 	static Connection connection = null;
 	static String table = "";
 	public static String data_learn[]=null;			
-//	public static ArrayList<WordObject> listSpamWord = new ArrayList<WordObject>();
-//	public static ArrayList<String> listWord = new ArrayList<String>();
-//	public static ArrayList<Integer> listSpamFre = new ArrayList<Integer>();
-//	public static ArrayList<Integer> listHamFre = new ArrayList<Integer>();
-//	static ArrayList<WordObject> listHamWord = new ArrayList<WordObject>();
 	/**
 	 * 
 	 * @param flag
@@ -61,36 +54,36 @@ public class LearningWord {
 	 *            : duong dan file mail
 	 * @return
 	 */
-//	public static String preprocessMail(String filePath) {
-//		Boolean meetBodyLine = false;
-//		StringBuilder lines = new StringBuilder();
-//		try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
-//			String line;
-//			// remove mail header
-//			while ((line = br.readLine()) != null) {
-//				if (NEED_REMOVE_HEADER) {
-//					if (line.equals("")) {
-//						meetBodyLine = true;
-//						continue;
-//					}
-//					if (meetBodyLine == true) {
-//						lines.append(" " + line);
-//					}
-//				} else {
-//					lines.append(" " + line);
-//				}
-//			}
-//			br.close();
-//		} catch (IOException e) {
-//
-//		}
-//		// remove HTML tag and special character
-//
+	public static String preprocessMail(String filePath) {
+		Boolean meetBodyLine = false;
+		StringBuilder lines = new StringBuilder();
+		try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+			String line;
+			// remove mail header
+			while ((line = br.readLine()) != null) {
+				if (NEED_REMOVE_HEADER) {
+					if (line.equals("")) {
+						meetBodyLine = true;
+						continue;
+					}
+					if (meetBodyLine == true) {
+						lines.append(" " + line);
+					}
+				} else {
+					lines.append(" " + line);
+				}
+			}
+			br.close();
+		} catch (IOException e) {
+
+		}
+		// remove HTML tag and special character
+
 //		String text = Jsoup.parse(lines.toString()).text();
 //		text = text.replaceAll("[^A-Za-z ]", "");
-//		return text;
-//
-//	}
+		return lines.toString();
+
+	}
 
 	/**
 	 * Ket noi database
@@ -317,23 +310,39 @@ public class LearningWord {
 		XMLparse parse = new XMLparse();
 		parse.need_stadardlize_xml = false;
 		float index = 0;
-		for (int i = 0;i<numOfSpamMail;i++) {
+		int i = 0;
+		int j = 0;
+		while(j<numOfSpamMail) {			
+			String text = parse.getTextBody(listSpamFile[i]);
+			if(text==null){
+				i++;
+				continue;
+			}				
+			learnSpamMail(getTokens(processMail2(text), true));
 			index++;
-//			addWordToList(getTokens(processMail(parse.getTextBody(listSpamFile[i])), true), true);
-			learnSpamMail(getTokens(processMail(parse.getTextBody(listSpamFile[i])), true));
+			j++;
+			i++;
+			System.out.println("Mail: "+j);
 			System.out.println("Learning progress .... " + index * 100
 					/ (numOfHamMail + numOfSpamMail));
 		}
-//		learnSpamMail(listSpamWord);
 		System.out.println("Learning ham mail!");
-		for (int i = 0;i<numOfHamMail;i++) {
+		j= 0;
+		i = 0;
+		while(j<numOfHamMail) {			
+			String text = parse.getTextBody(listHamFile[i]);
+			if(text==null){
+				i++;
+				continue;
+			}				
+			learnHamMail(getTokens(processMail2(text), false));
 			index++;
-			learnHamMail(getTokens(processMail(parse.getTextBody(listHamFile[i])), false));
-//			addWordToList(getTokens(processMail(parse.getTextBody(listHamFile[i])), false), false);
+			j++;
+			i++;
+			System.out.println("Mail: "+j);
 			System.out.println("Learning progress .... " + index * 100
 					/ (numOfHamMail + numOfSpamMail));
 		}
-//		learnHamMail(listHamWord);
 		System.out.println("DONE!!!");
 		System.out.println("Number of Ham email: " + numOfHamMail
 				+ " Number of Spam email: " + numOfSpamMail);
@@ -371,53 +380,6 @@ public class LearningWord {
 			}
 		}
 	}
-//	public static void addWordToList(ArrayList<WordObject> list, boolean isSpam){
-//		if(isSpam){
-//			for (WordObject word : list) {
-//				if(listWord.contains(word.word)){
-//					int i = listWord.indexOf(word);
-////					WordObject temp = listSpamWord.get(i);
-////					temp.spam_frequent+=word.spam_frequent;
-////					temp.spam_mail+=1;
-////					listSpamWord.set(i, temp);
-//					listSpamFre.set(i, listSpamFre.get(i).intValue()+word.spam_frequent);
-//					listHamFre.set(i, 0);
-//				}else{
-//					listWord.add(word.word);
-//					listSpamFre.add(1);
-//					listHamFre.add(0);
-//				}
-//			}
-//		}else{
-////			for (WordObject word : listWord) {
-////				if(listHamWord.contains(word)){
-////					int i = listHamWord.indexOf(word);
-////					WordObject temp = listHamWord.get(i);
-////					temp.ham_frequent+=word.ham_frequent;
-////					temp.ham_mail+=1;
-////					listHamWord.set(i, temp);
-////				}else{
-////					listHamWord.add(word);
-////				}
-////			}
-//			for (WordObject word : list) {
-//				if(listWord.contains(word.word)){
-//					int i = listWord.indexOf(word);
-////					WordObject temp = listSpamWord.get(i);
-////					temp.spam_frequent+=word.spam_frequent;
-////					temp.spam_mail+=1;
-////					listSpamWord.set(i, temp);
-////					listSpamFre.set(i, listSpamFre.get(i).intValue()+word.spam_frequent);
-//					listHamFre.set(i, listHamFre.get(i).intValue()+word.ham_frequent);
-//				}else{
-//					listWord.add(word.word);
-//					listSpamFre.add(0);
-//					listHamFre.add(1);
-//				}
-//			}
-//		}
-//		
-//	}
 
 	/**
 	 * Lấy ra token cùng với tần suất xuất hiện trong 1 văn bản
@@ -428,8 +390,6 @@ public class LearningWord {
 	 */
 	public static ArrayList<WordObject> getTokens(ArrayList<String> listWord,
 			boolean isSpam) {
-		if(listWord==null)
-			return null;
 		ArrayList<WordObject> tokens = new ArrayList<WordObject>();
 		ArrayList<String> words = new ArrayList<String>();
 		ArrayList<Integer> frequents = new ArrayList<Integer>();
@@ -493,8 +453,8 @@ public class LearningWord {
 	 * @param filePath
 	 * @return
 	 */
-//	public static ArrayList<String> processMail(String filePath) {
-//		ArrayList<String> listWord = new ArrayList<String>();
+	public static ArrayList<String> processMail(String filePath) {
+		ArrayList<String> listWord = new ArrayList<String>();
 //		PTBTokenizer<CoreLabel> ptbt;
 //		ptbt = new PTBTokenizer<>(new StringReader(preprocessMail(filePath)),
 //				new CoreLabelTokenFactory(), "");
@@ -508,35 +468,31 @@ public class LearningWord {
 //			word = standardlize(word);
 //			listWord.add(word);
 //		}
-//		return listWord;
-//	}
+		String text = Jsoup.parse(preprocessMail(filePath)).text();
+		text = text.replaceAll("[^A-Za-z ]", "");
+		StopWord sw = new StopWord();		
+		ArrayList<String> t = sw.letterStopWords(text, false);
+		for(String w : t){
+			if (w.length() > 45)
+				continue;
+			listWord.add(standardlize(w));
+		}
+		return listWord;
+	}
 	/**
 	 * Trả về tập từ đã tách được trong 1 mail
 	 * @param textInput
 	 * @return
 	 */
-	public static ArrayList<String> processMail(String textInput) {
-		if(textInput == "")
-			return null;
+	public static ArrayList<String> processMail2(String textInput) {
 		String text = Jsoup.parse(textInput).text();
 		text = text.replaceAll("[^A-Za-z ]", "");
 		ArrayList<String> listWord = new ArrayList<String>();
-//		PTBTokenizer<CoreLabel> ptbt;
-//		ptbt = new PTBTokenizer<>(new StringReader(text),
-//				new CoreLabelTokenFactory(), "");
-//		while (ptbt.hasNext()) {
-//			CoreLabel label = ptbt.next();
-//			String word = label.toString().toLowerCase();
-//			if (word.startsWith("http"))
-//				word = "http";
-//			if (word.length() > 45)
-//				continue;
-//			word = standardlize(word);
-//			
-//		}
 		StopWord sw = new StopWord();		
 		ArrayList<String> t = sw.letterStopWords(text, false);
 		for(String w : t){
+			if (w.length() > 15)
+				continue;
 			listWord.add(standardlize(w));
 		}
 		return listWord;

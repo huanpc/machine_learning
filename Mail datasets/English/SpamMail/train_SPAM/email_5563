@@ -1,18 +1,0 @@
-<message>
-<from> com </from>
-<subject>
-<text_normal> 
-
-^ your turn &char 
-</text_normal>
-</subject>
-<date> tue, 25 mar 2003 20:30:34 -0500 </date>
-<content-type> text/html </content-type>
-<to> org </to>
-<message_body>
-<text_normal> 
-
-^ 3 s e' &char ! 
-</text_normal>
-</message_body>
-</message>

@@ -1,7 +1,0 @@
-sau khi nghe thầy hướng_dẫn các việc cần làm
-e có ý_tưởng thực_hiện project
-với game pacman trên nền ngôn_ngữ java ạ
-pacman là
-game kinh_điển đã khá quen_thuộc với mọi người
-gameplay cũng khá đơn_giản
-vì_vậy mong thầy có_thể hướng_dẫn và góp_ý thêm cho e ạ

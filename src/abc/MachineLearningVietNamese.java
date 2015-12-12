@@ -27,15 +27,16 @@ import vn.hus.nlp.tokenizer.VietTokenizer;
  */
 public class MachineLearningVietNamese {
     public static boolean NEED_REMOVE_HEADER = false;
-    public String inputDir = "inputMail";
-    public String inputDirSpam = "inputMailSpam";
+    public String inputDir = "inputMail";// tập mail thường
+    public String inputDirSpam = "inputMailSpam";// tập mail spam
     public String outputDir = "outputMail";
     public String outputDirSpam = "outputMailSpam";
-    public String inputStopWords = "vnstopword.txt";
+    public String inputStopWords = "vnstopword.txt";// tập từ dừng
+    public File tmpFile = new File("default.txt");
     public static String ClassName = "com.mysql.jdbc.Driver";
     public static String Url = "jdbc:mysql://localhost:3306/machine_learning?characterEncoding=utf8";
-    public static String User = "huanpc";
-    public static String Pass = "12345678";
+    public static String User = "root";
+    public static String Pass = "";
     public static String tableName = "learning_vietnamese_words";
     public static Connection conn;
     public static void main(String[] args) throws FileNotFoundException, IOException {
@@ -52,31 +53,38 @@ public class MachineLearningVietNamese {
         
 //        result.makeLearningDataset();
 
-        File f = new File("testFile.txt");
+        File f = new File("C:\\Users\\duylx\\Documents\\NetBeansProjects\\MachineLearning\\Mail datasets\\VietNamese\\test_HAM\\2.txt");
         String[] outputString = result.getStringFromFile(f);
         for(int i = 0;i<outputString.length;i++){
             System.out.println(i+" = "+outputString[i]);
         }
     }
+	//đầu vào: File() đầu ra: mảng String
     public String[] getStringFromFile(File f) throws FileNotFoundException{
         File fStop = new File(this.inputStopWords);
-        String pre = getStringMail(f.getAbsolutePath());
         VietTokenizer tokenizer = new VietTokenizer();
-        String[] listString = tokenizer.tokenize(pre);
+        tokenizer.tokenize(f.getAbsolutePath(),this.tmpFile.getAbsolutePath());
+        String[] listString = new String[1];
+            listString[0] = getStringMail(this.tmpFile.getAbsolutePath());
         String[] listWords = getListWords(listString);
         String[] listStopWords = getListStopWords(fStop);
         String[] resultString = getKeyWords(listWords, listString, listStopWords);
         return resultString;
     }
+	/**
+	* tao bo hoc tieng viet
+	**/
     public void makeLearningDataset() throws FileNotFoundException, IOException{
-        this.preprocessMail(this.inputDir);
-        this.preprocessMail(this.inputDirSpam);
+        
         
         VietTokenizer avc = new VietTokenizer();        
         
         avc.tokenizeDirectory(this.inputDirSpam, this.outputDirSpam);
         avc.tokenizeDirectory(this.inputDir, this.outputDir);
         
+	this.preprocessMail(this.inputDir);
+        this.preprocessMail(this.inputDirSpam);
+		
         File f = new File(this.outputDir);
         File fSpam = new File(this.outputDirSpam);
         File fStop = new File(this.inputStopWords);
@@ -97,7 +105,7 @@ public class MachineLearningVietNamese {
         }
         float[] pHam = new float[keyWords.length];
         float[] pSpam = new float[keyWords.length];
-        insertRecord(tableName, keyWords, numberOfMail, numberOfFrequent, numberOfMailSpam, numberOfFrequentSpam, pHam, pSpam);
+//        insertRecord(tableName, keyWords, numberOfMail, numberOfFrequent, numberOfMailSpam, numberOfFrequentSpam, pHam, pSpam);
     }
     public static void insertRecord(String tableName,String[] keyWords, int[] numberOfMail,int[] numberOfFrequent,
                 int[] numberOfMailSpam,int[] numberOfFrequentSpam,
@@ -183,7 +191,7 @@ public class MachineLearningVietNamese {
             k = 0;
             while(st.hasMoreTokens()){
                 String tmp = st.nextToken();
-                if((isKeyWords(tmp, listKeyWords) == true) && (isStopWords(tmp, listStopWords) == false)){
+                if((isKeyWords(tmp, listKeyWords) == true) && (isStopWords(tmp, listStopWords) == false) &&(tmp.length() >= 3)){
                     listKeyWords[keyWordsIndex] = tmp;
                     keyWordsIndex++;
                 }
@@ -222,8 +230,11 @@ public class MachineLearningVietNamese {
             StringTokenizer st = new StringTokenizer(listString[j]," ");
             k = 0;
             while(st.hasMoreTokens()){
-                listWords[l] = st.nextToken();
-                l++;
+                String tmp = st.nextToken();
+                if(tmp.length() >=3 ){
+                    listWords[l] = tmp;
+                    l++;
+                }
             }
         }
         return listWords;

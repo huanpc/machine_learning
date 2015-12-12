@@ -1,18 +1,0 @@
-<message>
-<subject>
-<text_normal> 
-
-^ &name 
-</text_normal>
-</subject>
-<from> net </from>
-<date> sun, 2332003 12:42:52 -1000 (hst) </date>
-<content-type> text/html; charset="iso-8859-1" </content-type>
-<to> org </to>
-<message_body>
-<text_normal> 
-
-^ 3  , 
-</text_normal>
-</message_body>
-</message>

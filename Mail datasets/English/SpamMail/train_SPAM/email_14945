@@ -1,18 +1,0 @@
-<message>
-<from> org </from>
-<subject>
-<text_normal> 
-
-^ &name 
-</text_normal>
-</subject>
-<date> wed, 242003 16:18:59 -0600 (mdt) </date>
-<content-type> text/html; charset="iso-8859-1" </content-type>
-<to> org </to>
-<message_body>
-<text_normal> 
-
-^ 3(   &name &name 'd p 
-</text_normal>
-</message_body>
-</message>
