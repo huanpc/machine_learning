@@ -1,6 +1,6 @@
-# Machine learning
-## BTL học máy
+# Machine Learning Practise Assignment
 
-### Đề tài:
- *Xây dựng bộ lọc thư rác song ngữ Anh Việt*
+### Concept
+  
+  A mail filter system. A mail input with content will be label as normal or spam.
 
